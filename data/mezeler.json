@@ -7,7 +7,7 @@
     "prepTimeMinutes": 15,
     "cookTimeMinutes": 0,
     "servings": 4,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/meze_01.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/haydari.webp",
     "description": "A classic, refreshing Turkish dip made with thick strained yogurt, crumbled white cheese, garlic, and fresh dill.",
     "ingredients": [
       {
@@ -85,7 +85,7 @@
     "prepTimeMinutes": 15,
     "cookTimeMinutes": 5,
     "servings": 4,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/meze_02.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/tereyagli-humus.webp",
     "description": "Velvety smooth chickpea dip enriched with tahini and lemon juice, crowned with warm foaming butter and cumin.",
     "ingredients": [
       {
@@ -179,7 +179,7 @@
     "prepTimeMinutes": 20,
     "cookTimeMinutes": 25,
     "servings": 4,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/meze_03.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/saksuka.webp",
     "description": "Tender fried cubes of eggplant and green peppers enveloped in a rich, garlicky tomato reduction.",
     "ingredients": [
       {
@@ -270,7 +270,7 @@
     "prepTimeMinutes": 20,
     "cookTimeMinutes": 0,
     "servings": 4,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/meze_04.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/acili-ezme.webp",
     "description": "Finely minced fresh tomatoes, peppers, and parsley tossed with tangy pomegranate molasses and fiery Turkish red pepper flakes.",
     "ingredients": [
       {
@@ -372,7 +372,7 @@
     "prepTimeMinutes": 10,
     "cookTimeMinutes": 45,
     "servings": 6,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/meze_05.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/fava.webp",
     "description": "Silky Aegean spread of slow-cooked split fava beans scented with dill, olive oil, and sweet yellow onion.",
     "ingredients": [
       {
@@ -458,7 +458,7 @@
     "prepTimeMinutes": 10,
     "cookTimeMinutes": 5,
     "servings": 4,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/meze_06.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/atom-mezesi.webp",
     "description": "Cool, creamy strained garlic yogurt topped with sizzling hot butter infused with fiery whole dried red chilies.",
     "ingredients": [
       {
@@ -528,7 +528,7 @@
     "prepTimeMinutes": 15,
     "cookTimeMinutes": 30,
     "servings": 4,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/meze_07.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/koz-patlican-salatasi.webp",
     "description": "Fire-roasted eggplant flesh coarsely chopped and dressed simply with crushed garlic, fresh lemon juice, and fruity olive oil.",
     "ingredients": [
       {
@@ -606,7 +606,7 @@
     "prepTimeMinutes": 15,
     "cookTimeMinutes": 0,
     "servings": 6,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/meze_08.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/muhammara.webp",
     "description": "Rich Levantine-Turkish spread made with roasted sweet red peppers, crunchy toasted walnuts, breadcrumbs, and tart pomegranate molasses.",
     "ingredients": [
       {
@@ -700,7 +700,7 @@
     "prepTimeMinutes": 15,
     "cookTimeMinutes": 10,
     "servings": 4,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/meze_09.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/havuc-tarator.webp",
     "description": "Sweet coarsely grated carrots gently caramelized in olive oil and folded into thick garlic strained yogurt.",
     "ingredients": [
       {
@@ -778,7 +778,7 @@
     "prepTimeMinutes": 20,
     "cookTimeMinutes": 20,
     "servings": 6,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/meze_10.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/cerkez-tavugu.webp",
     "description": "Tender poached shredded chicken folded into a velvety, aromatic walnut, bread, and garlic paste finished with spiced paprika oil.",
     "ingredients": [
       {
@@ -872,7 +872,7 @@
     "prepTimeMinutes": 15,
     "cookTimeMinutes": 35,
     "servings": 4,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/meze_11.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/pancar-mezesi.webp",
     "description": "Vibrant magenta meze combining tender roasted beets, strained garlic yogurt, fresh lemon juice, and olive oil.",
     "ingredients": [
       {
@@ -950,7 +950,7 @@
     "prepTimeMinutes": 15,
     "cookTimeMinutes": 8,
     "servings": 4,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/meze_12.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/deniz-borulcesi.webp",
     "description": "Crisp Aegean sea beans blanched tender and dressed with zesty crushed garlic, fresh lemon, and cold-pressed olive oil.",
     "ingredients": [
       {
@@ -1012,7 +1012,7 @@
     "prepTimeMinutes": 15,
     "cookTimeMinutes": 0,
     "servings": 4,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/meze_13.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/piyaz.webp",
     "description": "Hearty white bean salad tossed with thinly sliced red onions, fresh parsley, sumac, and a bright lemon vinaigrette.",
     "ingredients": [
       {
@@ -1098,7 +1098,7 @@
     "prepTimeMinutes": 10,
     "cookTimeMinutes": 0,
     "servings": 4,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/meze_14.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/yogurtlu-semizotu.webp",
     "description": "Crisp, succulent purslane leaves folded into creamy strained garlic yogurt and drizzled with golden olive oil.",
     "ingredients": [
       {
@@ -1168,7 +1168,7 @@
     "prepTimeMinutes": 15,
     "cookTimeMinutes": 0,
     "servings": 4,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/meze_15.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/girit-ezmesi.webp",
     "description": "Cretan-style Turkish cheese spread of crumbled feta, crunchy walnuts, garlic, fresh dill, and olive oil whipped with yogurt.",
     "ingredients": [
       {

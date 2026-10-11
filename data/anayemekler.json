@@ -7,7 +7,7 @@
     "prepTimeMinutes": 20,
     "cookTimeMinutes": 45,
     "servings": 4,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/main_01.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/karniyarik.webp",
     "description": "Silky baked eggplants stuffed with a savory filling of spiced ground beef, sweet onions, garlic, and fresh parsley.",
     "ingredients": [
       {
@@ -135,7 +135,7 @@
     "prepTimeMinutes": 25,
     "cookTimeMinutes": 75,
     "servings": 4,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/main_02.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/hunkar-begendi.webp",
     "description": "Tender lamb stew served over a velvety roasted eggplant purée enriched with milk and cheese.",
     "ingredients": [
       {
@@ -255,7 +255,7 @@
     "prepTimeMinutes": 25,
     "cookTimeMinutes": 25,
     "servings": 4,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/main_03.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/iskender-kebap.webp",
     "description": "Thinly sliced seasoned beef over toasted pita, topped with tomato sauce, melted butter, and yogurt.",
     "ingredients": [
       {
@@ -359,7 +359,7 @@
     "prepTimeMinutes": 20,
     "cookTimeMinutes": 30,
     "servings": 4,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/main_04.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/ali-nazik.webp",
     "description": "Smoky eggplant blended with garlicky yogurt and topped with tender spiced lamb or beef.",
     "ingredients": [
       {
@@ -458,7 +458,7 @@
     "prepTimeMinutes": 20,
     "cookTimeMinutes": 15,
     "servings": 4,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/main_05.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/anne-koftesi.webp",
     "description": "Homestyle Turkish beef meatballs seasoned with onion, parsley, cumin, and breadcrumbs.",
     "ingredients": [
       {
@@ -552,7 +552,7 @@
     "prepTimeMinutes": 20,
     "cookTimeMinutes": 15,
     "servings": 4,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/main_06.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/tavuk-sis.webp",
     "description": "Juicy chicken cubes marinated with yogurt, lemon, paprika, and garlic, then grilled on skewers.",
     "ingredients": [
       {
@@ -646,7 +646,7 @@
     "prepTimeMinutes": 25,
     "cookTimeMinutes": 12,
     "servings": 4,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/main_07.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/adana-kebap.webp",
     "description": "Long, fiery kebabs made from seasoned ground lamb and red pepper, traditionally grilled over charcoal.",
     "ingredients": [
       {
@@ -724,7 +724,7 @@
     "prepTimeMinutes": 25,
     "cookTimeMinutes": 100,
     "servings": 4,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/main_08.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/guvec.webp",
     "description": "Slow-braised lamb with vegetables, tomato, and peppers, inspired by traditional Turkish clay-pot stew.",
     "ingredients": [
       {
@@ -831,7 +831,7 @@
     "prepTimeMinutes": 20,
     "cookTimeMinutes": 55,
     "servings": 4,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/main_09.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/orman-kebabi.webp",
     "description": "Tender lamb simmered with peas, carrots, potatoes, and a light tomato broth.",
     "ingredients": [
       {
@@ -930,7 +930,7 @@
     "prepTimeMinutes": 15,
     "cookTimeMinutes": 40,
     "servings": 4,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/main_10.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/pastirmali-kuru-fasulye.webp",
     "description": "A comforting Turkish white bean stew enriched with pastırma, a spiced cured beef; smoked beef makes a practical US substitute.",
     "ingredients": [
       {
@@ -1021,7 +1021,7 @@
     "prepTimeMinutes": 25,
     "cookTimeMinutes": 45,
     "servings": 4,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/main_11.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/izmir-kofte.webp",
     "description": "Seasoned Turkish meatballs baked with potato wedges and peppers in a savory tomato sauce.",
     "ingredients": [
       {
@@ -1128,7 +1128,7 @@
     "prepTimeMinutes": 20,
     "cookTimeMinutes": 75,
     "servings": 4,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/main_12.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/tas-kebabi.webp",
     "description": "Slow-simmered cubes of beef with onions and tomato, served with a rich, comforting gravy.",
     "ingredients": [
       {
@@ -1227,7 +1227,7 @@
     "prepTimeMinutes": 25,
     "cookTimeMinutes": 20,
     "servings": 4,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/main_13.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/kadinbudu-kofte.webp",
     "description": "Tender oval meat patties made with beef, cooked rice, and herbs, coated in egg and lightly fried.",
     "ingredients": [
       {
@@ -1326,7 +1326,7 @@
     "prepTimeMinutes": 15,
     "cookTimeMinutes": 25,
     "servings": 4,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/main_14.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/tavuk-sote.webp",
     "description": "Quick skillet chicken with tomatoes, peppers, onions, and warm Mediterranean spices.",
     "ingredients": [
       {
@@ -1425,7 +1425,7 @@
     "prepTimeMinutes": 25,
     "cookTimeMinutes": 25,
     "servings": 4,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/main_15.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/cokertme-kebabi.webp",
     "description": "Aegean-style kebab layered with garlicky yogurt, thin crispy potatoes, and sautéed beef in tomato butter sauce.",
     "ingredients": [
       {

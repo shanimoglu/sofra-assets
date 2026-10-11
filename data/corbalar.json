@@ -7,7 +7,7 @@
     "prepTimeMinutes": 10,
     "cookTimeMinutes": 35,
     "servings": 6,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/soup_01.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/suzme-mercimek-corbasi.webp",
     "description": "The quintessential national starter of Turkey: pureed crimson lentils gently simmered with aromatic vegetables, strained to a velvety sheen, and crowned with bubbling dried mint and paprika infused butter.",
     "ingredients": [
       {
@@ -148,7 +148,7 @@
     "prepTimeMinutes": 10,
     "cookTimeMinutes": 40,
     "servings": 6,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/soup_02.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/ezogelin-corbasi.webp",
     "description": "Named after the legendary Anatolian bride Ezo, this textured and zesty soup unites red lentils with bulgur wheat and rice in a fragrant tomato-pepper broth laced with dried mint.",
     "ingredients": [
       {
@@ -289,7 +289,7 @@
     "prepTimeMinutes": 10,
     "cookTimeMinutes": 25,
     "servings": 5,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/soup_03.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/yayla-corbasi.webp",
     "description": "Originating from Anatolian mountain pastures, this soothing comfort soup features tender rice enveloped in a velvety tempered yogurt broth, garnished with sizzling mint-infused butter.",
     "ingredients": [
       {
@@ -406,7 +406,7 @@
     "prepTimeMinutes": 15,
     "cookTimeMinutes": 20,
     "servings": 4,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/soup_04.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/geleneksel-tarhana-corbasi.webp",
     "description": "An ancient fermented grain soup prepared from sun-dried dough of yogurt, tomatoes, red peppers, and herbs. Rich in umami, tangy, and deeply restorative during winter months.",
     "ingredients": [
       {
@@ -523,7 +523,7 @@
     "prepTimeMinutes": 10,
     "cookTimeMinutes": 30,
     "servings": 4,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/soup_05.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/kasarli-domates-corbasi.webp",
     "description": "Rich, silky Turkish bistro-style tomato soup made with a golden roux, ripe summer tomatoes, a touch of milk, and finished with a molten mound of aged kaşar cheese.",
     "ingredients": [
       {
@@ -640,7 +640,7 @@
     "prepTimeMinutes": 15,
     "cookTimeMinutes": 35,
     "servings": 6,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/soup_06.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/tavuklu-tel-sehriye-corbasi.webp",
     "description": "The ultimate Turkish restorative soup: tender shredded poached chicken thighs and toasted vermicelli noodles in a golden, lemon-scented broth infused with parsley and garlic.",
     "ingredients": [
       {
@@ -765,7 +765,7 @@
     "prepTimeMinutes": 20,
     "cookTimeMinutes": 120,
     "servings": 4,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/soup_07.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/gaziantep-beyran-corbasi.webp",
     "description": "Gaziantep's legendary UNESCO-recognized dawn soup: ultra-tender slow-braised lamb neck, short-grain rice, abundant minced garlic, and rendered tallow ignited with fiery red pepper over blazing flames.",
     "ingredients": [
       {
@@ -874,7 +874,7 @@
     "prepTimeMinutes": 30,
     "cookTimeMinutes": 90,
     "servings": 6,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/soup_08.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/geleneksel-iskembe-corbasi.webp",
     "description": "The quintessential Istanbul night-owl cure: clean beef tripe slow-simmered to tender perfection, thickened with an egg-lemon terbiye, and spiked at the table with garlic vinegar and pepper butter.",
     "ingredients": [
       {
@@ -999,7 +999,7 @@
     "prepTimeMinutes": 20,
     "cookTimeMinutes": 60,
     "servings": 6,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/soup_09.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/dugun-corbasi.webp",
     "description": "Historically served at grand Ottoman wedding feasts, this rich soup showcases tender shredded lamb simmered in aromatic broth, thickened with flour, egg yolk, and lemon, and drizzled with scarlet paprika butter.",
     "ingredients": [
       {
@@ -1124,7 +1124,7 @@
     "prepTimeMinutes": 40,
     "cookTimeMinutes": 45,
     "servings": 6,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/soup_10.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/gaziantep-yuvalama-corbasi.webp",
     "description": "A magnificent feast dish of Gaziantep crafted during Eid: tiny hand-rolled rice-and-beef dumplings, stewed chickpeas, and shredded meat immersed in a rich, warm strained yogurt broth scented with dried mint.",
     "ingredients": [
       {
@@ -1249,7 +1249,7 @@
     "prepTimeMinutes": 15,
     "cookTimeMinutes": 35,
     "servings": 6,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/soup_11.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/tutmac-corbasi.webp",
     "description": "Dating back to the Seljuk Turk era and Divanu Lugat'it-Turk, this hearty heritage soup combines green lentils, chickpeas, and handmade noodles in a tangy yogurt base, topped with caramelized onion and mint.",
     "ingredients": [
       {
@@ -1374,7 +1374,7 @@
     "prepTimeMinutes": 10,
     "cookTimeMinutes": 35,
     "servings": 6,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/soup_12.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/mahluta-corbasi.webp",
     "description": "From the culinary crossroads of Hatay (Antakya), Mahluta features tender red lentils, cracked coriander, and a signature whole cumin-seed butter topping accompanied by caramelized onions.",
     "ingredients": [
       {
@@ -1499,7 +1499,7 @@
     "prepTimeMinutes": 25,
     "cookTimeMinutes": 90,
     "servings": 6,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/soup_13.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/kelle-paca-corbasi.webp",
     "description": "An iconic Turkish powerhouse soup celebrated for its restorative properties: collagen-dense lamb shank and knuckle broth with tender shredded meat, finished with garlic-lemon liaison and spiced butter.",
     "ingredients": [
       {
@@ -1616,7 +1616,7 @@
     "prepTimeMinutes": 10,
     "cookTimeMinutes": 35,
     "servings": 6,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/soup_14.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/eristeli-yesil-mercimek-corbasi.webp",
     "description": "An authentic rustic Anatolian village soup combining earthy green lentils, toasted egg noodles, and sweet onions simmered in tomato-pepper broth and seasoned with fragrant dried mint.",
     "ingredients": [
       {
@@ -1741,7 +1741,7 @@
     "prepTimeMinutes": 20,
     "cookTimeMinutes": 30,
     "servings": 6,
-    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/soup_15.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/bogazici-balik-corbasi.webp",
     "description": "Served along the shores of Istanbul's Bosphorus strait: fresh sea bass fillet and garden vegetables simmered in aromatic fish stock, enriched with a velvety lemon-egg terbiye and fresh dill.",
     "ingredients": [
       {
