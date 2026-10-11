@@ -1,0 +1,1760 @@
+[
+  {
+    "id": "veggie_01",
+    "titleEn": "Braised Green Beans in Olive Oil & Tomatoes",
+    "titleTr": "Zeytinyağlı Taze Fasulye",
+    "category": "Olive Oil & Vegetarian",
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 40,
+    "servings": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/veggie_01.webp",
+    "description": "A cornerstone of Aegean summer dining: tender flat green beans braised gently with sweet onions, vine-ripened tomatoes, a touch of sugar, and aromatic extra virgin olive oil, traditionally allowed to rest and served at room temperature.",
+    "ingredients": [
+      {
+        "name": "Flat Green Beans (Romano Beans)",
+        "us_amount_base": 1.0,
+        "us_unit": "lb",
+        "metric_amount_base": 450.0,
+        "metric_unit": "g",
+        "substitute": "Italian flat beans from Whole Foods/Trader Joe's, or standard fresh string beans trimmed and halved lengthwise"
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 0.33,
+        "us_unit": "cup",
+        "metric_amount_base": 80.0,
+        "metric_unit": "ml",
+        "substitute": "High-quality cold-pressed Mediterranean EVOO (e.g., California Olive Ranch or Greek EVOO)"
+      },
+      {
+        "name": "Yellow Onion",
+        "us_amount_base": 1.0,
+        "us_unit": "large",
+        "metric_amount_base": 200.0,
+        "metric_unit": "g",
+        "substitute": "Sweet Vidalia or Spanish yellow onion, thinly sliced into crescents"
+      },
+      {
+        "name": "Garlic Cloves",
+        "us_amount_base": 3.0,
+        "us_unit": "cloves",
+        "metric_amount_base": 3.0,
+        "metric_unit": "pieces",
+        "substitute": "Fresh garlic cloves, thinly sliced"
+      },
+      {
+        "name": "Ripe Tomatoes",
+        "us_amount_base": 2.0,
+        "us_unit": "medium",
+        "metric_amount_base": 300.0,
+        "metric_unit": "g",
+        "substitute": "Grated Roma tomatoes, or 1 cup canned San Marzano crushed tomatoes"
+      },
+      {
+        "name": "Granulated Sugar",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 4.0,
+        "metric_unit": "g",
+        "substitute": "Raw cane sugar or honey to balance acidity"
+      },
+      {
+        "name": "Sea Salt",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 5.0,
+        "metric_unit": "g",
+        "substitute": "Kosher salt or fine sea salt"
+      },
+      {
+        "name": "Warm Water",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "ml",
+        "substitute": "Filtered tap water or light vegetable broth"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Trim the stem ends of the green beans. Snap or slice them in half lengthwise if broad. Thinly slice the onions into half-moons and grate the fresh tomatoes.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 2,
+        "instruction": "In a wide, shallow heavy-bottomed pot, heat half of the olive oil over medium heat. Add the sliced onions and garlic, sautéing gently until translucent and fragrant without browning.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 3,
+        "instruction": "Layer the trimmed green beans evenly over the softened onions. Pour the grated tomatoes, salt, sugar, warm water, and the remaining olive oil evenly across the beans. Do not stir vigorously.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 4,
+        "instruction": "Bring to a gentle boil, then reduce heat to low, cover with a tight-fitting lid, and simmer undisturbed until the beans are tender and have absorbed the savory tomato juices.",
+        "timer_seconds": 2400
+      },
+      {
+        "step_number": 5,
+        "instruction": "Turn off the heat and let the dish cool to room temperature completely inside the covered pot. Transfer to a serving platter and chill before serving with crusty bread.",
+        "timer_seconds": 1800
+      }
+    ]
+  },
+  {
+    "id": "veggie_02",
+    "titleEn": "Stuffed Grape Leaves with Herbed Rice & Pine Nuts",
+    "titleTr": "Zeytinyağlı Yaprak Sarma",
+    "category": "Olive Oil & Vegetarian",
+    "prepTimeMinutes": 45,
+    "cookTimeMinutes": 50,
+    "servings": 6,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/veggie_02.webp",
+    "description": "The crown jewel of the Turkish cold meze table: tender grapevine leaves rolled into slender parcels filled with aromatic short-grain rice, caramelized onions, pine nuts, sweet currants, fragrant allspice, and fresh mint, simmered in olive oil and lemon broth.",
+    "ingredients": [
+      {
+        "name": "Grape Leaves in Brine",
+        "us_amount_base": 8.0,
+        "us_unit": "oz",
+        "metric_amount_base": 225.0,
+        "metric_unit": "g",
+        "substitute": "Jarred Krinos or Orlando grape leaves (available at Whole Foods, Sprouts, or international aisles), soaked in warm water to desalt"
+      },
+      {
+        "name": "Turkish Short-Grain Rice (Baldo)",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 200.0,
+        "metric_unit": "g",
+        "substitute": "Arborio rice, Calrose medium-grain rice, or Spanish bomba rice"
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "ml",
+        "substitute": "Robust cold-pressed Mediterranean extra virgin olive oil"
+      },
+      {
+        "name": "Yellow Onions",
+        "us_amount_base": 2.0,
+        "us_unit": "medium",
+        "metric_amount_base": 300.0,
+        "metric_unit": "g",
+        "substitute": "Finely minced yellow onions (generous onion amount is essential for sweetness)"
+      },
+      {
+        "name": "Pine Nuts",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 25.0,
+        "metric_unit": "g",
+        "substitute": "Raw Mediterranean pine nuts or finely chopped slivered almonds"
+      },
+      {
+        "name": "Dried Currants",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 25.0,
+        "metric_unit": "g",
+        "substitute": "Zante currants or finely chopped Thompson seedless raisins"
+      },
+      {
+        "name": "Ground Allspice & Cinnamon",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 3.0,
+        "metric_unit": "g",
+        "substitute": "3/4 tsp ground allspice plus 1/4 tsp ground Ceylon cinnamon"
+      },
+      {
+        "name": "Dried Spearmint",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 4.0,
+        "metric_unit": "g",
+        "substitute": "Dried crushed mint leaves or 2 tbsp finely minced fresh mint"
+      },
+      {
+        "name": "Fresh Dill & Flat-Leaf Parsley",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 25.0,
+        "metric_unit": "g",
+        "substitute": "Finely chopped fresh supermarket dill and Italian parsley"
+      },
+      {
+        "name": "Fresh Lemon Juice",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 45.0,
+        "metric_unit": "ml",
+        "substitute": "Freshly squeezed lemon juice plus 1 sliced lemon for layering"
+      },
+      {
+        "name": "Warm Water",
+        "us_amount_base": 1.25,
+        "us_unit": "cups",
+        "metric_amount_base": 300.0,
+        "metric_unit": "ml",
+        "substitute": "Warm filtered water"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Unroll the jarred grape leaves and soak them in a large bowl of boiling water for 10 minutes to remove excess salt and soften veins. Drain and rinse thoroughly under cold water.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 2,
+        "instruction": "Heat 1/4 cup olive oil in a skillet over medium heat. Toast pine nuts until pale golden (2 mins), then add finely minced onions and sauté until deeply softened and glossy.",
+        "timer_seconds": 480
+      },
+      {
+        "step_number": 3,
+        "instruction": "Stir in washed rice, currants, allspice, cinnamon, dried mint, salt, and 1/2 cup warm water. Cover and simmer over low heat until liquid is absorbed (the rice will remain par-cooked). Off heat, fold in chopped fresh dill and parsley, then cool.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 4,
+        "instruction": "Lay a grape leaf flat on a clean board with the vein side up and stem snipped. Place 1 teaspoon of filling near the stem end. Fold sides inward and roll tightly into a slender cylinder the thickness of a small finger.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 5,
+        "instruction": "Line the bottom of a wide pot with torn or damaged grape leaves. Arrange rolled sarmas seam-side down in tight, neat concentric circles. Top with lemon slices, remaining olive oil, 3/4 cup warm water, and invert a heatproof ceramic plate on top to keep them submerged.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 6,
+        "instruction": "Cover pot with lid, bring to a boil, then reduce to the lowest simmer and cook gently until leaves are tender and rice is cooked through.",
+        "timer_seconds": 2700
+      },
+      {
+        "step_number": 7,
+        "instruction": "Allow sarmas to cool completely inside the pot at room temperature before transferring to a platter. Chill in the refrigerator for at least 2 hours before serving with lemon wedges.",
+        "timer_seconds": 7200
+      }
+    ]
+  },
+  {
+    "id": "veggie_03",
+    "titleEn": "Braised Stuffed Eggplants with Caramelized Onions & Tomatoes",
+    "titleTr": "İmam Bayıldı",
+    "category": "Olive Oil & Vegetarian",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 45,
+    "servings": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/veggie_03.webp",
+    "description": "Literally translating to 'the imam fainted' with pleasure at the generous use of olive oil: tender whole eggplants roasted and stuffed with a meltingly rich filling of caramelized onions, garlic, ripe tomatoes, and fresh Italian parsley.",
+    "ingredients": [
+      {
+        "name": "Italian or Japanese Eggplants",
+        "us_amount_base": 4.0,
+        "us_unit": "medium",
+        "metric_amount_base": 700.0,
+        "metric_unit": "g",
+        "substitute": "Medium slender Italian eggplants or Japanese/Chinese eggplants (avoid large fibrous globe eggplants)"
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "ml",
+        "substitute": "High-grade Spanish, Greek, or California extra virgin olive oil"
+      },
+      {
+        "name": "Yellow Onions",
+        "us_amount_base": 3.0,
+        "us_unit": "medium",
+        "metric_amount_base": 400.0,
+        "metric_unit": "g",
+        "substitute": "Sweet onions (such as Vidalia or Walla Walla), thinly sliced into half-moons"
+      },
+      {
+        "name": "Garlic Cloves",
+        "us_amount_base": 6.0,
+        "us_unit": "cloves",
+        "metric_amount_base": 6.0,
+        "metric_unit": "pieces",
+        "substitute": "Fresh whole garlic cloves, peeled and thickly sliced"
+      },
+      {
+        "name": "Ripe Plum Tomatoes",
+        "us_amount_base": 3.0,
+        "us_unit": "medium",
+        "metric_amount_base": 350.0,
+        "metric_unit": "g",
+        "substitute": "Diced fresh Roma tomatoes or drained canned petite diced tomatoes"
+      },
+      {
+        "name": "Green Cubanelle Peppers",
+        "us_amount_base": 2.0,
+        "us_unit": "peppers",
+        "metric_amount_base": 100.0,
+        "metric_unit": "g",
+        "substitute": "Cubanelle peppers, Italian sweet frying peppers, or 1 green bell pepper sliced into strips"
+      },
+      {
+        "name": "Fresh Flat-Leaf Parsley",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 20.0,
+        "metric_unit": "g",
+        "substitute": "Finely chopped fresh Italian flat-leaf parsley"
+      },
+      {
+        "name": "Granulated Sugar",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 4.0,
+        "metric_unit": "g",
+        "substitute": "Granulated sugar"
+      },
+      {
+        "name": "Sea Salt & Black Pepper",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 5.0,
+        "metric_unit": "g",
+        "substitute": "Fine sea salt and freshly cracked black pepper"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Peel lengthwise strips of skin from each eggplant to create a zebra pattern. Make a deep lengthwise slit down the center of each, leaving 1/2-inch intact at the top and bottom. Soak in salted water for 15 minutes to reduce bitterness, then pat thoroughly dry.",
+        "timer_seconds": 900
+      },
+      {
+        "step_number": 2,
+        "instruction": "Brush eggplants generously with 3 tablespoons olive oil. Roast on a parchment-lined baking sheet at 400°F (200°C) until tender and golden, turning once halfway through.",
+        "timer_seconds": 1500
+      },
+      {
+        "step_number": 3,
+        "instruction": "In a wide skillet, heat remaining olive oil over medium-low heat. Sauté sliced onions and peppers with a pinch of salt until caramelized and sweet. Add sliced garlic and cook 2 minutes more. Stir in tomatoes, sugar, and black pepper, cooking until tomatoes soften. Fold in fresh parsley.",
+        "timer_seconds": 900
+      },
+      {
+        "step_number": 4,
+        "instruction": "Transfer roasted eggplants to a wide baking dish or shallow braising pot. Gently widen the central cavity of each eggplant with two forks. Spoon generous mounds of warm onion-tomato filling into each pocket.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 5,
+        "instruction": "Pour 1/3 cup warm water around the eggplants. Cover pot or pan with foil and braise on low stovetop heat or in a 350°F (175°C) oven until meltingly silky.",
+        "timer_seconds": 1800
+      },
+      {
+        "step_number": 6,
+        "instruction": "Allow to cool to room temperature in the pan before serving. Garnish with extra fresh parsley leaves and a squeeze of fresh lemon.",
+        "timer_seconds": 1800
+      }
+    ]
+  },
+  {
+    "id": "veggie_04",
+    "titleEn": "Braised Artichoke Bottoms Filled with Spring Vegetables & Dill",
+    "titleTr": "Zeytinyağlı Enginar",
+    "category": "Olive Oil & Vegetarian",
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 30,
+    "servings": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/veggie_04.webp",
+    "description": "An Aegean culinary hallmark of elegance: whole fresh artichoke cups gently braised in fresh orange and lemon juices with extra virgin olive oil, crowned with tender sweet peas, diced carrots, and fragrant fresh dill.",
+    "ingredients": [
+      {
+        "name": "Artichoke Bottoms (Enginar Çanağı)",
+        "us_amount_base": 4.0,
+        "us_unit": "pieces",
+        "metric_amount_base": 400.0,
+        "metric_unit": "g",
+        "substitute": "Frozen artichoke bottoms (found at Trader Joe's or Mediterranean markets), thawed, or trimmed fresh globe artichoke hearts kept in acidulated lemon water"
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 0.33,
+        "us_unit": "cup",
+        "metric_amount_base": 80.0,
+        "metric_unit": "ml",
+        "substitute": "Fruity Greek or Turkish extra virgin olive oil"
+      },
+      {
+        "name": "Baby Carrots",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "g",
+        "substitute": "Carrots peeled and finely diced into 1/4-inch cubes"
+      },
+      {
+        "name": "Sweet Green Peas",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 130.0,
+        "metric_unit": "g",
+        "substitute": "Frozen sweet petite peas (thawed) or fresh shelled English peas"
+      },
+      {
+        "name": "Fresh Orange Juice",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "ml",
+        "substitute": "Freshly squeezed orange juice (provides quintessential Aegean citrus sweetness)"
+      },
+      {
+        "name": "Fresh Lemon Juice",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "ml",
+        "substitute": "Freshly squeezed lemon juice"
+      },
+      {
+        "name": "All-Purpose Flour",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 3.0,
+        "metric_unit": "g",
+        "substitute": "Unbleached all-purpose flour or cornstarch for a silky glaze"
+      },
+      {
+        "name": "Granulated Sugar",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 4.0,
+        "metric_unit": "g",
+        "substitute": "White granulated sugar"
+      },
+      {
+        "name": "Fresh Dill",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 20.0,
+        "metric_unit": "g",
+        "substitute": "Fresh dill, finely chopped (essential Turkish seasoning for artichoke)"
+      },
+      {
+        "name": "Sea Salt",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 5.0,
+        "metric_unit": "g",
+        "substitute": "Fine sea salt"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "In a small bowl, whisk together fresh orange juice, lemon juice, flour, sugar, salt, and olive oil to create an emulsion.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 2,
+        "instruction": "Arrange the artichoke bottoms cup-side up in a single layer in a wide shallow saucepan. Fill the hollow center of each cup generously with diced carrots and sweet peas, scattering any leftover vegetables around them.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 3,
+        "instruction": "Pour the citrus-olive oil emulsion evenly over the artichoke cups and vegetables. Add 1/4 cup warm water around the edges.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 4,
+        "instruction": "Cover with a tight lid, bring to a gentle simmer over medium heat, then turn to low and braise until the artichokes and carrots are fork-tender and the sauce has reduced to a glistening glaze.",
+        "timer_seconds": 1800
+      },
+      {
+        "step_number": 5,
+        "instruction": "Turn off heat, stir in half of the chopped fresh dill, and allow the artichokes to cool completely in the covered pan to absorb all flavors. Chill for at least 1 hour, garnish with remaining dill, and serve cold.",
+        "timer_seconds": 3600
+      }
+    ]
+  },
+  {
+    "id": "veggie_05",
+    "titleEn": "Crispy Pan-Fried Zucchini & Herb Fritters",
+    "titleTr": "Kabak Mücveri",
+    "category": "Olive Oil & Vegetarian",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 15,
+    "servings": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/veggie_05.webp",
+    "description": "Golden-crusted, tender-centered zucchini fritters packed with fresh dill, mint, scallions, and creamy sheep's milk feta cheese, served hot or at room temperature alongside cool garlic yogurt sauce.",
+    "ingredients": [
+      {
+        "name": "Medium Zucchini",
+        "us_amount_base": 3.0,
+        "us_unit": "medium",
+        "metric_amount_base": 600.0,
+        "metric_unit": "g",
+        "substitute": "Standard green zucchini or light green Italian cousa squash"
+      },
+      {
+        "name": "Crumbled Turkish White Cheese or Greek Feta",
+        "us_amount_base": 0.75,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "g",
+        "substitute": "Block Greek feta cheese packed in brine, crumbled (avoid pre-crumbled dry feta)"
+      },
+      {
+        "name": "Large Eggs",
+        "us_amount_base": 2.0,
+        "us_unit": "large",
+        "metric_amount_base": 2.0,
+        "metric_unit": "pieces",
+        "substitute": "Standard organic large eggs, beaten"
+      },
+      {
+        "name": "Scallions (Green Onions)",
+        "us_amount_base": 4.0,
+        "us_unit": "stalks",
+        "metric_amount_base": 50.0,
+        "metric_unit": "g",
+        "substitute": "Scallions, green and pale white parts finely sliced"
+      },
+      {
+        "name": "Fresh Dill",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 20.0,
+        "metric_unit": "g",
+        "substitute": "Fresh dill, finely minced"
+      },
+      {
+        "name": "Fresh Spearmint",
+        "us_amount_base": 0.25,
+        "us_unit": "cup",
+        "metric_amount_base": 10.0,
+        "metric_unit": "g",
+        "substitute": "Fresh mint or 1 tsp dried spearmint"
+      },
+      {
+        "name": "All-Purpose Flour",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 65.0,
+        "metric_unit": "g",
+        "substitute": "All-purpose flour or 1:1 gluten-free baking flour"
+      },
+      {
+        "name": "Baking Powder",
+        "us_amount_base": 0.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 2.0,
+        "metric_unit": "g",
+        "substitute": "Standard baking powder for fluffiness"
+      },
+      {
+        "name": "Olive Oil (or high-heat cooking oil for frying)",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "ml",
+        "substitute": "Light olive oil, avocado oil, or sunflower oil"
+      },
+      {
+        "name": "Plain Whole Milk Greek Yogurt",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 240.0,
+        "metric_unit": "g",
+        "substitute": "Plain whole milk Greek yogurt (e.g., Fage 5%) mixed with 1 grated garlic clove and pinch of salt for dipping"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Coarsely grate the zucchini. Toss with 1/2 tsp salt in a colander and let drain for 15 minutes. Using your hands or a clean kitchen towel, squeeze out as much moisture as physically possible; dry zucchini is crucial for crispy fritters.",
+        "timer_seconds": 900
+      },
+      {
+        "step_number": 2,
+        "instruction": "In a large mixing bowl, beat eggs. Stir in the drained zucchini, crumbled feta, sliced scallions, chopped dill, mint, baking powder, and a generous pinch of black pepper.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 3,
+        "instruction": "Sprinkle the flour over the mixture and fold together just until a cohesive batter forms. Do not overmix.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 4,
+        "instruction": "Heat 1/4 inch of oil in a wide heavy non-stick or cast-iron skillet over medium heat until shimmering (350°F / 175°C). Drop heaping tablespoons of batter into the pan, flattening slightly with the back of the spoon.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 5,
+        "instruction": "Fry in batches without overcrowding for 3 to 4 minutes per side until deep golden brown and crisp. Transfer to a paper towel-lined plate to drain.",
+        "timer_seconds": 450
+      },
+      {
+        "step_number": 6,
+        "instruction": "Serve warm or at room temperature with cool garlicky Greek yogurt on the side.",
+        "timer_seconds": 0
+      }
+    ]
+  },
+  {
+    "id": "veggie_06",
+    "titleEn": "Cranberry Beans Stewed with Carrots, Potatoes & Garlic",
+    "titleTr": "Zeytinyağlı Barbunya Pilaki",
+    "category": "Olive Oil & Vegetarian",
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 45,
+    "servings": 6,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/veggie_06.webp",
+    "description": "An indispensable Turkish meze tavern classic: creamy speckled borlotti (cranberry) beans stewed slowly with diced carrots, potatoes, sweet onions, whole garlic cloves, tomato paste, and fruity olive oil, garnished with fresh flat-leaf parsley and lemon.",
+    "ingredients": [
+      {
+        "name": "Fresh or Dried Borlotti / Cranberry Beans",
+        "us_amount_base": 1.0,
+        "us_unit": "lb",
+        "metric_amount_base": 450.0,
+        "metric_unit": "g",
+        "substitute": "Fresh or dried cranberry beans, or two 15-oz cans of Roman/cannellini/pinto beans rinsed and drained"
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 0.33,
+        "us_unit": "cup",
+        "metric_amount_base": 80.0,
+        "metric_unit": "ml",
+        "substitute": "Cold-pressed Mediterranean extra virgin olive oil"
+      },
+      {
+        "name": "Yellow Onion",
+        "us_amount_base": 1.0,
+        "us_unit": "large",
+        "metric_amount_base": 200.0,
+        "metric_unit": "g",
+        "substitute": "Finely diced yellow onion"
+      },
+      {
+        "name": "Carrots",
+        "us_amount_base": 2.0,
+        "us_unit": "medium",
+        "metric_amount_base": 180.0,
+        "metric_unit": "g",
+        "substitute": "Peeled and sliced into 1/4-inch coins or half-moons"
+      },
+      {
+        "name": "Yukon Gold Potato",
+        "us_amount_base": 1.0,
+        "us_unit": "medium",
+        "metric_amount_base": 180.0,
+        "metric_unit": "g",
+        "substitute": "Peeled and diced into 1/2-inch cubes"
+      },
+      {
+        "name": "Garlic Cloves",
+        "us_amount_base": 5.0,
+        "us_unit": "cloves",
+        "metric_amount_base": 5.0,
+        "metric_unit": "pieces",
+        "substitute": "Whole garlic cloves, peeled and halved"
+      },
+      {
+        "name": "Tomato Paste",
+        "us_amount_base": 1.5,
+        "us_unit": "tbsp",
+        "metric_amount_base": 25.0,
+        "metric_unit": "g",
+        "substitute": "Double-concentrated tomato paste (e.g., Mutti)"
+      },
+      {
+        "name": "Granulated Sugar",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 4.0,
+        "metric_unit": "g",
+        "substitute": "White granulated sugar"
+      },
+      {
+        "name": "Fresh Flat-Leaf Parsley",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 20.0,
+        "metric_unit": "g",
+        "substitute": "Finely chopped Italian parsley"
+      },
+      {
+        "name": "Lemon Juice",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "ml",
+        "substitute": "Fresh lemon juice"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "If using dried beans, soak overnight and boil in water for 25 minutes until partially tender; drain. (If using canned beans, rinse well; cooking time will be reduced by 15 minutes).",
+        "timer_seconds": 1500
+      },
+      {
+        "step_number": 2,
+        "instruction": "Heat olive oil in a wide heavy pot over medium heat. Add diced onions, sliced carrots, and garlic cloves; cook until onions soften and carrots are coated in oil.",
+        "timer_seconds": 420
+      },
+      {
+        "step_number": 3,
+        "instruction": "Stir in tomato paste and sugar, cooking for 1 minute until paste releases its sweet aroma. Add diced potato and par-cooked beans.",
+        "timer_seconds": 60
+      },
+      {
+        "step_number": 4,
+        "instruction": "Pour in 2 cups of boiling water and 1 tsp salt. Bring to a simmer, then reduce heat to low, cover, and braise until beans, potatoes, and carrots are meltingly tender and the liquid forms a thick, rich broth.",
+        "timer_seconds": 2100
+      },
+      {
+        "step_number": 5,
+        "instruction": "Stir in lemon juice. Remove from heat and allow to cool completely in the pot. Serve at room temperature or chilled, adorned with abundant chopped fresh parsley.",
+        "timer_seconds": 1800
+      }
+    ]
+  },
+  {
+    "id": "veggie_07",
+    "titleEn": "Braised Celery Root with Orange Juice & Carrots",
+    "titleTr": "Zeytinyağlı Portakallı Kereviz",
+    "category": "Olive Oil & Vegetarian",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 35,
+    "servings": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/veggie_07.webp",
+    "description": "A refined Ottoman winter classic: earthy celery root (celeriac) peeled and cubed, braised gently with sweet carrots in fresh orange juice, lemon, and rich olive oil until tender and glistening, topped with its aromatic tender green leaves.",
+    "ingredients": [
+      {
+        "name": "Celery Root (Celeriac / Kereviz)",
+        "us_amount_base": 1.5,
+        "us_unit": "lb",
+        "metric_amount_base": 700.0,
+        "metric_unit": "g",
+        "substitute": "Large fresh celery root from Whole Foods, Sprouts, or conventional grocers; thick fibrous skin trimmed off and flesh cubed"
+      },
+      {
+        "name": "Carrots",
+        "us_amount_base": 2.0,
+        "us_unit": "medium",
+        "metric_amount_base": 180.0,
+        "metric_unit": "g",
+        "substitute": "Peeled and sliced into diagonal 1/2-inch chunks"
+      },
+      {
+        "name": "Yellow Onion",
+        "us_amount_base": 1.0,
+        "us_unit": "medium",
+        "metric_amount_base": 150.0,
+        "metric_unit": "g",
+        "substitute": "Finely chopped yellow onion"
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 0.33,
+        "us_unit": "cup",
+        "metric_amount_base": 80.0,
+        "metric_unit": "ml",
+        "substitute": "Cold-pressed extra virgin olive oil"
+      },
+      {
+        "name": "Fresh Orange Juice",
+        "us_amount_base": 0.75,
+        "us_unit": "cup",
+        "metric_amount_base": 180.0,
+        "metric_unit": "ml",
+        "substitute": "Freshly squeezed Valencia or Navel orange juice"
+      },
+      {
+        "name": "Fresh Lemon Juice",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "ml",
+        "substitute": "Freshly squeezed lemon juice"
+      },
+      {
+        "name": "Granulated Sugar",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 4.0,
+        "metric_unit": "g",
+        "substitute": "Granulated sugar"
+      },
+      {
+        "name": "All-Purpose Flour",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 3.0,
+        "metric_unit": "g",
+        "substitute": "All-purpose flour dissolved in the juice for a velvety sauce"
+      },
+      {
+        "name": "Tender Celery Leaves or Fresh Dill",
+        "us_amount_base": 0.25,
+        "us_unit": "cup",
+        "metric_amount_base": 10.0,
+        "metric_unit": "g",
+        "substitute": "Coarsely chopped celery leaves from the inner heart of a celery stalk, or fresh dill"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Peel the knobby exterior off the celery root with a sturdy chef's knife. Cut the white flesh into 1-inch cubes and place immediately in a bowl of cold water with a squeeze of lemon juice to prevent discoloration.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 2,
+        "instruction": "In a wide shallow pot, warm the olive oil over medium heat. Sauté the chopped onion until translucent and fragrant.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 3,
+        "instruction": "Add sliced carrots and drained celery root cubes. Stir to coat thoroughly in the warm olive oil for 2 minutes.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 4,
+        "instruction": "Whisk orange juice, lemon juice, flour, sugar, and salt together. Pour over the vegetables. Add 1/4 cup water if needed so liquid reaches halfway up the vegetables.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 5,
+        "instruction": "Bring to a boil, then cover tightly, reduce heat to low, and braise until the celery root and carrots are knife-tender.",
+        "timer_seconds": 1800
+      },
+      {
+        "step_number": 6,
+        "instruction": "Sprinkle chopped celery leaves or dill on top. Let cool completely in the pot to room temperature before serving.",
+        "timer_seconds": 1800
+      }
+    ]
+  },
+  {
+    "id": "veggie_08",
+    "titleEn": "Fried Eggplant & Peppers in Rich Garlic Tomato Sauce",
+    "titleTr": "Şakşuka",
+    "category": "Olive Oil & Vegetarian",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 25,
+    "servings": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/veggie_08.webp",
+    "description": "An authentic Turkish summer meze staple (unrelated to North African shakshuka): crispy fried cubes of eggplant, zucchini, and sweet green peppers blanketed in a simmered garlicky tomato and red pepper sauce, served cold with thick yogurt.",
+    "ingredients": [
+      {
+        "name": "Eggplants",
+        "us_amount_base": 2.0,
+        "us_unit": "medium",
+        "metric_amount_base": 500.0,
+        "metric_unit": "g",
+        "substitute": "Italian or globe eggplants, peeled in zebra stripes and cut into 3/4-inch cubes"
+      },
+      {
+        "name": "Zucchini",
+        "us_amount_base": 1.0,
+        "us_unit": "medium",
+        "metric_amount_base": 200.0,
+        "metric_unit": "g",
+        "substitute": "Green zucchini cut into 3/4-inch cubes"
+      },
+      {
+        "name": "Cubanelle or Italian Sweet Peppers",
+        "us_amount_base": 3.0,
+        "us_unit": "peppers",
+        "metric_amount_base": 150.0,
+        "metric_unit": "g",
+        "substitute": "Cubanelle peppers, shishito peppers, or 1 green bell pepper seeded and cut into bite-sized chunks"
+      },
+      {
+        "name": "Ripe Roma Tomatoes",
+        "us_amount_base": 4.0,
+        "us_unit": "medium",
+        "metric_amount_base": 400.0,
+        "metric_unit": "g",
+        "substitute": "Grated fresh Roma tomatoes or 1.5 cups canned crushed tomatoes"
+      },
+      {
+        "name": "Garlic Cloves",
+        "us_amount_base": 4.0,
+        "us_unit": "cloves",
+        "metric_amount_base": 4.0,
+        "metric_unit": "pieces",
+        "substitute": "Finely minced fresh garlic"
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 45.0,
+        "metric_unit": "ml",
+        "substitute": "Cold-pressed extra virgin olive oil for the tomato sauce"
+      },
+      {
+        "name": "Frying Oil (Sunflower or Olive Oil)",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 240.0,
+        "metric_unit": "ml",
+        "substitute": "Sunflower, canola, or light olive oil for shallow-frying"
+      },
+      {
+        "name": "Red Wine Vinegar or Apple Cider Vinegar",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 15.0,
+        "metric_unit": "ml",
+        "substitute": "Red wine vinegar (adds traditional Aegean tang)"
+      },
+      {
+        "name": "Sugar, Salt & Red Pepper Flakes (Pul Biber)",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 5.0,
+        "metric_unit": "g",
+        "substitute": "1/2 tsp sugar, 1/2 tsp salt, and 1/2 tsp Aleppo pepper / Maras pepper flakes"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Toss eggplant cubes with 1 tsp salt in a colander and let rest for 20 minutes to draw out bitter liquids. Press dry thoroughly with paper towels.",
+        "timer_seconds": 1200
+      },
+      {
+        "step_number": 2,
+        "instruction": "Heat 1 cup frying oil in a deep skillet over medium-high heat (365°F / 185°C). Fry eggplant cubes in batches until deep golden and tender (4-5 mins). Drain on paper towels. Quickly fry zucchini and peppers (2-3 mins); drain alongside eggplant.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 3,
+        "instruction": "In a separate saucepan, heat 3 tablespoons extra virgin olive oil over medium heat. Add minced garlic and sizzle for 30 seconds until fragrant.",
+        "timer_seconds": 30
+      },
+      {
+        "step_number": 4,
+        "instruction": "Add grated tomatoes, vinegar, sugar, salt, and red pepper flakes. Simmer on medium-low heat until the sauce thickens into a glossy, rich condiment.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 5,
+        "instruction": "Arrange the fried vegetables on a wide shallow serving dish. Pour the warm garlic tomato sauce evenly over the top. Allow to rest until it reaches room temperature, allowing the vegetables to soak up the sauce.",
+        "timer_seconds": 900
+      }
+    ]
+  },
+  {
+    "id": "veggie_09",
+    "titleEn": "Braised Leeks with Sweet Carrots & Rice in Olive Oil",
+    "titleTr": "Zeytinyağlı Pırasa",
+    "category": "Olive Oil & Vegetarian",
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 35,
+    "servings": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/veggie_09.webp",
+    "description": "A nourishing staple of Turkish home cooking: thick-cut leeks braised gently with sweet carrots, a sprinkle of rice, freshly squeezed lemon juice, and luscious olive oil until melt-in-your-mouth tender.",
+    "ingredients": [
+      {
+        "name": "Fresh Leeks",
+        "us_amount_base": 1.5,
+        "us_unit": "lbs",
+        "metric_amount_base": 700.0,
+        "metric_unit": "g",
+        "substitute": "3 large leeks, dark green tops trimmed, washed thoroughly to remove grit, and sliced diagonally into 1.5-inch cylinders"
+      },
+      {
+        "name": "Carrots",
+        "us_amount_base": 2.0,
+        "us_unit": "medium",
+        "metric_amount_base": 180.0,
+        "metric_unit": "g",
+        "substitute": "Peeled and cut diagonally into 1/2-inch coins to match the leeks"
+      },
+      {
+        "name": "Short-Grain White Rice",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "g",
+        "substitute": "Baldo, Arborio, or Calrose medium-grain white rice rinsed"
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 0.33,
+        "us_unit": "cup",
+        "metric_amount_base": 80.0,
+        "metric_unit": "ml",
+        "substitute": "High-quality extra virgin olive oil"
+      },
+      {
+        "name": "Fresh Lemon Juice",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "ml",
+        "substitute": "Freshly squeezed lemon juice (vital for balancing the leeks' sweetness)"
+      },
+      {
+        "name": "Granulated Sugar",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 4.0,
+        "metric_unit": "g",
+        "substitute": "Granulated sugar"
+      },
+      {
+        "name": "Sea Salt",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 5.0,
+        "metric_unit": "g",
+        "substitute": "Fine sea salt"
+      },
+      {
+        "name": "Water",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 240.0,
+        "metric_unit": "ml",
+        "substitute": "Warm filtered water or light vegetable broth"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Clean leeks thoroughly under cold running water to eliminate trapped dirt. Slice diagonally into 1.5-inch pieces. Slice carrots diagonally.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 2,
+        "instruction": "In a wide shallow saucepan, heat olive oil over medium heat. Add the sliced carrots and sauté for 3 minutes to infuse the oil with orange color and sweetness.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 3,
+        "instruction": "Add the sliced leeks, turning them gently in the oil for 2 minutes. Sprinkle the washed rice evenly across the vegetables.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 4,
+        "instruction": "Pour in 1 cup warm water, lemon juice, sugar, and salt. Do not stir, allowing the rice to settle on top.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 5,
+        "instruction": "Bring to a boil, then reduce heat to low, cover with a tight lid, and simmer gently until the leeks are buttery soft and the rice is swollen and tender.",
+        "timer_seconds": 1800
+      },
+      {
+        "step_number": 6,
+        "instruction": "Turn off heat and let rest undisturbed until room temperature. Serve with lemon slices and crusty sourdough bread.",
+        "timer_seconds": 1800
+      }
+    ]
+  },
+  {
+    "id": "veggie_10",
+    "titleEn": "Olive Oil Braised Bell Peppers Stuffed with Spiced Rice",
+    "titleTr": "Zeytinyağlı Biber Dolması",
+    "category": "Olive Oil & Vegetarian",
+    "prepTimeMinutes": 30,
+    "cookTimeMinutes": 45,
+    "servings": 6,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/veggie_10.webp",
+    "description": "Vibrant bell peppers stuffed with a fragrant Ottoman pilaf filling of short-grain rice, caramelized onions, pine nuts, dried currants, cinnamon, mint, and fresh dill, gently braised in an olive oil broth and served cold.",
+    "ingredients": [
+      {
+        "name": "Medium Bell Peppers (Green, Yellow, or Red)",
+        "us_amount_base": 6.0,
+        "us_unit": "medium",
+        "metric_amount_base": 6.0,
+        "metric_unit": "pieces",
+        "substitute": "Standard medium bell peppers or Turkish Dolmalık Biber (small thin-skinned green peppers)"
+      },
+      {
+        "name": "Short-Grain Rice (Baldo)",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 200.0,
+        "metric_unit": "g",
+        "substitute": "Arborio or Calrose rice, rinsed until water runs clear"
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "ml",
+        "substitute": "Extra virgin olive oil"
+      },
+      {
+        "name": "Yellow Onions",
+        "us_amount_base": 2.0,
+        "us_unit": "medium",
+        "metric_amount_base": 300.0,
+        "metric_unit": "g",
+        "substitute": "Finely minced yellow onions"
+      },
+      {
+        "name": "Pine Nuts",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 25.0,
+        "metric_unit": "g",
+        "substitute": "Raw pine nuts"
+      },
+      {
+        "name": "Dried Zante Currants",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 25.0,
+        "metric_unit": "g",
+        "substitute": "Dried currants or finely minced black raisins"
+      },
+      {
+        "name": "Ground Allspice, Cinnamon & Mint",
+        "us_amount_base": 1.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 5.0,
+        "metric_unit": "g",
+        "substitute": "1 tsp dried mint, 1/2 tsp allspice, and 1/4 tsp ground cinnamon"
+      },
+      {
+        "name": "Fresh Dill & Flat-Leaf Parsley",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 25.0,
+        "metric_unit": "g",
+        "substitute": "Finely chopped fresh dill and Italian parsley"
+      },
+      {
+        "name": "Tomatoes for Capping",
+        "us_amount_base": 2.0,
+        "us_unit": "medium",
+        "metric_amount_base": 200.0,
+        "metric_unit": "g",
+        "substitute": "Fresh round tomatoes, cut into wedges or rounds to cap each stuffed pepper"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Slice the tops off the bell peppers and scoop out seeds and membranes. Reserve pepper bodies. Slice tomatoes into disks to use as lids.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 2,
+        "instruction": "In a skillet, heat 1/4 cup olive oil over medium heat. Toast pine nuts for 2 minutes, then sauté minced onions until soft and translucent.",
+        "timer_seconds": 420
+      },
+      {
+        "step_number": 3,
+        "instruction": "Stir in rice, currants, allspice, cinnamon, dried mint, 1 tsp sugar, 1 tsp salt, and 1/2 cup warm water. Cook covered on low until water is absorbed (rice will be half-cooked). Stir in chopped dill and parsley; cool slightly.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 4,
+        "instruction": "Fill each pepper loosely to 3/4 capacity with the rice mixture (allowing room for rice to expand). Cap each pepper securely with a slice of fresh tomato.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 5,
+        "instruction": "Stand the stuffed peppers upright snugly in a deep pot. Drizzle the remaining 1/4 cup olive oil over the peppers and pour 1.5 cups boiling water into the base of the pot.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 6,
+        "instruction": "Cover with a tight lid, bring to a boil, then simmer over low heat until pepper skins are tender and rice is thoroughly cooked.",
+        "timer_seconds": 2400
+      },
+      {
+        "step_number": 7,
+        "instruction": "Cool in the pot to room temperature before plating. Chill in refrigerator and serve cold.",
+        "timer_seconds": 3600
+      }
+    ]
+  },
+  {
+    "id": "veggie_11",
+    "titleEn": "Fresh Broad Beans Braised in Olive Oil with Dill & Garlic Yogurt",
+    "titleTr": "Zeytinyağlı Taze Bakla",
+    "category": "Olive Oil & Vegetarian",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 35,
+    "servings": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/veggie_11.webp",
+    "description": "An iconic Turkish spring specialty: whole tender young broad (fava) beans in their pods, braised with olive oil, lemon, a flour slurry, and a mountain of fresh dill, traditionally crowned with thick garlic yogurt.",
+    "ingredients": [
+      {
+        "name": "Fresh Young Broad Beans in Pods (Fava Beans)",
+        "us_amount_base": 1.0,
+        "us_unit": "lb",
+        "metric_amount_base": 450.0,
+        "metric_unit": "g",
+        "substitute": "Fresh whole baby fava bean pods (found at Middle Eastern/farmers markets), or frozen baby fava beans (Bakla), or fresh Romano flat green beans"
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 0.33,
+        "us_unit": "cup",
+        "metric_amount_base": 80.0,
+        "metric_unit": "ml",
+        "substitute": "High-quality extra virgin olive oil"
+      },
+      {
+        "name": "Yellow Onion",
+        "us_amount_base": 1.0,
+        "us_unit": "medium",
+        "metric_amount_base": 150.0,
+        "metric_unit": "g",
+        "substitute": "Finely diced yellow onion"
+      },
+      {
+        "name": "All-Purpose Flour",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 10.0,
+        "metric_unit": "g",
+        "substitute": "All-purpose flour (whisked with water & lemon to keep beans pale and sauce silky)"
+      },
+      {
+        "name": "Fresh Lemon Juice",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 45.0,
+        "metric_unit": "ml",
+        "substitute": "Fresh lemon juice"
+      },
+      {
+        "name": "Granulated Sugar",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 4.0,
+        "metric_unit": "g",
+        "substitute": "Granulated sugar"
+      },
+      {
+        "name": "Fresh Dill",
+        "us_amount_base": 0.75,
+        "us_unit": "cup",
+        "metric_amount_base": 35.0,
+        "metric_unit": "g",
+        "substitute": "Finely chopped fresh dill (an indispensable pairing for bakla)"
+      },
+      {
+        "name": "Whole Milk Greek Yogurt & Garlic",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 240.0,
+        "metric_unit": "g",
+        "substitute": "Whole milk Greek yogurt whisked with 1 crushed garlic clove and pinch of salt"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Trim the stringy edges and tips of the broad bean pods, snapping each pod into 2 or 3 bite-sized pieces. Drop immediately into cold water mixed with 1 tbsp flour and lemon juice to prevent blackening.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 2,
+        "instruction": "In a wide saucepan, heat olive oil over medium heat. Sauté the chopped onion until soft and translucent.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 3,
+        "instruction": "Drain the broad beans and add them to the saucepan. Sauté for 3 minutes until coated in olive oil.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 4,
+        "instruction": "Whisk 1 tbsp flour, 2 tbsp lemon juice, sugar, 1 tsp salt, and 1 cup warm water until completely smooth. Pour over the beans.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 5,
+        "instruction": "Bring to a boil, cover tightly, and simmer on low heat until the beans are completely tender and the sauce has emulsified.",
+        "timer_seconds": 1800
+      },
+      {
+        "step_number": 6,
+        "instruction": "Fold in half the fresh dill. Let cool completely in the pot. Serve at room temperature topped with a generous dollop of garlicky Greek yogurt and remaining dill.",
+        "timer_seconds": 1800
+      }
+    ]
+  },
+  {
+    "id": "veggie_12",
+    "titleEn": "Delicate Stuffed Zucchini Blossoms with Herbed Rice",
+    "titleTr": "Kabak Çiçeği Dolması",
+    "category": "Olive Oil & Vegetarian",
+    "prepTimeMinutes": 35,
+    "cookTimeMinutes": 30,
+    "servings": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/veggie_12.webp",
+    "description": "An Aegean treasure from coastal Bodrum and Ayvalık: tender yellow zucchini blossoms stuffed with sweet caramelized onions, short-grain rice, fresh mint, dill, and olive oil, gently steamed and served chilled.",
+    "ingredients": [
+      {
+        "name": "Fresh Zucchini Blossoms (Squash Flowers)",
+        "us_amount_base": 16.0,
+        "us_unit": "pieces",
+        "metric_amount_base": 16.0,
+        "metric_unit": "pieces",
+        "substitute": "Fresh male or female squash blossoms (available in summer at Whole Foods, farmers markets, or Italian grocers); alternatively, baby sweet snacking peppers with tops removed"
+      },
+      {
+        "name": "Turkish Short-Grain Rice (Baldo)",
+        "us_amount_base": 0.75,
+        "us_unit": "cup",
+        "metric_amount_base": 150.0,
+        "metric_unit": "g",
+        "substitute": "Arborio or Calrose rice, rinsed"
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 0.33,
+        "us_unit": "cup",
+        "metric_amount_base": 80.0,
+        "metric_unit": "ml",
+        "substitute": "Delicate, fruity extra virgin olive oil"
+      },
+      {
+        "name": "Yellow Onion",
+        "us_amount_base": 1.0,
+        "us_unit": "large",
+        "metric_amount_base": 200.0,
+        "metric_unit": "g",
+        "substitute": "Very finely grated or minced yellow onion"
+      },
+      {
+        "name": "Ripe Tomato",
+        "us_amount_base": 1.0,
+        "us_unit": "medium",
+        "metric_amount_base": 150.0,
+        "metric_unit": "g",
+        "substitute": "Grated fresh tomato"
+      },
+      {
+        "name": "Fresh Spearmint & Dill",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 25.0,
+        "metric_unit": "g",
+        "substitute": "Finely chopped fresh mint and fresh dill"
+      },
+      {
+        "name": "Granulated Sugar & Sea Salt",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 5.0,
+        "metric_unit": "g",
+        "substitute": "1/2 tsp sugar, 1/2 tsp fine sea salt, and a pinch of black pepper"
+      },
+      {
+        "name": "Lemon Juice",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "ml",
+        "substitute": "Fresh lemon juice"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Carefully open the flower petals of each blossom and snip off the inner pistil/stamen without tearing the delicate petals. Rinse gently under cold water and let drain on paper towels.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 2,
+        "instruction": "In a bowl, mix rinsed rice, grated onion, grated tomato, chopped mint, chopped dill, half the olive oil, sugar, salt, and pepper into a fragrant raw filling.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 3,
+        "instruction": "Using a teaspoon, gently spoon about 1.5 teaspoons of filling into the center of each blossom (do not overfill, as rice swells). Fold the petal tips over one another to seal the opening.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 4,
+        "instruction": "Arrange the stuffed blossoms seam-side down in snug concentric circles in a wide pot. Drizzle remaining olive oil and lemon juice over top, and add 3/4 cup warm water around them.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 5,
+        "instruction": "Place an inverted heat-proof plate over the flowers to prevent them from opening. Cover pot, bring to a boil, then cook over low heat for 25 minutes until rice is fully cooked and tender.",
+        "timer_seconds": 1500
+      },
+      {
+        "step_number": 6,
+        "instruction": "Cool in the pot completely, then refrigerate for at least 1 hour. Serve chilled with lemon wedges.",
+        "timer_seconds": 3600
+      }
+    ]
+  },
+  {
+    "id": "veggie_13",
+    "titleEn": "Spiced Red Lentil & Bulgur Finger Patties with Herbs",
+    "titleTr": "Mercimek Köftesi",
+    "category": "Olive Oil & Vegetarian",
+    "prepTimeMinutes": 25,
+    "cookTimeMinutes": 20,
+    "servings": 6,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/veggie_13.webp",
+    "description": "A beloved Turkish vegan culinary classic: pureed tender red lentils steamed with fine bulgur, kneaded with sautéed onions, tomato and pepper pastes, ground cumin, scallions, parsley, and pomegranate molasses, squeezed into bite-sized finger-marked patties.",
+    "ingredients": [
+      {
+        "name": "Red Lentils (Kırmızı Mercimek)",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 200.0,
+        "metric_unit": "g",
+        "substitute": "Split red lentils (available at Trader Joe's, Whole Foods, or any supermarket)"
+      },
+      {
+        "name": "Fine Grind Bulgur (#1 Köftelik Bulgur)",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 160.0,
+        "metric_unit": "g",
+        "substitute": "Fine #1 bulgur wheat (such as Sunnyland Mills or Sadaf), or whole-wheat couscous if fine bulgur is unavailable"
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "ml",
+        "substitute": "Cold-pressed extra virgin olive oil"
+      },
+      {
+        "name": "Yellow Onion",
+        "us_amount_base": 1.0,
+        "us_unit": "large",
+        "metric_amount_base": 200.0,
+        "metric_unit": "g",
+        "substitute": "Finely minced yellow onion"
+      },
+      {
+        "name": "Tomato Paste",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 35.0,
+        "metric_unit": "g",
+        "substitute": "Double-concentrated tomato paste"
+      },
+      {
+        "name": "Turkish Red Pepper Paste (Biber Salçası)",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 20.0,
+        "metric_unit": "g",
+        "substitute": "Mild red pepper paste (Tat / Öncü), or 1 tbsp tomato paste mixed with 1 tsp smoked sweet paprika and pinch of cayenne"
+      },
+      {
+        "name": "Pomegranate Molasses (Nar Ekşisi)",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "ml",
+        "substitute": "100% pure pomegranate molasses (Cortas or Al Wadi) or 1.5 tbsp fresh lemon juice plus 1/2 tsp balsamic glaze"
+      },
+      {
+        "name": "Ground Cumin & Aleppo Pepper (Pul Biber)",
+        "us_amount_base": 1.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 5.0,
+        "metric_unit": "g",
+        "substitute": "1 tsp ground cumin and 1/2 tsp crushed red pepper flakes or Aleppo pepper"
+      },
+      {
+        "name": "Scallions & Fresh Flat-Leaf Parsley",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 60.0,
+        "metric_unit": "g",
+        "substitute": "5 thinly sliced scallions and 1/2 bunch finely minced Italian parsley"
+      },
+      {
+        "name": "Crisp Romaine Lettuce Leaves",
+        "us_amount_base": 1.0,
+        "us_unit": "head",
+        "metric_amount_base": 300.0,
+        "metric_unit": "g",
+        "substitute": "Washed and crisped romaine lettuce leaves for serving"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "In a pot, combine rinsed red lentils with 3 cups of water. Bring to a boil, skim foam, reduce heat, and simmer until lentils are completely broken down into a soft puree.",
+        "timer_seconds": 1200
+      },
+      {
+        "step_number": 2,
+        "instruction": "Turn off heat while the lentils are still slightly soupy. Stir in the fine bulgur thoroughly. Cover tightly with a lid and let sit for 15 minutes; the bulgur will absorb the remaining hot liquid and steam to perfection.",
+        "timer_seconds": 900
+      },
+      {
+        "step_number": 3,
+        "instruction": "Meanwhile, heat olive oil in a skillet over medium heat. Sauté the finely minced onion until golden. Add tomato paste and pepper paste, sautéing for 2 minutes to caramelize.",
+        "timer_seconds": 420
+      },
+      {
+        "step_number": 4,
+        "instruction": "Transfer the warm lentil-bulgur mixture to a wide shallow bowl or kneading tray. Pour in the hot onion-paste mixture, cumin, pepper flakes, pomegranate molasses, and 1.5 tsp salt. Knead by hand until smooth, cohesive, and cool enough to handle.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 5,
+        "instruction": "Fold in the sliced scallions and chopped fresh parsley, kneading gently until evenly distributed.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 6,
+        "instruction": "Grab walnut-sized portions of the warm mixture in the palm of your hand and squeeze firmly with your fingers to form elongated patties with distinct finger impressions.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 7,
+        "instruction": "Arrange on a platter lined with crisp romaine lettuce leaves and lemon wedges. Serve at room temperature.",
+        "timer_seconds": 0
+      }
+    ]
+  },
+  {
+    "id": "veggie_14",
+    "titleEn": "Braised Baby Okra with Tomatoes, Olive Oil & Lemon",
+    "titleTr": "Zeytinyağlı Bamya",
+    "category": "Olive Oil & Vegetarian",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 35,
+    "servings": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/veggie_14.webp",
+    "description": "A celebrated Aegean summer dish: tender petite baby okra trimmed carefully into conical hats, braised in golden olive oil with grated sweet tomatoes, onions, garlic, and fresh lemon juice to achieve a silky, completely slime-free texture.",
+    "ingredients": [
+      {
+        "name": "Fresh or Frozen Baby Okra",
+        "us_amount_base": 1.0,
+        "us_unit": "lb",
+        "metric_amount_base": 450.0,
+        "metric_unit": "g",
+        "substitute": "Fresh small young okra (under 2 inches) or frozen whole baby okra (found at Middle Eastern, Indian, or Whole Foods grocers)"
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 0.33,
+        "us_unit": "cup",
+        "metric_amount_base": 80.0,
+        "metric_unit": "ml",
+        "substitute": "Cold-pressed extra virgin olive oil"
+      },
+      {
+        "name": "Yellow Onion",
+        "us_amount_base": 1.0,
+        "us_unit": "medium",
+        "metric_amount_base": 150.0,
+        "metric_unit": "g",
+        "substitute": "Finely diced yellow onion"
+      },
+      {
+        "name": "Garlic Cloves",
+        "us_amount_base": 3.0,
+        "us_unit": "cloves",
+        "metric_amount_base": 3.0,
+        "metric_unit": "pieces",
+        "substitute": "Thinly sliced garlic cloves"
+      },
+      {
+        "name": "Ripe Tomatoes",
+        "us_amount_base": 3.0,
+        "us_unit": "medium",
+        "metric_amount_base": 350.0,
+        "metric_unit": "g",
+        "substitute": "Fresh peeled and grated tomatoes or 1.25 cups canned crushed tomatoes"
+      },
+      {
+        "name": "Fresh Lemon Juice",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 45.0,
+        "metric_unit": "ml",
+        "substitute": "Freshly squeezed lemon juice (acid prevents okra from becoming mucilaginous)"
+      },
+      {
+        "name": "Granulated Sugar",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 4.0,
+        "metric_unit": "g",
+        "substitute": "Granulated sugar"
+      },
+      {
+        "name": "Sea Salt",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 5.0,
+        "metric_unit": "g",
+        "substitute": "Fine sea salt"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Carefully trim the woody stem of each fresh okra pod with a small paring knife, carving around the crown in a conical spiral pencil-sharpener motion without cutting into the inner seed pod (cutting the pod releases mucilage). Soak trimmed okra in cold water with 2 tbsp lemon juice for 15 minutes, then drain.",
+        "timer_seconds": 900
+      },
+      {
+        "step_number": 2,
+        "instruction": "Heat olive oil in a wide shallow pot over medium heat. Sauté diced onions and sliced garlic until translucent and fragrant.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 3,
+        "instruction": "Add the grated tomatoes, sugar, salt, and 1 tbsp lemon juice. Simmer gently for 5 minutes until the tomato sauce is slightly reduced and rich.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 4,
+        "instruction": "Gently add the drained okra to the pan in an even layer. Pour 1/2 cup warm water around the edges. Do not stir with a spoon; gently shake the pan by the handles to distribute the sauce.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 5,
+        "instruction": "Cover with a tight lid, bring to a simmer, and cook over low heat undisturbed until okra is tender but holds its shape.",
+        "timer_seconds": 1500
+      },
+      {
+        "step_number": 6,
+        "instruction": "Remove from heat and allow to cool completely in the pot. Serve at room temperature or chilled with lemon wedges.",
+        "timer_seconds": 1800
+      }
+    ]
+  },
+  {
+    "id": "veggie_15",
+    "titleEn": "Braised Jerusalem Artichokes with Carrots & Lemon in Olive Oil",
+    "titleTr": "Zeytinyağlı Yer Elması",
+    "category": "Olive Oil & Vegetarian",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 30,
+    "servings": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/veggie_15.webp",
+    "description": "A delicate and nutty winter root vegetable specialty: Jerusalem artichokes (sunchokes) braised with sweet carrots, a handful of rice, fresh lemon juice, and extra virgin olive oil, finished with vibrant fresh dill.",
+    "ingredients": [
+      {
+        "name": "Jerusalem Artichokes (Sunchokes / Yer Elması)",
+        "us_amount_base": 1.25,
+        "us_unit": "lbs",
+        "metric_amount_base": 600.0,
+        "metric_unit": "g",
+        "substitute": "Fresh sunchokes / Jerusalem artichokes (available in the root vegetable section of Whole Foods, Sprouts, or Wegmans), peeled and sliced into 1/2-inch rounds"
+      },
+      {
+        "name": "Carrots",
+        "us_amount_base": 2.0,
+        "us_unit": "medium",
+        "metric_amount_base": 180.0,
+        "metric_unit": "g",
+        "substitute": "Peeled and sliced into 1/3-inch coins"
+      },
+      {
+        "name": "Yellow Onion",
+        "us_amount_base": 1.0,
+        "us_unit": "medium",
+        "metric_amount_base": 150.0,
+        "metric_unit": "g",
+        "substitute": "Finely chopped yellow onion"
+      },
+      {
+        "name": "Short-Grain White Rice",
+        "us_amount_base": 1.5,
+        "us_unit": "tbsp",
+        "metric_amount_base": 20.0,
+        "metric_unit": "g",
+        "substitute": "Baldo, Arborio, or Calrose medium-grain white rice rinsed"
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 0.33,
+        "us_unit": "cup",
+        "metric_amount_base": 80.0,
+        "metric_unit": "ml",
+        "substitute": "Cold-pressed extra virgin olive oil"
+      },
+      {
+        "name": "Fresh Lemon Juice",
+        "us_amount_base": 2.5,
+        "us_unit": "tbsp",
+        "metric_amount_base": 38.0,
+        "metric_unit": "ml",
+        "substitute": "Freshly squeezed lemon juice"
+      },
+      {
+        "name": "Granulated Sugar",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 4.0,
+        "metric_unit": "g",
+        "substitute": "Granulated sugar"
+      },
+      {
+        "name": "Sea Salt",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 5.0,
+        "metric_unit": "g",
+        "substitute": "Fine sea salt"
+      },
+      {
+        "name": "Fresh Dill",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 20.0,
+        "metric_unit": "g",
+        "substitute": "Finely chopped fresh dill"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Peel the knobby sunchokes with a vegetable peeler or paring knife. Slice into 1/2-inch thick coins and place immediately into a bowl of water with 1 tbsp lemon juice to keep them bright.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 2,
+        "instruction": "Heat olive oil in a wide shallow saucepan over medium heat. Sauté the diced onion and carrot slices for 4 minutes until the carrots begin to glisten.",
+        "timer_seconds": 240
+      },
+      {
+        "step_number": 3,
+        "instruction": "Drain the sunchoke slices and add them to the pot with the rinsed rice. Gently turn to coat in olive oil.",
+        "timer_seconds": 60
+      },
+      {
+        "step_number": 4,
+        "instruction": "Pour in 1 cup warm water, remaining lemon juice, sugar, and salt. Bring to a gentle boil.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 5,
+        "instruction": "Cover with a tight lid, reduce heat to low, and simmer until sunchokes are tender and creamy when pierced with a fork (approx. 20-25 minutes). Do not overcook as sunchokes soften quickly.",
+        "timer_seconds": 1380
+      },
+      {
+        "step_number": 6,
+        "instruction": "Turn off heat, stir in half the chopped fresh dill, and let cool completely in the pot. Serve at room temperature garnished with remaining fresh dill and extra virgin olive oil drizzle.",
+        "timer_seconds": 1800
+      }
+    ]
+  }
+]

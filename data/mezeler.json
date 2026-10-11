@@ -1,0 +1,1249 @@
+[
+  {
+    "id": "meze_01",
+    "titleEn": "Turkish Yogurt Dip with Herbs (Haydari)",
+    "titleTr": "Haydari",
+    "category": "Meze & Cold Starters",
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 0,
+    "servings": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/meze_01.webp",
+    "description": "A classic, refreshing Turkish dip made with thick strained yogurt, crumbled white cheese, garlic, and fresh dill.",
+    "ingredients": [
+      {
+        "name": "Thick Strained Yogurt (Süzme Yoğurt)",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 240.0,
+        "metric_unit": "g",
+        "substitute": "Plain whole-milk Greek yogurt (e.g., Fage Total 5%) or labneh"
+      },
+      {
+        "name": "Turkish White Cheese (Beyaz Peynir) or Feta",
+        "us_amount_base": 0.33,
+        "us_unit": "cup",
+        "metric_amount_base": 50.0,
+        "metric_unit": "g",
+        "substitute": "Greek feta in brine or mild French sheep's milk feta"
+      },
+      {
+        "name": "Garlic (finely grated or crushed)",
+        "us_amount_base": 1.0,
+        "us_unit": "clove",
+        "metric_amount_base": 1.0,
+        "metric_unit": "clove",
+        "substitute": null
+      },
+      {
+        "name": "Fresh Dill (finely chopped)",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 6.0,
+        "metric_unit": "g",
+        "substitute": "Fresh spearmint or dried mint"
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 15.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Fine Sea Salt",
+        "us_amount_base": 0.25,
+        "us_unit": "tsp",
+        "metric_amount_base": 1.5,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Mash the feta cheese with a fork in a mixing bowl until broken down into small crumbles. Mix thoroughly with the strained yogurt, crushed garlic, and finely chopped dill.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 2,
+        "instruction": "Drizzle in the extra virgin olive oil and season with salt, stirring vigorously until smooth, thick, and creamy.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 3,
+        "instruction": "Transfer to a serving bowl and chill in the refrigerator for at least 10 minutes before serving to allow the flavors to marry.",
+        "timer_seconds": 600
+      }
+    ]
+  },
+  {
+    "id": "meze_02",
+    "titleEn": "Hummus with Warm Sizzling Butter",
+    "titleTr": "Tereyağlı Humus",
+    "category": "Meze & Cold Starters",
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 5,
+    "servings": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/meze_02.webp",
+    "description": "Velvety smooth chickpea dip enriched with tahini and lemon juice, crowned with warm foaming butter and cumin.",
+    "ingredients": [
+      {
+        "name": "Cooked Chickpeas (rinsed and drained)",
+        "us_amount_base": 1.0,
+        "us_unit": "15-oz can",
+        "metric_amount_base": 240.0,
+        "metric_unit": "g",
+        "substitute": "1.5 cups home-cooked tender chickpeas"
+      },
+      {
+        "name": "Pure Sesame Tahini",
+        "us_amount_base": 0.25,
+        "us_unit": "cup",
+        "metric_amount_base": 60.0,
+        "metric_unit": "g",
+        "substitute": "Roasted white sesame paste"
+      },
+      {
+        "name": "Fresh Lemon Juice",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Garlic (crushed)",
+        "us_amount_base": 1.0,
+        "us_unit": "clove",
+        "metric_amount_base": 1.0,
+        "metric_unit": "clove",
+        "substitute": null
+      },
+      {
+        "name": "Ice Cold Water",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 45.0,
+        "metric_unit": "ml",
+        "substitute": "Cold mineral water or ice cubes"
+      },
+      {
+        "name": "Unsalted Butter",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 28.0,
+        "metric_unit": "g",
+        "substitute": "Extra virgin olive oil for a vegan option"
+      },
+      {
+        "name": "Ground Cumin",
+        "us_amount_base": 0.25,
+        "us_unit": "tsp",
+        "metric_amount_base": 0.5,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Fine Sea Salt",
+        "us_amount_base": 0.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 3.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Combine the drained chickpeas, tahini, freshly squeezed lemon juice, crushed garlic, ground cumin, and salt in the bowl of a food processor. Process until coarsely ground.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 2,
+        "instruction": "With the motor running, drizzle in ice cold water a tablespoon at a time, processing for several minutes until the hummus turns ultra-smooth, light, and airy.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 3,
+        "instruction": "Melt the butter in a small skillet over medium heat until gently sizzling and lightly foaming. Swirl hummus onto a shallow dish, drizzle the hot butter over top, and serve warm.",
+        "timer_seconds": 180
+      }
+    ]
+  },
+  {
+    "id": "meze_03",
+    "titleEn": "Turkish Eggplant and Pepper Meze (Şakşuka)",
+    "titleTr": "Şakşuka",
+    "category": "Meze & Cold Starters",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 25,
+    "servings": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/meze_03.webp",
+    "description": "Tender fried cubes of eggplant and green peppers enveloped in a rich, garlicky tomato reduction.",
+    "ingredients": [
+      {
+        "name": "Eggplant (cubed)",
+        "us_amount_base": 1.0,
+        "us_unit": "large",
+        "metric_amount_base": 400.0,
+        "metric_unit": "g",
+        "substitute": "2 medium Italian or Japanese eggplants"
+      },
+      {
+        "name": "Green Bell Peppers (or Turkish sivri biber, chopped)",
+        "us_amount_base": 2.0,
+        "us_unit": "medium",
+        "metric_amount_base": 200.0,
+        "metric_unit": "g",
+        "substitute": "Cubanelle peppers or Italian frying peppers"
+      },
+      {
+        "name": "Ripe Roma Tomatoes (grated or finely chopped)",
+        "us_amount_base": 2.0,
+        "us_unit": "medium",
+        "metric_amount_base": 300.0,
+        "metric_unit": "g",
+        "substitute": "1 cup canned crushed San Marzano tomatoes"
+      },
+      {
+        "name": "Garlic (sliced)",
+        "us_amount_base": 2.0,
+        "us_unit": "cloves",
+        "metric_amount_base": 2.0,
+        "metric_unit": "cloves",
+        "substitute": null
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 45.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Turkish Tomato Paste (Domates Salçası)",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 16.0,
+        "metric_unit": "g",
+        "substitute": "Standard double-concentrated tomato paste"
+      },
+      {
+        "name": "Fine Sea Salt",
+        "us_amount_base": 0.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 3.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Peel the eggplant in alternating zebra stripes and cut into 3/4-inch bite-sized cubes. Sprinkle with salt and let rest for 10 minutes to draw out excess moisture, then thoroughly pat dry with paper towels.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 2,
+        "instruction": "Fry the eggplant cubes and chopped peppers in olive oil in batches over medium-high heat until tender and golden brown, then transfer to a paper-towel-lined plate.",
+        "timer_seconds": 720
+      },
+      {
+        "step_number": 3,
+        "instruction": "In a saucepan, heat 1 tbsp olive oil and sauté the sliced garlic for 30 seconds. Stir in tomato paste and chopped tomatoes, simmering gently until thickened into a rich sauce.",
+        "timer_seconds": 480
+      },
+      {
+        "step_number": 4,
+        "instruction": "Gently fold the fried vegetables into the warm tomato sauce. Allow to cool completely to room temperature or chill before serving.",
+        "timer_seconds": 600
+      }
+    ]
+  },
+  {
+    "id": "meze_04",
+    "titleEn": "Spicy Turkish Tomato & Pepper Relish (Ezme)",
+    "titleTr": "Acılı Ezme",
+    "category": "Meze & Cold Starters",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 0,
+    "servings": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/meze_04.webp",
+    "description": "Finely minced fresh tomatoes, peppers, and parsley tossed with tangy pomegranate molasses and fiery Turkish red pepper flakes.",
+    "ingredients": [
+      {
+        "name": "Ripe Tomatoes (seeded and finely minced)",
+        "us_amount_base": 3.0,
+        "us_unit": "medium",
+        "metric_amount_base": 450.0,
+        "metric_unit": "g",
+        "substitute": "Ripe Roma or vine-ripened tomatoes"
+      },
+      {
+        "name": "Red Bell Pepper (finely minced)",
+        "us_amount_base": 1.0,
+        "us_unit": "small",
+        "metric_amount_base": 120.0,
+        "metric_unit": "g",
+        "substitute": "Kapia pepper"
+      },
+      {
+        "name": "Green Pepper or Mild Jalapeño (finely minced)",
+        "us_amount_base": 1.0,
+        "us_unit": "small",
+        "metric_amount_base": 60.0,
+        "metric_unit": "g",
+        "substitute": "Turkish sivri green pepper or serrano"
+      },
+      {
+        "name": "Fresh Flat-Leaf Parsley (finely chopped)",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 15.0,
+        "metric_unit": "g",
+        "substitute": "Fresh cilantro or fresh mint"
+      },
+      {
+        "name": "Turkish Tomato Paste (Domates Salçası)",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 16.0,
+        "metric_unit": "g",
+        "substitute": "Standard tomato paste mixed with 1/2 tsp hot pepper paste"
+      },
+      {
+        "name": "Pomegranate Molasses (Nar Ekşisi)",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 15.0,
+        "metric_unit": "ml",
+        "substitute": "1 tbsp fresh lemon juice plus 1/2 tsp balsamic glaze"
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 15.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Aleppo Pepper Flakes (Pul Biber)",
+        "us_amount_base": 0.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 1.0,
+        "metric_unit": "g",
+        "substitute": "Crushed red pepper flakes or sweet Hungarian paprika"
+      },
+      {
+        "name": "Fine Sea Salt",
+        "us_amount_base": 0.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 3.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Finely hand-mince the tomatoes, red bell pepper, and green pepper with a sharp chef's knife or Turkish zırh. Transfer to a fine-mesh strainer and press lightly to discard excess standing liquid.",
+        "timer_seconds": 480
+      },
+      {
+        "step_number": 2,
+        "instruction": "In a mixing bowl, combine the drained vegetables with chopped parsley, tomato paste, pomegranate molasses, olive oil, Aleppo pepper flakes, and salt. Stir vigorously to incorporate.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 3,
+        "instruction": "Let stand at room temperature for 5 minutes for the seasonings and tart pomegranate juices to meld together, then transfer to a shallow meze platter and serve.",
+        "timer_seconds": 300
+      }
+    ]
+  },
+  {
+    "id": "meze_05",
+    "titleEn": "Turkish Broad Bean Purée (Fava)",
+    "titleTr": "Fava",
+    "category": "Meze & Cold Starters",
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 45,
+    "servings": 6,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/meze_05.webp",
+    "description": "Silky Aegean spread of slow-cooked split fava beans scented with dill, olive oil, and sweet yellow onion.",
+    "ingredients": [
+      {
+        "name": "Dried Split Fava Beans (Kuru İç Bakla)",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 200.0,
+        "metric_unit": "g",
+        "substitute": "Yellow split peas"
+      },
+      {
+        "name": "Yellow Onion (diced)",
+        "us_amount_base": 1.0,
+        "us_unit": "small",
+        "metric_amount_base": 100.0,
+        "metric_unit": "g",
+        "substitute": "Shallots or white onion"
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 45.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Granulated Sugar",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 4.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Fresh Lemon Juice",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 15.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Fresh Dill (finely chopped)",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 6.0,
+        "metric_unit": "g",
+        "substitute": "Fresh flat-leaf parsley"
+      },
+      {
+        "name": "Fine Sea Salt",
+        "us_amount_base": 0.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 3.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Rinse the split fava beans under cold water. In a medium pot, heat 1 tablespoon of olive oil over medium-low heat and gently sauté the chopped onion until translucent and soft.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 2,
+        "instruction": "Add the rinsed fava beans, sugar, salt, and enough warm water to cover by 1 inch (about 2.5 cups). Bring to a simmer, cover, and cook on low heat until the beans are completely tender and falling apart.",
+        "timer_seconds": 2400
+      },
+      {
+        "step_number": 3,
+        "instruction": "Purée with an immersion blender until velvety smooth, incorporating the lemon juice and remaining olive oil. Pour into a shallow rimmed dish, cool until set, and garnish with fresh dill and red onion.",
+        "timer_seconds": 600
+      }
+    ]
+  },
+  {
+    "id": "meze_06",
+    "titleEn": "Spicy Strained Yogurt with Fried Dried Chilies (Atom)",
+    "titleTr": "Atom Mezesi",
+    "category": "Meze & Cold Starters",
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 5,
+    "servings": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/meze_06.webp",
+    "description": "Cool, creamy strained garlic yogurt topped with sizzling hot butter infused with fiery whole dried red chilies.",
+    "ingredients": [
+      {
+        "name": "Thick Strained Yogurt (Süzme Yoğurt)",
+        "us_amount_base": 1.5,
+        "us_unit": "cups",
+        "metric_amount_base": 360.0,
+        "metric_unit": "g",
+        "substitute": "Plain whole-milk Greek yogurt (e.g., Fage 5%) or labneh"
+      },
+      {
+        "name": "Garlic (crushed to a paste)",
+        "us_amount_base": 1.0,
+        "us_unit": "clove",
+        "metric_amount_base": 1.0,
+        "metric_unit": "clove",
+        "substitute": null
+      },
+      {
+        "name": "Unsalted Butter",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 28.0,
+        "metric_unit": "g",
+        "substitute": "Extra virgin olive oil"
+      },
+      {
+        "name": "Dried Hot Red Chilies (or Turkish Arnavut Biberi)",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 2.5,
+        "metric_unit": "g",
+        "substitute": "Whole dried Arbol chilies or crushed red pepper flakes"
+      },
+      {
+        "name": "Fine Sea Salt",
+        "us_amount_base": 0.25,
+        "us_unit": "tsp",
+        "metric_amount_base": 1.5,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Whisk the strained yogurt with finely crushed garlic and salt in a bowl until smooth and fluffy, then spread evenly across a shallow serving platter creating decorative ridges.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 2,
+        "instruction": "Melt the butter in a small skillet over medium heat until gently foaming. Add the dried red chilies and sizzle briefly for 30 to 45 seconds until aromatic and the butter turns crimson.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 3,
+        "instruction": "Immediately pour the hot bubbling chili butter over the cool yogurt base and serve warm with toasted crusty bread.",
+        "timer_seconds": 60
+      }
+    ]
+  },
+  {
+    "id": "meze_07",
+    "titleEn": "Smoky Roasted Eggplant Salad (Köz Patlıcan Salatası)",
+    "titleTr": "Köz Patlıcan Salatası",
+    "category": "Meze & Cold Starters",
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 30,
+    "servings": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/meze_07.webp",
+    "description": "Fire-roasted eggplant flesh coarsely chopped and dressed simply with crushed garlic, fresh lemon juice, and fruity olive oil.",
+    "ingredients": [
+      {
+        "name": "Eggplants (globe or Italian)",
+        "us_amount_base": 2.0,
+        "us_unit": "medium",
+        "metric_amount_base": 600.0,
+        "metric_unit": "g",
+        "substitute": "Charcoal-grilled or fire-roasted whole eggplants"
+      },
+      {
+        "name": "Garlic (finely grated)",
+        "us_amount_base": 1.0,
+        "us_unit": "clove",
+        "metric_amount_base": 1.0,
+        "metric_unit": "clove",
+        "substitute": null
+      },
+      {
+        "name": "Fresh Lemon Juice",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Fresh Flat-Leaf Parsley (chopped)",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 8.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Fine Sea Salt",
+        "us_amount_base": 0.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 3.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Prick the eggplants in several spots with a fork. Roast over an open gas flame or under an oven broiler at 450°F (230°C), turning frequently until skins are deeply charred and interior is completely soft.",
+        "timer_seconds": 1800
+      },
+      {
+        "step_number": 2,
+        "instruction": "Place the roasted eggplants in a covered bowl to steam for 10 minutes. Peel away the charred skins, drain excess liquid, and coarsely chop the tender flesh with a chef's knife.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 3,
+        "instruction": "In a bowl, toss the warm chopped eggplant with grated garlic, lemon juice, olive oil, chopped parsley, and salt until evenly combined. Serve at room temperature or chilled.",
+        "timer_seconds": 180
+      }
+    ]
+  },
+  {
+    "id": "meze_08",
+    "titleEn": "Roasted Red Pepper and Walnut Dip (Muhammara)",
+    "titleTr": "Muhammara",
+    "category": "Meze & Cold Starters",
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 0,
+    "servings": 6,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/meze_08.webp",
+    "description": "Rich Levantine-Turkish spread made with roasted sweet red peppers, crunchy toasted walnuts, breadcrumbs, and tart pomegranate molasses.",
+    "ingredients": [
+      {
+        "name": "Jarred Roasted Red Peppers (rinsed and drained)",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 150.0,
+        "metric_unit": "g",
+        "substitute": "Fresh fire-roasted red bell peppers (Kapia biber)"
+      },
+      {
+        "name": "Walnuts (lightly toasted)",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 60.0,
+        "metric_unit": "g",
+        "substitute": "Pecans or toasted almonds"
+      },
+      {
+        "name": "Plain Breadcrumbs (Galeta Unu)",
+        "us_amount_base": 0.33,
+        "us_unit": "cup",
+        "metric_amount_base": 30.0,
+        "metric_unit": "g",
+        "substitute": "Panko breadcrumbs or toasted stale country bread"
+      },
+      {
+        "name": "Pomegranate Molasses (Nar Ekşisi)",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 15.0,
+        "metric_unit": "ml",
+        "substitute": "1 tbsp lemon juice plus 1 tsp honey or balsamic glaze"
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Ground Cumin",
+        "us_amount_base": 0.25,
+        "us_unit": "tsp",
+        "metric_amount_base": 0.5,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Aleppo Pepper Flakes (Pul Biber)",
+        "us_amount_base": 0.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 1.0,
+        "metric_unit": "g",
+        "substitute": "Urfa biber or sweet paprika"
+      },
+      {
+        "name": "Fine Sea Salt",
+        "us_amount_base": 0.25,
+        "us_unit": "tsp",
+        "metric_amount_base": 1.5,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Pulse the walnuts in a food processor until coarsely ground, leaving some small texture intact.",
+        "timer_seconds": 60
+      },
+      {
+        "step_number": 2,
+        "instruction": "Add the drained roasted peppers, breadcrumbs, pomegranate molasses, olive oil, ground cumin, Aleppo pepper, and salt. Pulse continuously until a thick, textured spread forms.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 3,
+        "instruction": "Taste and balance with additional pomegranate molasses or salt if desired. Spoon into a shallow bowl, drizzle with olive oil, and garnish with walnut halves.",
+        "timer_seconds": 120
+      }
+    ]
+  },
+  {
+    "id": "meze_09",
+    "titleEn": "Sautéed Carrot Yogurt Dip (Havuç Tarator)",
+    "titleTr": "Havuç Tarator",
+    "category": "Meze & Cold Starters",
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 10,
+    "servings": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/meze_09.webp",
+    "description": "Sweet coarsely grated carrots gently caramelized in olive oil and folded into thick garlic strained yogurt.",
+    "ingredients": [
+      {
+        "name": "Carrots (peeled and coarsely grated)",
+        "us_amount_base": 3.0,
+        "us_unit": "medium",
+        "metric_amount_base": 300.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Thick Strained Yogurt (Süzme Yoğurt)",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 240.0,
+        "metric_unit": "g",
+        "substitute": "Plain whole-milk Greek yogurt (e.g., Fage Total 5%)"
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 15.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Garlic (finely grated)",
+        "us_amount_base": 1.0,
+        "us_unit": "clove",
+        "metric_amount_base": 1.0,
+        "metric_unit": "clove",
+        "substitute": null
+      },
+      {
+        "name": "Fine Sea Salt",
+        "us_amount_base": 0.25,
+        "us_unit": "tsp",
+        "metric_amount_base": 1.5,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Walnuts (finely chopped, optional)",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 15.0,
+        "metric_unit": "g",
+        "substitute": "Toasted pine nuts or pistachios"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Heat olive oil in a wide skillet over medium heat. Add grated carrots and sauté, stirring frequently, until tender and caramelized, about 7 to 8 minutes.",
+        "timer_seconds": 480
+      },
+      {
+        "step_number": 2,
+        "instruction": "Transfer sautéed carrots to a plate and let cool completely. In a mixing bowl, combine strained yogurt, grated garlic, and salt, then fold in the cooled carrots.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 3,
+        "instruction": "Transfer to a presentation dish, top with toasted chopped walnuts, and chill for 15 minutes before serving.",
+        "timer_seconds": 120
+      }
+    ]
+  },
+  {
+    "id": "meze_10",
+    "titleEn": "Circassian Chicken with Walnut Sauce (Çerkez Tavuğu)",
+    "titleTr": "Çerkez Tavuğu",
+    "category": "Meze & Cold Starters",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 20,
+    "servings": 6,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/meze_10.webp",
+    "description": "Tender poached shredded chicken folded into a velvety, aromatic walnut, bread, and garlic paste finished with spiced paprika oil.",
+    "ingredients": [
+      {
+        "name": "Cooked Chicken Breast (tender shredded)",
+        "us_amount_base": 2.0,
+        "us_unit": "cups",
+        "metric_amount_base": 300.0,
+        "metric_unit": "g",
+        "substitute": "Poached chicken thighs or rotisserie chicken breast"
+      },
+      {
+        "name": "Walnuts",
+        "us_amount_base": 0.75,
+        "us_unit": "cup",
+        "metric_amount_base": 90.0,
+        "metric_unit": "g",
+        "substitute": "Pecans"
+      },
+      {
+        "name": "Stale White Country Bread (crust removed)",
+        "us_amount_base": 1.0,
+        "us_unit": "slice",
+        "metric_amount_base": 30.0,
+        "metric_unit": "g",
+        "substitute": "Sandwich bread slice or Turkish pide crumb"
+      },
+      {
+        "name": "Warm Chicken Broth",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "ml",
+        "substitute": "Vegetable broth"
+      },
+      {
+        "name": "Garlic (crushed)",
+        "us_amount_base": 2.0,
+        "us_unit": "cloves",
+        "metric_amount_base": 2.0,
+        "metric_unit": "cloves",
+        "substitute": null
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 15.0,
+        "metric_unit": "ml",
+        "substitute": "Butter"
+      },
+      {
+        "name": "Sweet Hungarian Paprika",
+        "us_amount_base": 0.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 1.0,
+        "metric_unit": "g",
+        "substitute": "Aleppo pepper flakes"
+      },
+      {
+        "name": "Fine Sea Salt",
+        "us_amount_base": 0.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 3.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Poach chicken breast in salted simmering water until tender, cool, and shred finely into delicate strands along the grain.",
+        "timer_seconds": 1200
+      },
+      {
+        "step_number": 2,
+        "instruction": "Soak bread in warm chicken broth, then blend in a food processor with walnuts, garlic, and salt until a rich, thick walnut paste forms.",
+        "timer_seconds": 240
+      },
+      {
+        "step_number": 3,
+        "instruction": "Fold the walnut sauce into the shredded chicken. Warm olive oil with paprika in a small pan, drizzle the vibrant red oil over the chicken, and serve cold.",
+        "timer_seconds": 180
+      }
+    ]
+  },
+  {
+    "id": "meze_11",
+    "titleEn": "Roasted Beet and Garlic Yogurt Dip (Pancar Mezesi)",
+    "titleTr": "Pancar Mezesi",
+    "category": "Meze & Cold Starters",
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 35,
+    "servings": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/meze_11.webp",
+    "description": "Vibrant magenta meze combining tender roasted beets, strained garlic yogurt, fresh lemon juice, and olive oil.",
+    "ingredients": [
+      {
+        "name": "Red Beets (scrubbed and roasted or boiled)",
+        "us_amount_base": 2.0,
+        "us_unit": "medium",
+        "metric_amount_base": 300.0,
+        "metric_unit": "g",
+        "substitute": "Pre-cooked vacuum-packed whole beets"
+      },
+      {
+        "name": "Thick Strained Yogurt (Süzme Yoğurt)",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 240.0,
+        "metric_unit": "g",
+        "substitute": "Plain whole-milk Greek yogurt (e.g., Fage Total 5%)"
+      },
+      {
+        "name": "Garlic (grated)",
+        "us_amount_base": 1.0,
+        "us_unit": "clove",
+        "metric_amount_base": 1.0,
+        "metric_unit": "clove",
+        "substitute": null
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 15.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Fresh Lemon Juice",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 15.0,
+        "metric_unit": "ml",
+        "substitute": "Red wine vinegar"
+      },
+      {
+        "name": "Fine Sea Salt",
+        "us_amount_base": 0.25,
+        "us_unit": "tsp",
+        "metric_amount_base": 1.5,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Roast beets wrapped in foil at 400°F (200°C) or boil until fork-tender. Allow to cool completely, then slip off skins under cold running water.",
+        "timer_seconds": 2100
+      },
+      {
+        "step_number": 2,
+        "instruction": "Coarsely grate the peeled beets and gently press with a paper towel to remove excessive free-running moisture.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 3,
+        "instruction": "In a mixing bowl, blend strained yogurt, grated garlic, olive oil, lemon juice, and salt, then gently fold in the beets until beautifully magenta and creamy.",
+        "timer_seconds": 180
+      }
+    ]
+  },
+  {
+    "id": "meze_12",
+    "titleEn": "Samphire with Garlic Lemon Dressing (Deniz Börülcesi)",
+    "titleTr": "Deniz Börülcesi",
+    "category": "Meze & Cold Starters",
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 8,
+    "servings": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/meze_12.webp",
+    "description": "Crisp Aegean sea beans blanched tender and dressed with zesty crushed garlic, fresh lemon, and cold-pressed olive oil.",
+    "ingredients": [
+      {
+        "name": "Fresh Samphire or Sea Beans (Deniz Börülcesi)",
+        "us_amount_base": 1.0,
+        "us_unit": "lb",
+        "metric_amount_base": 450.0,
+        "metric_unit": "g",
+        "substitute": "Tender young asparagus tips or blanched haricots verts"
+      },
+      {
+        "name": "Garlic (crushed)",
+        "us_amount_base": 1.0,
+        "us_unit": "clove",
+        "metric_amount_base": 1.0,
+        "metric_unit": "clove",
+        "substitute": null
+      },
+      {
+        "name": "Fresh Lemon Juice",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "ml",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Bring a large pot of water to a rolling boil without adding salt. Blanch the samphire for 6 to 8 minutes until vibrant green and tender.",
+        "timer_seconds": 420
+      },
+      {
+        "step_number": 2,
+        "instruction": "Drain immediately and plunge into an ice-water bath. Holding the tough woody root base of each stem, strip off the tender fleshy outer green portions.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 3,
+        "instruction": "Arrange the tender samphire on a platter. Whisk crushed garlic, fresh lemon juice, and olive oil together, pour over top, and serve at room temperature.",
+        "timer_seconds": 120
+      }
+    ]
+  },
+  {
+    "id": "meze_13",
+    "titleEn": "Turkish White Bean Salad (Piyaz)",
+    "titleTr": "Piyaz",
+    "category": "Meze & Cold Starters",
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 0,
+    "servings": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/meze_13.webp",
+    "description": "Hearty white bean salad tossed with thinly sliced red onions, fresh parsley, sumac, and a bright lemon vinaigrette.",
+    "ingredients": [
+      {
+        "name": "Cooked White Cannellini Beans (drained and rinsed)",
+        "us_amount_base": 1.0,
+        "us_unit": "15-oz can",
+        "metric_amount_base": 240.0,
+        "metric_unit": "g",
+        "substitute": "1.5 cups home-cooked tender Great Northern beans"
+      },
+      {
+        "name": "Red Onion (thinly sliced half-moons)",
+        "us_amount_base": 0.5,
+        "us_unit": "medium",
+        "metric_amount_base": 75.0,
+        "metric_unit": "g",
+        "substitute": "Sweet Vidalia onion"
+      },
+      {
+        "name": "Fresh Flat-Leaf Parsley (chopped)",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 15.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Fresh Lemon Juice",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "ml",
+        "substitute": "Red wine vinegar"
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Ground Sumac",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 2.0,
+        "metric_unit": "g",
+        "substitute": "Fresh lemon zest with pinch of paprika"
+      },
+      {
+        "name": "Fine Sea Salt",
+        "us_amount_base": 0.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 3.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Rinse and drain canned white beans thoroughly. Slice the red onion into thin half-moons and massage gently with a pinch of sumac to soften sharpness.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 2,
+        "instruction": "In a small bowl, whisk together the freshly squeezed lemon juice, extra virgin olive oil, remaining sumac, and salt.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 3,
+        "instruction": "Combine the beans, onion slices, and chopped parsley in a salad bowl. Pour the vinaigrette over and toss gently until well coated. Garnish with hard-boiled egg slices if desired.",
+        "timer_seconds": 180
+      }
+    ]
+  },
+  {
+    "id": "meze_14",
+    "titleEn": "Purslane Yogurt Salad (Yoğurtlu Semizotu)",
+    "titleTr": "Yoğurtlu Semizotu",
+    "category": "Meze & Cold Starters",
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 0,
+    "servings": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/meze_14.webp",
+    "description": "Crisp, succulent purslane leaves folded into creamy strained garlic yogurt and drizzled with golden olive oil.",
+    "ingredients": [
+      {
+        "name": "Fresh Purslane (Semizotu, washed and trimmed)",
+        "us_amount_base": 4.0,
+        "us_unit": "cups",
+        "metric_amount_base": 120.0,
+        "metric_unit": "g",
+        "substitute": "Baby spinach leaves or watercress"
+      },
+      {
+        "name": "Thick Strained Yogurt (Süzme Yoğurt)",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 240.0,
+        "metric_unit": "g",
+        "substitute": "Plain whole-milk Greek yogurt (e.g., Fage Total 5%)"
+      },
+      {
+        "name": "Garlic (crushed)",
+        "us_amount_base": 1.0,
+        "us_unit": "clove",
+        "metric_amount_base": 1.0,
+        "metric_unit": "clove",
+        "substitute": null
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 15.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Fine Sea Salt",
+        "us_amount_base": 0.25,
+        "us_unit": "tsp",
+        "metric_amount_base": 1.5,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Thoroughly rinse the fresh purslane leaves in cold water, spin dry completely, and pluck tender leaves and stems, discarding coarse woody stalks.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 2,
+        "instruction": "In a large mixing bowl, whisk together the strained yogurt, crushed garlic, extra virgin olive oil, and sea salt until smooth and creamy.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 3,
+        "instruction": "Add the dry purslane leaves into the yogurt sauce and fold gently with a spatula until evenly coated. Chill briefly before serving.",
+        "timer_seconds": 120
+      }
+    ]
+  },
+  {
+    "id": "meze_15",
+    "titleEn": "Walnut and Feta Yogurt Dip (Girit Ezmesi)",
+    "titleTr": "Girit Ezmesi",
+    "category": "Meze & Cold Starters",
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 0,
+    "servings": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/meze_15.webp",
+    "description": "Cretan-style Turkish cheese spread of crumbled feta, crunchy walnuts, garlic, fresh dill, and olive oil whipped with yogurt.",
+    "ingredients": [
+      {
+        "name": "Thick Strained Yogurt (Süzme Yoğurt)",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 240.0,
+        "metric_unit": "g",
+        "substitute": "Plain whole-milk Greek yogurt (e.g., Fage Total 5%) or labneh"
+      },
+      {
+        "name": "Walnuts (finely chopped)",
+        "us_amount_base": 0.33,
+        "us_unit": "cup",
+        "metric_amount_base": 40.0,
+        "metric_unit": "g",
+        "substitute": "Toasted pistachios"
+      },
+      {
+        "name": "Turkish White Cheese (Beyaz Peynir) or Greek Feta",
+        "us_amount_base": 0.25,
+        "us_unit": "cup",
+        "metric_amount_base": 40.0,
+        "metric_unit": "g",
+        "substitute": "Crumbled French sheep's milk feta"
+      },
+      {
+        "name": "Garlic (crushed)",
+        "us_amount_base": 1.0,
+        "us_unit": "clove",
+        "metric_amount_base": 1.0,
+        "metric_unit": "clove",
+        "substitute": null
+      },
+      {
+        "name": "Fresh Dill (finely chopped)",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 3.0,
+        "metric_unit": "g",
+        "substitute": "Fresh spearmint or oregano"
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 15.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Fine Sea Salt",
+        "us_amount_base": 0.25,
+        "us_unit": "tsp",
+        "metric_amount_base": 1.5,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Mash the white feta cheese finely with a fork. In a bowl, combine strained yogurt, mashed cheese, crushed garlic, and finely chopped dill.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 2,
+        "instruction": "Fold in the finely chopped walnuts and extra virgin olive oil, seasoning with salt to taste and stirring until evenly incorporated.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 3,
+        "instruction": "Spoon into a serving dish, drizzle with additional olive oil, and chill for 10 minutes in the refrigerator before presenting.",
+        "timer_seconds": 600
+      }
+    ]
+  }
+]

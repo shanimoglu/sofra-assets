@@ -1,0 +1,1426 @@
+[
+  {
+    "id": "dessert_01",
+    "titleEn": "Caramelized Baked Rice Pudding",
+    "titleTr": "Fırın Sütlaç",
+    "category": "Desserts",
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 40,
+    "servings": 6,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/dessert_01.webp",
+    "description": "A creamy Turkish milk-and-rice pudding baked in individual dishes until the surface blisters and caramelizes.",
+    "ingredients": [
+      {
+        "name": "Whole milk",
+        "us_amount_base": 6,
+        "us_unit": "cups",
+        "metric_amount_base": 1420,
+        "metric_unit": "ml",
+        "substitute": "Whole milk; replace up to 1 cup with half-and-half for extra richness."
+      },
+      {
+        "name": "Short-grain rice",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 95,
+        "metric_unit": "g",
+        "substitute": "Arborio or sushi rice."
+      },
+      {
+        "name": "Water",
+        "us_amount_base": 2,
+        "us_unit": "cups",
+        "metric_amount_base": 475,
+        "metric_unit": "ml",
+        "substitute": "No substitute needed."
+      },
+      {
+        "name": "Granulated sugar",
+        "us_amount_base": 0.75,
+        "us_unit": "cup",
+        "metric_amount_base": 150,
+        "metric_unit": "g",
+        "substitute": "Superfine sugar."
+      },
+      {
+        "name": "Cornstarch",
+        "us_amount_base": 2,
+        "us_unit": "tbsp",
+        "metric_amount_base": 16,
+        "metric_unit": "g",
+        "substitute": "Potato starch, using the same amount."
+      },
+      {
+        "name": "Egg yolk",
+        "us_amount_base": 1,
+        "us_unit": "large",
+        "metric_amount_base": 18,
+        "metric_unit": "g",
+        "substitute": "Omit for an egg-free version; pudding will be slightly less rich."
+      },
+      {
+        "name": "Vanilla extract",
+        "us_amount_base": 1,
+        "us_unit": "tsp",
+        "metric_amount_base": 5,
+        "metric_unit": "ml",
+        "substitute": "Vanilla bean paste."
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Rinse rice. Simmer it with the water in a saucepan until very soft and most water is absorbed.",
+        "timer_seconds": 900
+      },
+      {
+        "step_number": 2,
+        "instruction": "Add milk and sugar. Bring to a gentle simmer, stirring often so the milk does not scorch.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 3,
+        "instruction": "Whisk cornstarch and egg yolk with a ladle of hot pudding until smooth, then stir back into the pot. Simmer until lightly thickened; stir in vanilla.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 4,
+        "instruction": "Divide among six shallow oven-safe ramekins. Set them in a roasting pan and pour hot water into the pan halfway up the sides.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 5,
+        "instruction": "Broil on high, watching closely, until the tops are deeply spotted and caramelized. Cool, then chill before serving.",
+        "timer_seconds": 300
+      }
+    ]
+  },
+  {
+    "id": "dessert_02",
+    "titleEn": "Pistachio Baklava",
+    "titleTr": "Antep Fıstıklı Baklava",
+    "category": "Desserts",
+    "prepTimeMinutes": 40,
+    "cookTimeMinutes": 45,
+    "servings": 24,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/dessert_02.webp",
+    "description": "Paper-thin layers of buttery phyllo enclose finely chopped pistachios, finished with fragrant lemon syrup.",
+    "ingredients": [
+      {
+        "name": "Frozen phyllo dough, thawed",
+        "us_amount_base": 1,
+        "us_unit": "lb",
+        "metric_amount_base": 450,
+        "metric_unit": "g",
+        "substitute": "Greek filo pastry from the freezer section; thaw overnight in the refrigerator."
+      },
+      {
+        "name": "Shelled unsalted pistachios",
+        "us_amount_base": 3,
+        "us_unit": "cups",
+        "metric_amount_base": 360,
+        "metric_unit": "g",
+        "substitute": "Raw unsalted California pistachios, finely chopped; Turkish Antep pistachios are ideal if available."
+      },
+      {
+        "name": "Unsalted butter, melted",
+        "us_amount_base": 1,
+        "us_unit": "cup",
+        "metric_amount_base": 227,
+        "metric_unit": "g",
+        "substitute": "Ghee."
+      },
+      {
+        "name": "Granulated sugar",
+        "us_amount_base": 2,
+        "us_unit": "cups",
+        "metric_amount_base": 400,
+        "metric_unit": "g",
+        "substitute": "Cane sugar."
+      },
+      {
+        "name": "Water",
+        "us_amount_base": 1.25,
+        "us_unit": "cups",
+        "metric_amount_base": 300,
+        "metric_unit": "ml",
+        "substitute": "No substitute needed."
+      },
+      {
+        "name": "Lemon juice",
+        "us_amount_base": 1,
+        "us_unit": "tbsp",
+        "metric_amount_base": 15,
+        "metric_unit": "ml",
+        "substitute": "A thin strip of lemon peel plus a little bottled lemon juice."
+      },
+      {
+        "name": "Rose water (optional)",
+        "us_amount_base": 1,
+        "us_unit": "tsp",
+        "metric_amount_base": 5,
+        "metric_unit": "ml",
+        "substitute": "Orange blossom water or omit."
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Make syrup by simmering sugar and water until clear. Add lemon juice and optional rose water, then cool completely.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 2,
+        "instruction": "Heat oven to 350°F (175°C). Brush a 9-by-13-inch baking pan with butter. Keep phyllo covered with a barely damp towel as you work.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 3,
+        "instruction": "Layer half the phyllo sheets in the pan, brushing each lightly with butter. Scatter pistachios evenly over the layers.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 4,
+        "instruction": "Layer the remaining phyllo on top, buttering each sheet. Cut into diamonds or squares with a sharp knife before baking.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 5,
+        "instruction": "Bake until crisp and deeply golden. Immediately pour the cool syrup evenly over the hot baklava. Let stand until syrup is absorbed and pastry is fully cooled.",
+        "timer_seconds": 2700
+      }
+    ]
+  },
+  {
+    "id": "dessert_03",
+    "titleEn": "Cheese-Filled Crispy Shredded Pastry",
+    "titleTr": "Peynirli Künefe",
+    "category": "Desserts",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 20,
+    "servings": 6,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/dessert_03.webp",
+    "description": "Golden, crisp strands of kataifi surround stretchy unsalted cheese and are soaked with lemon syrup while hot.",
+    "ingredients": [
+      {
+        "name": "Frozen kataifi shredded pastry, thawed",
+        "us_amount_base": 1,
+        "us_unit": "lb",
+        "metric_amount_base": 450,
+        "metric_unit": "g",
+        "substitute": "Frozen Greek kataifi pastry from Mediterranean markets or online."
+      },
+      {
+        "name": "Unsalted butter, melted",
+        "us_amount_base": 0.75,
+        "us_unit": "cup",
+        "metric_amount_base": 170,
+        "metric_unit": "g",
+        "substitute": "Ghee."
+      },
+      {
+        "name": "Unsalted melting cheese",
+        "us_amount_base": 12,
+        "us_unit": "oz",
+        "metric_amount_base": 340,
+        "metric_unit": "g",
+        "substitute": "A mix of low-moisture mozzarella and mild provolone; traditional künefe cheese is best when available."
+      },
+      {
+        "name": "Granulated sugar",
+        "us_amount_base": 1.5,
+        "us_unit": "cups",
+        "metric_amount_base": 300,
+        "metric_unit": "g",
+        "substitute": "Cane sugar."
+      },
+      {
+        "name": "Water",
+        "us_amount_base": 1,
+        "us_unit": "cup",
+        "metric_amount_base": 240,
+        "metric_unit": "ml",
+        "substitute": "No substitute needed."
+      },
+      {
+        "name": "Lemon juice",
+        "us_amount_base": 2,
+        "us_unit": "tsp",
+        "metric_amount_base": 10,
+        "metric_unit": "ml",
+        "substitute": "Fresh lime juice in a pinch."
+      },
+      {
+        "name": "Ground pistachios",
+        "us_amount_base": 2,
+        "us_unit": "tbsp",
+        "metric_amount_base": 15,
+        "metric_unit": "g",
+        "substitute": "Finely chopped unsalted pistachios."
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Simmer sugar and water for 8–10 minutes. Stir in lemon juice and keep the syrup warm.",
+        "timer_seconds": 540
+      },
+      {
+        "step_number": 2,
+        "instruction": "Separate kataifi strands with your fingers and mix thoroughly with melted butter. Press half into a buttered 10-inch oven-safe skillet.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 3,
+        "instruction": "Spread grated cheese evenly over the pastry, leaving a small border. Cover with remaining buttered kataifi and press firmly.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 4,
+        "instruction": "Cook over medium-low heat until the underside is crisp and golden, then carefully flip using a plate and cook the other side until the cheese melts.",
+        "timer_seconds": 720
+      },
+      {
+        "step_number": 5,
+        "instruction": "Pour warm syrup over the hot künefe, garnish with pistachios, and serve immediately while the cheese is stretchy.",
+        "timer_seconds": 120
+      }
+    ]
+  },
+  {
+    "id": "dessert_04",
+    "titleEn": "Citrus Semolina Syrup Cake",
+    "titleTr": "Revani",
+    "category": "Desserts",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 35,
+    "servings": 12,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/dessert_04.webp",
+    "description": "A tender semolina cake scented with citrus and soaked in light lemon syrup.",
+    "ingredients": [
+      {
+        "name": "Fine semolina",
+        "us_amount_base": 1.5,
+        "us_unit": "cups",
+        "metric_amount_base": 250,
+        "metric_unit": "g",
+        "substitute": "Coarse durum wheat semolina or coarse farina."
+      },
+      {
+        "name": "All-purpose flour",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 65,
+        "metric_unit": "g",
+        "substitute": "Plain flour."
+      },
+      {
+        "name": "Plain whole-milk yogurt",
+        "us_amount_base": 1,
+        "us_unit": "cup",
+        "metric_amount_base": 245,
+        "metric_unit": "g",
+        "substitute": "Greek yogurt loosened with 1–2 tbsp milk."
+      },
+      {
+        "name": "Granulated sugar",
+        "us_amount_base": 1,
+        "us_unit": "cup",
+        "metric_amount_base": 200,
+        "metric_unit": "g",
+        "substitute": "Cane sugar."
+      },
+      {
+        "name": "Eggs",
+        "us_amount_base": 3,
+        "us_unit": "large",
+        "metric_amount_base": 150,
+        "metric_unit": "g",
+        "substitute": "Use a commercial egg replacer for baking, following its package directions."
+      },
+      {
+        "name": "Neutral oil",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 120,
+        "metric_unit": "ml",
+        "substitute": "Mild olive oil or melted butter."
+      },
+      {
+        "name": "Baking powder",
+        "us_amount_base": 2,
+        "us_unit": "tsp",
+        "metric_amount_base": 8,
+        "metric_unit": "g",
+        "substitute": "No direct substitute recommended."
+      },
+      {
+        "name": "Lemon zest",
+        "us_amount_base": 1,
+        "us_unit": "tsp",
+        "metric_amount_base": 2,
+        "metric_unit": "g",
+        "substitute": "Orange zest."
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "For the syrup, simmer 1 cup sugar with 1½ cups water and 1 tbsp lemon juice until dissolved. Let cool.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 2,
+        "instruction": "Heat oven to 350°F (175°C). Whisk eggs and sugar until pale, then whisk in yogurt, oil, and lemon zest.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 3,
+        "instruction": "Fold in semolina, flour, and baking powder. Spread batter in a greased 9-by-13-inch pan.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 4,
+        "instruction": "Bake until golden and a toothpick inserted in the center comes out clean.",
+        "timer_seconds": 2100
+      },
+      {
+        "step_number": 5,
+        "instruction": "Cut the warm cake into squares and slowly pour the cooled syrup over it. Rest until the syrup is absorbed before serving.",
+        "timer_seconds": 1800
+      }
+    ]
+  },
+  {
+    "id": "dessert_05",
+    "titleEn": "Almond Semolina Cookies in Syrup",
+    "titleTr": "Şekerpare",
+    "category": "Desserts",
+    "prepTimeMinutes": 25,
+    "cookTimeMinutes": 25,
+    "servings": 20,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/dessert_05.webp",
+    "description": "Soft, buttery semolina cookies are baked golden, topped with almonds, and soaked in lemon syrup.",
+    "ingredients": [
+      {
+        "name": "All-purpose flour",
+        "us_amount_base": 2,
+        "us_unit": "cups",
+        "metric_amount_base": 250,
+        "metric_unit": "g",
+        "substitute": "Plain flour."
+      },
+      {
+        "name": "Fine semolina",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 85,
+        "metric_unit": "g",
+        "substitute": "Coarse farina or durum semolina."
+      },
+      {
+        "name": "Unsalted butter, softened",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 113,
+        "metric_unit": "g",
+        "substitute": "Plant-based baking butter."
+      },
+      {
+        "name": "Powdered sugar",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 60,
+        "metric_unit": "g",
+        "substitute": "Granulated sugar blended until fine."
+      },
+      {
+        "name": "Eggs",
+        "us_amount_base": 2,
+        "us_unit": "large",
+        "metric_amount_base": 100,
+        "metric_unit": "g",
+        "substitute": "Commercial egg replacer suitable for cookies."
+      },
+      {
+        "name": "Baking powder",
+        "us_amount_base": 1,
+        "us_unit": "tsp",
+        "metric_amount_base": 4,
+        "metric_unit": "g",
+        "substitute": "No direct substitute recommended."
+      },
+      {
+        "name": "Blanched almonds",
+        "us_amount_base": 20,
+        "us_unit": "pieces",
+        "metric_amount_base": 20,
+        "metric_unit": "pieces",
+        "substitute": "Pistachio halves or whole hazelnuts."
+      },
+      {
+        "name": "Granulated sugar for syrup",
+        "us_amount_base": 1.5,
+        "us_unit": "cups",
+        "metric_amount_base": 300,
+        "metric_unit": "g",
+        "substitute": "Cane sugar."
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Simmer 1½ cups sugar with 2 cups water for 10 minutes. Add 1 tsp lemon juice and cool the syrup completely.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 2,
+        "instruction": "Heat oven to 350°F (175°C). Cream butter and powdered sugar, then beat in eggs. Mix in flour, semolina, and baking powder to form a soft dough.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 3,
+        "instruction": "Shape into 20 oval cookies, arrange on a lined baking sheet, and press an almond into each center.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 4,
+        "instruction": "Bake until the cookies are lightly golden on top and golden underneath.",
+        "timer_seconds": 1500
+      },
+      {
+        "step_number": 5,
+        "instruction": "Pour the cooled syrup over the hot cookies in their pan. Let stand until syrup is absorbed and cookies are tender.",
+        "timer_seconds": 1800
+      }
+    ]
+  },
+  {
+    "id": "dessert_06",
+    "titleEn": "Caramelized Milk Pudding",
+    "titleTr": "Kazandibi",
+    "category": "Desserts",
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 25,
+    "servings": 6,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/dessert_06.webp",
+    "description": "A silky milk pudding with a signature toasted, caramelized underside, chilled and rolled for serving.",
+    "ingredients": [
+      {
+        "name": "Whole milk",
+        "us_amount_base": 5,
+        "us_unit": "cups",
+        "metric_amount_base": 1200,
+        "metric_unit": "ml",
+        "substitute": "Whole milk; half-and-half may replace 1 cup for richer flavor."
+      },
+      {
+        "name": "Granulated sugar",
+        "us_amount_base": 0.75,
+        "us_unit": "cup",
+        "metric_amount_base": 150,
+        "metric_unit": "g",
+        "substitute": "Cane sugar."
+      },
+      {
+        "name": "Rice flour",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 80,
+        "metric_unit": "g",
+        "substitute": "Cornstarch, using about ⅓ cup."
+      },
+      {
+        "name": "Cornstarch",
+        "us_amount_base": 2,
+        "us_unit": "tbsp",
+        "metric_amount_base": 16,
+        "metric_unit": "g",
+        "substitute": "Potato starch."
+      },
+      {
+        "name": "Unsalted butter",
+        "us_amount_base": 1,
+        "us_unit": "tbsp",
+        "metric_amount_base": 14,
+        "metric_unit": "g",
+        "substitute": "Neutral oil for greasing the pan."
+      },
+      {
+        "name": "Vanilla extract",
+        "us_amount_base": 1,
+        "us_unit": "tsp",
+        "metric_amount_base": 5,
+        "metric_unit": "ml",
+        "substitute": "Vanilla bean paste."
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Whisk rice flour and cornstarch with 1 cup of the cold milk until smooth.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 2,
+        "instruction": "Heat remaining milk and sugar in a heavy saucepan. Whisk in the starch mixture and cook, stirring constantly, until very thick and glossy.",
+        "timer_seconds": 900
+      },
+      {
+        "step_number": 3,
+        "instruction": "Lightly butter a wide nonstick pan or metal tray. Sprinkle a thin layer of sugar over the base and heat gently until it melts and turns amber.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 4,
+        "instruction": "Spread the hot pudding over the caramelized base. Cook over low heat until the bottom is toasted in patches, taking care not to burn it.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 5,
+        "instruction": "Cool, then refrigerate until completely set. Cut into strips and roll with the caramelized side outward.",
+        "timer_seconds": 2400
+      }
+    ]
+  },
+  {
+    "id": "dessert_07",
+    "titleEn": "Buttery Semolina Halva with Pine Nuts",
+    "titleTr": "İrmik Helvası",
+    "category": "Desserts",
+    "prepTimeMinutes": 5,
+    "cookTimeMinutes": 25,
+    "servings": 6,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/dessert_07.webp",
+    "description": "Nutty semolina slowly toasted in butter, then steamed with warm sweet milk and pine nuts.",
+    "ingredients": [
+      {
+        "name": "Coarse semolina",
+        "us_amount_base": 1.5,
+        "us_unit": "cups",
+        "metric_amount_base": 250,
+        "metric_unit": "g",
+        "substitute": "Coarse durum wheat semolina or coarse farina."
+      },
+      {
+        "name": "Unsalted butter",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 113,
+        "metric_unit": "g",
+        "substitute": "Ghee."
+      },
+      {
+        "name": "Pine nuts",
+        "us_amount_base": 0.25,
+        "us_unit": "cup",
+        "metric_amount_base": 35,
+        "metric_unit": "g",
+        "substitute": "Chopped almonds or walnuts."
+      },
+      {
+        "name": "Whole milk",
+        "us_amount_base": 1.5,
+        "us_unit": "cups",
+        "metric_amount_base": 360,
+        "metric_unit": "ml",
+        "substitute": "Water or half milk and half water."
+      },
+      {
+        "name": "Granulated sugar",
+        "us_amount_base": 0.75,
+        "us_unit": "cup",
+        "metric_amount_base": 150,
+        "metric_unit": "g",
+        "substitute": "Cane sugar."
+      },
+      {
+        "name": "Ground cinnamon (optional)",
+        "us_amount_base": 0.25,
+        "us_unit": "tsp",
+        "metric_amount_base": 1,
+        "metric_unit": "g",
+        "substitute": "No substitute needed."
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Warm milk with sugar in a small saucepan until the sugar dissolves; keep warm but do not boil.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 2,
+        "instruction": "Melt butter in a heavy saucepan. Add pine nuts and semolina and toast over low-medium heat, stirring constantly, until fragrant and golden tan.",
+        "timer_seconds": 900
+      },
+      {
+        "step_number": 3,
+        "instruction": "Carefully pour in the warm milk mixture; it will steam vigorously. Stir until combined.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 4,
+        "instruction": "Cover and cook over very low heat until the liquid is absorbed. Turn off heat and leave covered to steam.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 5,
+        "instruction": "Fluff gently with a fork, rest briefly, and serve warm with cinnamon if desired.",
+        "timer_seconds": 300
+      }
+    ]
+  },
+  {
+    "id": "dessert_08",
+    "titleEn": "Poached Quince with Clotted Cream",
+    "titleTr": "Ayva Tatlısı",
+    "category": "Desserts",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 90,
+    "servings": 6,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/dessert_08.webp",
+    "description": "Quince halves slowly poached in sugar syrup until ruby-pink and tender, served cool with rich cream.",
+    "ingredients": [
+      {
+        "name": "Large quinces",
+        "us_amount_base": 3,
+        "us_unit": "pieces",
+        "metric_amount_base": 900,
+        "metric_unit": "g",
+        "substitute": "Firm pears, though they will cook faster and have a milder flavor."
+      },
+      {
+        "name": "Granulated sugar",
+        "us_amount_base": 1.5,
+        "us_unit": "cups",
+        "metric_amount_base": 300,
+        "metric_unit": "g",
+        "substitute": "Cane sugar."
+      },
+      {
+        "name": "Water",
+        "us_amount_base": 3,
+        "us_unit": "cups",
+        "metric_amount_base": 720,
+        "metric_unit": "ml",
+        "substitute": "No substitute needed."
+      },
+      {
+        "name": "Lemon juice",
+        "us_amount_base": 1,
+        "us_unit": "tbsp",
+        "metric_amount_base": 15,
+        "metric_unit": "ml",
+        "substitute": "Fresh lime juice."
+      },
+      {
+        "name": "Cloves",
+        "us_amount_base": 4,
+        "us_unit": "pieces",
+        "metric_amount_base": 4,
+        "metric_unit": "pieces",
+        "substitute": "A small cinnamon stick."
+      },
+      {
+        "name": "Kaymak-style cream",
+        "us_amount_base": 0.75,
+        "us_unit": "cup",
+        "metric_amount_base": 180,
+        "metric_unit": "g",
+        "substitute": "Italian mascarpone or Devon English clotted cream."
+      },
+      {
+        "name": "Chopped walnuts",
+        "us_amount_base": 0.25,
+        "us_unit": "cup",
+        "metric_amount_base": 30,
+        "metric_unit": "g",
+        "substitute": "Chopped pistachios."
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Peel and halve the quinces, remove cores, and rub cut surfaces with lemon juice to limit browning. Reserve the seeds in a tea infuser or tied cheesecloth for color and pectin.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 2,
+        "instruction": "Arrange quince halves cut-side up in a wide pot. Add water, sugar, cloves, lemon juice, and reserved seeds.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 3,
+        "instruction": "Bring to a gentle simmer, cover, and poach until a knife slides easily into the fruit, turning pieces once if needed.",
+        "timer_seconds": 5400
+      },
+      {
+        "step_number": 4,
+        "instruction": "Uncover and simmer gently until the syrup thickens and the quince turns a deep pink-red. Cool in the syrup.",
+        "timer_seconds": 900
+      },
+      {
+        "step_number": 5,
+        "instruction": "Serve at room temperature or chilled with a spoonful of mascarpone or clotted cream and chopped walnuts.",
+        "timer_seconds": 0
+      }
+    ]
+  },
+  {
+    "id": "dessert_09",
+    "titleEn": "Candied Squash with Tahini and Walnuts",
+    "titleTr": "Kabak Tatlısı",
+    "category": "Desserts",
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 60,
+    "servings": 6,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/dessert_09.webp",
+    "description": "Tender, glossy pumpkin or winter squash pieces cooked in sugar and finished with nutty tahini and crunchy walnuts.",
+    "ingredients": [
+      {
+        "name": "Peeled pumpkin or butternut squash",
+        "us_amount_base": 2.5,
+        "us_unit": "lb",
+        "metric_amount_base": 1130,
+        "metric_unit": "g",
+        "substitute": "Butternut squash is widely available and holds its shape well."
+      },
+      {
+        "name": "Granulated sugar",
+        "us_amount_base": 1.25,
+        "us_unit": "cups",
+        "metric_amount_base": 250,
+        "metric_unit": "g",
+        "substitute": "Cane sugar."
+      },
+      {
+        "name": "Tahini",
+        "us_amount_base": 0.33,
+        "us_unit": "cup",
+        "metric_amount_base": 80,
+        "metric_unit": "g",
+        "substitute": "Smooth sesame paste; almond butter is a different-flavored alternative."
+      },
+      {
+        "name": "Walnuts, chopped",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 60,
+        "metric_unit": "g",
+        "substitute": "Pecans or pistachios."
+      },
+      {
+        "name": "Ground cinnamon (optional)",
+        "us_amount_base": 0.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 1.5,
+        "metric_unit": "g",
+        "substitute": "No substitute needed."
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Cut squash into 2-inch chunks and arrange in a wide heavy pot in one layer. Sprinkle sugar evenly over the pieces.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 2,
+        "instruction": "Cover and leave at room temperature until the squash releases juice and the sugar becomes wet.",
+        "timer_seconds": 1800
+      },
+      {
+        "step_number": 3,
+        "instruction": "Set over low heat, covered, and cook gently in its own syrup until the squash is tender but still holds its shape.",
+        "timer_seconds": 2700
+      },
+      {
+        "step_number": 4,
+        "instruction": "Uncover and simmer until the syrup is glossy and slightly reduced. Cool in the pot.",
+        "timer_seconds": 900
+      },
+      {
+        "step_number": 5,
+        "instruction": "Arrange on a platter, drizzle with tahini, and scatter with walnuts and optional cinnamon.",
+        "timer_seconds": 0
+      }
+    ]
+  },
+  {
+    "id": "dessert_10",
+    "titleEn": "Baked Shredded Pastry with Walnuts",
+    "titleTr": "Cevizli Tel Kadayıf",
+    "category": "Desserts",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 35,
+    "servings": 12,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/dessert_10.webp",
+    "description": "Crisp, buttery strands of shredded pastry layered with walnuts and soaked in a fragrant sugar syrup.",
+    "ingredients": [
+      {
+        "name": "Frozen kataifi shredded pastry, thawed",
+        "us_amount_base": 1,
+        "us_unit": "lb",
+        "metric_amount_base": 450,
+        "metric_unit": "g",
+        "substitute": "Frozen Greek kataifi from Mediterranean markets or online."
+      },
+      {
+        "name": "Unsalted butter, melted",
+        "us_amount_base": 0.75,
+        "us_unit": "cup",
+        "metric_amount_base": 170,
+        "metric_unit": "g",
+        "substitute": "Ghee."
+      },
+      {
+        "name": "Walnuts, finely chopped",
+        "us_amount_base": 2,
+        "us_unit": "cups",
+        "metric_amount_base": 240,
+        "metric_unit": "g",
+        "substitute": "Pistachios or pecans."
+      },
+      {
+        "name": "Granulated sugar",
+        "us_amount_base": 2,
+        "us_unit": "cups",
+        "metric_amount_base": 400,
+        "metric_unit": "g",
+        "substitute": "Cane sugar."
+      },
+      {
+        "name": "Water",
+        "us_amount_base": 1.5,
+        "us_unit": "cups",
+        "metric_amount_base": 360,
+        "metric_unit": "ml",
+        "substitute": "No substitute needed."
+      },
+      {
+        "name": "Lemon juice",
+        "us_amount_base": 1,
+        "us_unit": "tbsp",
+        "metric_amount_base": 15,
+        "metric_unit": "ml",
+        "substitute": "Fresh lime juice."
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Simmer sugar and water for 10 minutes, stir in lemon juice, then cool the syrup completely.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 2,
+        "instruction": "Heat oven to 350°F (175°C). Pull kataifi strands apart and toss thoroughly with melted butter.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 3,
+        "instruction": "Press half the pastry into a buttered 9-by-13-inch pan, distribute walnuts evenly, and cover with remaining pastry. Press gently.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 4,
+        "instruction": "Bake until deeply golden and crisp across the surface.",
+        "timer_seconds": 2100
+      },
+      {
+        "step_number": 5,
+        "instruction": "Pour cool syrup evenly over the hot pastry. Leave to absorb and cool before cutting into squares.",
+        "timer_seconds": 1800
+      }
+    ]
+  },
+  {
+    "id": "dessert_11",
+    "titleEn": "Turkish Chocolate Mosaic Cake",
+    "titleTr": "Mozaik Pasta",
+    "category": "Desserts",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 0,
+    "servings": 10,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/dessert_11.webp",
+    "description": "A no-bake refrigerator cake made from broken tea biscuits bound with a cocoa-chocolate mixture and sliced to reveal a mosaic.",
+    "ingredients": [
+      {
+        "name": "Plain tea biscuits",
+        "us_amount_base": 14,
+        "us_unit": "oz",
+        "metric_amount_base": 400,
+        "metric_unit": "g",
+        "substitute": "Petite beurre, Maria, or plain digestive biscuits."
+      },
+      {
+        "name": "Unsalted butter",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 113,
+        "metric_unit": "g",
+        "substitute": "Plant-based butter."
+      },
+      {
+        "name": "Whole milk",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 120,
+        "metric_unit": "ml",
+        "substitute": "Oat milk or dairy milk."
+      },
+      {
+        "name": "Granulated sugar",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 100,
+        "metric_unit": "g",
+        "substitute": "Cane sugar."
+      },
+      {
+        "name": "Unsweetened cocoa powder",
+        "us_amount_base": 0.33,
+        "us_unit": "cup",
+        "metric_amount_base": 30,
+        "metric_unit": "g",
+        "substitute": "Dutch-process cocoa for a smoother flavor."
+      },
+      {
+        "name": "Dark chocolate",
+        "us_amount_base": 3.5,
+        "us_unit": "oz",
+        "metric_amount_base": 100,
+        "metric_unit": "g",
+        "substitute": "Semi-sweet chocolate."
+      },
+      {
+        "name": "Chopped hazelnuts (optional)",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 60,
+        "metric_unit": "g",
+        "substitute": "Walnuts or pistachios."
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Break biscuits into bite-size pieces in a large bowl, keeping some larger chunks for the mosaic pattern.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 2,
+        "instruction": "Gently heat butter, milk, sugar, cocoa, and chopped chocolate in a saucepan, stirring until smooth. Do not boil.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 3,
+        "instruction": "Cool the chocolate mixture for a few minutes, then fold it through the biscuits and optional nuts until evenly coated.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 4,
+        "instruction": "Spoon onto parchment or plastic wrap and shape into a firm log or press into a loaf pan. Cover tightly.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 5,
+        "instruction": "Refrigerate until firm, then slice with a warm knife and serve cold.",
+        "timer_seconds": 14400
+      }
+    ]
+  },
+  {
+    "id": "dessert_12",
+    "titleEn": "Crispy Turkish Sweet Fritters in Lemon Syrup",
+    "titleTr": "Lokma",
+    "category": "Desserts",
+    "prepTimeMinutes": 25,
+    "cookTimeMinutes": 25,
+    "servings": 8,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/dessert_12.webp",
+    "description": "Small yeast-raised dough balls fried until crisp and dipped in cool lemon syrup for a crunchy, airy center.",
+    "ingredients": [
+      {
+        "name": "All-purpose flour",
+        "us_amount_base": 2,
+        "us_unit": "cups",
+        "metric_amount_base": 250,
+        "metric_unit": "g",
+        "substitute": "Plain flour."
+      },
+      {
+        "name": "Warm water",
+        "us_amount_base": 1.25,
+        "us_unit": "cups",
+        "metric_amount_base": 300,
+        "metric_unit": "ml",
+        "substitute": "Water around 100–110°F (38–43°C)."
+      },
+      {
+        "name": "Instant yeast",
+        "us_amount_base": 1,
+        "us_unit": "tsp",
+        "metric_amount_base": 3,
+        "metric_unit": "g",
+        "substitute": "Active dry yeast, bloomed first."
+      },
+      {
+        "name": "Granulated sugar for dough",
+        "us_amount_base": 1,
+        "us_unit": "tsp",
+        "metric_amount_base": 4,
+        "metric_unit": "g",
+        "substitute": "No substitute needed."
+      },
+      {
+        "name": "Neutral oil for frying",
+        "us_amount_base": 4,
+        "us_unit": "cups",
+        "metric_amount_base": 950,
+        "metric_unit": "ml",
+        "substitute": "Canola, sunflower, or peanut oil."
+      },
+      {
+        "name": "Granulated sugar for syrup",
+        "us_amount_base": 1.5,
+        "us_unit": "cups",
+        "metric_amount_base": 300,
+        "metric_unit": "g",
+        "substitute": "Cane sugar."
+      },
+      {
+        "name": "Lemon juice",
+        "us_amount_base": 1,
+        "us_unit": "tbsp",
+        "metric_amount_base": 15,
+        "metric_unit": "ml",
+        "substitute": "Fresh lime juice."
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Simmer 1½ cups sugar with 1 cup water for 8–10 minutes. Add lemon juice and cool completely.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 2,
+        "instruction": "Mix flour, yeast, sugar, and warm water into a sticky, stretchy batter. Cover and leave in a warm place until bubbly and expanded.",
+        "timer_seconds": 3600
+      },
+      {
+        "step_number": 3,
+        "instruction": "Heat oil in a deep heavy pot to 350°F (175°C). Working in small batches, drop teaspoon-size portions of batter into the oil.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 4,
+        "instruction": "Fry, turning, until puffed and evenly deep golden. Transfer briefly to a rack or paper towel.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 5,
+        "instruction": "Dip hot fritters into cool syrup for about 30–60 seconds, then serve while crisp.",
+        "timer_seconds": 60
+      }
+    ]
+  },
+  {
+    "id": "dessert_13",
+    "titleEn": "Traditional Noah's Pudding",
+    "titleTr": "Aşure",
+    "category": "Desserts",
+    "prepTimeMinutes": 30,
+    "cookTimeMinutes": 120,
+    "servings": 12,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/dessert_13.webp",
+    "description": "A festive, fruit- and grain-rich pudding combining wheat, beans, chickpeas, dried fruit, and nuts, served with traditional toppings.",
+    "ingredients": [
+      {
+        "name": "Shelled whole wheat berries",
+        "us_amount_base": 1,
+        "us_unit": "cup",
+        "metric_amount_base": 190,
+        "metric_unit": "g",
+        "substitute": "Pearled wheat or hulled barley; texture will differ slightly."
+      },
+      {
+        "name": "Cooked chickpeas, drained",
+        "us_amount_base": 1,
+        "us_unit": "cup",
+        "metric_amount_base": 165,
+        "metric_unit": "g",
+        "substitute": "Canned chickpeas, rinsed well."
+      },
+      {
+        "name": "Cooked white beans, drained",
+        "us_amount_base": 1,
+        "us_unit": "cup",
+        "metric_amount_base": 170,
+        "metric_unit": "g",
+        "substitute": "Canned cannellini or navy beans, rinsed well."
+      },
+      {
+        "name": "Granulated sugar",
+        "us_amount_base": 1.5,
+        "us_unit": "cups",
+        "metric_amount_base": 300,
+        "metric_unit": "g",
+        "substitute": "Adjust to taste depending on dried fruit sweetness."
+      },
+      {
+        "name": "Dried apricots, diced",
+        "us_amount_base": 1,
+        "us_unit": "cup",
+        "metric_amount_base": 150,
+        "metric_unit": "g",
+        "substitute": "Dried figs or golden raisins."
+      },
+      {
+        "name": "Raisins",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 75,
+        "metric_unit": "g",
+        "substitute": "Dried currants."
+      },
+      {
+        "name": "Orange zest",
+        "us_amount_base": 1,
+        "us_unit": "tbsp",
+        "metric_amount_base": 6,
+        "metric_unit": "g",
+        "substitute": "Lemon zest."
+      },
+      {
+        "name": "Pomegranate seeds and chopped nuts for topping",
+        "us_amount_base": 1,
+        "us_unit": "cup",
+        "metric_amount_base": 150,
+        "metric_unit": "g",
+        "substitute": "Cinnamon, walnuts, hazelnuts, or dried coconut."
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Soak wheat berries overnight. Drain, cover with fresh water, and simmer until very tender, adding water as needed.",
+        "timer_seconds": 5400
+      },
+      {
+        "step_number": 2,
+        "instruction": "Add cooked chickpeas and white beans to the tender wheat. Simmer gently, stirring occasionally.",
+        "timer_seconds": 900
+      },
+      {
+        "step_number": 3,
+        "instruction": "Add diced apricots, raisins, orange zest, and sugar. Add hot water as needed for a loose pudding consistency.",
+        "timer_seconds": 1200
+      },
+      {
+        "step_number": 4,
+        "instruction": "Taste and adjust sweetness. Simmer until fruit softens and flavors meld; stir carefully to prevent sticking.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 5,
+        "instruction": "Ladle into bowls. Cool, then garnish with pomegranate seeds, chopped nuts, and cinnamon before serving.",
+        "timer_seconds": 1800
+      }
+    ]
+  },
+  {
+    "id": "dessert_14",
+    "titleEn": "Rich Chocolate Pudding with Cake Center",
+    "titleTr": "Supangle",
+    "category": "Desserts",
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 15,
+    "servings": 6,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/dessert_14.webp",
+    "description": "A glossy Turkish chocolate pudding enriched with dark chocolate and butter, spooned over a small piece of cake in each bowl.",
+    "ingredients": [
+      {
+        "name": "Whole milk",
+        "us_amount_base": 4,
+        "us_unit": "cups",
+        "metric_amount_base": 950,
+        "metric_unit": "ml",
+        "substitute": "Whole milk."
+      },
+      {
+        "name": "Granulated sugar",
+        "us_amount_base": 0.75,
+        "us_unit": "cup",
+        "metric_amount_base": 150,
+        "metric_unit": "g",
+        "substitute": "Cane sugar."
+      },
+      {
+        "name": "All-purpose flour",
+        "us_amount_base": 0.25,
+        "us_unit": "cup",
+        "metric_amount_base": 32,
+        "metric_unit": "g",
+        "substitute": "Cornstarch, using about 3 tbsp, for a glossier texture."
+      },
+      {
+        "name": "Cornstarch",
+        "us_amount_base": 2,
+        "us_unit": "tbsp",
+        "metric_amount_base": 16,
+        "metric_unit": "g",
+        "substitute": "Potato starch."
+      },
+      {
+        "name": "Unsweetened cocoa powder",
+        "us_amount_base": 0.33,
+        "us_unit": "cup",
+        "metric_amount_base": 30,
+        "metric_unit": "g",
+        "substitute": "Dutch-process cocoa."
+      },
+      {
+        "name": "Dark chocolate, chopped",
+        "us_amount_base": 4,
+        "us_unit": "oz",
+        "metric_amount_base": 115,
+        "metric_unit": "g",
+        "substitute": "Semi-sweet chocolate."
+      },
+      {
+        "name": "Unsalted butter",
+        "us_amount_base": 2,
+        "us_unit": "tbsp",
+        "metric_amount_base": 28,
+        "metric_unit": "g",
+        "substitute": "Plant-based butter."
+      },
+      {
+        "name": "Plain sponge cake",
+        "us_amount_base": 6,
+        "us_unit": "pieces",
+        "metric_amount_base": 180,
+        "metric_unit": "g",
+        "substitute": "Ladyfingers or simple pound cake cut into cubes."
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Whisk sugar, flour, cornstarch, and cocoa in a saucepan. Gradually whisk in cold milk until smooth.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 2,
+        "instruction": "Cook over medium heat, whisking constantly, until the pudding thickens and bubbles gently.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 3,
+        "instruction": "Remove from heat. Stir in chopped chocolate and butter until completely melted and glossy.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 4,
+        "instruction": "Place a piece of sponge cake in each serving glass or bowl. Pour the hot pudding over the cake.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 5,
+        "instruction": "Cool briefly, cover, and refrigerate until chilled and set. Serve plain or with grated chocolate.",
+        "timer_seconds": 7200
+      }
+    ]
+  },
+  {
+    "id": "dessert_15",
+    "titleEn": "Syrup-Soaked Cheese Pastry Balls",
+    "titleTr": "Kemalpaşa Tatlısı",
+    "category": "Desserts",
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 25,
+    "servings": 6,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/dessert_15.webp",
+    "description": "Small cheese-based pastry balls simmered in sugar syrup until tender and saturated, traditionally served chilled.",
+    "ingredients": [
+      {
+        "name": "Kemalpaşa dessert cheese balls, dried or packaged",
+        "us_amount_base": 7,
+        "us_unit": "oz",
+        "metric_amount_base": 200,
+        "metric_unit": "g",
+        "substitute": "If unavailable, use small baked ricotta dumplings made from ricotta, egg, flour, and semolina; texture will vary."
+      },
+      {
+        "name": "Granulated sugar",
+        "us_amount_base": 2,
+        "us_unit": "cups",
+        "metric_amount_base": 400,
+        "metric_unit": "g",
+        "substitute": "Cane sugar."
+      },
+      {
+        "name": "Water",
+        "us_amount_base": 4,
+        "us_unit": "cups",
+        "metric_amount_base": 950,
+        "metric_unit": "ml",
+        "substitute": "No substitute needed."
+      },
+      {
+        "name": "Lemon juice",
+        "us_amount_base": 1,
+        "us_unit": "tsp",
+        "metric_amount_base": 5,
+        "metric_unit": "ml",
+        "substitute": "A small strip of lemon peel."
+      },
+      {
+        "name": "Kaymak-style cream (optional)",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 120,
+        "metric_unit": "g",
+        "substitute": "Mascarpone or Devon English clotted cream."
+      },
+      {
+        "name": "Chopped pistachios (optional)",
+        "us_amount_base": 2,
+        "us_unit": "tbsp",
+        "metric_amount_base": 15,
+        "metric_unit": "g",
+        "substitute": "Chopped walnuts or hazelnuts."
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Combine sugar and water in a wide saucepan and bring to a boil, stirring until the sugar dissolves. Add lemon juice.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 2,
+        "instruction": "Add the dried Kemalpaşa balls carefully to the simmering syrup, leaving room for them to expand.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 3,
+        "instruction": "Simmer gently, turning the balls occasionally, until they swell and become tender and translucent around the edges. Follow package timing if supplied.",
+        "timer_seconds": 1200
+      },
+      {
+        "step_number": 4,
+        "instruction": "Remove from heat and let the pastries cool in the syrup so they absorb more sweetness.",
+        "timer_seconds": 1800
+      },
+      {
+        "step_number": 5,
+        "instruction": "Serve chilled or at room temperature with optional mascarpone or clotted cream and chopped pistachios.",
+        "timer_seconds": 0
+      }
+    ]
+  }
+]

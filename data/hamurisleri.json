@@ -1,0 +1,1678 @@
+[
+  {
+    "id": "bake_01",
+    "titleEn": "Turkish Scrambled Eggs with Tomatoes & Peppers",
+    "titleTr": "Menemen",
+    "category": "Bakery & Breakfast",
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 15,
+    "servings": 2,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/bake_01.webp",
+    "description": "A quintessential Turkish breakfast skillet of tender simmered peppers and grated fresh tomatoes folded with gently set, silky scrambled eggs.",
+    "ingredients": [
+      {
+        "name": "Large Eggs",
+        "us_amount_base": 4.0,
+        "us_unit": "pieces",
+        "metric_amount_base": 4.0,
+        "metric_unit": "pieces",
+        "substitute": "Standard large pasture-raised or organic eggs (Vital Farms or store brand)"
+      },
+      {
+        "name": "Turkish Sivri Peppers or Anaheim Peppers",
+        "us_amount_base": 2.0,
+        "us_unit": "pieces",
+        "metric_amount_base": 2.0,
+        "metric_unit": "pieces",
+        "substitute": "Mild Cubanelle peppers, Anaheim peppers, or Italian long sweet frying peppers"
+      },
+      {
+        "name": "Ripe Vine Tomatoes (Grated)",
+        "us_amount_base": 3.0,
+        "us_unit": "pieces",
+        "metric_amount_base": 400.0,
+        "metric_unit": "g",
+        "substitute": "Canned San Marzano whole peeled tomatoes pulsed lightly in a blender, or ripe beefsteak tomatoes"
+      },
+      {
+        "name": "Unsalted Butter",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "g",
+        "substitute": "Kerrygold unsalted butter or standard sweet cream butter"
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 15.0,
+        "metric_unit": "ml",
+        "substitute": "Any standard cold-pressed Mediterranean extra virgin olive oil"
+      },
+      {
+        "name": "Pul Biber (Turkish Aleppo Pepper Flakes)",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 3.0,
+        "metric_unit": "g",
+        "substitute": "Aleppo pepper flakes, Silk chili, or sweet Hungarian paprika mixed with a pinch of cayenne"
+      },
+      {
+        "name": "Fine Sea Salt",
+        "us_amount_base": 0.75,
+        "us_unit": "tsp",
+        "metric_amount_base": 4.5,
+        "metric_unit": "g",
+        "substitute": "Kosher salt or fine table salt"
+      },
+      {
+        "name": "Freshly Ground Black Pepper",
+        "us_amount_base": 0.25,
+        "us_unit": "tsp",
+        "metric_amount_base": 1.0,
+        "metric_unit": "g",
+        "substitute": "Standard freshly cracked black pepper"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Wash and core the peppers, then slice them crosswise into thin rings. Melt the butter together with the olive oil in a wide stainless steel or copper skillet over medium heat.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 2,
+        "instruction": "Add the sliced peppers to the skillet and sauté gently until softened and fragrant, without letting them brown deeply.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 3,
+        "instruction": "Pour in the grated tomatoes along with the salt, black pepper, and pul biber. Stir well, turn the heat to medium-low, and let the mixture simmer uncovered until excess tomato water evaporates and a thick, glossy sauce forms.",
+        "timer_seconds": 480
+      },
+      {
+        "step_number": 4,
+        "instruction": "Crack the eggs directly into the skillet (or whisk very lightly in a bowl first). Using a wooden spatula, gently pull the egg whites into the tomato sauce in swirling motions, allowing the whites to set while leaving pockets of creamy yolk.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 5,
+        "instruction": "Remove the skillet from the heat immediately while the eggs remain glossy and soft. Dust with extra pul biber and serve sizzling hot straight from the pan with plenty of crusty bread.",
+        "timer_seconds": 0
+      }
+    ]
+  },
+  {
+    "id": "bake_02",
+    "titleEn": "Turkish Poached Eggs in Garlic Yogurt",
+    "titleTr": "Çılbır",
+    "category": "Bakery & Breakfast",
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 10,
+    "servings": 2,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/bake_02.webp",
+    "description": "Velvety room-temperature garlic yogurt topped with soft-poached eggs and bathed in bubbling, golden Aleppo pepper brown butter with fresh dill.",
+    "ingredients": [
+      {
+        "name": "Whole Milk Plain Greek Yogurt",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 240.0,
+        "metric_unit": "g",
+        "substitute": "Fage Total 5% Greek yogurt, Sığla/Chobani whole milk plain yogurt, or strained whole milk yogurt"
+      },
+      {
+        "name": "Fresh Garlic (Microplaned)",
+        "us_amount_base": 1.0,
+        "us_unit": "clove",
+        "metric_amount_base": 1.0,
+        "metric_unit": "clove",
+        "substitute": "Finely minced fresh garlic or 1/4 tsp garlic powder if fresh is unavailable"
+      },
+      {
+        "name": "Large Eggs",
+        "us_amount_base": 4.0,
+        "us_unit": "pieces",
+        "metric_amount_base": 4.0,
+        "metric_unit": "pieces",
+        "substitute": "Pasture-raised fresh eggs with firm whites (Vital Farms or organic grade A eggs)"
+      },
+      {
+        "name": "Distilled White Vinegar",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 15.0,
+        "metric_unit": "ml",
+        "substitute": "Apple cider vinegar or white wine vinegar"
+      },
+      {
+        "name": "Unsalted Butter",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 45.0,
+        "metric_unit": "g",
+        "substitute": "High-fat European-style butter (Kerrygold or Plugrá) or standard unsalted sweet butter"
+      },
+      {
+        "name": "Pul Biber (Aleppo Pepper Flakes)",
+        "us_amount_base": 1.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 4.5,
+        "metric_unit": "g",
+        "substitute": "Aleppo pepper, Maras pepper, or 1 tsp sweet paprika mixed with 1/2 tsp cayenne flakes"
+      },
+      {
+        "name": "Fresh Dill (Minced)",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 8.0,
+        "metric_unit": "g",
+        "substitute": "Fresh flat-leaf parsley or fresh mint leaves"
+      },
+      {
+        "name": "Fine Sea Salt",
+        "us_amount_base": 0.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 3.0,
+        "metric_unit": "g",
+        "substitute": "Table salt or kosher salt"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "In a medium bowl, whisk together room-temperature Greek yogurt, microplaned garlic, and sea salt until completely smooth. Divide and spread evenly across two shallow serving bowls.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 2,
+        "instruction": "Bring a deep saucepan filled with 3 inches of water and vinegar to a gentle simmer (around 190°F / 88°C). Do not let it boil vigorously.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 3,
+        "instruction": "Crack each egg individually into a fine-mesh strainer to drain watery outer whites, then transfer into a small ramekin. Create a gentle whirlpool in the simmering water and slide two eggs in at a time. Poach until whites are set and yolks remain runny.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 4,
+        "instruction": "Carefully remove poached eggs with a slotted spoon, blot the undersides gently on a folded paper towel, and place two eggs onto each bed of garlic yogurt.",
+        "timer_seconds": 60
+      },
+      {
+        "step_number": 5,
+        "instruction": "In a small skillet, melt the butter over medium heat. Swirl until the foaming subsides and milk solids begin to turn nutty and light hazelnut brown. Stir in the pul biber, let it foam for 10 seconds, then immediately drizzle the fragrant red butter over the eggs and yogurt.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 6,
+        "instruction": "Garnish with fresh minced dill and serve immediately with toasted sourdough or warm pide flatbread.",
+        "timer_seconds": 0
+      }
+    ]
+  },
+  {
+    "id": "bake_03",
+    "titleEn": "Crispy Feta & Herb Cheese Rolls",
+    "titleTr": "Sigara Böreği",
+    "category": "Bakery & Breakfast",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 10,
+    "servings": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/bake_03.webp",
+    "description": "Crisp cigar-shaped pastry rolls stuffed with savory sheep's milk feta and fresh flat-leaf parsley, pan-fried to golden, shatteringly crisp perfection.",
+    "ingredients": [
+      {
+        "name": "Turkish Yufka Triangles (Pastry Sheets)",
+        "us_amount_base": 12.0,
+        "us_unit": "sheets",
+        "metric_amount_base": 12.0,
+        "metric_unit": "sheets",
+        "substitute": "Standard Greek phyllo dough (Athens brand) stacked 2 sheets thick and cut into triangular wedges, or Chinese egg roll / spring roll wrappers cut into triangles"
+      },
+      {
+        "name": "Turkish Beyaz Peynir (White Cheese)",
+        "us_amount_base": 1.5,
+        "us_unit": "cups",
+        "metric_amount_base": 225.0,
+        "metric_unit": "g",
+        "substitute": "Greek sheep's milk feta (such as Mt. Vikos or Dodoni) or French sheep's milk feta (Valbreso), crumbled"
+      },
+      {
+        "name": "Fresh Flat-Leaf Parsley (Finely Chopped)",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 20.0,
+        "metric_unit": "g",
+        "substitute": "Fresh Italian flat-leaf parsley or fresh mint leaves"
+      },
+      {
+        "name": "Egg White",
+        "us_amount_base": 1.0,
+        "us_unit": "piece",
+        "metric_amount_base": 1.0,
+        "metric_unit": "piece",
+        "substitute": "Standard egg white or 1 tbsp water to bind the cheese filling"
+      },
+      {
+        "name": "Freshly Ground Black Pepper",
+        "us_amount_base": 0.25,
+        "us_unit": "tsp",
+        "metric_amount_base": 1.0,
+        "metric_unit": "g",
+        "substitute": "Standard black pepper"
+      },
+      {
+        "name": "Vegetable Oil (for Frying)",
+        "us_amount_base": 1.5,
+        "us_unit": "cups",
+        "metric_amount_base": 360.0,
+        "metric_unit": "ml",
+        "substitute": "Canola oil, sunflower oil, or vegetable oil"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "In a mixing bowl, mash the crumbled feta cheese with finely chopped parsley, egg white, and black pepper using a fork until a cohesive paste forms.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 2,
+        "instruction": "Lay a triangle of pastry flat on your work surface with the wide base facing you. Spoon 1.5 tablespoons of cheese filling horizontally across the base, leaving 1/2-inch margins on both sides.",
+        "timer_seconds": 60
+      },
+      {
+        "step_number": 3,
+        "instruction": "Fold both lateral sides inward over the filling to enclose the edges, then roll firmly upward toward the pointed tip. Dab the tip with a finger dipped in water or egg white to seal the cigar roll tightly.",
+        "timer_seconds": 360
+      },
+      {
+        "step_number": 4,
+        "instruction": "Heat 1/2 inch of vegetable oil in a deep skillet over medium heat to 350°F (175°C). Test by dipping the tip of one roll; vigorous bubbles should form immediately.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 5,
+        "instruction": "Fry the rolls in batches of 4 to 6 for about 2 to 3 minutes, turning frequently with tongs until evenly golden brown and crisp on all sides.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 6,
+        "instruction": "Transfer the fried rolls to a wire rack or paper towel-lined platter to drain excess oil. Serve warm alongside black olives and Turkish black tea.",
+        "timer_seconds": 120
+      }
+    ]
+  },
+  {
+    "id": "bake_04",
+    "titleEn": "Water Börek with Feta & Fresh Herbs",
+    "titleTr": "Peynirli Su Böreği",
+    "category": "Bakery & Breakfast",
+    "prepTimeMinutes": 45,
+    "cookTimeMinutes": 40,
+    "servings": 8,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/bake_04.webp",
+    "description": "An imperial Ottoman baked delicacy made of homemade egg pasta sheets boiled like lasagna, generously brushed with clarified butter, and layered with tangy sheep's feta and parsley.",
+    "ingredients": [
+      {
+        "name": "All-Purpose Flour",
+        "us_amount_base": 3.5,
+        "us_unit": "cups",
+        "metric_amount_base": 450.0,
+        "metric_unit": "g",
+        "substitute": "King Arthur Unbleached All-Purpose Flour or '00' pasta flour"
+      },
+      {
+        "name": "Large Eggs",
+        "us_amount_base": 4.0,
+        "us_unit": "pieces",
+        "metric_amount_base": 4.0,
+        "metric_unit": "pieces",
+        "substitute": "Large grade A pasture-raised eggs"
+      },
+      {
+        "name": "Water",
+        "us_amount_base": 0.25,
+        "us_unit": "cup",
+        "metric_amount_base": 60.0,
+        "metric_unit": "ml",
+        "substitute": "Filtered lukewarm water"
+      },
+      {
+        "name": "Fine Sea Salt",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 6.0,
+        "metric_unit": "g",
+        "substitute": "Fine sea salt or kosher salt"
+      },
+      {
+        "name": "Clarified Butter or Unsalted Butter (Melted)",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 225.0,
+        "metric_unit": "g",
+        "substitute": "Ghee (store-bought clarified butter) or European unsalted butter skimmed of milk solids"
+      },
+      {
+        "name": "Turkish Beyaz Peynir (White Cheese)",
+        "us_amount_base": 2.5,
+        "us_unit": "cups",
+        "metric_amount_base": 350.0,
+        "metric_unit": "g",
+        "substitute": "Crumbled Greek sheep's milk feta mixed with 1/2 cup whole milk ricotta cheese for moisture"
+      },
+      {
+        "name": "Fresh Flat-Leaf Parsley (Finely Chopped)",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 40.0,
+        "metric_unit": "g",
+        "substitute": "Fresh Italian flat-leaf parsley"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Knead the flour, eggs, water, and salt together for 8 to 10 minutes until you have a smooth, elastic, and firm dough. Divide into 6 equal balls, cover with a damp kitchen towel, and let rest at room temperature.",
+        "timer_seconds": 1800
+      },
+      {
+        "step_number": 2,
+        "instruction": "Roll out each dough ball on a floured surface into a thin sheet matching the size of a 9x13-inch baking dish. Set aside the first (bottom) and sixth (top) sheets unboiled.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 3,
+        "instruction": "Butter the 9x13-inch baking dish generously and lay the first raw dough sheet across the bottom, brushing generously with melted clarified butter. Prepare a large pot of boiling salted water and a large bowl of ice water.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 4,
+        "instruction": "Gently drop the second sheet into the boiling water for 45 seconds, lift with a slotted skimmer, shock immediately in the ice bath for 15 seconds, gently squeeze out excess water, and drape into the baking dish with gentle ripples. Brush with melted butter and repeat with the third sheet.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 5,
+        "instruction": "Evenly scatter the crumbled feta and parsley mixture over the boiled dough layer. Boil, shock, and layer the fourth and fifth sheets over the filling, brushing each layer generously with clarified butter.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 6,
+        "instruction": "Cover the top with the remaining sixth raw dough sheet. Tuck edges in neatly, score into squares with a sharp knife, and pour any remaining clarified butter over the surface.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 7,
+        "instruction": "Bake in a preheated 375°F (190°C) oven for 35 to 40 minutes until the top is deeply golden brown, bubbly, and crisp on the edges.",
+        "timer_seconds": 2400
+      },
+      {
+        "step_number": 8,
+        "instruction": "Let the börek rest for 10 minutes before slicing along the scored squares and serving warm.",
+        "timer_seconds": 600
+      }
+    ]
+  },
+  {
+    "id": "bake_05",
+    "titleEn": "Sesame-Crusted Turkish Bread Rings",
+    "titleTr": "Simit",
+    "category": "Bakery & Breakfast",
+    "prepTimeMinutes": 40,
+    "cookTimeMinutes": 20,
+    "servings": 6,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/bake_05.webp",
+    "description": "The quintessential street bread of Istanbul—twisted ring breads dipped in a grape molasses wash, blanketed in toasted sesame seeds, and baked to a crisp crust with a chewy, fragrant crumb.",
+    "ingredients": [
+      {
+        "name": "Bread Flour",
+        "us_amount_base": 4.0,
+        "us_unit": "cups",
+        "metric_amount_base": 500.0,
+        "metric_unit": "g",
+        "substitute": "King Arthur Unbleached Bread Flour or unbleached all-purpose flour"
+      },
+      {
+        "name": "Instant Dry Yeast",
+        "us_amount_base": 2.25,
+        "us_unit": "tsp",
+        "metric_amount_base": 7.0,
+        "metric_unit": "g",
+        "substitute": "1 standard envelope SAF instant yeast or active dry yeast"
+      },
+      {
+        "name": "Granulated Sugar",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 12.0,
+        "metric_unit": "g",
+        "substitute": "Granulated white cane sugar or honey"
+      },
+      {
+        "name": "Lukewarm Water",
+        "us_amount_base": 1.33,
+        "us_unit": "cups",
+        "metric_amount_base": 320.0,
+        "metric_unit": "ml",
+        "substitute": "Filtered lukewarm water (105°F - 110°F)"
+      },
+      {
+        "name": "Vegetable Oil",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "ml",
+        "substitute": "Sunflower oil, canola oil, or light olive oil"
+      },
+      {
+        "name": "Fine Sea Salt",
+        "us_amount_base": 1.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 9.0,
+        "metric_unit": "g",
+        "substitute": "Fine sea salt or kosher salt"
+      },
+      {
+        "name": "Toasted White Sesame Seeds",
+        "us_amount_base": 1.5,
+        "us_unit": "cups",
+        "metric_amount_base": 200.0,
+        "metric_unit": "g",
+        "substitute": "Raw white sesame seeds toasted in a dry skillet until rich golden brown"
+      },
+      {
+        "name": "Turkish Grape Molasses (Pekmez)",
+        "us_amount_base": 0.33,
+        "us_unit": "cup",
+        "metric_amount_base": 80.0,
+        "metric_unit": "ml",
+        "substitute": "Unsulfured blackstrap molasses, date molasses, or pure dark maple syrup diluted with 1/3 cup water"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "In the bowl of a stand mixer fitted with the dough hook, combine the flour, yeast, sugar, salt, vegetable oil, and lukewarm water. Knead on medium-low speed for 8 minutes until a smooth, slightly stiff, pliable dough forms.",
+        "timer_seconds": 480
+      },
+      {
+        "step_number": 2,
+        "instruction": "Shape dough into a smooth ball, place in an oiled bowl, cover with plastic wrap, and let rise in a warm draft-free area until doubled in volume.",
+        "timer_seconds": 3600
+      },
+      {
+        "step_number": 3,
+        "instruction": "In a wide shallow bowl, whisk together the grape molasses and 1/3 cup water. In a second wide shallow bowl or plate, spread the toasted sesame seeds.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 4,
+        "instruction": "Punch down the dough and divide into 12 equal portions (approx 70g each). Roll each piece into a 24-inch long rope. Take two ropes, pinch together at one end, braid/twist tightly around each other, and seal the ends firmly together into an 8-inch ring.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 5,
+        "instruction": "Submerge each twisted dough ring into the molasses bath for 5 seconds, turn to coat thoroughly, then transfer directly into the sesame seeds, pressing gently so the ring is densely crusted with sesame on all sides.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 6,
+        "instruction": "Arrange on parchment-lined baking sheets, stretch slightly with your fingers to widen the center hole, cover loosely, and let rest for 20 minutes.",
+        "timer_seconds": 1200
+      },
+      {
+        "step_number": 7,
+        "instruction": "Bake in a preheated 425°F (220°C) oven for 18 to 20 minutes until deeply golden brown and audibly crisp. Transfer to a wire rack and enjoy warm.",
+        "timer_seconds": 1200
+      }
+    ]
+  },
+  {
+    "id": "bake_06",
+    "titleEn": "Spiral Arm Pastry with Spiced Minced Beef",
+    "titleTr": "Kıymalı Kol Böreği",
+    "category": "Bakery & Breakfast",
+    "prepTimeMinutes": 35,
+    "cookTimeMinutes": 35,
+    "servings": 6,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/bake_06.webp",
+    "description": "Crisp spiral coils of delicate phyllo stuffed with spiced ground beef, caramelized sweet onions, toasted pine nuts, and warm Mediterranean aromatics.",
+    "ingredients": [
+      {
+        "name": "Phyllo Pastry Sheets",
+        "us_amount_base": 18.0,
+        "us_unit": "sheets",
+        "metric_amount_base": 450.0,
+        "metric_unit": "g",
+        "substitute": "Athens brand frozen phyllo sheets (9x14-inch or 14x18-inch), thawed overnight in the refrigerator"
+      },
+      {
+        "name": "Ground Beef (85% Lean)",
+        "us_amount_base": 1.0,
+        "us_unit": "lb",
+        "metric_amount_base": 450.0,
+        "metric_unit": "g",
+        "substitute": "Ground chuck (85/15) or ground lamb, or a 50/50 mix of beef and lamb"
+      },
+      {
+        "name": "Yellow Onions (Finely Diced)",
+        "us_amount_base": 2.0,
+        "us_unit": "pieces",
+        "metric_amount_base": 300.0,
+        "metric_unit": "g",
+        "substitute": "Standard yellow onions or sweet Vidalia onions"
+      },
+      {
+        "name": "Pine Nuts",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 20.0,
+        "metric_unit": "g",
+        "substitute": "Raw shelled pine nuts (pignoli) or chopped toasted walnuts"
+      },
+      {
+        "name": "Dried Currants",
+        "us_amount_base": 1.5,
+        "us_unit": "tbsp",
+        "metric_amount_base": 15.0,
+        "metric_unit": "g",
+        "substitute": "Dried Zante currants, chopped golden raisins, or dried barberries"
+      },
+      {
+        "name": "Ground Cumin",
+        "us_amount_base": 0.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 1.5,
+        "metric_unit": "g",
+        "substitute": "Ground cumin seed"
+      },
+      {
+        "name": "Ground Allspice",
+        "us_amount_base": 0.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 1.5,
+        "metric_unit": "g",
+        "substitute": "Ground Jamaican allspice"
+      },
+      {
+        "name": "Pul Biber (Aleppo Pepper)",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 3.0,
+        "metric_unit": "g",
+        "substitute": "Aleppo pepper flakes or sweet paprika"
+      },
+      {
+        "name": "Whole Milk",
+        "us_amount_base": 0.75,
+        "us_unit": "cup",
+        "metric_amount_base": 180.0,
+        "metric_unit": "ml",
+        "substitute": "Whole milk or half-and-half"
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "ml",
+        "substitute": "Standard extra virgin olive oil or melted butter"
+      },
+      {
+        "name": "Large Egg",
+        "us_amount_base": 1.0,
+        "us_unit": "piece",
+        "metric_amount_base": 1.0,
+        "metric_unit": "piece",
+        "substitute": "Large egg (for egg wash)"
+      },
+      {
+        "name": "Nigella Seeds (Çörek Otu)",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 10.0,
+        "metric_unit": "g",
+        "substitute": "Black sesame seeds, black cumin seeds, or toasted white sesame seeds"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat. Add pine nuts and toast for 1 minute until golden, then remove and set aside.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 2,
+        "instruction": "In the same skillet, sauté the diced onions until translucent and tender. Add ground beef, breaking it up with a spoon, and cook until browned. Stir in toasted pine nuts, currants, cumin, allspice, pul biber, salt, and pepper. Remove from heat and allow to cool completely.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 3,
+        "instruction": "Whisk together the milk, remaining olive oil, and the egg in a bowl to create the basting wash.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 4,
+        "instruction": "Lay out one phyllo sheet on a clean work surface, brush lightly with the basting wash, lay a second sheet on top, brush again, and repeat with a third sheet. Spoon a line of beef filling along the long edge, then gently roll into a long, slender log.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 5,
+        "instruction": "In a round 12-inch baking pan, curl the first filled roll into a spiral in the center. Form remaining phyllo and beef into additional logs, coiling each one around the central spiral until the pan is full.",
+        "timer_seconds": 480
+      },
+      {
+        "step_number": 6,
+        "instruction": "Brush the entire spiral generously with remaining egg wash and sprinkle liberally with nigella seeds.",
+        "timer_seconds": 60
+      },
+      {
+        "step_number": 7,
+        "instruction": "Bake in a preheated 375°F (190°C) oven for 30 to 35 minutes until the pastry is deep amber, puffy, and crisply layered.",
+        "timer_seconds": 2100
+      }
+    ]
+  },
+  {
+    "id": "bake_07",
+    "titleEn": "Savory Turkish Feta & Dill Scones",
+    "titleTr": "Peynirli Poğaça",
+    "category": "Bakery & Breakfast",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 25,
+    "servings": 12,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/bake_07.webp",
+    "description": "Tender, melt-in-your-mouth savory morning pastries enriched with yogurt and olive oil, studded with fresh dill and stuffed with rich crumbled sheep's feta.",
+    "ingredients": [
+      {
+        "name": "Unsalted Butter (Softened)",
+        "us_amount_base": 0.75,
+        "us_unit": "cup",
+        "metric_amount_base": 170.0,
+        "metric_unit": "g",
+        "substitute": "Kerrygold unsalted butter or standard unsalted butter at room temperature"
+      },
+      {
+        "name": "Plain Whole Milk Yogurt",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "g",
+        "substitute": "Whole milk Greek yogurt or sour cream"
+      },
+      {
+        "name": "Olive Oil",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "ml",
+        "substitute": "Extra virgin olive oil or avocado oil"
+      },
+      {
+        "name": "Large Eggs",
+        "us_amount_base": 2.0,
+        "us_unit": "pieces",
+        "metric_amount_base": 2.0,
+        "metric_unit": "pieces",
+        "substitute": "Large eggs (1 whole egg + 1 white in dough, 1 yolk reserved for egg wash)"
+      },
+      {
+        "name": "Baking Powder",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 14.0,
+        "metric_unit": "g",
+        "substitute": "Aluminum-free baking powder"
+      },
+      {
+        "name": "Fine Sea Salt",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 6.0,
+        "metric_unit": "g",
+        "substitute": "Fine sea salt"
+      },
+      {
+        "name": "All-Purpose Flour",
+        "us_amount_base": 3.5,
+        "us_unit": "cups",
+        "metric_amount_base": 440.0,
+        "metric_unit": "g",
+        "substitute": "King Arthur Unbleached All-Purpose Flour"
+      },
+      {
+        "name": "Fresh Dill (Finely Chopped)",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 20.0,
+        "metric_unit": "g",
+        "substitute": "Fresh dill weed or fresh flat-leaf parsley"
+      },
+      {
+        "name": "Turkish Beyaz Peynir (White Cheese)",
+        "us_amount_base": 1.5,
+        "us_unit": "cups",
+        "metric_amount_base": 200.0,
+        "metric_unit": "g",
+        "substitute": "Crumbled Greek barrel-aged feta or French sheep's milk feta"
+      },
+      {
+        "name": "Nigella Seeds (Çörek Otu)",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 10.0,
+        "metric_unit": "g",
+        "substitute": "Black sesame seeds or roasted white sesame seeds"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "In a large mixing bowl, combine softened butter, yogurt, olive oil, 1 whole egg, and 1 egg white (reserve the second yolk for brushing). Whisk until smoothly combined.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 2,
+        "instruction": "Stir in the finely chopped fresh dill, salt, and baking powder. Gradually add the flour, kneading with your hands until a soft, pliable, non-sticky dough forms (similar to soft earlobe consistency). Do not over-knead.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 3,
+        "instruction": "Pinch off golf ball-sized portions of dough (about 12 pieces). Flatten each portion in the palm of your hand into a 3-inch disk. Place 1 rounded tablespoon of crumbled feta in the center.",
+        "timer_seconds": 240
+      },
+      {
+        "step_number": 4,
+        "instruction": "Fold the dough in half over the filling into a half-moon shape, pressing the curved edge gently with the side of your palm to seal without flattening the puffed center.",
+        "timer_seconds": 240
+      },
+      {
+        "step_number": 5,
+        "instruction": "Place on a baking sheet lined with parchment paper. Whisk the reserved egg yolk with 1/2 teaspoon of olive oil and brush liberally over the poğaça. Score gently with a fork and sprinkle with nigella seeds.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 6,
+        "instruction": "Bake in a preheated 375°F (190°C) oven for 22 to 25 minutes until puffed, golden, and fragrant.",
+        "timer_seconds": 1500
+      }
+    ]
+  },
+  {
+    "id": "bake_08",
+    "titleEn": "Turkish Stuffed Flatbread with Spinach & Feta",
+    "titleTr": "Ispanaklı ve Peynirli Gözleme",
+    "category": "Bakery & Breakfast",
+    "prepTimeMinutes": 25,
+    "cookTimeMinutes": 15,
+    "servings": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/bake_08.webp",
+    "description": "Paper-thin griddled flatbreads folded like envelopes around a vibrant filling of fresh baby spinach, sweet onions, and briny sheep's milk feta, finished with sizzling melted butter.",
+    "ingredients": [
+      {
+        "name": "All-Purpose Flour",
+        "us_amount_base": 2.5,
+        "us_unit": "cups",
+        "metric_amount_base": 320.0,
+        "metric_unit": "g",
+        "substitute": "Unbleached all-purpose flour"
+      },
+      {
+        "name": "Plain Whole Milk Yogurt",
+        "us_amount_base": 0.25,
+        "us_unit": "cup",
+        "metric_amount_base": 60.0,
+        "metric_unit": "g",
+        "substitute": "Plain Greek yogurt or whole milk kefir"
+      },
+      {
+        "name": "Lukewarm Water",
+        "us_amount_base": 0.75,
+        "us_unit": "cup",
+        "metric_amount_base": 180.0,
+        "metric_unit": "ml",
+        "substitute": "Filtered warm water"
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "ml",
+        "substitute": "Cold-pressed extra virgin olive oil"
+      },
+      {
+        "name": "Fine Sea Salt",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 6.0,
+        "metric_unit": "g",
+        "substitute": "Fine sea salt"
+      },
+      {
+        "name": "Fresh Baby Spinach (Washed and Chopped)",
+        "us_amount_base": 4.0,
+        "us_unit": "cups",
+        "metric_amount_base": 200.0,
+        "metric_unit": "g",
+        "substitute": "Organic baby spinach, thoroughly dried and finely shredded"
+      },
+      {
+        "name": "Turkish Beyaz Peynir (White Cheese)",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 150.0,
+        "metric_unit": "g",
+        "substitute": "Crumbled Greek feta or French feta"
+      },
+      {
+        "name": "Yellow Onion (Finely Grated)",
+        "us_amount_base": 1.0,
+        "us_unit": "piece",
+        "metric_amount_base": 120.0,
+        "metric_unit": "g",
+        "substitute": "Small yellow onion or 3 finely sliced scallions"
+      },
+      {
+        "name": "Pul Biber (Aleppo Pepper)",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 3.0,
+        "metric_unit": "g",
+        "substitute": "Aleppo pepper flakes or sweet paprika mixed with crushed red pepper"
+      },
+      {
+        "name": "Unsalted Butter (Melted)",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 45.0,
+        "metric_unit": "g",
+        "substitute": "Grass-fed melted butter for brushing"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "In a large bowl, mix flour, yogurt, water, olive oil, and salt. Knead for 6 minutes until a smooth, non-sticky dough forms. Divide into 4 equal balls, cover, and rest for 20 minutes.",
+        "timer_seconds": 1200
+      },
+      {
+        "step_number": 2,
+        "instruction": "In another bowl, toss the finely shredded spinach with grated onion, crumbled feta, pul biber, and a pinch of black pepper until evenly mixed.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 3,
+        "instruction": "On a lightly floured surface, roll one dough ball out as thinly as possible using a thin rolling pin (oklava) until translucent (approx 14 inches wide).",
+        "timer_seconds": 240
+      },
+      {
+        "step_number": 4,
+        "instruction": "Spread 1/4 of the spinach-feta mixture over the center third of the dough. Fold the top and bottom flaps over the filling, then fold the left and right sides in to create a sealed square envelope.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 5,
+        "instruction": "Preheat an ungreased cast-iron skillet or flat griddle over medium heat. Place the gözleme on the dry skillet and cook until golden brown with charred blisters, about 2 to 3 minutes per side.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 6,
+        "instruction": "Remove from heat onto a cutting board and immediately brush both sides generously with melted butter. Slice into rectangles and serve piping hot.",
+        "timer_seconds": 60
+      }
+    ]
+  },
+  {
+    "id": "bake_09",
+    "titleEn": "Turkish Flatbread Boat with Melted Cheese",
+    "titleTr": "Kaşarlı Pide",
+    "category": "Bakery & Breakfast",
+    "prepTimeMinutes": 35,
+    "cookTimeMinutes": 15,
+    "servings": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/bake_09.webp",
+    "description": "Iconic canoe-shaped Turkish hearth flatbread with a blistered crust, overflowing with molten Turkish kaşar cheese and a luscious runny egg yolk in the center.",
+    "ingredients": [
+      {
+        "name": "Bread Flour",
+        "us_amount_base": 3.5,
+        "us_unit": "cups",
+        "metric_amount_base": 450.0,
+        "metric_unit": "g",
+        "substitute": "King Arthur Bread Flour or unbleached all-purpose flour"
+      },
+      {
+        "name": "Instant Dry Yeast",
+        "us_amount_base": 1.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 5.0,
+        "metric_unit": "g",
+        "substitute": "Instant yeast or active dry yeast"
+      },
+      {
+        "name": "Granulated Sugar",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 4.0,
+        "metric_unit": "g",
+        "substitute": "White granulated sugar or honey"
+      },
+      {
+        "name": "Lukewarm Water",
+        "us_amount_base": 1.25,
+        "us_unit": "cups",
+        "metric_amount_base": 300.0,
+        "metric_unit": "ml",
+        "substitute": "Warm water (105°F)"
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "ml",
+        "substitute": "Standard extra virgin olive oil"
+      },
+      {
+        "name": "Fine Sea Salt",
+        "us_amount_base": 1.25,
+        "us_unit": "tsp",
+        "metric_amount_base": 7.5,
+        "metric_unit": "g",
+        "substitute": "Fine sea salt"
+      },
+      {
+        "name": "Turkish Kaşar Peyniri (Shredded)",
+        "us_amount_base": 2.5,
+        "us_unit": "cups",
+        "metric_amount_base": 300.0,
+        "metric_unit": "g",
+        "substitute": "Whole milk low-moisture mozzarella mixed 50/50 with young Gouda, Fontina, or mild Provolone"
+      },
+      {
+        "name": "Large Egg Yolks",
+        "us_amount_base": 4.0,
+        "us_unit": "pieces",
+        "metric_amount_base": 4.0,
+        "metric_unit": "pieces",
+        "substitute": "Fresh pasture-raised egg yolks (or whole eggs)"
+      },
+      {
+        "name": "Unsalted Butter",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "g",
+        "substitute": "Grass-fed butter, sliced into small pats"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "In a stand mixer bowl, combine flour, yeast, sugar, salt, olive oil, and lukewarm water. Knead for 7 minutes on medium-low speed until smooth, elastic, and slightly tacky.",
+        "timer_seconds": 420
+      },
+      {
+        "step_number": 2,
+        "instruction": "Shape into a ball, cover with a damp towel, and proof in a warm spot until doubled in size.",
+        "timer_seconds": 2700
+      },
+      {
+        "step_number": 3,
+        "instruction": "Divide dough into 4 equal portions. On a floured parchment sheet, roll each piece into an elongated oval roughly 14 inches long and 6 inches wide.",
+        "timer_seconds": 360
+      },
+      {
+        "step_number": 4,
+        "instruction": "Distribute shredded cheese generously across the center of each oval, leaving a 1-inch border. Fold the long edges inward over the cheese and pinch both tapered ends tightly into pointed boat tips.",
+        "timer_seconds": 240
+      },
+      {
+        "step_number": 5,
+        "instruction": "Brush the dough rims with olive oil or beaten egg wash. Slide onto a preheated baking steel or heavy baking sheet in a 475°F (245°C) oven and bake for 10 minutes until edges are puffed and lightly golden.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 6,
+        "instruction": "Carefully pull the oven rack out, drop one fresh egg yolk into the bubbling molten cheese center of each pide, and return to the oven for 2 more minutes until the white sets and yolk is warm and runny.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 7,
+        "instruction": "Remove from oven, rub a pat of butter over the hot crust edges, slice crosswise into 2-inch strips, and serve immediately.",
+        "timer_seconds": 60
+      }
+    ]
+  },
+  {
+    "id": "bake_10",
+    "titleEn": "Turkish Spicy Beef Sausage with Sunny-Side Eggs",
+    "titleTr": "Sucuklu Yumurta",
+    "category": "Bakery & Breakfast",
+    "prepTimeMinutes": 5,
+    "cookTimeMinutes": 8,
+    "servings": 2,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/bake_10.webp",
+    "description": "Sizzling, aromatic slices of cured garlic beef sausage fried in butter until slightly crisped, topped with sunny-side eggs ready for crusty bread dipping.",
+    "ingredients": [
+      {
+        "name": "Turkish Sucuk (Spicy Cured Beef Sausage)",
+        "us_amount_base": 6.0,
+        "us_unit": "oz",
+        "metric_amount_base": 170.0,
+        "metric_unit": "g",
+        "substitute": "Spanish dry-cured chorizo, garlic beef pepperoni log, or spicy beef kielbasa sliced 1/4-inch thick"
+      },
+      {
+        "name": "Large Eggs",
+        "us_amount_base": 4.0,
+        "us_unit": "pieces",
+        "metric_amount_base": 4.0,
+        "metric_unit": "pieces",
+        "substitute": "Pasture-raised large eggs"
+      },
+      {
+        "name": "Unsalted Butter",
+        "us_amount_base": 1.5,
+        "us_unit": "tbsp",
+        "metric_amount_base": 22.0,
+        "metric_unit": "g",
+        "substitute": "Grass-fed unsalted butter (Kerrygold)"
+      },
+      {
+        "name": "Pul Biber (Aleppo Pepper)",
+        "us_amount_base": 0.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 1.5,
+        "metric_unit": "g",
+        "substitute": "Aleppo pepper flakes or mild crushed red pepper"
+      },
+      {
+        "name": "Flaky Sea Salt",
+        "us_amount_base": 0.25,
+        "us_unit": "tsp",
+        "metric_amount_base": 1.5,
+        "metric_unit": "g",
+        "substitute": "Maldon flaky salt or coarse kosher salt"
+      },
+      {
+        "name": "Freshly Ground Black Pepper",
+        "us_amount_base": 0.25,
+        "us_unit": "tsp",
+        "metric_amount_base": 1.0,
+        "metric_unit": "g",
+        "substitute": "Black pepper"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Peel the thin outer casing off the sucuk sausage and slice it on a slight bias into 1/4-inch thick rounds.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 2,
+        "instruction": "Melt the butter in a heavy copper or cast-iron skillet over medium heat. Lay the sucuk slices in a single layer and fry for 1.5 to 2 minutes per side until the edges curl slightly and the aromatic paprika-garlic oil renders into the pan.",
+        "timer_seconds": 240
+      },
+      {
+        "step_number": 3,
+        "instruction": "Push the sausage slices slightly to create spaces, and gently crack the eggs into the pan between the sausage pieces.",
+        "timer_seconds": 60
+      },
+      {
+        "step_number": 4,
+        "instruction": "Cover the skillet with a lid, turn heat to low, and cook for 2 to 3 minutes until the whites are fully set while yolks remain glossy and liquid.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 5,
+        "instruction": "Remove lid, spoon a little of the rendered red sausage butter over the egg whites, season with flaky salt, black pepper, and pul biber, and serve directly in the skillet with warm bread.",
+        "timer_seconds": 0
+      }
+    ]
+  },
+  {
+    "id": "bake_11",
+    "titleEn": "Black Sea Melted Cheese & Cornmeal Fondue",
+    "titleTr": "Kuymak (Mıhlama)",
+    "category": "Bakery & Breakfast",
+    "prepTimeMinutes": 5,
+    "cookTimeMinutes": 15,
+    "servings": 3,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/bake_11.webp",
+    "description": "An iconic, comforting breakfast dish from Turkey's Black Sea coast: nutty stone-ground cornmeal toasted in golden butter, simmered with boiling water, and blended with stretchy melted cheeses.",
+    "ingredients": [
+      {
+        "name": "Unsalted Butter",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 115.0,
+        "metric_unit": "g",
+        "substitute": "High-fat European-style butter or traditional ghee"
+      },
+      {
+        "name": "Coarse Yellow Cornmeal",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 80.0,
+        "metric_unit": "g",
+        "substitute": "Stone-ground medium/coarse yellow cornmeal (Bob's Red Mill) or Italian polenta grits"
+      },
+      {
+        "name": "Boiling Water",
+        "us_amount_base": 1.5,
+        "us_unit": "cups",
+        "metric_amount_base": 360.0,
+        "metric_unit": "ml",
+        "substitute": "Boiling water or half whole milk / half boiling water for extra richness"
+      },
+      {
+        "name": "Turkish Kolot or Trabzon Cheese (Shredded)",
+        "us_amount_base": 2.0,
+        "us_unit": "cups",
+        "metric_amount_base": 250.0,
+        "metric_unit": "g",
+        "substitute": "Equal parts low-moisture whole milk mozzarella and Fontina or Gruyère (for exceptional stretch and nutty flavor)"
+      },
+      {
+        "name": "Fine Sea Salt",
+        "us_amount_base": 0.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 3.0,
+        "metric_unit": "g",
+        "substitute": "Fine sea salt"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Melt the butter in a traditional copper or heavy cast-iron skillet over medium heat until it foams and begins to turn aromatic.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 2,
+        "instruction": "Add the cornmeal and salt to the melted butter. Stir continuously with a wooden spoon for 3 to 4 minutes until the cornmeal toasts to a deep golden color and smells nutty.",
+        "timer_seconds": 240
+      },
+      {
+        "step_number": 3,
+        "instruction": "Slowly pour in the boiling water while whisking vigorously to prevent lumps. Lower heat to medium-low and simmer, stirring continuously, until the mixture thickens into a smooth porridge.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 4,
+        "instruction": "Scatter the shredded cheese across the surface. Do not vigorously stir; gently fold the cheese into the cornmeal with a spoon a couple of times and allow it to melt slowly over low heat.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 5,
+        "instruction": "Cook on very low heat undisturbed for 3 to 4 minutes until the clarified butter separates and rises to the top, forming a gleaming golden pool over the stretchy cheese.",
+        "timer_seconds": 240
+      },
+      {
+        "step_number": 6,
+        "instruction": "Serve immediately from the skillet, using pieces of crusty sourdough or village bread to pull dramatic strands of melted cheese.",
+        "timer_seconds": 0
+      }
+    ]
+  },
+  {
+    "id": "bake_12",
+    "titleEn": "Flaky Izmir Tahini Breakfast Pastries",
+    "titleTr": "İzmir Boyozu",
+    "category": "Bakery & Breakfast",
+    "prepTimeMinutes": 60,
+    "cookTimeMinutes": 25,
+    "servings": 8,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/bake_12.webp",
+    "description": "The legendary Sephardic breakfast specialty of Izmir: unleavened dough stretched paper-thin, laminated with pure sesame tahini and vegetable oil, and baked into gossamer-flaky pastries.",
+    "ingredients": [
+      {
+        "name": "High-Protein All-Purpose Flour",
+        "us_amount_base": 3.5,
+        "us_unit": "cups",
+        "metric_amount_base": 450.0,
+        "metric_unit": "g",
+        "substitute": "King Arthur Bread Flour or unbleached all-purpose flour"
+      },
+      {
+        "name": "Warm Water",
+        "us_amount_base": 1.25,
+        "us_unit": "cups",
+        "metric_amount_base": 300.0,
+        "metric_unit": "ml",
+        "substitute": "Warm filtered water (95°F)"
+      },
+      {
+        "name": "Granulated Sugar",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 4.0,
+        "metric_unit": "g",
+        "substitute": "Granulated white sugar"
+      },
+      {
+        "name": "Fine Sea Salt",
+        "us_amount_base": 1.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 9.0,
+        "metric_unit": "g",
+        "substitute": "Fine sea salt"
+      },
+      {
+        "name": "Pure Sesame Tahini",
+        "us_amount_base": 0.33,
+        "us_unit": "cup",
+        "metric_amount_base": 80.0,
+        "metric_unit": "g",
+        "substitute": "Soom pure sesame tahini, Trader Joe's organic tahini, or roasted white sesame paste"
+      },
+      {
+        "name": "Sunflower or Vegetable Oil",
+        "us_amount_base": 0.75,
+        "us_unit": "cup",
+        "metric_amount_base": 180.0,
+        "metric_unit": "ml",
+        "substitute": "Sunflower oil, canola oil, or mild light olive oil"
+      },
+      {
+        "name": "Unsalted Butter (Softened)",
+        "us_amount_base": 4.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 60.0,
+        "metric_unit": "g",
+        "substitute": "European unsalted butter at room temperature"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "In a stand mixer, knead the flour, warm water, sugar, and salt for 10 minutes until extremely smooth, supple, and non-sticky. Divide into 8 equal balls.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 2,
+        "instruction": "Submerge the dough balls in a shallow dish filled with the vegetable oil. Cover and let rest for 30 minutes to relax the gluten thoroughly.",
+        "timer_seconds": 1800
+      },
+      {
+        "step_number": 3,
+        "instruction": "Whisk the softened butter and tahini together in a small bowl until completely smooth.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 4,
+        "instruction": "Take one oil-slicked dough ball onto a clean marble or stainless steel surface. Using your palms and fingertips, gently stretch the dough outward from the center until it forms an immense, paper-thin translucent sheet (nearly see-through).",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 5,
+        "instruction": "Spread 1 tablespoon of the butter-tahini mixture over the stretched sheet. Fold the sheet like a business letter in thirds, then roll it up tightly into a cylinder. Coil the cylinder onto itself and press gently into a flattened puck.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 6,
+        "instruction": "Repeat with remaining dough balls. Arrange on a parchment-lined baking sheet and let rest for 15 minutes.",
+        "timer_seconds": 900
+      },
+      {
+        "step_number": 7,
+        "instruction": "Bake in a preheated 400°F (200°C) oven for 22 to 25 minutes until puffed, golden, crisp, and beautifully laminated. Serve traditional style with hard-boiled eggs dusted with black pepper.",
+        "timer_seconds": 1500
+      }
+    ]
+  },
+  {
+    "id": "bake_13",
+    "titleEn": "Village-Style Turkish Skillet Flatbread",
+    "titleTr": "Bazlama",
+    "category": "Bakery & Breakfast",
+    "prepTimeMinutes": 30,
+    "cookTimeMinutes": 20,
+    "servings": 6,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/bake_13.webp",
+    "description": "Thick, cloud-soft leavened village flatbread enriched with creamy yogurt, cooked in a dry cast-iron skillet until puffed into balloons and slathered with melted butter.",
+    "ingredients": [
+      {
+        "name": "All-Purpose Flour",
+        "us_amount_base": 4.0,
+        "us_unit": "cups",
+        "metric_amount_base": 500.0,
+        "metric_unit": "g",
+        "substitute": "King Arthur Unbleached All-Purpose Flour or bread flour"
+      },
+      {
+        "name": "Plain Whole Milk Greek Yogurt",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "g",
+        "substitute": "Full-fat plain Greek yogurt, plain whole milk yogurt, or labneh"
+      },
+      {
+        "name": "Active Dry Yeast",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 9.0,
+        "metric_unit": "g",
+        "substitute": "1 envelope active dry yeast or instant dry yeast"
+      },
+      {
+        "name": "Granulated Sugar",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 12.0,
+        "metric_unit": "g",
+        "substitute": "Granulated cane sugar or honey"
+      },
+      {
+        "name": "Lukewarm Water",
+        "us_amount_base": 1.25,
+        "us_unit": "cups",
+        "metric_amount_base": 300.0,
+        "metric_unit": "ml",
+        "substitute": "Lukewarm filtered water (105°F - 110°F)"
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "ml",
+        "substitute": "Extra virgin olive oil"
+      },
+      {
+        "name": "Fine Sea Salt",
+        "us_amount_base": 1.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 9.0,
+        "metric_unit": "g",
+        "substitute": "Fine sea salt"
+      },
+      {
+        "name": "Unsalted Butter (Melted)",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 45.0,
+        "metric_unit": "g",
+        "substitute": "Grass-fed butter, melted (for brushing)"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "In a large bowl, whisk together the lukewarm water, yeast, and sugar. Let stand until frothy and activated.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 2,
+        "instruction": "Add the flour, Greek yogurt, olive oil, and salt. Knead for 7 to 8 minutes until a very soft, smooth, slightly sticky dough forms. Shape into a ball, cover with a damp cloth, and let rise until doubled.",
+        "timer_seconds": 3600
+      },
+      {
+        "step_number": 3,
+        "instruction": "Turn dough onto a well-floured board and divide into 6 equal portions. Shape each into a smooth ball, cover with a dry towel, and let rest for 10 minutes.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 4,
+        "instruction": "Roll out each dough ball with a floured rolling pin into a round disk about 7 inches in diameter and 1/3-inch thick.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 5,
+        "instruction": "Preheat a heavy cast-iron skillet over medium heat until hot. Place one flatbread in the dry pan. When bubbles begin to form on the surface (about 1 minute), flip it over. Flip every 30 seconds until the flatbread dramatically puffs up like a balloon with brown spots on both sides.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 6,
+        "instruction": "Remove from heat onto a clean kitchen towel, immediately brush both sides with melted butter, and stack to keep soft and warm.",
+        "timer_seconds": 60
+      }
+    ]
+  },
+  {
+    "id": "bake_14",
+    "titleEn": "Soft & Fluffy Turkish Olive Brioche Rolls",
+    "titleTr": "Zeytinli Açma",
+    "category": "Bakery & Breakfast",
+    "prepTimeMinutes": 45,
+    "cookTimeMinutes": 25,
+    "servings": 8,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/bake_14.webp",
+    "description": "Featherlight, buttery Turkish brioche ring pastries laminated with savory black olive tapenade, twisted into graceful rings, and baked with a glossy golden crust.",
+    "ingredients": [
+      {
+        "name": "All-Purpose or Bread Flour",
+        "us_amount_base": 4.5,
+        "us_unit": "cups",
+        "metric_amount_base": 560.0,
+        "metric_unit": "g",
+        "substitute": "King Arthur Bread Flour or unbleached all-purpose flour"
+      },
+      {
+        "name": "Instant Dry Yeast",
+        "us_amount_base": 2.25,
+        "us_unit": "tsp",
+        "metric_amount_base": 7.0,
+        "metric_unit": "g",
+        "substitute": "1 envelope instant dry yeast"
+      },
+      {
+        "name": "Whole Milk (Warm)",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 240.0,
+        "metric_unit": "ml",
+        "substitute": "Warm whole cow's milk (105°F)"
+      },
+      {
+        "name": "Lukewarm Water",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "ml",
+        "substitute": "Lukewarm water"
+      },
+      {
+        "name": "Vegetable Oil",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "ml",
+        "substitute": "Sunflower oil, canola oil, or mild olive oil"
+      },
+      {
+        "name": "Granulated Sugar",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 25.0,
+        "metric_unit": "g",
+        "substitute": "Granulated white sugar"
+      },
+      {
+        "name": "Fine Sea Salt",
+        "us_amount_base": 1.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 9.0,
+        "metric_unit": "g",
+        "substitute": "Fine sea salt"
+      },
+      {
+        "name": "Unsalted Butter (Softened)",
+        "us_amount_base": 4.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 60.0,
+        "metric_unit": "g",
+        "substitute": "European unsalted butter at room temperature"
+      },
+      {
+        "name": "Turkish Black Olive Paste (Zeytin Ezmesi)",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "g",
+        "substitute": "Kalamata olive tapenade, Divina olive spread, or finely minced cured black olives"
+      },
+      {
+        "name": "Large Egg Yolk",
+        "us_amount_base": 1.0,
+        "us_unit": "piece",
+        "metric_amount_base": 1.0,
+        "metric_unit": "piece",
+        "substitute": "Large egg yolk beaten with 1 tsp milk"
+      },
+      {
+        "name": "Nigella Seeds (Çörek Otu)",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 10.0,
+        "metric_unit": "g",
+        "substitute": "Black sesame seeds or roasted white sesame seeds"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "In a stand mixer bowl, whisk the warm milk, warm water, sugar, and yeast. Let stand 5 minutes until frothy.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 2,
+        "instruction": "Add the vegetable oil, salt, and flour. Knead on medium speed for 8 minutes until a silky, exceptionally soft, slightly tacky brioche dough develops. Place in an oiled bowl, cover, and let proof until doubled.",
+        "timer_seconds": 3600
+      },
+      {
+        "step_number": 3,
+        "instruction": "Punch down the dough and divide into 8 equal portions. Roll each portion into a smooth ball. Spread 1/2 tablespoon of softened butter onto each ball, then press and stretch into an 8x5-inch rectangle with your fingers.",
+        "timer_seconds": 480
+      },
+      {
+        "step_number": 4,
+        "instruction": "Spread 1 tablespoon of black olive paste evenly across the surface. Roll up tightly from the long side into a slender cigar rope. Twist both ends in opposite directions to form a braided twist, then join the tips together to form a ring.",
+        "timer_seconds": 480
+      },
+      {
+        "step_number": 5,
+        "instruction": "Place on parchment-lined baking sheets, cover with a dry towel, and let proof for 20 minutes until puffy.",
+        "timer_seconds": 1200
+      },
+      {
+        "step_number": 6,
+        "instruction": "Brush each açma gently with the egg yolk wash and sprinkle with nigella seeds.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 7,
+        "instruction": "Bake in a preheated 375°F (190°C) oven for 20 to 22 minutes until deep mahogany golden and springy to the touch.",
+        "timer_seconds": 1260
+      }
+    ]
+  },
+  {
+    "id": "bake_15",
+    "titleEn": "Crispy Turkish Fried Breakfast Dough Puffs",
+    "titleTr": "Pişi",
+    "category": "Bakery & Breakfast",
+    "prepTimeMinutes": 25,
+    "cookTimeMinutes": 15,
+    "servings": 6,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/bake_15.webp",
+    "description": "Golden, blistered fried yeast dough puffs with a crisp, delicate crust and an airy hollow pocket inside, traditional for weekend breakfast tables.",
+    "ingredients": [
+      {
+        "name": "All-Purpose Flour",
+        "us_amount_base": 3.5,
+        "us_unit": "cups",
+        "metric_amount_base": 450.0,
+        "metric_unit": "g",
+        "substitute": "King Arthur Unbleached All-Purpose Flour"
+      },
+      {
+        "name": "Instant Dry Yeast",
+        "us_amount_base": 1.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 5.0,
+        "metric_unit": "g",
+        "substitute": "Instant dry yeast or active dry yeast"
+      },
+      {
+        "name": "Plain Whole Milk Yogurt",
+        "us_amount_base": 0.25,
+        "us_unit": "cup",
+        "metric_amount_base": 60.0,
+        "metric_unit": "g",
+        "substitute": "Plain whole milk yogurt or buttermilk"
+      },
+      {
+        "name": "Lukewarm Water",
+        "us_amount_base": 1.25,
+        "us_unit": "cups",
+        "metric_amount_base": 300.0,
+        "metric_unit": "ml",
+        "substitute": "Warm water (105°F)"
+      },
+      {
+        "name": "Granulated Sugar",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 4.0,
+        "metric_unit": "g",
+        "substitute": "Granulated white sugar"
+      },
+      {
+        "name": "Fine Sea Salt",
+        "us_amount_base": 1.25,
+        "us_unit": "tsp",
+        "metric_amount_base": 7.5,
+        "metric_unit": "g",
+        "substitute": "Fine sea salt"
+      },
+      {
+        "name": "Vegetable Oil (for Frying)",
+        "us_amount_base": 3.0,
+        "us_unit": "cups",
+        "metric_amount_base": 720.0,
+        "metric_unit": "ml",
+        "substitute": "Sunflower oil, peanut oil, or canola oil with a high smoke point"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "In a large bowl, whisk lukewarm water, yeast, sugar, and yogurt. Add the flour and salt, then knead for 6 minutes until a smooth, slightly sticky, soft dough forms.",
+        "timer_seconds": 360
+      },
+      {
+        "step_number": 2,
+        "instruction": "Cover the bowl with plastic wrap and let rise in a warm spot until doubled in volume.",
+        "timer_seconds": 3600
+      },
+      {
+        "step_number": 3,
+        "instruction": "Pour 1.5 inches of vegetable oil into a deep skillet or Dutch oven and heat over medium-high to 365°F (185°C).",
+        "timer_seconds": 480
+      },
+      {
+        "step_number": 4,
+        "instruction": "Dip your hands lightly in oil or flour. Pinch off mandarin orange-sized pieces of dough (approx 12 pieces). Gently stretch each piece with your fingers into a 4-inch flat disk and poke a small hole in the center with your finger (to ensure even frying).",
+        "timer_seconds": 240
+      },
+      {
+        "step_number": 5,
+        "instruction": "Carefully slide 3 to 4 dough disks into the hot oil. The dough will puff up instantly. Fry for 1.5 to 2 minutes per side, flipping once with tongs, until golden brown and blistered.",
+        "timer_seconds": 210
+      },
+      {
+        "step_number": 6,
+        "instruction": "Drain on a wire rack or paper towels. Serve immediately while warm with feta cheese, sliced tomatoes, cucumbers, and black cherry jam or honey.",
+        "timer_seconds": 60
+      }
+    ]
+  }
+]

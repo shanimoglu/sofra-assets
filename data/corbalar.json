@@ -1,0 +1,1877 @@
+[
+  {
+    "id": "soup_01",
+    "titleEn": "Silky Red Lentil Soup with Mint Butter",
+    "titleTr": "Süzme Mercimek Çorbası",
+    "category": "Soups",
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 35,
+    "servings": 6,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/soup_01.webp",
+    "description": "The quintessential national starter of Turkey: pureed crimson lentils gently simmered with aromatic vegetables, strained to a velvety sheen, and crowned with bubbling dried mint and paprika infused butter.",
+    "ingredients": [
+      {
+        "name": "Red Lentils",
+        "us_amount_base": 1.5,
+        "us_unit": "cups",
+        "metric_amount_base": 300.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Yellow Onion",
+        "us_amount_base": 1.0,
+        "us_unit": "medium",
+        "metric_amount_base": 150.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Carrot",
+        "us_amount_base": 1.0,
+        "us_unit": "medium",
+        "metric_amount_base": 100.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Russet Potato",
+        "us_amount_base": 1.0,
+        "us_unit": "small",
+        "metric_amount_base": 120.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Low-Sodium Chicken or Vegetable Broth",
+        "us_amount_base": 6.0,
+        "us_unit": "cups",
+        "metric_amount_base": 1420.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Turkish Sweet Pepper Paste (Tatlı Biber Salçası)",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 15.0,
+        "metric_unit": "g",
+        "substitute": "1 tbsp tomato paste mixed with 1/2 tsp smoked paprika"
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Unsalted Butter",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 42.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Turkish Dried Spearmint (Kuru Nane)",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 3.0,
+        "metric_unit": "g",
+        "substitute": "Standard dried spearmint or dried peppermint"
+      },
+      {
+        "name": "Aleppo Pepper Flakes (Pul Biber)",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 2.5,
+        "metric_unit": "g",
+        "substitute": "3/4 tsp sweet Hungarian paprika mixed with 1/4 tsp cayenne pepper"
+      },
+      {
+        "name": "Ground Cumin",
+        "us_amount_base": 0.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 1.2,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Fresh Lemon Wedges",
+        "us_amount_base": 1.0,
+        "us_unit": "lemon",
+        "metric_amount_base": 60.0,
+        "metric_unit": "ml",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Roughly chop the onion, carrot, and potato. In a large heavy-bottomed Dutch oven, heat olive oil over medium heat and sauté the vegetables until onion is translucent and soft.",
+        "timer_seconds": 360
+      },
+      {
+        "step_number": 2,
+        "instruction": "Stir in the Turkish sweet pepper paste and ground cumin, blooming the paste in the fragrant oil until fragrant and slightly deepened in color.",
+        "timer_seconds": 90
+      },
+      {
+        "step_number": 3,
+        "instruction": "Thoroughly rinse red lentils under cold water until water runs clear. Add the rinsed lentils and broth to the pot. Bring to a rapid rolling boil, skimming any foam from the surface.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 4,
+        "instruction": "Reduce heat to low, cover with a tight-fitting lid, and simmer until lentils and vegetables are thoroughly tender and falling apart.",
+        "timer_seconds": 1500
+      },
+      {
+        "step_number": 5,
+        "instruction": "Puree the soup until completely smooth using an immersion blender, then pour through a fine-mesh sieve (süzgeç) for an authentically silky restaurant texture. Season with salt and black pepper to taste.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 6,
+        "instruction": "In a small skillet or cezve, melt butter over medium-low heat until foaming. Stir in dried spearmint and Aleppo pepper; sizzle for 30 seconds until aromatic, then drizzle over ladled bowls and serve with fresh lemon wedges.",
+        "timer_seconds": 60
+      }
+    ]
+  },
+  {
+    "id": "soup_02",
+    "titleEn": "Ezogelin Soup with Bulgur, Rice, and Mint",
+    "titleTr": "Ezogelin Çorbası",
+    "category": "Soups",
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 40,
+    "servings": 6,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/soup_02.webp",
+    "description": "Named after the legendary Anatolian bride Ezo, this textured and zesty soup unites red lentils with bulgur wheat and rice in a fragrant tomato-pepper broth laced with dried mint.",
+    "ingredients": [
+      {
+        "name": "Red Lentils",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 200.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Coarse Bulgur Wheat (Pilavlık Bulgur)",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 25.0,
+        "metric_unit": "g",
+        "substitute": "Coarse bulgur #3 (available at Whole Foods) or cracked wheat"
+      },
+      {
+        "name": "Baldo Rice or White Rice",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 25.0,
+        "metric_unit": "g",
+        "substitute": "Arborio rice or Calrose medium-grain white rice"
+      },
+      {
+        "name": "Yellow Onion",
+        "us_amount_base": 1.0,
+        "us_unit": "medium",
+        "metric_amount_base": 150.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Garlic",
+        "us_amount_base": 2.0,
+        "us_unit": "cloves",
+        "metric_amount_base": 6.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Tomato Paste",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 15.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Turkish Hot Pepper Paste (Acı Biber Salçası)",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 15.0,
+        "metric_unit": "g",
+        "substitute": "1 tbsp tomato paste mixed with 1/4 tsp cayenne pepper and 1/2 tsp smoked paprika"
+      },
+      {
+        "name": "Chicken or Beef Broth",
+        "us_amount_base": 6.0,
+        "us_unit": "cups",
+        "metric_amount_base": 1420.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Unsalted Butter",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 28.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 15.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Turkish Dried Spearmint (Kuru Nane)",
+        "us_amount_base": 1.5,
+        "us_unit": "tbsp",
+        "metric_amount_base": 4.5,
+        "metric_unit": "g",
+        "substitute": "Dried spearmint"
+      },
+      {
+        "name": "Aleppo Pepper Flakes (Pul Biber)",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 2.5,
+        "metric_unit": "g",
+        "substitute": "Red pepper chili flakes mixed with a pinch of paprika"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Rinse red lentils, bulgur, and rice together in a fine mesh colander. Place them in a soup pot with the broth, bring to a boil, then reduce heat and simmer partially covered until grains are tender.",
+        "timer_seconds": 1500
+      },
+      {
+        "step_number": 2,
+        "instruction": "While grains cook, finely dice the onion and mince garlic. In a separate saucepan, melt butter with olive oil over medium heat and sauté onion until caramelized at edges.",
+        "timer_seconds": 420
+      },
+      {
+        "step_number": 3,
+        "instruction": "Add minced garlic, tomato paste, and hot pepper paste to the onions. Cook, stirring constantly, until the pastes release their rich aromatic oils.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 4,
+        "instruction": "Whisk in dried spearmint and Aleppo pepper into the paste mixture, sizzling gently for 30 seconds to infuse.",
+        "timer_seconds": 30
+      },
+      {
+        "step_number": 5,
+        "instruction": "Ladle one cup of hot lentil broth into the tomato-paste pan to temper and loosen it, then pour everything back into the main soup pot. Whisk vigorously so the grains partially crush without turning into a smooth puree.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 6,
+        "instruction": "Simmer together over low heat for 10 minutes to allow flavors to meld. Season with salt, and serve piping hot with lemon wedges.",
+        "timer_seconds": 600
+      }
+    ]
+  },
+  {
+    "id": "soup_03",
+    "titleEn": "Highland Meadow Yogurt & Mint Soup",
+    "titleTr": "Yayla Çorbası",
+    "category": "Soups",
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 25,
+    "servings": 5,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/soup_03.webp",
+    "description": "Originating from Anatolian mountain pastures, this soothing comfort soup features tender rice enveloped in a velvety tempered yogurt broth, garnished with sizzling mint-infused butter.",
+    "ingredients": [
+      {
+        "name": "Turkish Strained Yogurt (Süzme Yoğurt)",
+        "us_amount_base": 1.5,
+        "us_unit": "cups",
+        "metric_amount_base": 360.0,
+        "metric_unit": "g",
+        "substitute": "Plain whole-milk Greek yogurt (e.g. Fage Total 5%)"
+      },
+      {
+        "name": "Baldo Rice or Short-Grain Rice",
+        "us_amount_base": 0.33,
+        "us_unit": "cup",
+        "metric_amount_base": 65.0,
+        "metric_unit": "g",
+        "substitute": "Arborio or Calrose short-grain white rice"
+      },
+      {
+        "name": "Water or Light Chicken Broth",
+        "us_amount_base": 5.0,
+        "us_unit": "cups",
+        "metric_amount_base": 1180.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Large Egg Yolk",
+        "us_amount_base": 1.0,
+        "us_unit": "piece",
+        "metric_amount_base": 1.0,
+        "metric_unit": "piece",
+        "substitute": null
+      },
+      {
+        "name": "All-Purpose Flour",
+        "us_amount_base": 1.5,
+        "us_unit": "tbsp",
+        "metric_amount_base": 15.0,
+        "metric_unit": "g",
+        "substitute": "Cornstarch (for gluten-free variation)"
+      },
+      {
+        "name": "Unsalted Butter",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 42.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Turkish Dried Spearmint (Kuru Nane)",
+        "us_amount_base": 1.5,
+        "us_unit": "tbsp",
+        "metric_amount_base": 4.5,
+        "metric_unit": "g",
+        "substitute": "Standard dried spearmint"
+      },
+      {
+        "name": "Aleppo Pepper Flakes (Pul Biber)",
+        "us_amount_base": 0.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 1.2,
+        "metric_unit": "g",
+        "substitute": "Pinch of paprika and red pepper flakes"
+      },
+      {
+        "name": "Fine Sea Salt",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 6.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "In a medium saucepan, combine the rice and 5 cups of water or broth. Bring to a boil over medium-high heat, then lower heat and simmer until rice grains are very soft.",
+        "timer_seconds": 900
+      },
+      {
+        "step_number": 2,
+        "instruction": "In a mixing bowl, prepare the terbiye (liason): whisk together yogurt, egg yolk, all-purpose flour, and 1/4 cup room-temperature water until completely smooth without any lumps.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 3,
+        "instruction": "CRITICAL TEMPERING STEP: Slowly ladle two ladles of hot rice water into the yogurt bowl one splash at a time while whisking vigorously, raising the yogurt's temperature to prevent curdling.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 4,
+        "instruction": "Turn heat under the pot to low. Pour the tempered yogurt mixture into the pot in a steady stream, stirring continuously in one direction until the soup returns to a gentle simmer.",
+        "timer_seconds": 360
+      },
+      {
+        "step_number": 5,
+        "instruction": "Simmer gently for 5 minutes, continuing to stir periodically. Turn off heat and ONLY NOW stir in salt (adding salt early curdles yogurt).",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 6,
+        "instruction": "Melt butter in a small pan until bubbling, stir in dried mint and Aleppo pepper for 20 seconds, and swirl generously atop the soup.",
+        "timer_seconds": 45
+      }
+    ]
+  },
+  {
+    "id": "soup_04",
+    "titleEn": "Traditional Fermented Tarhana Soup",
+    "titleTr": "Geleneksel Tarhana Çorbası",
+    "category": "Soups",
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 20,
+    "servings": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/soup_04.webp",
+    "description": "An ancient fermented grain soup prepared from sun-dried dough of yogurt, tomatoes, red peppers, and herbs. Rich in umami, tangy, and deeply restorative during winter months.",
+    "ingredients": [
+      {
+        "name": "Powdered Turkish Tarhana",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 80.0,
+        "metric_unit": "g",
+        "substitute": "Available at Middle Eastern grocers/Amazon; or blend 1/4 cup Greek yogurt, 1/4 cup semolina flour, 1 tbsp tomato paste, and 1/2 tsp dried mint reconstituted"
+      },
+      {
+        "name": "Water or Bone Broth",
+        "us_amount_base": 5.0,
+        "us_unit": "cups",
+        "metric_amount_base": 1180.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Tomato Paste",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 15.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Turkish Sweet Pepper Paste (Tatlı Biber Salçası)",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 5.0,
+        "metric_unit": "g",
+        "substitute": "1 tsp tomato paste mixed with a pinch of smoked paprika"
+      },
+      {
+        "name": "Garlic",
+        "us_amount_base": 2.0,
+        "us_unit": "cloves",
+        "metric_amount_base": 6.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Unsalted Butter",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 28.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Turkish Dried Spearmint (Kuru Nane)",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 3.0,
+        "metric_unit": "g",
+        "substitute": "Dried spearmint"
+      },
+      {
+        "name": "Aleppo Pepper Flakes (Pul Biber)",
+        "us_amount_base": 0.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 1.2,
+        "metric_unit": "g",
+        "substitute": "Crushed red pepper flakes"
+      },
+      {
+        "name": "Turkish Feta (Beyaz Peynir) or Kaşar cubes for topping",
+        "us_amount_base": 0.33,
+        "us_unit": "cup",
+        "metric_amount_base": 50.0,
+        "metric_unit": "g",
+        "substitute": "French sheep's milk feta or mild white cheddar cubes"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "In a bowl, soak the dry tarhana powder in 1 cup of cold water or broth for 15 minutes, whisking occasionally until fully softened and dissolved into a slurry.",
+        "timer_seconds": 900
+      },
+      {
+        "step_number": 2,
+        "instruction": "Melt butter in a soup pot over medium heat. Add grated garlic, tomato paste, and pepper paste; sauté until fragrant and darkened in color.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 3,
+        "instruction": "Pour the remaining 4 cups of broth into the pot and bring to a simmer.",
+        "timer_seconds": 240
+      },
+      {
+        "step_number": 4,
+        "instruction": "Gradually whisk the dissolved tarhana slurry into the hot broth. Reduce heat to medium-low and whisk continuously as it thickens to prevent sticking to the bottom.",
+        "timer_seconds": 480
+      },
+      {
+        "step_number": 5,
+        "instruction": "Stir in dried spearmint and Aleppo pepper. Simmer gently on low for 5 minutes until creamy and fragrant.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 6,
+        "instruction": "Ladle into warm bowls and top with small cubes of crumbled feta or grated cheese and crunchy croutons.",
+        "timer_seconds": 0
+      }
+    ]
+  },
+  {
+    "id": "soup_05",
+    "titleEn": "Velvety Tomato Soup with Melted Kaşar",
+    "titleTr": "Kaşarlı Domates Çorbası",
+    "category": "Soups",
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 30,
+    "servings": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/soup_05.webp",
+    "description": "Rich, silky Turkish bistro-style tomato soup made with a golden roux, ripe summer tomatoes, a touch of milk, and finished with a molten mound of aged kaşar cheese.",
+    "ingredients": [
+      {
+        "name": "Ripe Roma Tomatoes (grated or peeled & crushed)",
+        "us_amount_base": 2.0,
+        "us_unit": "lbs",
+        "metric_amount_base": 900.0,
+        "metric_unit": "g",
+        "substitute": "1 can (28 oz) San Marzano whole peeled tomatoes, crushed"
+      },
+      {
+        "name": "Tomato Paste",
+        "us_amount_base": 1.5,
+        "us_unit": "tbsp",
+        "metric_amount_base": 22.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Unsalted Butter",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 28.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "All-Purpose Flour",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 18.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Whole Milk",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "ml",
+        "substitute": "Half-and-half or unsweetened oat milk"
+      },
+      {
+        "name": "Vegetable or Chicken Broth",
+        "us_amount_base": 4.0,
+        "us_unit": "cups",
+        "metric_amount_base": 950.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Turkish Fresh Kaşar Cheese (Taze Kaşar)",
+        "us_amount_base": 1.0,
+        "us_unit": "cup shredded",
+        "metric_amount_base": 110.0,
+        "metric_unit": "g",
+        "substitute": "Low-moisture whole-milk mozzarella mixed with mild provolone or young Gouda"
+      },
+      {
+        "name": "Freshly Ground Black Pepper",
+        "us_amount_base": 0.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 1.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Sugar (to balance tomato acidity)",
+        "us_amount_base": 0.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 2.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "In a pot, melt butter over medium heat. Whisk in all-purpose flour and cook for 2 minutes until blond and nutty smelling.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 2,
+        "instruction": "Stir in tomato paste and cook with the roux for 1 minute until fragrant.",
+        "timer_seconds": 60
+      },
+      {
+        "step_number": 3,
+        "instruction": "Gradually whisk in the crushed tomatoes and warm broth in a slow stream to prevent lumps from forming.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 4,
+        "instruction": "Add sugar, salt, and freshly cracked black pepper. Bring to a gentle boil, then turn down heat and simmer partially covered until slightly thickened.",
+        "timer_seconds": 900
+      },
+      {
+        "step_number": 5,
+        "instruction": "Blend with an immersion blender until velvety smooth. Slowly stir in warm whole milk and simmer for an additional 2 minutes without boiling.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 6,
+        "instruction": "Ladle into warm bowls and immediately crown each serving with a generous handful of freshly shredded kaşar cheese so it melts into stringy richness.",
+        "timer_seconds": 0
+      }
+    ]
+  },
+  {
+    "id": "soup_06",
+    "titleEn": "Classic Chicken & Vermicelli Soup",
+    "titleTr": "Tavuklu Tel Şehriye Çorbası",
+    "category": "Soups",
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 35,
+    "servings": 6,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/soup_06.webp",
+    "description": "The ultimate Turkish restorative soup: tender shredded poached chicken thighs and toasted vermicelli noodles in a golden, lemon-scented broth infused with parsley and garlic.",
+    "ingredients": [
+      {
+        "name": "Bone-In Skinless Chicken Thighs or Breasts",
+        "us_amount_base": 1.25,
+        "us_unit": "lbs",
+        "metric_amount_base": 570.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Turkish Vermicelli Noodles (Tel Şehriye)",
+        "us_amount_base": 0.75,
+        "us_unit": "cup",
+        "metric_amount_base": 110.0,
+        "metric_unit": "g",
+        "substitute": "Mexican fideo cut pasta or broken angel hair pasta nests"
+      },
+      {
+        "name": "Homemade Chicken Poaching Broth",
+        "us_amount_base": 6.0,
+        "us_unit": "cups",
+        "metric_amount_base": 1420.0,
+        "metric_unit": "ml",
+        "substitute": "Store-bought low-sodium chicken stock"
+      },
+      {
+        "name": "Tomato Paste",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 15.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Turkish Sweet Pepper Paste (Tatlı Biber Salçası)",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 5.0,
+        "metric_unit": "g",
+        "substitute": "1 tsp tomato paste mixed with a pinch of paprika"
+      },
+      {
+        "name": "Unsalted Butter",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 28.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Fresh Flat-Leaf Parsley",
+        "us_amount_base": 0.5,
+        "us_unit": "cup chopped",
+        "metric_amount_base": 20.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Fresh Lemon Juice",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 45.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Turkish Dried Spearmint (Kuru Nane)",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 1.5,
+        "metric_unit": "g",
+        "substitute": "Dried spearmint"
+      },
+      {
+        "name": "Aleppo Pepper Flakes (Pul Biber)",
+        "us_amount_base": 0.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 1.2,
+        "metric_unit": "g",
+        "substitute": "Crushed red pepper flakes"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Place chicken thighs in a pot with 7 cups water, 1 peeled onion, and 1 tsp salt. Bring to a boil, skim foam, then simmer on low until cooked through and fork tender.",
+        "timer_seconds": 1500
+      },
+      {
+        "step_number": 2,
+        "instruction": "Remove chicken to a plate to cool slightly. Strain the poaching stock through a sieve to yield 6 cups of clear chicken broth. Shred chicken meat into bite-sized shreds, discarding bones.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 3,
+        "instruction": "In your soup pot, melt butter over medium heat. Add tomato paste and pepper paste, sautéing for 1 minute until fragrant.",
+        "timer_seconds": 60
+      },
+      {
+        "step_number": 4,
+        "instruction": "Pour the strained hot chicken broth into the pot and bring to a lively simmer.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 5,
+        "instruction": "Add the tel şehriye (vermicelli) and shredded chicken. Cook on medium-low until the pasta is tender and cooked through.",
+        "timer_seconds": 480
+      },
+      {
+        "step_number": 6,
+        "instruction": "Stir in fresh lemon juice, dried mint, Aleppo pepper, and finely chopped parsley. Turn off heat, let rest 3 minutes, and serve hot.",
+        "timer_seconds": 180
+      }
+    ]
+  },
+  {
+    "id": "soup_07",
+    "titleEn": "Fiery Gaziantep Lamb Neck & Garlic Rice Soup",
+    "titleTr": "Gaziantep Beyran Çorbası",
+    "category": "Soups",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 120,
+    "servings": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/soup_07.webp",
+    "description": "Gaziantep's legendary UNESCO-recognized dawn soup: ultra-tender slow-braised lamb neck, short-grain rice, abundant minced garlic, and rendered tallow ignited with fiery red pepper over blazing flames.",
+    "ingredients": [
+      {
+        "name": "Bone-in Lamb Neck or Lamb Shank",
+        "us_amount_base": 2.0,
+        "us_unit": "lbs",
+        "metric_amount_base": 900.0,
+        "metric_unit": "g",
+        "substitute": "Bone-in beef shank with marrow or lamb stew meat with bones"
+      },
+      {
+        "name": "Lamb Fat or Clarified Butter (Ghee)",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 42.0,
+        "metric_unit": "g",
+        "substitute": "Ghee, duck fat, or beef tallow"
+      },
+      {
+        "name": "Short-Grain Baldo Rice (Pre-cooked tender)",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 160.0,
+        "metric_unit": "g",
+        "substitute": "Cooked Calrose rice or Arborio rice"
+      },
+      {
+        "name": "Garlic (finely crushed into paste)",
+        "us_amount_base": 6.0,
+        "us_unit": "cloves",
+        "metric_amount_base": 20.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Turkish Hot Pepper Paste (Acı Biber Salçası)",
+        "us_amount_base": 1.5,
+        "us_unit": "tbsp",
+        "metric_amount_base": 22.0,
+        "metric_unit": "g",
+        "substitute": "1.5 tbsp tomato paste mixed with 1/2 tsp cayenne and 1/2 tsp smoked paprika"
+      },
+      {
+        "name": "Aleppo Pepper Flakes (İpek Pul Biber)",
+        "us_amount_base": 1.5,
+        "us_unit": "tbsp",
+        "metric_amount_base": 12.0,
+        "metric_unit": "g",
+        "substitute": "Sweet paprika mixed with 1/2 tsp cayenne pepper flakes"
+      },
+      {
+        "name": "Concentrated Rich Lamb Broth",
+        "us_amount_base": 4.5,
+        "us_unit": "cups",
+        "metric_amount_base": 1050.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Fresh Lemon Juice",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 45.0,
+        "metric_unit": "ml",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Place lamb neck pieces in a large stockpot or pressure cooker with 7 cups water and 1 tsp salt. Bring to a boil, skim impurities, and simmer gently until meat falls completely off the bone (2 hours on stovetop, or 45 mins in an Instant Pot).",
+        "timer_seconds": 7200
+      },
+      {
+        "step_number": 2,
+        "instruction": "Remove meat, discard bones, and shred meat into fine succulent strands. Strain and reserve the gelatin-rich lamb broth.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 3,
+        "instruction": "In individual copper or shallow steel soup pans (or a heavy saucepan), smear the bottom with 1 tablespoon of ghee/lamb fat.",
+        "timer_seconds": 60
+      },
+      {
+        "step_number": 4,
+        "instruction": "Layer a generous portion of cooked rice, shredded lamb meat, crushed garlic paste, hot pepper paste, and Aleppo pepper flakes directly over the fat.",
+        "timer_seconds": 90
+      },
+      {
+        "step_number": 5,
+        "instruction": "Place the pan over high flame and sizzle until the fat crackles and spices release their deep aroma, about 1 minute.",
+        "timer_seconds": 60
+      },
+      {
+        "step_number": 6,
+        "instruction": "Pour boiling lamb broth directly over the sizzling meat and rice, letting it bubble furiously for 2 minutes. Remove from heat, squeeze lemon juice liberally, and serve smoking hot.",
+        "timer_seconds": 120
+      }
+    ]
+  },
+  {
+    "id": "soup_08",
+    "titleEn": "Classic Tripe Soup with Garlic-Vinegar Liaison",
+    "titleTr": "Geleneksel İşkembe Çorbası",
+    "category": "Soups",
+    "prepTimeMinutes": 30,
+    "cookTimeMinutes": 90,
+    "servings": 6,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/soup_08.webp",
+    "description": "The quintessential Istanbul night-owl cure: clean beef tripe slow-simmered to tender perfection, thickened with an egg-lemon terbiye, and spiked at the table with garlic vinegar and pepper butter.",
+    "ingredients": [
+      {
+        "name": "Cleaned Beef Tripe (İşkembe)",
+        "us_amount_base": 1.5,
+        "us_unit": "lbs",
+        "metric_amount_base": 680.0,
+        "metric_unit": "g",
+        "substitute": "Honeycomb or flat beef tripe (widely found in Hispanic and Asian supermarkets like H-Mart or 99 Ranch)"
+      },
+      {
+        "name": "Water for Boiling",
+        "us_amount_base": 8.0,
+        "us_unit": "cups",
+        "metric_amount_base": 1900.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Garlic (for soup stock and table sauce)",
+        "us_amount_base": 8.0,
+        "us_unit": "cloves",
+        "metric_amount_base": 24.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "All-Purpose Flour",
+        "us_amount_base": 2.5,
+        "us_unit": "tbsp",
+        "metric_amount_base": 25.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Egg Yolks",
+        "us_amount_base": 2.0,
+        "us_unit": "large yolks",
+        "metric_amount_base": 2.0,
+        "metric_unit": "pieces",
+        "substitute": null
+      },
+      {
+        "name": "Fresh Lemon Juice",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 45.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Whole Milk or Greek Yogurt",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Red Wine Vinegar or White Grape Vinegar",
+        "us_amount_base": 0.33,
+        "us_unit": "cup",
+        "metric_amount_base": 80.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Unsalted Butter",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 28.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Aleppo Pepper Flakes (Pul Biber)",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 2.5,
+        "metric_unit": "g",
+        "substitute": "Crushed red pepper flakes mixed with sweet paprika"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Thoroughly rinse tripe in cold water with vinegar. Place in a large pot with 8 cups water and 2 crushed garlic cloves. Bring to a boil, skim foam, cover and simmer until tripe is completely tender (about 90 minutes on stove, or 40 minutes in a pressure cooker).",
+        "timer_seconds": 5400
+      },
+      {
+        "step_number": 2,
+        "instruction": "Drain and cut the tender tripe into small bite-sized cubes (approx 1/2 inch). Strain the cooking broth and measure out 6 cups back into the clean pot.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 3,
+        "instruction": "Return cubed tripe to the simmering broth over medium-low heat.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 4,
+        "instruction": "Whisk the terbiye in a bowl: combine egg yolks, flour, milk or yogurt, and lemon juice until velvety smooth. Slowly ladle 2 cups of hot broth into the mixture while whisking constantly to temper.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 5,
+        "instruction": "Slowly pour the tempered liaison into the pot while stirring continuously. Simmer gently for 8 minutes until thickened; season with salt.",
+        "timer_seconds": 480
+      },
+      {
+        "step_number": 6,
+        "instruction": "Prepare table garnishes: mix remaining crushed garlic with vinegar in a small bowl; melt butter with Aleppo pepper in a small skillet. Serve soup hot, inviting diners to spoon garlic-vinegar and chili butter to taste.",
+        "timer_seconds": 120
+      }
+    ]
+  },
+  {
+    "id": "soup_09",
+    "titleEn": "Ottoman Wedding Lamb Soup with Lemon-Egg Liaison",
+    "titleTr": "Düğün Çorbası",
+    "category": "Soups",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 60,
+    "servings": 6,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/soup_09.webp",
+    "description": "Historically served at grand Ottoman wedding feasts, this rich soup showcases tender shredded lamb simmered in aromatic broth, thickened with flour, egg yolk, and lemon, and drizzled with scarlet paprika butter.",
+    "ingredients": [
+      {
+        "name": "Bone-in Lamb Shoulder or Lamb Neck",
+        "us_amount_base": 1.5,
+        "us_unit": "lbs",
+        "metric_amount_base": 680.0,
+        "metric_unit": "g",
+        "substitute": "Bone-in beef chuck roast or lamb shank"
+      },
+      {
+        "name": "Water",
+        "us_amount_base": 7.0,
+        "us_unit": "cups",
+        "metric_amount_base": 1650.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Carrot (coarsely chopped)",
+        "us_amount_base": 1.0,
+        "us_unit": "medium",
+        "metric_amount_base": 100.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Yellow Onion (quartered)",
+        "us_amount_base": 1.0,
+        "us_unit": "medium",
+        "metric_amount_base": 150.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Unsalted Butter",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 42.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "All-Purpose Flour",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Egg Yolks",
+        "us_amount_base": 2.0,
+        "us_unit": "large yolks",
+        "metric_amount_base": 2.0,
+        "metric_unit": "pieces",
+        "substitute": null
+      },
+      {
+        "name": "Fresh Lemon Juice",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 45.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Sweet Hungarian Paprika",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 2.5,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Aleppo Pepper Flakes (Pul Biber)",
+        "us_amount_base": 0.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 1.2,
+        "metric_unit": "g",
+        "substitute": "Crushed red pepper flakes"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Place lamb pieces, carrot, and onion in a large pot with 7 cups water. Bring to a boil, skim scum thoroughly, cover and simmer over low heat until lamb is extraordinarily tender.",
+        "timer_seconds": 3600
+      },
+      {
+        "step_number": 2,
+        "instruction": "Remove lamb and vegetables. Finely shred the meat by hand, discarding fat and bones. Strain and measure 5 cups of the rich lamb broth.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 3,
+        "instruction": "In a clean soup pot, melt 2 tablespoons butter over medium heat. Whisk in flour and cook for 2 minutes without browning to create a blond roux.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 4,
+        "instruction": "Gradually whisk the strained warm lamb broth into the roux until smooth and lump-free. Add the shredded lamb meat and bring to a gentle simmer.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 5,
+        "instruction": "In a small bowl, whisk egg yolks and lemon juice together. Temper with a ladle of hot soup, then stir back into the pot over low heat. Simmer gently for 5 minutes without boiling; season with salt.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 6,
+        "instruction": "In a small pan, melt remaining 1 tablespoon butter with sweet paprika and Aleppo pepper until sizzling. Swirl over bowls and serve with fresh bread.",
+        "timer_seconds": 60
+      }
+    ]
+  },
+  {
+    "id": "soup_10",
+    "titleEn": "Festive Yogurt, Chickpea & Micro-Meatball Soup",
+    "titleTr": "Gaziantep Yuvalama Çorbası",
+    "category": "Soups",
+    "prepTimeMinutes": 40,
+    "cookTimeMinutes": 45,
+    "servings": 6,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/soup_10.webp",
+    "description": "A magnificent feast dish of Gaziantep crafted during Eid: tiny hand-rolled rice-and-beef dumplings, stewed chickpeas, and shredded meat immersed in a rich, warm strained yogurt broth scented with dried mint.",
+    "ingredients": [
+      {
+        "name": "Lean Ground Beef (85/15)",
+        "us_amount_base": 0.5,
+        "us_unit": "lb",
+        "metric_amount_base": 225.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "White Rice Flour",
+        "us_amount_base": 0.75,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "g",
+        "substitute": "Finely ground white rice (ground in a coffee/spice grinder)"
+      },
+      {
+        "name": "Cooked Chickpeas",
+        "us_amount_base": 1.5,
+        "us_unit": "cups",
+        "metric_amount_base": 250.0,
+        "metric_unit": "g",
+        "substitute": "1 can (15 oz) canned chickpeas, rinsed and drained"
+      },
+      {
+        "name": "Cubed Stewing Beef or Lamb (boiled tender)",
+        "us_amount_base": 0.5,
+        "us_unit": "lb",
+        "metric_amount_base": 225.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Turkish Strained Yogurt (Süzme Yoğurt)",
+        "us_amount_base": 2.5,
+        "us_unit": "cups",
+        "metric_amount_base": 600.0,
+        "metric_unit": "g",
+        "substitute": "Whole-milk Greek yogurt (e.g., Fage Total 5%)"
+      },
+      {
+        "name": "Egg White or Whole Egg",
+        "us_amount_base": 1.0,
+        "us_unit": "large egg",
+        "metric_amount_base": 1.0,
+        "metric_unit": "piece",
+        "substitute": null
+      },
+      {
+        "name": "Cornstarch or All-Purpose Flour",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 10.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Beef or Lamb Broth",
+        "us_amount_base": 4.0,
+        "us_unit": "cups",
+        "metric_amount_base": 950.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Unsalted Butter",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 42.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Turkish Dried Spearmint (Kuru Nane)",
+        "us_amount_base": 1.5,
+        "us_unit": "tbsp",
+        "metric_amount_base": 4.5,
+        "metric_unit": "g",
+        "substitute": "Dried spearmint"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "In a food processor, blend ground beef, rice flour, 1/2 tsp salt, and 1/4 tsp black pepper into a smooth paste. Roll between oiled palms into chickpea-sized micro-meatballs (yuvalama köfte).",
+        "timer_seconds": 1200
+      },
+      {
+        "step_number": 2,
+        "instruction": "Place the tiny meatballs in a steamer basket over boiling water and steam for 10 minutes until set, or parboil briefly in water; drain and set aside.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 3,
+        "instruction": "In a soup pot, combine 4 cups beef/lamb broth, cooked chickpeas, and tender stewed meat chunks. Bring to a low simmer.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 4,
+        "instruction": "In a bowl, whisk Greek yogurt, egg, cornstarch, and 1/2 cup cold water. Gradually ladle hot broth into the yogurt to temper it thoroughly.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 5,
+        "instruction": "Pour the tempered yogurt into the simmering pot in a slow stream, stirring continuously in one direction over low heat until the soup reaches a bare simmer. Add the steamed micro-meatballs and cook gently for 5 minutes.",
+        "timer_seconds": 420
+      },
+      {
+        "step_number": 6,
+        "instruction": "Turn off heat and season with salt. Melt butter in a skillet, sizzle dried mint for 20 seconds, and pour the fragrant green butter over the soup.",
+        "timer_seconds": 45
+      }
+    ]
+  },
+  {
+    "id": "soup_11",
+    "titleEn": "Ancient Silk Road Green Lentil & Noodle Soup",
+    "titleTr": "Tutmaç Çorbası",
+    "category": "Soups",
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 35,
+    "servings": 6,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/soup_11.webp",
+    "description": "Dating back to the Seljuk Turk era and Divanu Lugat'it-Turk, this hearty heritage soup combines green lentils, chickpeas, and handmade noodles in a tangy yogurt base, topped with caramelized onion and mint.",
+    "ingredients": [
+      {
+        "name": "Green or Brown Lentils (Yeşil Mercimek)",
+        "us_amount_base": 0.75,
+        "us_unit": "cup",
+        "metric_amount_base": 150.0,
+        "metric_unit": "g",
+        "substitute": "French green Puy lentils or brown lentils"
+      },
+      {
+        "name": "Cooked Chickpeas",
+        "us_amount_base": 0.75,
+        "us_unit": "cup",
+        "metric_amount_base": 125.0,
+        "metric_unit": "g",
+        "substitute": "Canned chickpeas, rinsed"
+      },
+      {
+        "name": "Turkish Egg Noodles (Erişte)",
+        "us_amount_base": 0.75,
+        "us_unit": "cup",
+        "metric_amount_base": 80.0,
+        "metric_unit": "g",
+        "substitute": "Short German egg noodles, spätzle, or cut egg fettuccine"
+      },
+      {
+        "name": "Turkish Strained Yogurt (Süzme Yoğurt)",
+        "us_amount_base": 1.5,
+        "us_unit": "cups",
+        "metric_amount_base": 360.0,
+        "metric_unit": "g",
+        "substitute": "Whole-milk Greek yogurt"
+      },
+      {
+        "name": "Egg Yolk",
+        "us_amount_base": 1.0,
+        "us_unit": "large yolk",
+        "metric_amount_base": 1.0,
+        "metric_unit": "piece",
+        "substitute": null
+      },
+      {
+        "name": "All-Purpose Flour",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 10.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Yellow Onion",
+        "us_amount_base": 1.0,
+        "us_unit": "medium",
+        "metric_amount_base": 150.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Unsalted Butter",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 42.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Turkish Dried Spearmint (Kuru Nane)",
+        "us_amount_base": 1.5,
+        "us_unit": "tbsp",
+        "metric_amount_base": 4.5,
+        "metric_unit": "g",
+        "substitute": "Dried spearmint"
+      },
+      {
+        "name": "Water or Vegetable Broth",
+        "us_amount_base": 6.0,
+        "us_unit": "cups",
+        "metric_amount_base": 1420.0,
+        "metric_unit": "ml",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "In a pot, bring lentils and 6 cups water to a boil. Simmer over medium-low heat until lentils are tender but still retain their shape.",
+        "timer_seconds": 1200
+      },
+      {
+        "step_number": 2,
+        "instruction": "Add cooked chickpeas and erişte (egg noodles) to the pot. Simmer until the noodles are al dente.",
+        "timer_seconds": 480
+      },
+      {
+        "step_number": 3,
+        "instruction": "Whisk yogurt, egg yolk, and flour in a bowl. Temper the mixture by slowly whisking in 2 ladles of hot broth from the pot.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 4,
+        "instruction": "Slowly pour the tempered yogurt mixture into the soup, stirring continuously in one direction until it gently simmers. Cook on low for 3 minutes, then remove from heat and season with salt.",
+        "timer_seconds": 240
+      },
+      {
+        "step_number": 5,
+        "instruction": "In a skillet, melt butter and cook finely diced onions until golden brown and sweet.",
+        "timer_seconds": 480
+      },
+      {
+        "step_number": 6,
+        "instruction": "Add dried spearmint and Aleppo pepper to the caramelized onions, sizzling for 30 seconds. Ladle soup into bowls and garnish with spoonfuls of the minty onion butter.",
+        "timer_seconds": 45
+      }
+    ]
+  },
+  {
+    "id": "soup_12",
+    "titleEn": "Antakya Spiced Cumin & Coriander Red Lentil Soup",
+    "titleTr": "Mahluta Çorbası",
+    "category": "Soups",
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 35,
+    "servings": 6,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/soup_12.webp",
+    "description": "From the culinary crossroads of Hatay (Antakya), Mahluta features tender red lentils, cracked coriander, and a signature whole cumin-seed butter topping accompanied by caramelized onions.",
+    "ingredients": [
+      {
+        "name": "Red Lentils",
+        "us_amount_base": 1.5,
+        "us_unit": "cups",
+        "metric_amount_base": 300.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Yellow Onion",
+        "us_amount_base": 2.0,
+        "us_unit": "medium",
+        "metric_amount_base": 300.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Garlic",
+        "us_amount_base": 3.0,
+        "us_unit": "cloves",
+        "metric_amount_base": 9.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Whole Cumin Seeds",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 6.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Ground Coriander",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 2.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Turkish Sweet Pepper Paste (Tatlı Biber Salçası)",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 15.0,
+        "metric_unit": "g",
+        "substitute": "1 tbsp tomato paste with 1/2 tsp smoked paprika"
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Unsalted Butter",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 28.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Water or Chicken Broth",
+        "us_amount_base": 6.0,
+        "us_unit": "cups",
+        "metric_amount_base": 1420.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Fresh Lemon Juice",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "ml",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Dice one onion and mince garlic. Heat olive oil in a soup pot over medium heat and sauté onion and garlic until fragrant and softened.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 2,
+        "instruction": "Stir in pepper paste and ground coriander, cooking for 1 minute until aromatic.",
+        "timer_seconds": 60
+      },
+      {
+        "step_number": 3,
+        "instruction": "Add washed red lentils and broth. Bring to a boil, then reduce heat, cover and simmer until lentils completely disintegrate.",
+        "timer_seconds": 1500
+      },
+      {
+        "step_number": 4,
+        "instruction": "Whisk vigorously or lightly pulse with an immersion blender to achieve a rustic, semi-smooth textured puree. Season with salt and lemon juice.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 5,
+        "instruction": "Thinly slice the second onion into half-moons. In a skillet, melt butter over medium heat and fry the onions until dark golden and caramelized.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 6,
+        "instruction": "Add whole cumin seeds to the hot caramelized onion butter; let them crackle and toast for 45 seconds until intensely aromatic. Ladle soup into bowls and crown with the cumin-onion butter.",
+        "timer_seconds": 45
+      }
+    ]
+  },
+  {
+    "id": "soup_13",
+    "titleEn": "Hearty Lamb Broth Soup with Garlic & Aleppo Pepper",
+    "titleTr": "Kelle Paça Çorbası",
+    "category": "Soups",
+    "prepTimeMinutes": 25,
+    "cookTimeMinutes": 90,
+    "servings": 6,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/soup_13.webp",
+    "description": "An iconic Turkish powerhouse soup celebrated for its restorative properties: collagen-dense lamb shank and knuckle broth with tender shredded meat, finished with garlic-lemon liaison and spiced butter.",
+    "ingredients": [
+      {
+        "name": "Bone-in Lamb Shanks or Lamb Trotters/Neck",
+        "us_amount_base": 2.0,
+        "us_unit": "lbs",
+        "metric_amount_base": 900.0,
+        "metric_unit": "g",
+        "substitute": "Veal osso buco or beef shank marrow bones with meat"
+      },
+      {
+        "name": "Water",
+        "us_amount_base": 8.0,
+        "us_unit": "cups",
+        "metric_amount_base": 1900.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Garlic",
+        "us_amount_base": 8.0,
+        "us_unit": "cloves",
+        "metric_amount_base": 24.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "All-Purpose Flour",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 20.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Egg Yolk",
+        "us_amount_base": 1.0,
+        "us_unit": "large yolk",
+        "metric_amount_base": 1.0,
+        "metric_unit": "piece",
+        "substitute": null
+      },
+      {
+        "name": "Fresh Lemon Juice",
+        "us_amount_base": 0.25,
+        "us_unit": "cup",
+        "metric_amount_base": 60.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Red Wine Vinegar",
+        "us_amount_base": 0.25,
+        "us_unit": "cup",
+        "metric_amount_base": 60.0,
+        "metric_unit": "ml",
+        "substitute": "Apple cider vinegar or grape vinegar"
+      },
+      {
+        "name": "Unsalted Butter",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 28.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Aleppo Pepper Flakes (Pul Biber)",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 2.5,
+        "metric_unit": "g",
+        "substitute": "Crushed red pepper flakes mixed with sweet paprika"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Place bone-in lamb pieces into a heavy pot with 8 cups water and 1 tsp salt. Bring to a boil, skim foam, cover and simmer over low heat until meat is meltingly tender and marrow is rendered (90 minutes, or 45 mins in Instant Pot).",
+        "timer_seconds": 5400
+      },
+      {
+        "step_number": 2,
+        "instruction": "Transfer meat to a cutting board, shred into small morsels, and discard bones. Strain the rich broth through a fine-mesh sieve.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 3,
+        "instruction": "Return 6 cups of broth and the shredded meat to a clean pot and bring to a simmer.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 4,
+        "instruction": "In a bowl, whisk together flour, egg yolk, lemon juice, and 4 cloves of minced garlic. Slowly temper with two ladles of warm lamb broth while whisking.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 5,
+        "instruction": "Pour the tempered liaison into the pot, stirring constantly. Simmer gently on low for 5 minutes until glossy and slightly body-thickened; season with salt.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 6,
+        "instruction": "Make the table sauce: mix remaining 4 cloves minced garlic into vinegar. In a small pan, sizzle butter with Aleppo pepper for 30 seconds. Serve soup blazing hot with garlic-vinegar and chili butter.",
+        "timer_seconds": 60
+      }
+    ]
+  },
+  {
+    "id": "soup_14",
+    "titleEn": "Village Green Lentil & Homemade Egg Noodle Soup",
+    "titleTr": "Erişteli Yeşil Mercimek Çorbası",
+    "category": "Soups",
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 35,
+    "servings": 6,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/soup_14.webp",
+    "description": "An authentic rustic Anatolian village soup combining earthy green lentils, toasted egg noodles, and sweet onions simmered in tomato-pepper broth and seasoned with fragrant dried mint.",
+    "ingredients": [
+      {
+        "name": "Green Lentils (Yeşil Mercimek)",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 200.0,
+        "metric_unit": "g",
+        "substitute": "Brown lentils or French green lentils"
+      },
+      {
+        "name": "Turkish Egg Noodles (Erişte)",
+        "us_amount_base": 0.75,
+        "us_unit": "cup",
+        "metric_amount_base": 80.0,
+        "metric_unit": "g",
+        "substitute": "Short cut egg noodles, spätzle, or broken fettuccine"
+      },
+      {
+        "name": "Yellow Onion",
+        "us_amount_base": 1.0,
+        "us_unit": "large",
+        "metric_amount_base": 180.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Tomato Paste",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 15.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Turkish Sweet Pepper Paste (Tatlı Biber Salçası)",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 15.0,
+        "metric_unit": "g",
+        "substitute": "1 tbsp tomato paste mixed with 1/2 tsp smoked paprika"
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Unsalted Butter",
+        "us_amount_base": 1.5,
+        "us_unit": "tbsp",
+        "metric_amount_base": 21.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Vegetable or Beef Broth",
+        "us_amount_base": 6.0,
+        "us_unit": "cups",
+        "metric_amount_base": 1420.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Turkish Dried Spearmint (Kuru Nane)",
+        "us_amount_base": 1.5,
+        "us_unit": "tbsp",
+        "metric_amount_base": 4.5,
+        "metric_unit": "g",
+        "substitute": "Dried spearmint"
+      },
+      {
+        "name": "Aleppo Pepper Flakes (Pul Biber)",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 2.5,
+        "metric_unit": "g",
+        "substitute": "Red pepper flakes"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Rinse green lentils and place in a pot with 4 cups of water. Parboil for 10 minutes over medium heat; drain off dark cooking water to keep the final soup broth vibrant and clean.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 2,
+        "instruction": "In a large soup pot, heat olive oil and 1 tablespoon butter over medium heat. Sauté finely diced onion until soft and golden.",
+        "timer_seconds": 360
+      },
+      {
+        "step_number": 3,
+        "instruction": "Add tomato paste and pepper paste; sauté with onions for 2 minutes to cook out raw taste.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 4,
+        "instruction": "Pour in 6 cups broth and add the parboiled green lentils. Bring to a boil, then reduce heat and simmer covered until lentils are nearly tender.",
+        "timer_seconds": 900
+      },
+      {
+        "step_number": 5,
+        "instruction": "Add the erişte (egg noodles) to the pot. Cook until noodles are tender, about 8-10 minutes.",
+        "timer_seconds": 540
+      },
+      {
+        "step_number": 6,
+        "instruction": "In a small skillet, sizzle remaining butter with dried mint and Aleppo pepper for 30 seconds; swirl into the finished soup, adjust salt, and serve.",
+        "timer_seconds": 45
+      }
+    ]
+  },
+  {
+    "id": "soup_15",
+    "titleEn": "Bosphorus Sea Bass Chowder with Lemon-Egg Liaison",
+    "titleTr": "Boğaziçi Balık Çorbası",
+    "category": "Soups",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 30,
+    "servings": 6,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/soup_15.webp",
+    "description": "Served along the shores of Istanbul's Bosphorus strait: fresh sea bass fillet and garden vegetables simmered in aromatic fish stock, enriched with a velvety lemon-egg terbiye and fresh dill.",
+    "ingredients": [
+      {
+        "name": "Fresh Sea Bass Fillets (Levrek) or Cod",
+        "us_amount_base": 1.25,
+        "us_unit": "lbs",
+        "metric_amount_base": 570.0,
+        "metric_unit": "g",
+        "substitute": "Black sea bass, striped bass, cod, or halibut"
+      },
+      {
+        "name": "Fish Broth or Light Vegetable Broth",
+        "us_amount_base": 5.0,
+        "us_unit": "cups",
+        "metric_amount_base": 1180.0,
+        "metric_unit": "ml",
+        "substitute": "Good quality store-bought seafood stock or vegetable stock"
+      },
+      {
+        "name": "Yellow Onion",
+        "us_amount_base": 1.0,
+        "us_unit": "medium",
+        "metric_amount_base": 150.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Carrot",
+        "us_amount_base": 1.0,
+        "us_unit": "medium diced",
+        "metric_amount_base": 100.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Celery Rib with Leaves",
+        "us_amount_base": 1.0,
+        "us_unit": "stalk diced",
+        "metric_amount_base": 75.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Yukon Gold Potato",
+        "us_amount_base": 1.0,
+        "us_unit": "medium diced",
+        "metric_amount_base": 150.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "All-Purpose Flour",
+        "us_amount_base": 1.5,
+        "us_unit": "tbsp",
+        "metric_amount_base": 15.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Egg Yolk",
+        "us_amount_base": 1.0,
+        "us_unit": "large yolk",
+        "metric_amount_base": 1.0,
+        "metric_unit": "piece",
+        "substitute": null
+      },
+      {
+        "name": "Fresh Lemon Juice",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 45.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Fresh Dill",
+        "us_amount_base": 0.25,
+        "us_unit": "cup chopped",
+        "metric_amount_base": 10.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Bay Leaf",
+        "us_amount_base": 1.0,
+        "us_unit": "piece",
+        "metric_amount_base": 1.0,
+        "metric_unit": "piece",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "In a soup pot, heat olive oil over medium heat. Sauté finely diced onion, carrot, and celery until fragrant and softening.",
+        "timer_seconds": 360
+      },
+      {
+        "step_number": 2,
+        "instruction": "Add diced potato, bay leaf, and fish stock. Bring to a gentle boil, then simmer covered until potatoes and carrots are tender.",
+        "timer_seconds": 720
+      },
+      {
+        "step_number": 3,
+        "instruction": "Cut sea bass fillets into 1-inch pieces. Gently slide fish into the simmering broth and poach softly until opaque and flakey.",
+        "timer_seconds": 360
+      },
+      {
+        "step_number": 4,
+        "instruction": "In a bowl, whisk together egg yolk, flour, and lemon juice until smooth. Slowly ladle 1 cup of hot soup broth into the bowl while whisking briskly to temper.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 5,
+        "instruction": "Reduce pot heat to low. Gently pour tempered liaison into soup, stirring carefully so as not to break up delicate fish pieces. Simmer for 3 minutes until silkily thickened.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 6,
+        "instruction": "Remove bay leaf. Stir in fresh dill and season with salt and white pepper. Serve immediately with extra lemon wedges.",
+        "timer_seconds": 60
+      }
+    ]
+  }
+]

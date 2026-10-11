@@ -1,0 +1,1524 @@
+[
+  {
+    "id": "main_01",
+    "titleEn": "Stuffed Eggplants with Spiced Ground Meat",
+    "titleTr": "Karnıyarık",
+    "category": "Mains & Grills",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 45,
+    "servings": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/main_01.webp",
+    "description": "Silky baked eggplants stuffed with a savory filling of spiced ground beef, sweet onions, garlic, and fresh parsley.",
+    "ingredients": [
+      {
+        "name": "Italian Eggplants (medium)",
+        "us_amount_base": 4.0,
+        "us_unit": "pieces",
+        "metric_amount_base": 4.0,
+        "metric_unit": "pieces",
+        "substitute": "Standard globe eggplants, halved lengthwise"
+      },
+      {
+        "name": "Ground Beef (85/15)",
+        "us_amount_base": 1.0,
+        "us_unit": "lb",
+        "metric_amount_base": 450.0,
+        "metric_unit": "g",
+        "substitute": "85/15 ground beef mixed with 10% ground lamb for a richer flavor"
+      },
+      {
+        "name": "Yellow Onion",
+        "us_amount_base": 1.0,
+        "us_unit": "medium",
+        "metric_amount_base": 150.0,
+        "metric_unit": "g",
+        "substitute": "Sweet onion"
+      },
+      {
+        "name": "Garlic",
+        "us_amount_base": 3.0,
+        "us_unit": "cloves",
+        "metric_amount_base": 3.0,
+        "metric_unit": "cloves",
+        "substitute": "1 tsp jarred minced garlic per clove"
+      },
+      {
+        "name": "Tomato Paste",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 32.0,
+        "metric_unit": "g",
+        "substitute": "Double-concentrated tomato paste"
+      },
+      {
+        "name": "Italian Frying Peppers",
+        "us_amount_base": 2.0,
+        "us_unit": "pieces",
+        "metric_amount_base": 120.0,
+        "metric_unit": "g",
+        "substitute": "Anaheim peppers or mild green bell pepper"
+      },
+      {
+        "name": "Tomatoes",
+        "us_amount_base": 2.0,
+        "us_unit": "medium",
+        "metric_amount_base": 300.0,
+        "metric_unit": "g",
+        "substitute": "Canned diced tomatoes, drained"
+      },
+      {
+        "name": "Olive Oil",
+        "us_amount_base": 4.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 60.0,
+        "metric_unit": "ml",
+        "substitute": "Neutral avocado oil"
+      },
+      {
+        "name": "Fresh Parsley",
+        "us_amount_base": 0.25,
+        "us_unit": "cup",
+        "metric_amount_base": 15.0,
+        "metric_unit": "g",
+        "substitute": "Fresh cilantro, though flavor differs"
+      },
+      {
+        "name": "Ground Cumin",
+        "us_amount_base": 0.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 1.0,
+        "metric_unit": "g",
+        "substitute": "Omit if unavailable"
+      },
+      {
+        "name": "Salt and Black Pepper",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 5.0,
+        "metric_unit": "g",
+        "substitute": "Season to taste"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Peel alternating lengthwise strips from the eggplants, leaving a striped pattern. Brush with some oil and roast at 400°F (200°C) until softened.",
+        "timer_seconds": 1200
+      },
+      {
+        "step_number": 2,
+        "instruction": "Meanwhile, sauté the chopped onion in oil until translucent, then add garlic and ground beef. Cook, breaking up the meat, until browned.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 3,
+        "instruction": "Stir in tomato paste, chopped tomatoes, peppers, parsley, cumin, salt, and pepper. Simmer until the filling thickens slightly.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 4,
+        "instruction": "Make a lengthwise slit in each eggplant and gently open it. Fill with the meat mixture and arrange in a baking dish.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 5,
+        "instruction": "Add a splash of water to the dish and bake at 375°F (190°C) until the eggplants are very tender and the filling is bubbling.",
+        "timer_seconds": 900
+      }
+    ]
+  },
+  {
+    "id": "main_02",
+    "titleEn": "Sultan's Delight: Lamb over Smoky Eggplant Purée",
+    "titleTr": "Hünkar Beğendi",
+    "category": "Mains & Grills",
+    "prepTimeMinutes": 25,
+    "cookTimeMinutes": 75,
+    "servings": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/main_02.webp",
+    "description": "Tender lamb stew served over a velvety roasted eggplant purée enriched with milk and cheese.",
+    "ingredients": [
+      {
+        "name": "Boneless Lamb Shoulder",
+        "us_amount_base": 1.5,
+        "us_unit": "lb",
+        "metric_amount_base": 680.0,
+        "metric_unit": "g",
+        "substitute": "Beef chuck cut into small cubes"
+      },
+      {
+        "name": "Eggplants",
+        "us_amount_base": 2.0,
+        "us_unit": "large",
+        "metric_amount_base": 700.0,
+        "metric_unit": "g",
+        "substitute": "Globe eggplants"
+      },
+      {
+        "name": "Yellow Onion",
+        "us_amount_base": 1.0,
+        "us_unit": "medium",
+        "metric_amount_base": 150.0,
+        "metric_unit": "g",
+        "substitute": "Sweet onion"
+      },
+      {
+        "name": "Tomato Paste",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 16.0,
+        "metric_unit": "g",
+        "substitute": "Double-concentrated tomato paste"
+      },
+      {
+        "name": "Butter",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 42.0,
+        "metric_unit": "g",
+        "substitute": "Unsalted European-style butter"
+      },
+      {
+        "name": "All-Purpose Flour",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 16.0,
+        "metric_unit": "g",
+        "substitute": "1 tbsp cornstarch mixed with cold milk"
+      },
+      {
+        "name": "Whole Milk",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 240.0,
+        "metric_unit": "ml",
+        "substitute": "Half-and-half diluted with a little water"
+      },
+      {
+        "name": "Low-Moisture Mozzarella",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 55.0,
+        "metric_unit": "g",
+        "substitute": "Young Gouda or mild Kashar if available"
+      },
+      {
+        "name": "Olive Oil",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "ml",
+        "substitute": "Avocado oil"
+      },
+      {
+        "name": "Salt and Black Pepper",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 5.0,
+        "metric_unit": "g",
+        "substitute": "Season to taste"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Roast the eggplants over a gas flame or under the broiler, turning until the skins are charred and the flesh is soft. Cover briefly, then peel and chop the flesh.",
+        "timer_seconds": 1800
+      },
+      {
+        "step_number": 2,
+        "instruction": "Brown the lamb cubes in olive oil in a heavy pot. Add chopped onion and cook until softened.",
+        "timer_seconds": 900
+      },
+      {
+        "step_number": 3,
+        "instruction": "Stir in tomato paste, salt, pepper, and enough hot water to nearly cover. Cover and simmer gently until lamb is tender.",
+        "timer_seconds": 2700
+      },
+      {
+        "step_number": 4,
+        "instruction": "Melt butter in a saucepan, stir in flour, and cook briefly. Gradually whisk in milk until thick and smooth.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 5,
+        "instruction": "Fold the chopped eggplant and grated cheese into the sauce. Stir over low heat until creamy, then spoon onto plates and top with lamb.",
+        "timer_seconds": 300
+      }
+    ]
+  },
+  {
+    "id": "main_03",
+    "titleEn": "Iskender Kebab with Tomato Butter Sauce",
+    "titleTr": "İskender Kebap",
+    "category": "Mains & Grills",
+    "prepTimeMinutes": 25,
+    "cookTimeMinutes": 25,
+    "servings": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/main_03.webp",
+    "description": "Thinly sliced seasoned beef over toasted pita, topped with tomato sauce, melted butter, and yogurt.",
+    "ingredients": [
+      {
+        "name": "Beef Sirloin or Ribeye",
+        "us_amount_base": 1.25,
+        "us_unit": "lb",
+        "metric_amount_base": 570.0,
+        "metric_unit": "g",
+        "substitute": "Thinly sliced steak or good-quality shaved beef"
+      },
+      {
+        "name": "Greek Pita Bread",
+        "us_amount_base": 4.0,
+        "us_unit": "pieces",
+        "metric_amount_base": 300.0,
+        "metric_unit": "g",
+        "substitute": "Thick Turkish pide or sturdy flatbread, cubed and toasted"
+      },
+      {
+        "name": "Plain Greek Yogurt",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 240.0,
+        "metric_unit": "g",
+        "substitute": "Strained plain whole-milk yogurt"
+      },
+      {
+        "name": "Tomato Paste",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 32.0,
+        "metric_unit": "g",
+        "substitute": "Double-concentrated tomato paste"
+      },
+      {
+        "name": "Butter",
+        "us_amount_base": 4.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 56.0,
+        "metric_unit": "g",
+        "substitute": "Unsalted butter"
+      },
+      {
+        "name": "Olive Oil",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 15.0,
+        "metric_unit": "ml",
+        "substitute": "Avocado oil"
+      },
+      {
+        "name": "Garlic",
+        "us_amount_base": 1.0,
+        "us_unit": "clove",
+        "metric_amount_base": 1.0,
+        "metric_unit": "clove",
+        "substitute": "Jarred minced garlic"
+      },
+      {
+        "name": "Salt, Pepper, Paprika",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp total",
+        "metric_amount_base": 5.0,
+        "metric_unit": "g total",
+        "substitute": "Season to taste"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Freeze the beef for 20–30 minutes to firm it, then slice as thinly as possible across the grain.",
+        "timer_seconds": 1500
+      },
+      {
+        "step_number": 2,
+        "instruction": "Toast pita cubes in a dry skillet or oven until lightly crisp; arrange on serving plates.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 3,
+        "instruction": "Sear beef in batches in a very hot skillet with olive oil, seasoning with salt, pepper, and paprika.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 4,
+        "instruction": "Melt 1 tbsp butter and cook tomato paste with a splash of water until it forms a smooth sauce.",
+        "timer_seconds": 240
+      },
+      {
+        "step_number": 5,
+        "instruction": "Warm the remaining butter until foaming. Spoon tomato sauce over pita, add beef, then drizzle with butter and serve with yogurt.",
+        "timer_seconds": 180
+      }
+    ]
+  },
+  {
+    "id": "main_04",
+    "titleEn": "Ali Nazik Kebab with Lamb and Eggplant Yogurt",
+    "titleTr": "Ali Nazik",
+    "category": "Mains & Grills",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 30,
+    "servings": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/main_04.webp",
+    "description": "Smoky eggplant blended with garlicky yogurt and topped with tender spiced lamb or beef.",
+    "ingredients": [
+      {
+        "name": "Ground or Small-Cubed Lamb",
+        "us_amount_base": 1.0,
+        "us_unit": "lb",
+        "metric_amount_base": 450.0,
+        "metric_unit": "g",
+        "substitute": "85/15 ground beef or beef chuck cubes"
+      },
+      {
+        "name": "Eggplants",
+        "us_amount_base": 2.0,
+        "us_unit": "large",
+        "metric_amount_base": 700.0,
+        "metric_unit": "g",
+        "substitute": "Globe eggplants"
+      },
+      {
+        "name": "Greek Yogurt",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 240.0,
+        "metric_unit": "g",
+        "substitute": "Whole-milk strained yogurt"
+      },
+      {
+        "name": "Garlic",
+        "us_amount_base": 2.0,
+        "us_unit": "cloves",
+        "metric_amount_base": 2.0,
+        "metric_unit": "cloves",
+        "substitute": "Jarred minced garlic"
+      },
+      {
+        "name": "Butter",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 28.0,
+        "metric_unit": "g",
+        "substitute": "Olive oil"
+      },
+      {
+        "name": "Tomato Paste",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 16.0,
+        "metric_unit": "g",
+        "substitute": "Double-concentrated tomato paste"
+      },
+      {
+        "name": "Ground Cumin and Paprika",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp total",
+        "metric_amount_base": 3.0,
+        "metric_unit": "g total",
+        "substitute": "Use smoked paprika if desired"
+      },
+      {
+        "name": "Salt and Black Pepper",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp total",
+        "metric_amount_base": 5.0,
+        "metric_unit": "g total",
+        "substitute": "Season to taste"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Char eggplants over a flame or roast under a broiler, turning until collapsed and smoky. Cover, cool slightly, peel, and chop.",
+        "timer_seconds": 1800
+      },
+      {
+        "step_number": 2,
+        "instruction": "Mix eggplant with yogurt, crushed garlic, and salt; spread onto a warm serving platter.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 3,
+        "instruction": "Cook lamb in a skillet until browned and cooked through. Add butter, tomato paste, cumin, paprika, pepper, and a splash of water.",
+        "timer_seconds": 900
+      },
+      {
+        "step_number": 4,
+        "instruction": "Simmer briefly until the meat is coated in a glossy sauce, then spoon over the eggplant yogurt and serve.",
+        "timer_seconds": 300
+      }
+    ]
+  },
+  {
+    "id": "main_05",
+    "titleEn": "Turkish Mother's Meatballs",
+    "titleTr": "Anne Köftesi",
+    "category": "Mains & Grills",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 15,
+    "servings": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/main_05.webp",
+    "description": "Homestyle Turkish beef meatballs seasoned with onion, parsley, cumin, and breadcrumbs.",
+    "ingredients": [
+      {
+        "name": "Ground Beef (85/15)",
+        "us_amount_base": 1.0,
+        "us_unit": "lb",
+        "metric_amount_base": 450.0,
+        "metric_unit": "g",
+        "substitute": "Half ground beef and half ground lamb for a traditional variation"
+      },
+      {
+        "name": "Yellow Onion",
+        "us_amount_base": 1.0,
+        "us_unit": "small",
+        "metric_amount_base": 100.0,
+        "metric_unit": "g",
+        "substitute": "Shallot"
+      },
+      {
+        "name": "Breadcrumbs",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 55.0,
+        "metric_unit": "g",
+        "substitute": "Crushed plain crackers or panko"
+      },
+      {
+        "name": "Egg",
+        "us_amount_base": 1.0,
+        "us_unit": "large",
+        "metric_amount_base": 1.0,
+        "metric_unit": "large egg",
+        "substitute": "2 tbsp plain yogurt as a binder"
+      },
+      {
+        "name": "Fresh Parsley",
+        "us_amount_base": 0.25,
+        "us_unit": "cup",
+        "metric_amount_base": 15.0,
+        "metric_unit": "g",
+        "substitute": "Fresh cilantro, though flavor differs"
+      },
+      {
+        "name": "Ground Cumin",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 2.0,
+        "metric_unit": "g",
+        "substitute": "Omit if unavailable"
+      },
+      {
+        "name": "Olive Oil",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "ml",
+        "substitute": "Canola oil for pan-frying"
+      },
+      {
+        "name": "Salt and Black Pepper",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp total",
+        "metric_amount_base": 5.0,
+        "metric_unit": "g total",
+        "substitute": "Season to taste"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Grate the onion and squeeze out excess liquid. Combine with beef, breadcrumbs, egg, parsley, cumin, salt, and pepper.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 2,
+        "instruction": "Knead the mixture briefly, shape into small oval patties, and refrigerate to help them hold their shape.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 3,
+        "instruction": "Pan-fry in a thin layer of oil over medium heat, turning until browned and the center reaches 160°F (71°C).",
+        "timer_seconds": 900
+      }
+    ]
+  },
+  {
+    "id": "main_06",
+    "titleEn": "Turkish Chicken Shish Kebabs",
+    "titleTr": "Tavuk Şiş",
+    "category": "Mains & Grills",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 15,
+    "servings": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/main_06.webp",
+    "description": "Juicy chicken cubes marinated with yogurt, lemon, paprika, and garlic, then grilled on skewers.",
+    "ingredients": [
+      {
+        "name": "Boneless Skinless Chicken Thighs",
+        "us_amount_base": 1.5,
+        "us_unit": "lb",
+        "metric_amount_base": 680.0,
+        "metric_unit": "g",
+        "substitute": "Chicken breast, taking care not to overcook"
+      },
+      {
+        "name": "Plain Greek Yogurt",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "g",
+        "substitute": "Plain whole-milk yogurt"
+      },
+      {
+        "name": "Lemon Juice",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "ml",
+        "substitute": "Bottled lemon juice"
+      },
+      {
+        "name": "Olive Oil",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "ml",
+        "substitute": "Avocado oil"
+      },
+      {
+        "name": "Garlic",
+        "us_amount_base": 2.0,
+        "us_unit": "cloves",
+        "metric_amount_base": 2.0,
+        "metric_unit": "cloves",
+        "substitute": "Jarred minced garlic"
+      },
+      {
+        "name": "Paprika",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 2.0,
+        "metric_unit": "g",
+        "substitute": "Sweet paprika"
+      },
+      {
+        "name": "Dried Oregano",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 1.0,
+        "metric_unit": "g",
+        "substitute": "Dried thyme"
+      },
+      {
+        "name": "Salt and Black Pepper",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp total",
+        "metric_amount_base": 5.0,
+        "metric_unit": "g total",
+        "substitute": "Season to taste"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Cut chicken into 1-inch cubes. Mix yogurt, lemon juice, oil, garlic, paprika, oregano, salt, and pepper.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 2,
+        "instruction": "Toss chicken in the marinade, cover, and refrigerate for at least 30 minutes.",
+        "timer_seconds": 1800
+      },
+      {
+        "step_number": 3,
+        "instruction": "Thread chicken onto skewers. Grill over medium-high heat, turning occasionally, until the thickest pieces reach 165°F (74°C).",
+        "timer_seconds": 900
+      }
+    ]
+  },
+  {
+    "id": "main_07",
+    "titleEn": "Adana-Style Spicy Ground Lamb Kebabs",
+    "titleTr": "Adana Kebap",
+    "category": "Mains & Grills",
+    "prepTimeMinutes": 25,
+    "cookTimeMinutes": 12,
+    "servings": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/main_07.webp",
+    "description": "Long, fiery kebabs made from seasoned ground lamb and red pepper, traditionally grilled over charcoal.",
+    "ingredients": [
+      {
+        "name": "Ground Lamb",
+        "us_amount_base": 1.25,
+        "us_unit": "lb",
+        "metric_amount_base": 570.0,
+        "metric_unit": "g",
+        "substitute": "Ground beef with 15–20% fat, or a beef-lamb blend"
+      },
+      {
+        "name": "Red Bell Pepper",
+        "us_amount_base": 0.5,
+        "us_unit": "cup, finely minced",
+        "metric_amount_base": 75.0,
+        "metric_unit": "g",
+        "substitute": "Roasted red pepper, well drained"
+      },
+      {
+        "name": "Aleppo Pepper or Turkish Red Pepper Flakes",
+        "us_amount_base": 2.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 4.0,
+        "metric_unit": "g",
+        "substitute": "Crushed red pepper flakes"
+      },
+      {
+        "name": "Garlic",
+        "us_amount_base": 2.0,
+        "us_unit": "cloves",
+        "metric_amount_base": 2.0,
+        "metric_unit": "cloves",
+        "substitute": "Jarred minced garlic"
+      },
+      {
+        "name": "Salt",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 5.0,
+        "metric_unit": "g",
+        "substitute": "Fine sea salt"
+      },
+      {
+        "name": "Flatbread",
+        "us_amount_base": 4.0,
+        "us_unit": "pieces",
+        "metric_amount_base": 240.0,
+        "metric_unit": "g",
+        "substitute": "Pita or lavash"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Combine lamb, finely minced pepper, chili flakes, garlic, and salt. Knead until the mixture becomes tacky.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 2,
+        "instruction": "Divide into four portions and press each around a wide metal skewer. Chill briefly if the mixture feels soft.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 3,
+        "instruction": "Grill over high heat, turning carefully, until browned and cooked through to 160°F (71°C). Serve with flatbread.",
+        "timer_seconds": 720
+      }
+    ]
+  },
+  {
+    "id": "main_08",
+    "titleEn": "Turkish Lamb Stew in a Clay-Pot Style",
+    "titleTr": "Güveç",
+    "category": "Mains & Grills",
+    "prepTimeMinutes": 25,
+    "cookTimeMinutes": 100,
+    "servings": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/main_08.webp",
+    "description": "Slow-braised lamb with vegetables, tomato, and peppers, inspired by traditional Turkish clay-pot stew.",
+    "ingredients": [
+      {
+        "name": "Boneless Lamb Shoulder",
+        "us_amount_base": 1.5,
+        "us_unit": "lb",
+        "metric_amount_base": 680.0,
+        "metric_unit": "g",
+        "substitute": "Beef chuck"
+      },
+      {
+        "name": "Potatoes",
+        "us_amount_base": 2.0,
+        "us_unit": "medium",
+        "metric_amount_base": 350.0,
+        "metric_unit": "g",
+        "substitute": "Yukon Gold potatoes"
+      },
+      {
+        "name": "Yellow Onion",
+        "us_amount_base": 1.0,
+        "us_unit": "large",
+        "metric_amount_base": 200.0,
+        "metric_unit": "g",
+        "substitute": "Sweet onion"
+      },
+      {
+        "name": "Tomatoes",
+        "us_amount_base": 2.0,
+        "us_unit": "medium",
+        "metric_amount_base": 300.0,
+        "metric_unit": "g",
+        "substitute": "Canned diced tomatoes, drained"
+      },
+      {
+        "name": "Green Bell Peppers",
+        "us_amount_base": 2.0,
+        "us_unit": "pieces",
+        "metric_amount_base": 240.0,
+        "metric_unit": "g",
+        "substitute": "Anaheim peppers or Italian frying peppers"
+      },
+      {
+        "name": "Tomato Paste",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 32.0,
+        "metric_unit": "g",
+        "substitute": "Double-concentrated tomato paste"
+      },
+      {
+        "name": "Olive Oil",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "ml",
+        "substitute": "Avocado oil"
+      },
+      {
+        "name": "Garlic",
+        "us_amount_base": 3.0,
+        "us_unit": "cloves",
+        "metric_amount_base": 3.0,
+        "metric_unit": "cloves",
+        "substitute": "Jarred minced garlic"
+      },
+      {
+        "name": "Salt, Pepper, Thyme",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp total",
+        "metric_amount_base": 5.0,
+        "metric_unit": "g total",
+        "substitute": "Dried oregano in place of thyme"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Heat oven to 325°F (165°C). Cut lamb and vegetables into bite-size pieces.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 2,
+        "instruction": "Toss lamb, potatoes, onion, tomatoes, peppers, garlic, tomato paste, oil, and seasonings in a heavy oven-safe pot.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 3,
+        "instruction": "Add about 1 cup hot water, cover tightly, and braise until the lamb is fork-tender. Check once during cooking and add water if needed.",
+        "timer_seconds": 5400
+      },
+      {
+        "step_number": 4,
+        "instruction": "Uncover for the final 10 minutes if you prefer a thicker sauce. Rest briefly before serving.",
+        "timer_seconds": 600
+      }
+    ]
+  },
+  {
+    "id": "main_09",
+    "titleEn": "Forest-Style Lamb and Vegetable Stew",
+    "titleTr": "Orman Kebabı",
+    "category": "Mains & Grills",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 55,
+    "servings": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/main_09.webp",
+    "description": "Tender lamb simmered with peas, carrots, potatoes, and a light tomato broth.",
+    "ingredients": [
+      {
+        "name": "Boneless Lamb or Beef Stew Meat",
+        "us_amount_base": 1.0,
+        "us_unit": "lb",
+        "metric_amount_base": 450.0,
+        "metric_unit": "g",
+        "substitute": "Beef chuck stew cubes"
+      },
+      {
+        "name": "Potatoes",
+        "us_amount_base": 2.0,
+        "us_unit": "medium",
+        "metric_amount_base": 350.0,
+        "metric_unit": "g",
+        "substitute": "Yukon Gold potatoes"
+      },
+      {
+        "name": "Carrots",
+        "us_amount_base": 2.0,
+        "us_unit": "medium",
+        "metric_amount_base": 160.0,
+        "metric_unit": "g",
+        "substitute": "Frozen sliced carrots"
+      },
+      {
+        "name": "Frozen Peas",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 150.0,
+        "metric_unit": "g",
+        "substitute": "Frozen mixed vegetables"
+      },
+      {
+        "name": "Yellow Onion",
+        "us_amount_base": 1.0,
+        "us_unit": "medium",
+        "metric_amount_base": 150.0,
+        "metric_unit": "g",
+        "substitute": "Sweet onion"
+      },
+      {
+        "name": "Tomato Paste",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 16.0,
+        "metric_unit": "g",
+        "substitute": "Double-concentrated tomato paste"
+      },
+      {
+        "name": "Olive Oil",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "ml",
+        "substitute": "Canola oil"
+      },
+      {
+        "name": "Salt and Black Pepper",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp total",
+        "metric_amount_base": 5.0,
+        "metric_unit": "g total",
+        "substitute": "Season to taste"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Brown the meat in olive oil in a heavy pot. Add chopped onion and cook until softened.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 2,
+        "instruction": "Stir in tomato paste and enough hot water to mostly cover the meat. Cover and simmer until beginning to tenderize.",
+        "timer_seconds": 1800
+      },
+      {
+        "step_number": 3,
+        "instruction": "Add diced potatoes and carrots; continue simmering until the vegetables and meat are tender.",
+        "timer_seconds": 1200
+      },
+      {
+        "step_number": 4,
+        "instruction": "Stir in peas and cook until heated through. Adjust seasoning and serve hot.",
+        "timer_seconds": 300
+      }
+    ]
+  },
+  {
+    "id": "main_10",
+    "titleEn": "White Beans with Turkish Cured Beef",
+    "titleTr": "Pastırmalı Kuru Fasulye",
+    "category": "Mains & Grills",
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 40,
+    "servings": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/main_10.webp",
+    "description": "A comforting Turkish white bean stew enriched with pastırma, a spiced cured beef; smoked beef makes a practical US substitute.",
+    "ingredients": [
+      {
+        "name": "Cooked White Beans",
+        "us_amount_base": 2.0,
+        "us_unit": "15-oz cans",
+        "metric_amount_base": 850.0,
+        "metric_unit": "g including liquid",
+        "substitute": "Great Northern or cannellini beans"
+      },
+      {
+        "name": "Pastırma",
+        "us_amount_base": 4.0,
+        "us_unit": "oz",
+        "metric_amount_base": 115.0,
+        "metric_unit": "g",
+        "substitute": "Thinly sliced bresaola or pastrami; use smoked beef if preferred"
+      },
+      {
+        "name": "Yellow Onion",
+        "us_amount_base": 1.0,
+        "us_unit": "medium",
+        "metric_amount_base": 150.0,
+        "metric_unit": "g",
+        "substitute": "Sweet onion"
+      },
+      {
+        "name": "Tomato Paste",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 32.0,
+        "metric_unit": "g",
+        "substitute": "Double-concentrated tomato paste"
+      },
+      {
+        "name": "Butter or Olive Oil",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 28.0,
+        "metric_unit": "g butter or 30 ml oil",
+        "substitute": "Olive oil"
+      },
+      {
+        "name": "Hot Water or Beef Broth",
+        "us_amount_base": 2.0,
+        "us_unit": "cups",
+        "metric_amount_base": 480.0,
+        "metric_unit": "ml",
+        "substitute": "Low-sodium beef broth"
+      },
+      {
+        "name": "Salt, Black Pepper, Paprika",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp total",
+        "metric_amount_base": 5.0,
+        "metric_unit": "g total",
+        "substitute": "Adjust salt because cured beef is salty"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Sauté chopped onion in butter or olive oil until soft. Add tomato paste and cook briefly.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 2,
+        "instruction": "Add sliced pastırma or its substitute and cook for 2 minutes to release its flavor.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 3,
+        "instruction": "Add drained beans and broth. Simmer gently until the sauce thickens and flavors combine.",
+        "timer_seconds": 1200
+      },
+      {
+        "step_number": 4,
+        "instruction": "Season carefully, remembering that cured beef is salty, and serve hot.",
+        "timer_seconds": 0
+      }
+    ]
+  },
+  {
+    "id": "main_11",
+    "titleEn": "Izmir-Style Meatballs with Potatoes in Tomato Sauce",
+    "titleTr": "İzmir Köfte",
+    "category": "Mains & Grills",
+    "prepTimeMinutes": 25,
+    "cookTimeMinutes": 45,
+    "servings": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/main_11.webp",
+    "description": "Seasoned Turkish meatballs baked with potato wedges and peppers in a savory tomato sauce.",
+    "ingredients": [
+      {
+        "name": "Ground Beef (85/15)",
+        "us_amount_base": 1.0,
+        "us_unit": "lb",
+        "metric_amount_base": 450.0,
+        "metric_unit": "g",
+        "substitute": "Ground beef mixed with a little ground lamb"
+      },
+      {
+        "name": "Potatoes",
+        "us_amount_base": 3.0,
+        "us_unit": "medium",
+        "metric_amount_base": 500.0,
+        "metric_unit": "g",
+        "substitute": "Russet or Yukon Gold potatoes"
+      },
+      {
+        "name": "Yellow Onion",
+        "us_amount_base": 1.0,
+        "us_unit": "small",
+        "metric_amount_base": 100.0,
+        "metric_unit": "g",
+        "substitute": "Shallot"
+      },
+      {
+        "name": "Breadcrumbs",
+        "us_amount_base": 0.33,
+        "us_unit": "cup",
+        "metric_amount_base": 35.0,
+        "metric_unit": "g",
+        "substitute": "Panko or crushed plain crackers"
+      },
+      {
+        "name": "Egg",
+        "us_amount_base": 1.0,
+        "us_unit": "large",
+        "metric_amount_base": 1.0,
+        "metric_unit": "large egg",
+        "substitute": "2 tbsp plain yogurt"
+      },
+      {
+        "name": "Tomato Paste",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 32.0,
+        "metric_unit": "g",
+        "substitute": "Double-concentrated tomato paste"
+      },
+      {
+        "name": "Green Peppers",
+        "us_amount_base": 2.0,
+        "us_unit": "pieces",
+        "metric_amount_base": 200.0,
+        "metric_unit": "g",
+        "substitute": "Anaheim or Italian frying peppers"
+      },
+      {
+        "name": "Olive Oil",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 45.0,
+        "metric_unit": "ml",
+        "substitute": "Avocado oil"
+      },
+      {
+        "name": "Salt, Pepper, Cumin",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp total",
+        "metric_amount_base": 5.0,
+        "metric_unit": "g total",
+        "substitute": "Season to taste"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Heat oven to 400°F (200°C). Combine beef, grated onion, breadcrumbs, egg, cumin, salt, and pepper; shape into oval meatballs.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 2,
+        "instruction": "Cut potatoes into wedges. Lightly brown the potatoes and meatballs in a skillet if desired, working in batches.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 3,
+        "instruction": "Arrange potatoes, meatballs, and pepper pieces in a baking dish. Whisk tomato paste with 1 1/2 cups hot water and pour over.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 4,
+        "instruction": "Bake until potatoes are tender, sauce is bubbling, and meatballs reach 160°F (71°C) internally.",
+        "timer_seconds": 1500
+      }
+    ]
+  },
+  {
+    "id": "main_12",
+    "titleEn": "Turkish Beef Stew",
+    "titleTr": "Tas Kebabı",
+    "category": "Mains & Grills",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 75,
+    "servings": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/main_12.webp",
+    "description": "Slow-simmered cubes of beef with onions and tomato, served with a rich, comforting gravy.",
+    "ingredients": [
+      {
+        "name": "Beef Chuck",
+        "us_amount_base": 1.5,
+        "us_unit": "lb",
+        "metric_amount_base": 680.0,
+        "metric_unit": "g",
+        "substitute": "Beef stew meat"
+      },
+      {
+        "name": "Yellow Onion",
+        "us_amount_base": 1.0,
+        "us_unit": "large",
+        "metric_amount_base": 200.0,
+        "metric_unit": "g",
+        "substitute": "Sweet onion"
+      },
+      {
+        "name": "Tomato Paste",
+        "us_amount_base": 1.5,
+        "us_unit": "tbsp",
+        "metric_amount_base": 24.0,
+        "metric_unit": "g",
+        "substitute": "Double-concentrated tomato paste"
+      },
+      {
+        "name": "Garlic",
+        "us_amount_base": 2.0,
+        "us_unit": "cloves",
+        "metric_amount_base": 2.0,
+        "metric_unit": "cloves",
+        "substitute": "Jarred minced garlic"
+      },
+      {
+        "name": "Butter or Olive Oil",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 28.0,
+        "metric_unit": "g butter or 30 ml oil",
+        "substitute": "Olive oil"
+      },
+      {
+        "name": "Beef Broth",
+        "us_amount_base": 2.0,
+        "us_unit": "cups",
+        "metric_amount_base": 480.0,
+        "metric_unit": "ml",
+        "substitute": "Low-sodium beef stock"
+      },
+      {
+        "name": "Carrot",
+        "us_amount_base": 1.0,
+        "us_unit": "large",
+        "metric_amount_base": 100.0,
+        "metric_unit": "g",
+        "substitute": "Frozen carrot chunks"
+      },
+      {
+        "name": "Salt, Pepper, Bay Leaf",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp total",
+        "metric_amount_base": 5.0,
+        "metric_unit": "g total",
+        "substitute": "Dried thyme can replace bay leaf"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Pat beef dry and brown in batches in a heavy pot with hot oil or butter.",
+        "timer_seconds": 900
+      },
+      {
+        "step_number": 2,
+        "instruction": "Add chopped onion and garlic; cook until fragrant. Stir in tomato paste.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 3,
+        "instruction": "Add broth, carrot, bay leaf, salt, and pepper. Cover and simmer gently until beef is fork-tender.",
+        "timer_seconds": 3000
+      },
+      {
+        "step_number": 4,
+        "instruction": "Remove bay leaf, adjust seasoning, and serve with rice or mashed potatoes.",
+        "timer_seconds": 0
+      }
+    ]
+  },
+  {
+    "id": "main_13",
+    "titleEn": "Turkish Ladies' Thigh Meatballs",
+    "titleTr": "Kadınbudu Köfte",
+    "category": "Mains & Grills",
+    "prepTimeMinutes": 25,
+    "cookTimeMinutes": 20,
+    "servings": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/main_13.webp",
+    "description": "Tender oval meat patties made with beef, cooked rice, and herbs, coated in egg and lightly fried.",
+    "ingredients": [
+      {
+        "name": "Ground Beef (85/15)",
+        "us_amount_base": 1.0,
+        "us_unit": "lb",
+        "metric_amount_base": 450.0,
+        "metric_unit": "g",
+        "substitute": "Ground beef with 10% ground lamb"
+      },
+      {
+        "name": "Cooked White Rice",
+        "us_amount_base": 0.75,
+        "us_unit": "cup",
+        "metric_amount_base": 140.0,
+        "metric_unit": "g",
+        "substitute": "Leftover plain long-grain rice"
+      },
+      {
+        "name": "Yellow Onion",
+        "us_amount_base": 1.0,
+        "us_unit": "small",
+        "metric_amount_base": 100.0,
+        "metric_unit": "g",
+        "substitute": "Shallot"
+      },
+      {
+        "name": "Eggs",
+        "us_amount_base": 2.0,
+        "us_unit": "large",
+        "metric_amount_base": 2.0,
+        "metric_unit": "large eggs",
+        "substitute": "No direct substitute recommended for the coating"
+      },
+      {
+        "name": "All-Purpose Flour",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 60.0,
+        "metric_unit": "g",
+        "substitute": "Gluten-free all-purpose flour blend"
+      },
+      {
+        "name": "Fresh Parsley",
+        "us_amount_base": 0.25,
+        "us_unit": "cup",
+        "metric_amount_base": 15.0,
+        "metric_unit": "g",
+        "substitute": "Fresh dill"
+      },
+      {
+        "name": "Neutral Oil",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "ml",
+        "substitute": "Canola or avocado oil"
+      },
+      {
+        "name": "Salt, Pepper, Cumin",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp total",
+        "metric_amount_base": 5.0,
+        "metric_unit": "g total",
+        "substitute": "Season to taste"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Sauté half the ground beef with chopped onion until cooked through; cool completely.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 2,
+        "instruction": "Mix the cooled beef with the remaining raw beef, cooked rice, parsley, one egg, and seasonings. Shape into oval patties and chill briefly.",
+        "timer_seconds": 900
+      },
+      {
+        "step_number": 3,
+        "instruction": "Set out flour and beat the remaining egg in a shallow bowl. Coat each patty lightly in flour, then dip in egg.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 4,
+        "instruction": "Shallow-fry in batches over medium heat until golden and the centers reach 160°F (71°C). Drain on paper towels.",
+        "timer_seconds": 900
+      }
+    ]
+  },
+  {
+    "id": "main_14",
+    "titleEn": "Mediterranean Turkish Chicken Sauté",
+    "titleTr": "Tavuk Sote",
+    "category": "Mains & Grills",
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 25,
+    "servings": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/main_14.webp",
+    "description": "Quick skillet chicken with tomatoes, peppers, onions, and warm Mediterranean spices.",
+    "ingredients": [
+      {
+        "name": "Boneless Skinless Chicken Thighs or Breast",
+        "us_amount_base": 1.25,
+        "us_unit": "lb",
+        "metric_amount_base": 570.0,
+        "metric_unit": "g",
+        "substitute": "Chicken tenders, cut into bite-size pieces"
+      },
+      {
+        "name": "Yellow Onion",
+        "us_amount_base": 1.0,
+        "us_unit": "medium",
+        "metric_amount_base": 150.0,
+        "metric_unit": "g",
+        "substitute": "Sweet onion"
+      },
+      {
+        "name": "Green Bell Pepper",
+        "us_amount_base": 1.0,
+        "us_unit": "large",
+        "metric_amount_base": 150.0,
+        "metric_unit": "g",
+        "substitute": "Anaheim or Italian frying pepper"
+      },
+      {
+        "name": "Tomatoes",
+        "us_amount_base": 2.0,
+        "us_unit": "medium",
+        "metric_amount_base": 300.0,
+        "metric_unit": "g",
+        "substitute": "Canned diced tomatoes, drained"
+      },
+      {
+        "name": "Garlic",
+        "us_amount_base": 2.0,
+        "us_unit": "cloves",
+        "metric_amount_base": 2.0,
+        "metric_unit": "cloves",
+        "substitute": "Jarred minced garlic"
+      },
+      {
+        "name": "Tomato Paste",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 16.0,
+        "metric_unit": "g",
+        "substitute": "Double-concentrated tomato paste"
+      },
+      {
+        "name": "Olive Oil",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "ml",
+        "substitute": "Avocado oil"
+      },
+      {
+        "name": "Paprika, Cumin, Salt and Pepper",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp total",
+        "metric_amount_base": 5.0,
+        "metric_unit": "g total",
+        "substitute": "Season to taste"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Cut chicken into bite-size pieces and chop the onion, pepper, tomatoes, and garlic.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 2,
+        "instruction": "Heat oil in a large skillet. Sear chicken in batches until lightly browned.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 3,
+        "instruction": "Add onion and pepper; cook until beginning to soften. Stir in garlic and tomato paste.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 4,
+        "instruction": "Add tomatoes and spices. Simmer until the chicken reaches 165°F (74°C) and the sauce thickens.",
+        "timer_seconds": 600
+      }
+    ]
+  },
+  {
+    "id": "main_15",
+    "titleEn": "Crispy Shoestring Potato Kebab with Beef",
+    "titleTr": "Çökertme Kebabı",
+    "category": "Mains & Grills",
+    "prepTimeMinutes": 25,
+    "cookTimeMinutes": 25,
+    "servings": 4,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/main_15.webp",
+    "description": "Aegean-style kebab layered with garlicky yogurt, thin crispy potatoes, and sautéed beef in tomato butter sauce.",
+    "ingredients": [
+      {
+        "name": "Beef Sirloin",
+        "us_amount_base": 1.0,
+        "us_unit": "lb",
+        "metric_amount_base": 450.0,
+        "metric_unit": "g",
+        "substitute": "Shaved steak or thinly sliced flank steak"
+      },
+      {
+        "name": "Russet Potatoes",
+        "us_amount_base": 2.0,
+        "us_unit": "large",
+        "metric_amount_base": 500.0,
+        "metric_unit": "g",
+        "substitute": "Yukon Gold potatoes"
+      },
+      {
+        "name": "Greek Yogurt",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 240.0,
+        "metric_unit": "g",
+        "substitute": "Plain whole-milk strained yogurt"
+      },
+      {
+        "name": "Garlic",
+        "us_amount_base": 2.0,
+        "us_unit": "cloves",
+        "metric_amount_base": 2.0,
+        "metric_unit": "cloves",
+        "substitute": "Jarred minced garlic"
+      },
+      {
+        "name": "Tomato Paste",
+        "us_amount_base": 1.5,
+        "us_unit": "tbsp",
+        "metric_amount_base": 24.0,
+        "metric_unit": "g",
+        "substitute": "Double-concentrated tomato paste"
+      },
+      {
+        "name": "Butter",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 28.0,
+        "metric_unit": "g",
+        "substitute": "Olive oil"
+      },
+      {
+        "name": "Neutral Oil for Frying",
+        "us_amount_base": 2.0,
+        "us_unit": "cups",
+        "metric_amount_base": 480.0,
+        "metric_unit": "ml",
+        "substitute": "Canola or peanut oil"
+      },
+      {
+        "name": "Salt, Pepper, Paprika",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp total",
+        "metric_amount_base": 5.0,
+        "metric_unit": "g total",
+        "substitute": "Season to taste"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Cut potatoes into very thin matchsticks, rinse, and dry thoroughly with a clean towel.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 2,
+        "instruction": "Fry potatoes in batches in 350°F (175°C) oil until crisp and golden. Drain and lightly salt.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 3,
+        "instruction": "Mix yogurt with crushed garlic and a pinch of salt; spread on a serving platter.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 4,
+        "instruction": "Sear thinly sliced beef in a hot skillet until browned and cooked through; season with salt and pepper.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 5,
+        "instruction": "Cook tomato paste with butter and a splash of water to make a quick sauce. Layer crispy potatoes and beef over yogurt, then spoon the sauce on top.",
+        "timer_seconds": 240
+      }
+    ]
+  }
+]
