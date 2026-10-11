@@ -7,7 +7,7 @@
     "prepTimeMinutes": 10,
     "cookTimeMinutes": 15,
     "servings": 2,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/bake_01.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/bake_01.webp",
     "description": "A quintessential Turkish breakfast skillet of tender simmered peppers and grated fresh tomatoes folded with gently set, silky scrambled eggs.",
     "ingredients": [
       {
@@ -111,7 +111,7 @@
     "prepTimeMinutes": 10,
     "cookTimeMinutes": 10,
     "servings": 2,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/bake_02.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/bake_02.webp",
     "description": "Velvety room-temperature garlic yogurt topped with soft-poached eggs and bathed in bubbling, golden Aleppo pepper brown butter with fresh dill.",
     "ingredients": [
       {
@@ -220,7 +220,7 @@
     "prepTimeMinutes": 20,
     "cookTimeMinutes": 10,
     "servings": 4,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/bake_03.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/bake_03.webp",
     "description": "Crisp cigar-shaped pastry rolls stuffed with savory sheep's milk feta and fresh flat-leaf parsley, pan-fried to golden, shatteringly crisp perfection.",
     "ingredients": [
       {
@@ -313,7 +313,7 @@
     "prepTimeMinutes": 45,
     "cookTimeMinutes": 40,
     "servings": 8,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/bake_04.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/bake_04.webp",
     "description": "An imperial Ottoman baked delicacy made of homemade egg pasta sheets boiled like lasagna, generously brushed with clarified butter, and layered with tangy sheep's feta and parsley.",
     "ingredients": [
       {
@@ -424,7 +424,7 @@
     "prepTimeMinutes": 40,
     "cookTimeMinutes": 20,
     "servings": 6,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/bake_05.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/bake_05.webp",
     "description": "The quintessential street bread of Istanbul—twisted ring breads dipped in a grape molasses wash, blanketed in toasted sesame seeds, and baked to a crisp crust with a chewy, fragrant crumb.",
     "ingredients": [
       {
@@ -538,7 +538,7 @@
     "prepTimeMinutes": 35,
     "cookTimeMinutes": 35,
     "servings": 6,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/bake_06.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/bake_06.webp",
     "description": "Crisp spiral coils of delicate phyllo stuffed with spiced ground beef, caramelized sweet onions, toasted pine nuts, and warm Mediterranean aromatics.",
     "ingredients": [
       {
@@ -684,7 +684,7 @@
     "prepTimeMinutes": 20,
     "cookTimeMinutes": 25,
     "servings": 12,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/bake_07.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/bake_07.webp",
     "description": "Tender, melt-in-your-mouth savory morning pastries enriched with yogurt and olive oil, studded with fresh dill and stuffed with rich crumbled sheep's feta.",
     "ingredients": [
       {
@@ -809,7 +809,7 @@
     "prepTimeMinutes": 25,
     "cookTimeMinutes": 15,
     "servings": 4,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/bake_08.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/bake_08.webp",
     "description": "Paper-thin griddled flatbreads folded like envelopes around a vibrant filling of fresh baby spinach, sweet onions, and briny sheep's milk feta, finished with sizzling melted butter.",
     "ingredients": [
       {
@@ -934,7 +934,7 @@
     "prepTimeMinutes": 35,
     "cookTimeMinutes": 15,
     "servings": 4,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/bake_09.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/bake_09.webp",
     "description": "Iconic canoe-shaped Turkish hearth flatbread with a blistered crust, overflowing with molten Turkish kaşar cheese and a luscious runny egg yolk in the center.",
     "ingredients": [
       {
@@ -1056,7 +1056,7 @@
     "prepTimeMinutes": 5,
     "cookTimeMinutes": 8,
     "servings": 2,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/bake_10.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/bake_10.webp",
     "description": "Sizzling, aromatic slices of cured garlic beef sausage fried in butter until slightly crisped, topped with sunny-side eggs ready for crusty bread dipping.",
     "ingredients": [
       {
@@ -1144,7 +1144,7 @@
     "prepTimeMinutes": 5,
     "cookTimeMinutes": 15,
     "servings": 3,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/bake_11.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/bake_11.webp",
     "description": "An iconic, comforting breakfast dish from Turkey's Black Sea coast: nutty stone-ground cornmeal toasted in golden butter, simmered with boiling water, and blended with stretchy melted cheeses.",
     "ingredients": [
       {
@@ -1229,7 +1229,7 @@
     "prepTimeMinutes": 60,
     "cookTimeMinutes": 25,
     "servings": 8,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/bake_12.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/bake_12.webp",
     "description": "The legendary Sephardic breakfast specialty of Izmir: unleavened dough stretched paper-thin, laminated with pure sesame tahini and vegetable oil, and baked into gossamer-flaky pastries.",
     "ingredients": [
       {
@@ -1335,7 +1335,7 @@
     "prepTimeMinutes": 30,
     "cookTimeMinutes": 20,
     "servings": 6,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/bake_13.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/bake_13.webp",
     "description": "Thick, cloud-soft leavened village flatbread enriched with creamy yogurt, cooked in a dry cast-iron skillet until puffed into balloons and slathered with melted butter.",
     "ingredients": [
       {
@@ -1444,7 +1444,7 @@
     "prepTimeMinutes": 45,
     "cookTimeMinutes": 25,
     "servings": 8,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/bake_14.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/bake_14.webp",
     "description": "Featherlight, buttery Turkish brioche ring pastries laminated with savory black olive tapenade, twisted into graceful rings, and baked with a glossy golden crust.",
     "ingredients": [
       {
@@ -1582,7 +1582,7 @@
     "prepTimeMinutes": 25,
     "cookTimeMinutes": 15,
     "servings": 6,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/bake_15.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/bake_15.webp",
     "description": "Golden, blistered fried yeast dough puffs with a crisp, delicate crust and an airy hollow pocket inside, traditional for weekend breakfast tables.",
     "ingredients": [
       {

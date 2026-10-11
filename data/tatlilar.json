@@ -7,7 +7,7 @@
     "prepTimeMinutes": 15,
     "cookTimeMinutes": 40,
     "servings": 6,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/dessert_01.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/dessert_01.webp",
     "description": "A creamy Turkish milk-and-rice pudding baked in individual dishes until the surface blisters and caramelizes.",
     "ingredients": [
       {
@@ -103,7 +103,7 @@
     "prepTimeMinutes": 40,
     "cookTimeMinutes": 45,
     "servings": 24,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/dessert_02.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/dessert_02.webp",
     "description": "Paper-thin layers of buttery phyllo enclose finely chopped pistachios, finished with fragrant lemon syrup.",
     "ingredients": [
       {
@@ -199,7 +199,7 @@
     "prepTimeMinutes": 20,
     "cookTimeMinutes": 20,
     "servings": 6,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/dessert_03.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/dessert_03.webp",
     "description": "Golden, crisp strands of kataifi surround stretchy unsalted cheese and are soaked with lemon syrup while hot.",
     "ingredients": [
       {
@@ -295,7 +295,7 @@
     "prepTimeMinutes": 20,
     "cookTimeMinutes": 35,
     "servings": 12,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/dessert_04.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/dessert_04.webp",
     "description": "A tender semolina cake scented with citrus and soaked in light lemon syrup.",
     "ingredients": [
       {
@@ -399,7 +399,7 @@
     "prepTimeMinutes": 25,
     "cookTimeMinutes": 25,
     "servings": 20,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/dessert_05.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/dessert_05.webp",
     "description": "Soft, buttery semolina cookies are baked golden, topped with almonds, and soaked in lemon syrup.",
     "ingredients": [
       {
@@ -503,7 +503,7 @@
     "prepTimeMinutes": 15,
     "cookTimeMinutes": 25,
     "servings": 6,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/dessert_06.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/dessert_06.webp",
     "description": "A silky milk pudding with a signature toasted, caramelized underside, chilled and rolled for serving.",
     "ingredients": [
       {
@@ -591,7 +591,7 @@
     "prepTimeMinutes": 5,
     "cookTimeMinutes": 25,
     "servings": 6,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/dessert_07.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/dessert_07.webp",
     "description": "Nutty semolina slowly toasted in butter, then steamed with warm sweet milk and pine nuts.",
     "ingredients": [
       {
@@ -679,7 +679,7 @@
     "prepTimeMinutes": 20,
     "cookTimeMinutes": 90,
     "servings": 6,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/dessert_08.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/dessert_08.webp",
     "description": "Quince halves slowly poached in sugar syrup until ruby-pink and tender, served cool with rich cream.",
     "ingredients": [
       {
@@ -775,7 +775,7 @@
     "prepTimeMinutes": 15,
     "cookTimeMinutes": 60,
     "servings": 6,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/dessert_09.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/dessert_09.webp",
     "description": "Tender, glossy pumpkin or winter squash pieces cooked in sugar and finished with nutty tahini and crunchy walnuts.",
     "ingredients": [
       {
@@ -855,7 +855,7 @@
     "prepTimeMinutes": 20,
     "cookTimeMinutes": 35,
     "servings": 12,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/dessert_10.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/dessert_10.webp",
     "description": "Crisp, buttery strands of shredded pastry layered with walnuts and soaked in a fragrant sugar syrup.",
     "ingredients": [
       {
@@ -943,7 +943,7 @@
     "prepTimeMinutes": 20,
     "cookTimeMinutes": 0,
     "servings": 10,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/dessert_11.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/dessert_11.webp",
     "description": "A no-bake refrigerator cake made from broken tea biscuits bound with a cocoa-chocolate mixture and sliced to reveal a mosaic.",
     "ingredients": [
       {
@@ -1039,7 +1039,7 @@
     "prepTimeMinutes": 25,
     "cookTimeMinutes": 25,
     "servings": 8,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/dessert_12.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/dessert_12.webp",
     "description": "Small yeast-raised dough balls fried until crisp and dipped in cool lemon syrup for a crunchy, airy center.",
     "ingredients": [
       {
@@ -1135,7 +1135,7 @@
     "prepTimeMinutes": 30,
     "cookTimeMinutes": 120,
     "servings": 12,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/dessert_13.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/dessert_13.webp",
     "description": "A festive, fruit- and grain-rich pudding combining wheat, beans, chickpeas, dried fruit, and nuts, served with traditional toppings.",
     "ingredients": [
       {
@@ -1239,7 +1239,7 @@
     "prepTimeMinutes": 15,
     "cookTimeMinutes": 15,
     "servings": 6,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/dessert_14.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/dessert_14.webp",
     "description": "A glossy Turkish chocolate pudding enriched with dark chocolate and butter, spooned over a small piece of cake in each bowl.",
     "ingredients": [
       {
@@ -1343,7 +1343,7 @@
     "prepTimeMinutes": 10,
     "cookTimeMinutes": 25,
     "servings": 6,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/dessert_15.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/dessert_15.webp",
     "description": "Small cheese-based pastry balls simmered in sugar syrup until tender and saturated, traditionally served chilled.",
     "ingredients": [
       {

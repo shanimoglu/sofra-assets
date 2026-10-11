@@ -7,7 +7,7 @@
     "prepTimeMinutes": 15,
     "cookTimeMinutes": 40,
     "servings": 4,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/veggie_01.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/veggie_01.webp",
     "description": "A cornerstone of Aegean summer dining: tender flat green beans braised gently with sweet onions, vine-ripened tomatoes, a touch of sugar, and aromatic extra virgin olive oil, traditionally allowed to rest and served at room temperature.",
     "ingredients": [
       {
@@ -111,7 +111,7 @@
     "prepTimeMinutes": 45,
     "cookTimeMinutes": 50,
     "servings": 6,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/veggie_02.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/veggie_02.webp",
     "description": "The crown jewel of the Turkish cold meze table: tender grapevine leaves rolled into slender parcels filled with aromatic short-grain rice, caramelized onions, pine nuts, sweet currants, fragrant allspice, and fresh mint, simmered in olive oil and lemon broth.",
     "ingredients": [
       {
@@ -249,7 +249,7 @@
     "prepTimeMinutes": 20,
     "cookTimeMinutes": 45,
     "servings": 4,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/veggie_03.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/veggie_03.webp",
     "description": "Literally translating to 'the imam fainted' with pleasure at the generous use of olive oil: tender whole eggplants roasted and stuffed with a meltingly rich filling of caramelized onions, garlic, ripe tomatoes, and fresh Italian parsley.",
     "ingredients": [
       {
@@ -366,7 +366,7 @@
     "prepTimeMinutes": 15,
     "cookTimeMinutes": 30,
     "servings": 4,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/veggie_04.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/veggie_04.webp",
     "description": "An Aegean culinary hallmark of elegance: whole fresh artichoke cups gently braised in fresh orange and lemon juices with extra virgin olive oil, crowned with tender sweet peas, diced carrots, and fragrant fresh dill.",
     "ingredients": [
       {
@@ -486,7 +486,7 @@
     "prepTimeMinutes": 20,
     "cookTimeMinutes": 15,
     "servings": 4,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/veggie_05.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/veggie_05.webp",
     "description": "Golden-crusted, tender-centered zucchini fritters packed with fresh dill, mint, scallions, and creamy sheep's milk feta cheese, served hot or at room temperature alongside cool garlic yogurt sauce.",
     "ingredients": [
       {
@@ -611,7 +611,7 @@
     "prepTimeMinutes": 15,
     "cookTimeMinutes": 45,
     "servings": 6,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/veggie_06.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/veggie_06.webp",
     "description": "An indispensable Turkish meze tavern classic: creamy speckled borlotti (cranberry) beans stewed slowly with diced carrots, potatoes, sweet onions, whole garlic cloves, tomato paste, and fruity olive oil, garnished with fresh flat-leaf parsley and lemon.",
     "ingredients": [
       {
@@ -731,7 +731,7 @@
     "prepTimeMinutes": 20,
     "cookTimeMinutes": 35,
     "servings": 4,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/veggie_07.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/veggie_07.webp",
     "description": "A refined Ottoman winter classic: earthy celery root (celeriac) peeled and cubed, braised gently with sweet carrots in fresh orange juice, lemon, and rich olive oil until tender and glistening, topped with its aromatic tender green leaves.",
     "ingredients": [
       {
@@ -848,7 +848,7 @@
     "prepTimeMinutes": 20,
     "cookTimeMinutes": 25,
     "servings": 4,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/veggie_08.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/veggie_08.webp",
     "description": "An authentic Turkish summer meze staple (unrelated to North African shakshuka): crispy fried cubes of eggplant, zucchini, and sweet green peppers blanketed in a simmered garlicky tomato and red pepper sauce, served cold with thick yogurt.",
     "ingredients": [
       {
@@ -960,7 +960,7 @@
     "prepTimeMinutes": 15,
     "cookTimeMinutes": 35,
     "servings": 4,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/veggie_09.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/veggie_09.webp",
     "description": "A nourishing staple of Turkish home cooking: thick-cut leeks braised gently with sweet carrots, a sprinkle of rice, freshly squeezed lemon juice, and luscious olive oil until melt-in-your-mouth tender.",
     "ingredients": [
       {
@@ -1069,7 +1069,7 @@
     "prepTimeMinutes": 30,
     "cookTimeMinutes": 45,
     "servings": 6,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/veggie_10.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/veggie_10.webp",
     "description": "Vibrant bell peppers stuffed with a fragrant Ottoman pilaf filling of short-grain rice, caramelized onions, pine nuts, dried currants, cinnamon, mint, and fresh dill, gently braised in an olive oil broth and served cold.",
     "ingredients": [
       {
@@ -1191,7 +1191,7 @@
     "prepTimeMinutes": 20,
     "cookTimeMinutes": 35,
     "servings": 4,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/veggie_11.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/veggie_11.webp",
     "description": "An iconic Turkish spring specialty: whole tender young broad (fava) beans in their pods, braised with olive oil, lemon, a flour slurry, and a mountain of fresh dill, traditionally crowned with thick garlic yogurt.",
     "ingredients": [
       {
@@ -1300,7 +1300,7 @@
     "prepTimeMinutes": 35,
     "cookTimeMinutes": 30,
     "servings": 4,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/veggie_12.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/veggie_12.webp",
     "description": "An Aegean treasure from coastal Bodrum and Ayvalık: tender yellow zucchini blossoms stuffed with sweet caramelized onions, short-grain rice, fresh mint, dill, and olive oil, gently steamed and served chilled.",
     "ingredients": [
       {
@@ -1409,7 +1409,7 @@
     "prepTimeMinutes": 25,
     "cookTimeMinutes": 20,
     "servings": 6,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/veggie_13.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/veggie_13.webp",
     "description": "A beloved Turkish vegan culinary classic: pureed tender red lentils steamed with fine bulgur, kneaded with sautéed onions, tomato and pepper pastes, ground cumin, scallions, parsley, and pomegranate molasses, squeezed into bite-sized finger-marked patties.",
     "ingredients": [
       {
@@ -1539,7 +1539,7 @@
     "prepTimeMinutes": 20,
     "cookTimeMinutes": 35,
     "servings": 4,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/veggie_14.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/veggie_14.webp",
     "description": "A celebrated Aegean summer dish: tender petite baby okra trimmed carefully into conical hats, braised in golden olive oil with grated sweet tomatoes, onions, garlic, and fresh lemon juice to achieve a silky, completely slime-free texture.",
     "ingredients": [
       {
@@ -1648,7 +1648,7 @@
     "prepTimeMinutes": 20,
     "cookTimeMinutes": 30,
     "servings": 4,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/shanimoglu/sofra-assets@main/recipes/veggie_15.webp",
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/veggie_15.webp",
     "description": "A delicate and nutty winter root vegetable specialty: Jerusalem artichokes (sunchokes) braised with sweet carrots, a handful of rice, fresh lemon juice, and extra virgin olive oil, finished with vibrant fresh dill.",
     "ingredients": [
       {
