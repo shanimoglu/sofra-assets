@@ -1674,5 +1674,1146 @@
         "timer_seconds": 60
       }
     ]
+  },
+  {
+    "id": "bake_16",
+    "titleEn": "Stone-Oven Turkish Flatbread with Minced Lamb (Lahmacun)",
+    "titleTr": "Taş Fırın Lahmacun",
+    "category": "Bakery & Breakfast",
+    "prepTimeMinutes": 45,
+    "cookTimeMinutes": 15,
+    "servings": 6,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/tas-firin-lahmacun.webp?v=20261013_v11",
+    "description": "Ultra-thin, blistered crispy Anatolian flatbread crowned with an aromatic spread of finely minced lamb, juicy tomatoes, sweet capia peppers, garlic, and fresh parsley. Rolled with fresh lemon and sumac onions.",
+    "ingredients": [
+      {
+        "name": "High-Gluten Bread Flour",
+        "us_amount_base": 3.0,
+        "us_unit": "cup",
+        "metric_amount_base": 380.0,
+        "metric_unit": "g",
+        "substitute": "All-purpose unbleached flour"
+      },
+      {
+        "name": "Instant Yeast",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 4.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Minced Lamb and Beef (20% fat)",
+        "us_amount_base": 0.8,
+        "us_unit": "lb",
+        "metric_amount_base": 350.0,
+        "metric_unit": "g",
+        "substitute": "85/15 ground beef mixed with 15% ground lamb"
+      },
+      {
+        "name": "Tomatoes & Red Capia Peppers (finely blended)",
+        "us_amount_base": 2.0,
+        "us_unit": "each",
+        "metric_amount_base": 250.0,
+        "metric_unit": "g",
+        "substitute": "Canned crushed tomatoes and red bell pepper"
+      },
+      {
+        "name": "Turkish Pepper Paste (Biber Salçası)",
+        "us_amount_base": 1.5,
+        "us_unit": "tbsp",
+        "metric_amount_base": 25.0,
+        "metric_unit": "g",
+        "substitute": "Tomato paste with sweet paprika"
+      },
+      {
+        "name": "Fresh Flat-Leaf Parsley & Garlic",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 30.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Isot Urfa Pepper & Cumin",
+        "us_amount_base": 1.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 6.0,
+        "metric_unit": "g",
+        "substitute": "Smoked paprika or red chili flakes"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Knead flour, yeast, 1 cup warm water, and 1 tsp salt into a supple, soft dough. Divide into 6 balls, cover, and rest.",
+        "timer_seconds": 2400
+      },
+      {
+        "step_number": 2,
+        "instruction": "Finely food-process tomatoes, peppers, onion, garlic, and parsley into a juicy pulp. Mix with minced meat, pepper paste, spices, and olive oil.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 3,
+        "instruction": "Roll each dough ball paper-thin (approx. 1 mm) on a floured surface. Spread a thin, even layer of meat mixture edge-to-edge.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 4,
+        "instruction": "Bake on a preheated pizza stone or heavy cast-iron pan at 500°F (260°C) until blistered and crispy on the underside.",
+        "timer_seconds": 300
+      }
+    ]
+  },
+  {
+    "id": "bake_17",
+    "titleEn": "Crispy Closed Black Sea Meat Pide (Bafra Pidesi)",
+    "titleTr": "Bafra Pidesi",
+    "category": "Bakery & Breakfast",
+    "prepTimeMinutes": 50,
+    "cookTimeMinutes": 20,
+    "servings": 4,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/bafra-pidesi.webp?v=20261013_v11",
+    "description": "Samsun's legendary long, slender closed pide with an impossibly crunchy, thin crust stuffed with pre-roasted minced beef and caramelized onions, slathered in melting village butter straight out of the oven.",
+    "ingredients": [
+      {
+        "name": "Bread Flour",
+        "us_amount_base": 3.0,
+        "us_unit": "cup",
+        "metric_amount_base": 380.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Minced Beef (Kavrulmuş kıyma)",
+        "us_amount_base": 1.0,
+        "us_unit": "lb",
+        "metric_amount_base": 450.0,
+        "metric_unit": "g",
+        "substitute": "Pre-sautéed lean ground beef"
+      },
+      {
+        "name": "Yellow Onions (finely minced & sweated)",
+        "us_amount_base": 3.0,
+        "us_unit": "medium",
+        "metric_amount_base": 350.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Black Sea Grass-Fed Butter",
+        "us_amount_base": 4.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 60.0,
+        "metric_unit": "g",
+        "substitute": "High-fat European cultured butter"
+      },
+      {
+        "name": "Coarsely Ground Black Pepper & Salt",
+        "us_amount_base": 2.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 7.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Sauté ground beef with finely chopped onions until fully browned and completely dry. Season heavily with black pepper and cool.",
+        "timer_seconds": 900
+      },
+      {
+        "step_number": 2,
+        "instruction": "Knead flour, yeast, water, and salt into a firm dough; rest until doubled in volume.",
+        "timer_seconds": 2400
+      },
+      {
+        "step_number": 3,
+        "instruction": "Roll dough out into a long 24-inch oval strip. Spread meat filling down the center, pinch edges tightly together at the top, and flip seam-side down.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 4,
+        "instruction": "Bake on a pizza stone at 480°F (250°C) until deep golden and crunchy. Rub vigorously with cold butter all over the steaming crust.",
+        "timer_seconds": 720
+      }
+    ]
+  },
+  {
+    "id": "bake_18",
+    "titleEn": "Open Boat Flatbread with Diced Beef and Peppers",
+    "titleTr": "Kuşbaşılı Biberli Pide",
+    "category": "Bakery & Breakfast",
+    "prepTimeMinutes": 40,
+    "cookTimeMinutes": 18,
+    "servings": 4,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/kusbasili-biberli-pide.webp?v=20261013_v11",
+    "description": "Artisanal open boat-shaped Turkish flatbread loaded with miniature hand-cut beef tenderloin cubes, ripe diced tomatoes, sweet frying peppers, and fresh parsley baked to bubbly crust perfection.",
+    "ingredients": [
+      {
+        "name": "Beef Tenderloin or Sirloin (cut into tiny 0.5 cm dice)",
+        "us_amount_base": 1.0,
+        "us_unit": "lb",
+        "metric_amount_base": 450.0,
+        "metric_unit": "g",
+        "substitute": "Boneless ribeye or strip steak diced tiny"
+      },
+      {
+        "name": "Ripe Tomatoes & Green Peppers (finely chopped)",
+        "us_amount_base": 2.0,
+        "us_unit": "each",
+        "metric_amount_base": 250.0,
+        "metric_unit": "g",
+        "substitute": "Roma tomatoes and Anaheim peppers"
+      },
+      {
+        "name": "All-Purpose Flour & Yeast",
+        "us_amount_base": 3.0,
+        "us_unit": "cup",
+        "metric_amount_base": 380.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Olive Oil & Butter",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 45.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Turkish Pepper Paste & Thyme",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 18.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Toss tiny beef cubes with tomatoes, peppers, pepper paste, olive oil, thyme, and salt; let marinate.",
+        "timer_seconds": 1200
+      },
+      {
+        "step_number": 2,
+        "instruction": "Roll rested dough into long boat shapes. Spoon marinated beef filling across the center, leaving a 1-inch border.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 3,
+        "instruction": "Fold sides inward and pinch the two ends together into pointed canoe tips.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 4,
+        "instruction": "Bake at 475°F (245°C) until edges are golden and beef is tender and bubbling. Brush hot crust with butter.",
+        "timer_seconds": 720
+      }
+    ]
+  },
+  {
+    "id": "bake_19",
+    "titleEn": "Crispy Pistachio and Clotted Cream Filo Pastry (Katmer)",
+    "titleTr": "Antep Katmeri",
+    "category": "Bakery & Breakfast",
+    "prepTimeMinutes": 35,
+    "cookTimeMinutes": 10,
+    "servings": 4,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/antep-katmeri.webp?v=20261013_v11",
+    "description": "Heavenly Gaziantep breakfast specialty made with paper-thin translucent stretched dough folded into an envelope over mounds of emerald Antep pistachios, clotted water buffalo cream (kaymak), and sugar, pan-crisped in butter.",
+    "ingredients": [
+      {
+        "name": "Super-Thin Filo or Stretched Strudel Dough",
+        "us_amount_base": 4.0,
+        "us_unit": "large sheets",
+        "metric_amount_base": 200.0,
+        "metric_unit": "g",
+        "substitute": "Commercial #4 filo sheets layered with melted butter"
+      },
+      {
+        "name": "Ground Antep Emerald Pistachios",
+        "us_amount_base": 1.25,
+        "us_unit": "cup",
+        "metric_amount_base": 150.0,
+        "metric_unit": "g",
+        "substitute": "Finely ground raw shelled pistachios"
+      },
+      {
+        "name": "Turkish Clotted Cream (Kaymak)",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 200.0,
+        "metric_unit": "g",
+        "substitute": "English clotted cream or mascarpone mixed with heavy cream"
+      },
+      {
+        "name": "Granulated Sugar",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 100.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Clarified Butter (Sade Yağ)",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 45.0,
+        "metric_unit": "g",
+        "substitute": "Ghee"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Lay out stretched paper-thin dough. Scatter dollops of chilled kaymak evenly over the center square.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 2,
+        "instruction": "Sprinkle ground vibrant green pistachios and granulated sugar generously over the cream.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 3,
+        "instruction": "Fold four corners inward into a neat square envelope package, brushing seams with clarified butter.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 4,
+        "instruction": "Cook in a buttered pan over medium heat or bake at 420°F (215°C) until blistering, golden, and crispy. Serve steaming hot.",
+        "timer_seconds": 360
+      }
+    ]
+  },
+  {
+    "id": "bake_20",
+    "titleEn": "Puff Pastry Parcels with Braised Beef and Peas (Talaş Böreği)",
+    "titleTr": "Talaş Böreği",
+    "category": "Bakery & Breakfast",
+    "prepTimeMinutes": 30,
+    "cookTimeMinutes": 35,
+    "servings": 6,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/talas-boregi.webp?v=20261013_v11",
+    "description": "Flaky, golden puff pastry squares packed with a savory filling of tender cubed braised lamb or beef, sweet green peas, carrots, and caramelized onions, brushed with egg wash and toasted sesame.",
+    "ingredients": [
+      {
+        "name": "All-Butter Puff Pastry Sheets",
+        "us_amount_base": 2.0,
+        "us_unit": "sheets",
+        "metric_amount_base": 500.0,
+        "metric_unit": "g",
+        "substitute": "Commercial puff pastry (Milföy)"
+      },
+      {
+        "name": "Braised Cubed Lamb or Beef (tender dice)",
+        "us_amount_base": 0.8,
+        "us_unit": "lb",
+        "metric_amount_base": 350.0,
+        "metric_unit": "g",
+        "substitute": "Pre-cooked beef stew meat diced small"
+      },
+      {
+        "name": "Cooked Green Peas & Diced Carrots",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 150.0,
+        "metric_unit": "g",
+        "substitute": "Frozen peas and carrots"
+      },
+      {
+        "name": "Onion & Tomato Paste",
+        "us_amount_base": 1.0,
+        "us_unit": "medium",
+        "metric_amount_base": 120.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Egg Yolk & Nigella Seeds",
+        "us_amount_base": 1.0,
+        "us_unit": "portion",
+        "metric_amount_base": 20.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Sauté diced meat with onion and tomato paste until tender; fold in peas and carrots. Cool completely.",
+        "timer_seconds": 900
+      },
+      {
+        "step_number": 2,
+        "instruction": "Cut puff pastry sheets into 6-inch squares. Place a large spoonful of meat filling in the center of each.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 3,
+        "instruction": "Bring the four corners together to the center like an envelope parcel, seal edges, and flip seam-side down onto a baking sheet.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 4,
+        "instruction": "Brush with beaten egg yolk, sprinkle with nigella seeds, and bake at 390°F (200°C) until deeply puffed and golden brown.",
+        "timer_seconds": 1500
+      }
+    ]
+  },
+  {
+    "id": "bake_21",
+    "titleEn": "Bosnian Minced Meat Pastry Bites (Boşnak Mantısı)",
+    "titleTr": "Boşnak Mantısı",
+    "category": "Bakery & Breakfast",
+    "prepTimeMinutes": 55,
+    "cookTimeMinutes": 40,
+    "servings": 6,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/bosnak-mantisi.webp?v=20261013_v11",
+    "description": "Bite-sized cubes of handmade stretched phyllo dough stuffed with seasoned minced meat, baked packed tightly in a round tray until blistered and crispy, drenched in garlic yogurt and paprika butter.",
+    "ingredients": [
+      {
+        "name": "All-Purpose Flour",
+        "us_amount_base": 3.5,
+        "us_unit": "cup",
+        "metric_amount_base": 420.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Warm Water & Salt",
+        "us_amount_base": 1.25,
+        "us_unit": "cup",
+        "metric_amount_base": 300.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Ground Beef (80/20)",
+        "us_amount_base": 1.0,
+        "us_unit": "lb",
+        "metric_amount_base": 450.0,
+        "metric_unit": "g",
+        "substitute": "Ground chuck"
+      },
+      {
+        "name": "Grated Onion & Black Pepper",
+        "us_amount_base": 2.0,
+        "us_unit": "medium",
+        "metric_amount_base": 200.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Melted Butter & Oil (for stretching)",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Garlic Yogurt & Paprika Butter (for topping)",
+        "us_amount_base": 2.0,
+        "us_unit": "cup",
+        "metric_amount_base": 480.0,
+        "metric_unit": "g",
+        "substitute": "Greek yogurt and butter"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Knead dough, divide into discs, bathe in oil, and rest.",
+        "timer_seconds": 1800
+      },
+      {
+        "step_number": 2,
+        "instruction": "Hand-stretch dough over a tablecloth until thin as tissue paper. Line ground beef filling along edges, roll into long ropes, and slice into 1-inch squares.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 3,
+        "instruction": "Pack the little bites tightly into a buttered round baking pan and bake at 390°F (200°C) until deeply browned and crisp.",
+        "timer_seconds": 2100
+      },
+      {
+        "step_number": 4,
+        "instruction": "Spoon warm garlic yogurt and hot paprika butter over the crispy mantı before serving.",
+        "timer_seconds": 0
+      }
+    ]
+  },
+  {
+    "id": "bake_22",
+    "titleEn": "Crispy Crimean Deep-Fried Meat Turnovers (Çiğ Börek)",
+    "titleTr": "Çiğ Börek (Çibörek)",
+    "category": "Bakery & Breakfast",
+    "prepTimeMinutes": 35,
+    "cookTimeMinutes": 15,
+    "servings": 5,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/cig-borek-ciborek.webp?v=20261013_v11",
+    "description": "Crispy, bubbly crescent pastries fried in hot oil, stuffed with a juicy raw filling of seasoned minced meat and onion juice that steams and creates an intoxicating broth inside each turnover.",
+    "ingredients": [
+      {
+        "name": "All-Purpose Flour",
+        "us_amount_base": 3.0,
+        "us_unit": "cup",
+        "metric_amount_base": 360.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "White Vinegar & Salt",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 15.0,
+        "metric_unit": "ml",
+        "substitute": "Apple cider vinegar"
+      },
+      {
+        "name": "Ground Beef (lean)",
+        "us_amount_base": 0.7,
+        "us_unit": "lb",
+        "metric_amount_base": 300.0,
+        "metric_unit": "g",
+        "substitute": "Ground lamb"
+      },
+      {
+        "name": "Grated Onion & Cold Water (for juicy filling)",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Sunflower Oil for Deep Frying",
+        "us_amount_base": 3.0,
+        "us_unit": "cup",
+        "metric_amount_base": 700.0,
+        "metric_unit": "ml",
+        "substitute": "Canola oil"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Knead flour, vinegar, salt, and water into a firm dough; rest 30 minutes.",
+        "timer_seconds": 1800
+      },
+      {
+        "step_number": 2,
+        "instruction": "Mix raw ground meat with grated onion, lots of black pepper, salt, and 1/2 cup water until loose and runny.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 3,
+        "instruction": "Roll dough balls into thin 8-inch circles. Spread a thin layer of meat filling over half, fold into a half-moon, and seal edges firmly with a pastry wheel.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 4,
+        "instruction": "Deep fry in hot oil (375°F / 190°C), spooning hot oil over top until pastry bubbles dramatically and turns golden, about 1 minute per side.",
+        "timer_seconds": 120
+      }
+    ]
+  },
+  {
+    "id": "bake_23",
+    "titleEn": "Eastern Anatolian Flaky Butter Kete (Kars Ketesi)",
+    "titleTr": "Kars Ketesi",
+    "category": "Bakery & Breakfast",
+    "prepTimeMinutes": 45,
+    "cookTimeMinutes": 30,
+    "servings": 6,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/kars-ketesi.webp?v=20261013_v11",
+    "description": "Magnificent multi-layered Eastern Anatolian breakfast pastry filled with butter-toasted flour halva (iç), rolled and coiled into flaky discs and baked to a deep chestnut brown.",
+    "ingredients": [
+      {
+        "name": "Flour",
+        "us_amount_base": 4.0,
+        "us_unit": "cup",
+        "metric_amount_base": 500.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Milk & Yeast",
+        "us_amount_base": 1.25,
+        "us_unit": "cup",
+        "metric_amount_base": 300.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Grass-Fed Butter (melted)",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 225.0,
+        "metric_unit": "g",
+        "substitute": "Ghee"
+      },
+      {
+        "name": "Flour for Filling (roasted in butter)",
+        "us_amount_base": 1.5,
+        "us_unit": "cup",
+        "metric_amount_base": 180.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Egg Yolk & Nigella Seeds",
+        "us_amount_base": 1.0,
+        "us_unit": "portion",
+        "metric_amount_base": 20.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Roast 1.5 cups flour in 4 tbsp butter in a skillet until pale golden and sandy to create the traditional savory filling.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 2,
+        "instruction": "Knead remaining flour with milk, yeast, and salt; rest until puffed.",
+        "timer_seconds": 2400
+      },
+      {
+        "step_number": 3,
+        "instruction": "Roll dough out, brush generously with melted butter, fold into layers, place toasted flour filling in center, and flatten into round thick rounds.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 4,
+        "instruction": "Prick with a fork, brush with egg yolk, and bake at 390°F (200°C) until richly browned.",
+        "timer_seconds": 1500
+      }
+    ]
+  },
+  {
+    "id": "bake_24",
+    "titleEn": "Swirled Poppy Seed Sweet Brioche (Haşhaşlı Çörek)",
+    "titleTr": "Haşhaşlı Çörek",
+    "category": "Bakery & Breakfast",
+    "prepTimeMinutes": 40,
+    "cookTimeMinutes": 25,
+    "servings": 8,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/hashasli-corek.webp?v=20261013_v11",
+    "description": "Aegean and Central Anatolian twisted yeast rolls swirled with crushed roasted blue poppy seed paste, olive oil, and walnuts, creating striking dark spiral patterns in soft golden brioche.",
+    "ingredients": [
+      {
+        "name": "All-Purpose Flour",
+        "us_amount_base": 4.0,
+        "us_unit": "cup",
+        "metric_amount_base": 500.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Warm Milk & Instant Yeast",
+        "us_amount_base": 1.5,
+        "us_unit": "cup",
+        "metric_amount_base": 360.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Ground Poppy Seed Paste (Haşhaş ezmesi)",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 240.0,
+        "metric_unit": "g",
+        "substitute": "Commercial poppy seed filling or ground black sesame paste"
+      },
+      {
+        "name": "Olive Oil or Sunflower Oil",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Granulated Sugar & Chopped Walnuts",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 100.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Knead flour, warm milk, yeast, sugar, and salt into a soft dough; proof until doubled.",
+        "timer_seconds": 2700
+      },
+      {
+        "step_number": 2,
+        "instruction": "Mix poppy seed paste with oil, sugar, and chopped walnuts to make a spreadable dark filling.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 3,
+        "instruction": "Divide dough into sheets, spread poppy paste between layers, cut into strips, twist into spirals, and coil into rolls.",
+        "timer_seconds": 360
+      },
+      {
+        "step_number": 4,
+        "instruction": "Brush with egg yolk and bake at 375°F (190°C) until dark golden and fragrant.",
+        "timer_seconds": 1500
+      }
+    ]
+  },
+  {
+    "id": "bake_25",
+    "titleEn": "Bursa Sweet Tahini Spiral Flatbread (Tahinli Pide)",
+    "titleTr": "Tahinli Pide",
+    "category": "Bakery & Breakfast",
+    "prepTimeMinutes": 35,
+    "cookTimeMinutes": 20,
+    "servings": 6,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/tahinli-pide.webp?v=20261013_v11",
+    "description": "Bursa stone-oven treasure made with soft pillowy yeast dough shaped into round rims and filled with a caramelized, bubbling pool of pure sesame tahini and sugar that bakes into a nutty golden crust.",
+    "ingredients": [
+      {
+        "name": "Flour",
+        "us_amount_base": 3.0,
+        "us_unit": "cup",
+        "metric_amount_base": 380.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Pure Sesame Tahini",
+        "us_amount_base": 1.25,
+        "us_unit": "cup",
+        "metric_amount_base": 300.0,
+        "metric_unit": "g",
+        "substitute": "High-quality runny 100% sesame tahini"
+      },
+      {
+        "name": "Granulated Sugar",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 200.0,
+        "metric_unit": "g",
+        "substitute": "Brown sugar or turbinado sugar"
+      },
+      {
+        "name": "Warm Milk & Yeast",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 240.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Toasted Sesame Seeds",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 20.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Knead flour, warm milk, yeast, and a little sugar into a soft dough; proof for 40 minutes.",
+        "timer_seconds": 2400
+      },
+      {
+        "step_number": 2,
+        "instruction": "Whisk tahini with sugar and 2 tbsp water into a luscious, glossy mixture.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 3,
+        "instruction": "Shape dough balls into round flat discs with raised edges (like mini pizza rims). Pour tahini-sugar filling generously into the center depression.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 4,
+        "instruction": "Sprinkle sesame seeds around crust and bake at 390°F (200°C) until tahini bubbles and crust browns.",
+        "timer_seconds": 1200
+      }
+    ]
+  },
+  {
+    "id": "bake_26",
+    "titleEn": "Crispy Pastırma and Kaşar Cheese Spring Rolls (Paçanga)",
+    "titleTr": "Paçanga Böreği",
+    "category": "Bakery & Breakfast",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 15,
+    "servings": 6,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/pacanga-boregi.webp?v=20261013_v11",
+    "description": "Irresistible crispy Turkish börek rolls filled with thinly sliced cured beef pastırma, melting kaşar cheese, diced sweet tomatoes, and green peppers, pan-fried to crunchy golden perfection.",
+    "ingredients": [
+      {
+        "name": "Fresh Yufka (Turkish pastry sheets)",
+        "us_amount_base": 2.0,
+        "us_unit": "sheets",
+        "metric_amount_base": 300.0,
+        "metric_unit": "g",
+        "substitute": "Spring roll wrappers or layered filo sheets"
+      },
+      {
+        "name": "Turkish Cured Beef (Pastırma, sliced thin)",
+        "us_amount_base": 0.35,
+        "us_unit": "lb",
+        "metric_amount_base": 160.0,
+        "metric_unit": "g",
+        "substitute": "Bresaola, cecina, or thinly sliced Spanish serrano ham"
+      },
+      {
+        "name": "Grated Kaşar Cheese",
+        "us_amount_base": 1.5,
+        "us_unit": "cup",
+        "metric_amount_base": 180.0,
+        "metric_unit": "g",
+        "substitute": "Low-moisture mozzarella or provolone"
+      },
+      {
+        "name": "Diced Tomato & Sweet Green Pepper",
+        "us_amount_base": 1.0,
+        "us_unit": "each",
+        "metric_amount_base": 150.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Sunflower Oil for Pan Frying",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 240.0,
+        "metric_unit": "ml",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Cut triangular wedges of yufka pastry. Strip excess fenugreek paste (çemen) from pastırma slices if desired.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 2,
+        "instruction": "Place pastırma, kaşar cheese, diced tomato, and pepper along the wide edge of each triangle.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 3,
+        "instruction": "Fold side flaps in and roll up into a plump flattened cigar shape, sealing tip with a dab of water.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 4,
+        "instruction": "Pan fry in medium-hot oil for 2-3 minutes per side until golden brown and cheese is meltingly gooey inside.",
+        "timer_seconds": 300
+      }
+    ]
+  },
+  {
+    "id": "bake_27",
+    "titleEn": "Tokat Flaky Layered Butter Pastry (Tokat Yağlısı)",
+    "titleTr": "Tokat Yağlısı",
+    "category": "Bakery & Breakfast",
+    "prepTimeMinutes": 45,
+    "cookTimeMinutes": 25,
+    "servings": 6,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/tokat-yaglisi.webp?v=20261013_v11",
+    "description": "Tokat specialty of flaky, spiral-layered laminated breakfast pastry drenched in clarified butter, pressed into flat round discs and baked until deeply blistered and crunchy on top.",
+    "ingredients": [
+      {
+        "name": "Bread Flour",
+        "us_amount_base": 3.5,
+        "us_unit": "cup",
+        "metric_amount_base": 450.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Grass-Fed Clarified Butter (Sade yağ)",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 220.0,
+        "metric_unit": "g",
+        "substitute": "Ghee"
+      },
+      {
+        "name": "Water & Salt",
+        "us_amount_base": 1.25,
+        "us_unit": "cup",
+        "metric_amount_base": 300.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Egg Yolk (for brushing)",
+        "us_amount_base": 1.0,
+        "us_unit": "piece",
+        "metric_amount_base": 1.0,
+        "metric_unit": "adet",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Knead flour, water, and salt into an elastic dough; divide into balls and rest 20 minutes.",
+        "timer_seconds": 1200
+      },
+      {
+        "step_number": 2,
+        "instruction": "Roll each ball paper-thin, coat completely with clarified butter, roll into tight ropes, and coil into snail spirals.",
+        "timer_seconds": 360
+      },
+      {
+        "step_number": 3,
+        "instruction": "Rest spirals in the refrigerator for 20 minutes to solidify butter, then gently roll out into round 7-inch discs.",
+        "timer_seconds": 1200
+      },
+      {
+        "step_number": 4,
+        "instruction": "Brush with egg yolk and bake on high heat at 420°F (215°C) until blistering and flaky.",
+        "timer_seconds": 1200
+      }
+    ]
+  },
+  {
+    "id": "bake_28",
+    "titleEn": "Albanian Leek and Feta Layered Börek",
+    "titleTr": "Pırasalı Arnavut Böreği",
+    "category": "Bakery & Breakfast",
+    "prepTimeMinutes": 50,
+    "cookTimeMinutes": 45,
+    "servings": 8,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/pirasali-arnavut-boregi.webp?v=20261013_v11",
+    "description": "Multi-layered handmade pastry rolled by hand and filled with sweet caramelized leeks, creamy Turkish white cheese (beyaz peynir), and black pepper, baked until audibly crisp.",
+    "ingredients": [
+      {
+        "name": "All-Purpose Flour",
+        "us_amount_base": 4.0,
+        "us_unit": "cup",
+        "metric_amount_base": 500.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Fresh Leeks (cleaned & sliced thin)",
+        "us_amount_base": 1.5,
+        "us_unit": "lb",
+        "metric_amount_base": 700.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Turkish White Cheese (Beyaz Peynir)",
+        "us_amount_base": 1.5,
+        "us_unit": "cup",
+        "metric_amount_base": 200.0,
+        "metric_unit": "g",
+        "substitute": "Greek feta cheese"
+      },
+      {
+        "name": "Butter and Olive Oil Blend",
+        "us_amount_base": 0.75,
+        "us_unit": "cup",
+        "metric_amount_base": 180.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Eggs & Black Pepper",
+        "us_amount_base": 2.0,
+        "us_unit": "pieces",
+        "metric_amount_base": 2.0,
+        "metric_unit": "adet",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Sauté sliced leeks in olive oil until soft and sweet; cool and mix with crumbled white cheese, eggs, and black pepper.",
+        "timer_seconds": 900
+      },
+      {
+        "step_number": 2,
+        "instruction": "Roll 12 thin sheets of dough, stacking 6 on bottom with butter brushed between each layer.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 3,
+        "instruction": "Spread leek filling over bottom layers, top with remaining 6 buttered sheets, crimp edges into a rope border, and score.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 4,
+        "instruction": "Bake at 380°F (190°C) until deep golden brown and crunchy.",
+        "timer_seconds": 2700
+      }
+    ]
+  },
+  {
+    "id": "bake_29",
+    "titleEn": "Mersin Warm Cheese-Stuffed Flatbread Wrap (Sıkma)",
+    "titleTr": "Çökelekli Sıkma",
+    "category": "Bakery & Breakfast",
+    "prepTimeMinutes": 30,
+    "cookTimeMinutes": 15,
+    "servings": 5,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/cokelekli-sikma.webp?v=20261013_v11",
+    "description": "Beloved southern Anatolian village breakfast wrap of warm hand-rolled skillet flatbread rolled around a sizzling filling of spiced çökelek curd cheese, sweet onions, butter, and red pepper flakes.",
+    "ingredients": [
+      {
+        "name": "Flour",
+        "us_amount_base": 3.0,
+        "us_unit": "cup",
+        "metric_amount_base": 380.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Turkish Çökelek or Lor Cheese",
+        "us_amount_base": 1.5,
+        "us_unit": "cup",
+        "metric_amount_base": 250.0,
+        "metric_unit": "g",
+        "substitute": "Ricotta salata, cotija, or whole-milk ricotta pressed dry"
+      },
+      {
+        "name": "Yellow Onion (finely diced & caramelized in butter)",
+        "us_amount_base": 1.0,
+        "us_unit": "medium",
+        "metric_amount_base": 120.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Butter & Red Pepper Flakes (Pul Biber)",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 45.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Fresh Parsley (chopped)",
+        "us_amount_base": 0.25,
+        "us_unit": "cup",
+        "metric_amount_base": 15.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Knead flour, water, and salt into a soft dough; rest for 20 minutes.",
+        "timer_seconds": 1200
+      },
+      {
+        "step_number": 2,
+        "instruction": "Sauté diced onion in butter until golden, mix with çökelek cheese, red pepper flakes, and parsley.",
+        "timer_seconds": 360
+      },
+      {
+        "step_number": 3,
+        "instruction": "Roll dough balls thin and cook on a dry skillet (sac) for 1 minute per side until blistered.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 4,
+        "instruction": "Immediately while hot, spread cheese filling across the flatbread and squeeze tightly into a cigar roll (sıkma).",
+        "timer_seconds": 0
+      }
+    ]
+  },
+  {
+    "id": "bake_30",
+    "titleEn": "Potato and Herb Rose Spiral Börek (Gül Böreği)",
+    "titleTr": "Patatesli Gül Böreği",
+    "category": "Bakery & Breakfast",
+    "prepTimeMinutes": 35,
+    "cookTimeMinutes": 35,
+    "servings": 6,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/patatesli-gul-boregi.webp?v=20261013_v11",
+    "description": "Whimsical rose-shaped individual Turkish börek coils filled with silky mashed potatoes sautéed with caramelized onions and sweet paprika, baked with sesame seeds to a flaky crunch.",
+    "ingredients": [
+      {
+        "name": "Fresh Turkish Yufka Sheets",
+        "us_amount_base": 3.0,
+        "us_unit": "sheets",
+        "metric_amount_base": 450.0,
+        "metric_unit": "g",
+        "substitute": "Commercial phyllo dough layered with butter"
+      },
+      {
+        "name": "Yukon Gold Potatoes (boiled & mashed)",
+        "us_amount_base": 4.0,
+        "us_unit": "medium",
+        "metric_amount_base": 500.0,
+        "metric_unit": "g",
+        "substitute": "Russet potatoes"
+      },
+      {
+        "name": "Yellow Onion (diced)",
+        "us_amount_base": 1.0,
+        "us_unit": "medium",
+        "metric_amount_base": 120.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Sweet Paprika, Black Pepper & Salt",
+        "us_amount_base": 2.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 6.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Milk, Oil and Egg Wash with Sesame",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 240.0,
+        "metric_unit": "ml",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Sauté diced onion in oil, add paprika and mashed potatoes; season with black pepper and cool.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 2,
+        "instruction": "Cut each yufka into 4 triangles. Brush with milk-oil wash, line potato filling along the curved base, and roll into a rope.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 3,
+        "instruction": "Coil the rope in on itself into a neat rose blossom spiral.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 4,
+        "instruction": "Brush with beaten egg yolk, sprinkle with sesame and nigella seeds, and bake at 385°F (195°C) until deep golden crisp.",
+        "timer_seconds": 2100
+      }
+    ]
   }
 ]

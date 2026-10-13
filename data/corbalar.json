@@ -1873,5 +1873,1194 @@
         "timer_seconds": 60
       }
     ]
+  },
+  {
+    "id": "soup_16",
+    "titleEn": "Chilled Yogurt Soup with Wheat and Chickpeas (Ayran Aşı)",
+    "titleTr": "Ayran Aşı Çorbası",
+    "category": "Soups",
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 30,
+    "servings": 6,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/ayran-asi-corbasi.webp?v=20261013_v11",
+    "description": "Iconic, deeply refreshing cold yogurt soup studded with tender boiled wheat berries and chickpeas, perfumed with fresh mint and aromatic mountain pennyroyal.",
+    "ingredients": [
+      {
+        "name": "Hulled Wheat Berries (Aşurelik Buğday)",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 200.0,
+        "metric_unit": "g",
+        "substitute": "Farro, pearl barley or spelt"
+      },
+      {
+        "name": "Cooked Chickpeas (boiled)",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 200.0,
+        "metric_unit": "g",
+        "substitute": "Canned chickpeas, drained and rinsed"
+      },
+      {
+        "name": "Plain Whole-Milk Yogurt (or Süzme)",
+        "us_amount_base": 3.0,
+        "us_unit": "cup",
+        "metric_amount_base": 720.0,
+        "metric_unit": "g",
+        "substitute": "Plain Greek yogurt"
+      },
+      {
+        "name": "Cold Water",
+        "us_amount_base": 2.0,
+        "us_unit": "cup",
+        "metric_amount_base": 480.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Fresh Mint Leaves (finely chopped)",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 25.0,
+        "metric_unit": "g",
+        "substitute": "Fresh dill or cilantro"
+      },
+      {
+        "name": "Dried Mint & Salt",
+        "us_amount_base": 1.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 6.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Extra Virgin Olive Oil (for garnish)",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "ml",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Boil wheat berries in plenty of water until tender and plump, then drain and cool completely.",
+        "timer_seconds": 1800
+      },
+      {
+        "step_number": 2,
+        "instruction": "In a large soup tureen, whisk yogurt, cold water, and salt until smooth and lump-free.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 3,
+        "instruction": "Fold in cooled wheat, cooked chickpeas, and finely chopped fresh mint.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 4,
+        "instruction": "Chill in refrigerator for at least 1 hour, then serve in bowls drizzled with olive oil and dusted with dried mint.",
+        "timer_seconds": 3600
+      }
+    ]
+  },
+  {
+    "id": "soup_17",
+    "titleEn": "Spicy Chicken Stew Soup with Slippery Dough (Arabaşı)",
+    "titleTr": "Arabaşı Çorbası",
+    "category": "Soups",
+    "prepTimeMinutes": 30,
+    "cookTimeMinutes": 45,
+    "servings": 6,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/arabasi-corbasi.webp?v=20261013_v11",
+    "description": "Central Anatolian winter staple: a fiery red soup of shredded chicken, tomato paste, and lemon juice, traditionally enjoyed without chewing by swallowing alongside cool, slippery cut cornstarch dough.",
+    "ingredients": [
+      {
+        "name": "Chicken Thighs or Breast (shredded)",
+        "us_amount_base": 1.0,
+        "us_unit": "lb",
+        "metric_amount_base": 450.0,
+        "metric_unit": "g",
+        "substitute": "Boiled whole chicken meat"
+      },
+      {
+        "name": "Chicken Broth",
+        "us_amount_base": 6.0,
+        "us_unit": "cup",
+        "metric_amount_base": 1400.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Butter & Flour (for roux)",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 45.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Tomato & Hot Pepper Paste",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 35.0,
+        "metric_unit": "g",
+        "substitute": "Tomato paste with cayenne pepper"
+      },
+      {
+        "name": "Fresh Lemon Juice & Red Chili Flakes",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 45.0,
+        "metric_unit": "ml",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Boil chicken in salted water until very tender; shred the meat and reserve the hot broth.",
+        "timer_seconds": 1800
+      },
+      {
+        "step_number": 2,
+        "instruction": "Melt butter in a pot, roast flour until nutty aroma develops, then stir in tomato and pepper paste.",
+        "timer_seconds": 240
+      },
+      {
+        "step_number": 3,
+        "instruction": "Gradually whisk in warm chicken broth to create a smooth velvety base, then add shredded chicken, lemon juice, and hot chili flakes.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 4,
+        "instruction": "Simmer gently until flavors meld into a rich, spicy soup, serving boiling hot.",
+        "timer_seconds": 600
+      }
+    ]
+  },
+  {
+    "id": "soup_18",
+    "titleEn": "Gaziantep Lamb, Fresh Garlic & Yogurt Soup (Şiveydiz)",
+    "titleTr": "Gaziantep Şiveydiz",
+    "category": "Soups",
+    "prepTimeMinutes": 35,
+    "cookTimeMinutes": 60,
+    "servings": 6,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/gaziantep-siveydiz.webp?v=20261013_v11",
+    "description": "Celebrated springtime delicacy of Antep cuisine combining tender cubed lamb, fresh spring garlic shoots, sweet scallions, and chickpeas in a silky warm yogurt liaison topped with sizzling dried mint butter.",
+    "ingredients": [
+      {
+        "name": "Boneless Lamb Cubes (stew cut)",
+        "us_amount_base": 1.0,
+        "us_unit": "lb",
+        "metric_amount_base": 450.0,
+        "metric_unit": "g",
+        "substitute": "Beef shank cubes"
+      },
+      {
+        "name": "Fresh Spring Green Garlic (Taze sarımsak)",
+        "us_amount_base": 1.0,
+        "us_unit": "lb",
+        "metric_amount_base": 450.0,
+        "metric_unit": "g",
+        "substitute": "Young leeks mixed with 6 crushed garlic cloves"
+      },
+      {
+        "name": "Fresh Green Onions (Scallions)",
+        "us_amount_base": 1.0,
+        "us_unit": "bunch",
+        "metric_amount_base": 200.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Boiled Chickpeas",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 200.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Strained Turkish Yogurt (Süzme)",
+        "us_amount_base": 2.5,
+        "us_unit": "cup",
+        "metric_amount_base": 600.0,
+        "metric_unit": "g",
+        "substitute": "Plain whole-milk Greek yogurt"
+      },
+      {
+        "name": "Egg Yolk & Flour (for terbiye)",
+        "us_amount_base": 1.0,
+        "us_unit": "portion",
+        "metric_amount_base": 30.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Butter & Dried Spearmint",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 45.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Boil lamb cubes in water until nearly tender, skimming foam periodically.",
+        "timer_seconds": 2400
+      },
+      {
+        "step_number": 2,
+        "instruction": "Chop spring garlic and scallions into 1.5-inch batons. Add to the simmering lamb with boiled chickpeas.",
+        "timer_seconds": 900
+      },
+      {
+        "step_number": 3,
+        "instruction": "Whisk strained yogurt with egg yolk and flour. Temper carefully with warm broth, then stir into the pot and simmer gently.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 4,
+        "instruction": "Sizzle dried spearmint in melted butter and swirl vigorously into the soup before ladling.",
+        "timer_seconds": 90
+      }
+    ]
+  },
+  {
+    "id": "soup_19",
+    "titleEn": "Muradiye Ottoman Chicken and Rice Noodle Soup",
+    "titleTr": "Muradiye Çorbası",
+    "category": "Soups",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 30,
+    "servings": 5,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/muradiye-corbasi.webp?v=20261013_v11",
+    "description": "Imperial Bursa Ottoman soup featuring tender chicken morsels, sweet carrots, zucchini cubes, and barley noodle pasta simmered in aromatic broth bound with a creamy yogurt-egg liaison.",
+    "ingredients": [
+      {
+        "name": "Boneless Chicken Breast or Thighs (finely diced)",
+        "us_amount_base": 0.6,
+        "us_unit": "lb",
+        "metric_amount_base": 280.0,
+        "metric_unit": "g",
+        "substitute": "Leftover roast chicken"
+      },
+      {
+        "name": "Carrot & Zucchini (cut into micro-dice)",
+        "us_amount_base": 1.0,
+        "us_unit": "each",
+        "metric_amount_base": 200.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Orzo or Star Noodle Pasta (Arpa şehriye)",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 90.0,
+        "metric_unit": "g",
+        "substitute": "Italian orzo or ditalini"
+      },
+      {
+        "name": "Chicken Broth",
+        "us_amount_base": 5.0,
+        "us_unit": "cup",
+        "metric_amount_base": 1200.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Yogurt, Flour & Egg Yolk (Terbiye)",
+        "us_amount_base": 1.0,
+        "us_unit": "portion",
+        "metric_amount_base": 200.0,
+        "metric_unit": "g",
+        "substitute": "Greek yogurt and egg yolk"
+      },
+      {
+        "name": "Butter & Dried Mint",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Sauté diced chicken in butter with carrots and zucchini for 5 minutes until lightly softened.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 2,
+        "instruction": "Pour in hot chicken broth, add orzo pasta, and simmer until pasta and vegetables are tender.",
+        "timer_seconds": 720
+      },
+      {
+        "step_number": 3,
+        "instruction": "Whisk yogurt, egg yolk, and flour in a bowl. Temper with hot broth and pour into the pot while stirring constantly.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 4,
+        "instruction": "Melt butter with dried mint and swirl over the surface of each bowl.",
+        "timer_seconds": 90
+      }
+    ]
+  },
+  {
+    "id": "soup_20",
+    "titleEn": "Meatball, Chickpea and Yogurt Soup (Lebeniye)",
+    "titleTr": "Lebeniye Çorbası",
+    "category": "Soups",
+    "prepTimeMinutes": 30,
+    "cookTimeMinutes": 35,
+    "servings": 6,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/lebeniye-corbasi.webp?v=20261013_v11",
+    "description": "Luxurious Middle Eastern-Anatolian soup brimming with hazelnut-sized crispy fried lamb meatballs, cooked chickpeas, and tender rice in a creamy warm yogurt broth with mint butter.",
+    "ingredients": [
+      {
+        "name": "Ground Lamb or Beef (lean)",
+        "us_amount_base": 0.5,
+        "us_unit": "lb",
+        "metric_amount_base": 220.0,
+        "metric_unit": "g",
+        "substitute": "Ground beef"
+      },
+      {
+        "name": "Boiled Chickpeas",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 200.0,
+        "metric_unit": "g",
+        "substitute": "Canned chickpeas"
+      },
+      {
+        "name": "Baldo or Jasmine Rice",
+        "us_amount_base": 0.25,
+        "us_unit": "cup",
+        "metric_amount_base": 50.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Plain Yogurt",
+        "us_amount_base": 2.5,
+        "us_unit": "cup",
+        "metric_amount_base": 600.0,
+        "metric_unit": "g",
+        "substitute": "Greek yogurt"
+      },
+      {
+        "name": "Flour & Egg Yolk",
+        "us_amount_base": 1.0,
+        "us_unit": "portion",
+        "metric_amount_base": 25.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Butter & Dried Mint",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 45.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Knead meat with salt and pepper; roll into tiny hazelnut-sized balls and sauté in butter until golden brown.",
+        "timer_seconds": 480
+      },
+      {
+        "step_number": 2,
+        "instruction": "Simmer rice in 4 cups water or broth until completely soft, then add cooked chickpeas.",
+        "timer_seconds": 900
+      },
+      {
+        "step_number": 3,
+        "instruction": "Whisk yogurt, egg yolk, and flour until creamy. Temper with hot soup liquid and incorporate gently.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 4,
+        "instruction": "Add the browned micro-meatballs to the soup and finish with foaming mint-infused butter.",
+        "timer_seconds": 120
+      }
+    ]
+  },
+  {
+    "id": "soup_21",
+    "titleEn": "Beard-Catcher Lentil and Noodle Soup (Sakala Çarpan)",
+    "titleTr": "Sakala Çarpan Çorbası",
+    "category": "Soups",
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 35,
+    "servings": 5,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/sakala-carpan-corbasi.webp?v=20261013_v11",
+    "description": "Rustic Anatolian village soup of earthy green lentils and handmade cut egg noodles (erişte) simmered in a rich tomato-butter broth with caramelized onions and dried mint.",
+    "ingredients": [
+      {
+        "name": "Green Lentils (washed)",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 190.0,
+        "metric_unit": "g",
+        "substitute": "Brown lentils"
+      },
+      {
+        "name": "Homemade Turkish Egg Noodles (Erişte)",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "g",
+        "substitute": "Fettuccine broken into 2-inch pieces"
+      },
+      {
+        "name": "Yellow Onion (finely diced)",
+        "us_amount_base": 1.0,
+        "us_unit": "medium",
+        "metric_amount_base": 120.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Tomato & Red Pepper Paste",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 35.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Butter & Dried Mint",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 45.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Boil green lentils in water for 15 minutes until parboiled, then drain black cooking water.",
+        "timer_seconds": 900
+      },
+      {
+        "step_number": 2,
+        "instruction": "Sauté diced onion in butter until translucent; stir in tomato and pepper paste.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 3,
+        "instruction": "Add 5 cups hot water or bone broth, bring to boil, add parboiled lentils and egg noodles.",
+        "timer_seconds": 720
+      },
+      {
+        "step_number": 4,
+        "instruction": "Simmer until noodles are tender. Stir in dried mint and serve hot.",
+        "timer_seconds": 180
+      }
+    ]
+  },
+  {
+    "id": "soup_22",
+    "titleEn": "Yogurt, Chickpea and Wheat Soup (Toyga)",
+    "titleTr": "Toyga Çorbası",
+    "category": "Soups",
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 35,
+    "servings": 6,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/toyga-corbasi.webp?v=20261013_v11",
+    "description": "Ancient Seljuk-era nourishing hot yogurt soup gently thickened with egg and flour, cooked with cracked wheat berries and tender chickpeas, topped with foaming red pepper and mint butter.",
+    "ingredients": [
+      {
+        "name": "Cracked Wheat / Pearled Wheat (Yarma or Aşurelik)",
+        "us_amount_base": 0.75,
+        "us_unit": "cup",
+        "metric_amount_base": 150.0,
+        "metric_unit": "g",
+        "substitute": "Barley or coarse bulgur"
+      },
+      {
+        "name": "Cooked Chickpeas",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 200.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Plain Yogurt",
+        "us_amount_base": 2.5,
+        "us_unit": "cup",
+        "metric_amount_base": 600.0,
+        "metric_unit": "g",
+        "substitute": "Whole-milk Greek yogurt"
+      },
+      {
+        "name": "Flour & Egg Yolk",
+        "us_amount_base": 1.0,
+        "us_unit": "portion",
+        "metric_amount_base": 30.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Butter & Dried Spearmint",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 45.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Boil wheat berries in 4 cups water until soft and cracked.",
+        "timer_seconds": 1500
+      },
+      {
+        "step_number": 2,
+        "instruction": "In a separate bowl, whisk yogurt, flour, and egg yolk until silky smooth.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 3,
+        "instruction": "Temper the yogurt mixture with warm cooking broth, then stir into the pot along with the cooked chickpeas. Cook on low heat stirring constantly.",
+        "timer_seconds": 480
+      },
+      {
+        "step_number": 4,
+        "instruction": "Melt butter with dried mint and red pepper flakes, pouring over the soup before serving.",
+        "timer_seconds": 90
+      }
+    ]
+  },
+  {
+    "id": "soup_23",
+    "titleEn": "Central Anatolian Dried Okra Soup with Lamb",
+    "titleTr": "Kuru Bamya Çorbası",
+    "category": "Soups",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 50,
+    "servings": 6,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/kuru-bamya-corbasi.webp?v=20261013_v11",
+    "description": "Prestigious Konya feast soup prepared with needle-threaded miniature dried flower okras and finely diced lamb in a tangy, lemon-infused tomato broth without any stickiness.",
+    "ingredients": [
+      {
+        "name": "Dried Miniature Flower Okras (Çiçek bamya)",
+        "us_amount_base": 1.5,
+        "us_unit": "oz",
+        "metric_amount_base": 50.0,
+        "metric_unit": "g",
+        "substitute": "Very small dried baby okras"
+      },
+      {
+        "name": "Lamb or Beef (finely minced into tiny beads)",
+        "us_amount_base": 0.5,
+        "us_unit": "lb",
+        "metric_amount_base": 220.0,
+        "metric_unit": "g",
+        "substitute": "Finely diced beef tenderloin"
+      },
+      {
+        "name": "Onion (grated)",
+        "us_amount_base": 1.0,
+        "us_unit": "medium",
+        "metric_amount_base": 100.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Tomato & Sweet Pepper Paste",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 35.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Lemon Juice",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 45.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Butter",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Rub dried okras gently in a clean kitchen towel to remove outer fuzz. Boil in water with 1 tbsp lemon juice for 10 minutes, remove strings, and drain.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 2,
+        "instruction": "Sauté meat in butter until browned; add grated onion and cook until sweet and fragrant.",
+        "timer_seconds": 420
+      },
+      {
+        "step_number": 3,
+        "instruction": "Stir in tomato paste, remaining lemon juice, and 5 cups hot water or broth. Add okras.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 4,
+        "instruction": "Simmer gently until okras are soft and broth is beautifully aromatic and tart.",
+        "timer_seconds": 1500
+      }
+    ]
+  },
+  {
+    "id": "soup_24",
+    "titleEn": "Black Sea Collard Green and Corn Soup (Karalahana)",
+    "titleTr": "Karalahana Çorbası",
+    "category": "Soups",
+    "prepTimeMinutes": 25,
+    "cookTimeMinutes": 45,
+    "servings": 6,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/karalahana-corbasi.webp?v=20261013_v11",
+    "description": "Hearty Black Sea regional soup packed with finely shredded dark collard greens, sweet corn kernels, cranberry beans (barbunya), and stone-ground yellow cornmeal thickened in aromatic broth.",
+    "ingredients": [
+      {
+        "name": "Fresh Collard Greens (Karalahana, shredded)",
+        "us_amount_base": 1.0,
+        "us_unit": "lb",
+        "metric_amount_base": 450.0,
+        "metric_unit": "g",
+        "substitute": "Lacinato kale or Tuscan kale"
+      },
+      {
+        "name": "Boiled Cranberry Beans (Barbunya)",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 180.0,
+        "metric_unit": "g",
+        "substitute": "Pinto beans or red kidney beans"
+      },
+      {
+        "name": "Sweet Corn Kernels (fresh or cracked)",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 150.0,
+        "metric_unit": "g",
+        "substitute": "Frozen sweet corn"
+      },
+      {
+        "name": "Yellow Cornmeal (Mısır unu)",
+        "us_amount_base": 0.33,
+        "us_unit": "cup",
+        "metric_amount_base": 45.0,
+        "metric_unit": "g",
+        "substitute": "Coarse yellow corn flour"
+      },
+      {
+        "name": "Butter & Crushed Hot Chili",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 45.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Blanch shredded collard greens in boiling salted water for 5 minutes, then drain to remove bitter edge.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 2,
+        "instruction": "In a soup pot, sauté onions in butter, add blanched greens, beans, corn, and 6 cups hot bone broth.",
+        "timer_seconds": 1200
+      },
+      {
+        "step_number": 3,
+        "instruction": "Dissolve cornmeal in 1/2 cup warm water; slowly stir into the simmering soup to thicken.",
+        "timer_seconds": 480
+      },
+      {
+        "step_number": 4,
+        "instruction": "Season with chili flakes and simmer until deeply comforting and hearty.",
+        "timer_seconds": 300
+      }
+    ]
+  },
+  {
+    "id": "soup_25",
+    "titleEn": "Velvety Sweet Corn and Cream Soup",
+    "titleTr": "Sütlü Mısır Çorbası",
+    "category": "Soups",
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 25,
+    "servings": 4,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/sutlu-misir-corbasi.webp?v=20261013_v11",
+    "description": "Smooth and luxurious golden sweet corn soup gently cooked in whole milk and butter roux, lightly puréed and garnished with roasted paprika butter and sweet whole corn kernels.",
+    "ingredients": [
+      {
+        "name": "Sweet Corn Kernels",
+        "us_amount_base": 2.5,
+        "us_unit": "cup",
+        "metric_amount_base": 400.0,
+        "metric_unit": "g",
+        "substitute": "Fresh shucked corn or sweet canned corn"
+      },
+      {
+        "name": "Whole Milk",
+        "us_amount_base": 2.0,
+        "us_unit": "cup",
+        "metric_amount_base": 480.0,
+        "metric_unit": "ml",
+        "substitute": "Evaporated milk or whole oat milk"
+      },
+      {
+        "name": "Vegetable or Chicken Broth",
+        "us_amount_base": 2.0,
+        "us_unit": "cup",
+        "metric_amount_base": 480.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Butter & Flour",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Sweet Paprika & Nutmeg",
+        "us_amount_base": 0.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 2.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Melt butter in a pot, roast flour for 2 minutes, then slowly whisk in milk and broth until smooth.",
+        "timer_seconds": 240
+      },
+      {
+        "step_number": 2,
+        "instruction": "Add corn kernels and a pinch of nutmeg; simmer until tender.",
+        "timer_seconds": 720
+      },
+      {
+        "step_number": 3,
+        "instruction": "Purée half the soup with an immersion blender for a creamy texture with remaining whole sweet kernels.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 4,
+        "instruction": "Ladle into bowls and garnish with a swirl of warm paprika butter.",
+        "timer_seconds": 0
+      }
+    ]
+  },
+  {
+    "id": "soup_26",
+    "titleEn": "Thracian Hand-Crumbled Dough Soup (Ovmaç)",
+    "titleTr": "Ovmaç Çorbası",
+    "category": "Soups",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 25,
+    "servings": 5,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/ovmac-corbasi.webp?v=20261013_v11",
+    "description": "Comforting Thracian winter classic featuring flour rubbed with water into tiny rustic pea-sized crumbles, cooked in a golden tomato paste broth with butter and spearmint.",
+    "ingredients": [
+      {
+        "name": "All-Purpose Flour",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Water (for crumbling)",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 45.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Onion (diced)",
+        "us_amount_base": 1.0,
+        "us_unit": "medium",
+        "metric_amount_base": 100.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Tomato Paste & Butter",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 35.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Dried Mint & Salt",
+        "us_amount_base": 1.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 5.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "In a bowl, sprinkle water onto flour and rub between palms until tiny, uneven crumbles form. Sift away loose flour.",
+        "timer_seconds": 420
+      },
+      {
+        "step_number": 2,
+        "instruction": "Sauté diced onion in butter, stir in tomato paste, and add 5 cups hot water or broth.",
+        "timer_seconds": 360
+      },
+      {
+        "step_number": 3,
+        "instruction": "Slowly rain the dough crumbles into the boiling soup while whisking so they cook separately.",
+        "timer_seconds": 480
+      },
+      {
+        "step_number": 4,
+        "instruction": "Simmer until dough bits are tender and float; top with dried mint.",
+        "timer_seconds": 180
+      }
+    ]
+  },
+  {
+    "id": "soup_27",
+    "titleEn": "Southeastern Multi-Grain Lentil Soup (Alaca)",
+    "titleTr": "Alaca Çorbası",
+    "category": "Soups",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 45,
+    "servings": 6,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/alaca-corbasi.webp?v=20261013_v11",
+    "description": "Traditional Gaziantep multi-grain soup bursting with brown bulgur, green lentils, and chickpeas seasoned with mountain tarragon (tarhun) and sizzling red pepper olive oil.",
+    "ingredients": [
+      {
+        "name": "Coarse Bulgur (Pilavlık)",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 90.0,
+        "metric_unit": "g",
+        "substitute": "#3 coarse bulgur"
+      },
+      {
+        "name": "Green Lentils",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 95.0,
+        "metric_unit": "g",
+        "substitute": "Brown lentils"
+      },
+      {
+        "name": "Cooked Chickpeas",
+        "us_amount_base": 0.75,
+        "us_unit": "cup",
+        "metric_amount_base": 150.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Dried Tarragon (Tarhun)",
+        "us_amount_base": 1.5,
+        "us_unit": "tbsp",
+        "metric_amount_base": 5.0,
+        "metric_unit": "g",
+        "substitute": "French dried tarragon"
+      },
+      {
+        "name": "Olive Oil, Onion & Red Pepper Paste",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 50.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Simmer lentils and bulgur together in 6 cups water until tender.",
+        "timer_seconds": 1500
+      },
+      {
+        "step_number": 2,
+        "instruction": "Add cooked chickpeas and simmer on low.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 3,
+        "instruction": "In a pan, sauté finely diced onion in olive oil with pepper paste until caramelized.",
+        "timer_seconds": 360
+      },
+      {
+        "step_number": 4,
+        "instruction": "Add dried tarragon to the hot oil for 10 seconds, then pour sizzling sauce over the soup.",
+        "timer_seconds": 60
+      }
+    ]
+  },
+  {
+    "id": "soup_28",
+    "titleEn": "Egg-Lemon Liaison Celeriac Root Soup",
+    "titleTr": "Terbiyeli Kereviz Çorbası",
+    "category": "Soups",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 30,
+    "servings": 5,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/terbiyeli-kereviz-corbasi.webp?v=20261013_v11",
+    "description": "Silky, aromatic root vegetable soup of diced celeriac, sweet carrots, and potatoes simmered in clear broth, enriched with an imperial Ottoman lemon and egg yolk liaison.",
+    "ingredients": [
+      {
+        "name": "Celeriac Root (peeled & diced)",
+        "us_amount_base": 1.0,
+        "us_unit": "large",
+        "metric_amount_base": 400.0,
+        "metric_unit": "g",
+        "substitute": "Celery root"
+      },
+      {
+        "name": "Carrot & Potato (cubed)",
+        "us_amount_base": 1.0,
+        "us_unit": "each",
+        "metric_amount_base": 200.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Vegetable or Chicken Broth",
+        "us_amount_base": 5.0,
+        "us_unit": "cup",
+        "metric_amount_base": 1200.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Egg Yolk & Fresh Lemon Juice",
+        "us_amount_base": 1.0,
+        "us_unit": "portion",
+        "metric_amount_base": 45.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Celery Leaves (finely chopped)",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 10.0,
+        "metric_unit": "g",
+        "substitute": "Fresh parsley"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Sauté diced celeriac, carrot, and potato in olive oil for 4 minutes.",
+        "timer_seconds": 240
+      },
+      {
+        "step_number": 2,
+        "instruction": "Add broth and simmer until all vegetables are soft.",
+        "timer_seconds": 1200
+      },
+      {
+        "step_number": 3,
+        "instruction": "Whisk egg yolk, lemon juice, and 1 tbsp flour; temper with warm broth and stir into the soup.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 4,
+        "instruction": "Garnish with freshly chopped tender celery leaves and cracked black pepper.",
+        "timer_seconds": 0
+      }
+    ]
+  },
+  {
+    "id": "soup_29",
+    "titleEn": "Velvety Red Lentil and Milk Soup (Çeşm-i Nigar)",
+    "titleTr": "Çeşm-i Nigar Çorbası",
+    "category": "Soups",
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 30,
+    "servings": 6,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/cesm-i-nigar-corbasi.webp?v=20261013_v11",
+    "description": "Ottoman palace recipe known as the 'Eye of the Beloved': pureed red lentils finished with a liaison of milk, egg yolk, and lemon juice, adorned with bubbling chili-mint butter.",
+    "ingredients": [
+      {
+        "name": "Red Lentils (rinsed)",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 200.0,
+        "metric_unit": "g",
+        "substitute": "Split red lentils"
+      },
+      {
+        "name": "Yellow Onion (diced)",
+        "us_amount_base": 1.0,
+        "us_unit": "medium",
+        "metric_amount_base": 120.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Whole Milk",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 240.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Egg Yolk & Lemon Juice",
+        "us_amount_base": 1.0,
+        "us_unit": "portion",
+        "metric_amount_base": 30.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Butter & Dried Mint",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 45.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Cook lentils and onions in 5 cups water until lentils break down completely.",
+        "timer_seconds": 1200
+      },
+      {
+        "step_number": 2,
+        "instruction": "Blend soup smooth with an immersion blender.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 3,
+        "instruction": "Whisk milk, egg yolk, and lemon juice; temper with hot lentil soup and stir back into the pot.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 4,
+        "instruction": "Drizzle with foaming butter infused with red pepper and dried mint.",
+        "timer_seconds": 60
+      }
+    ]
+  },
+  {
+    "id": "soup_30",
+    "titleEn": "Tangy Micro-Meatball Soup with Vegetables (Ekşili Köfte)",
+    "titleTr": "Ekşili Köfte Çorbası",
+    "category": "Soups",
+    "prepTimeMinutes": 35,
+    "cookTimeMinutes": 35,
+    "servings": 6,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/eksili-kofte-corbasi.webp?v=20261013_v11",
+    "description": "Tender miniature bulgur-beef meatballs, diced potatoes, and sweet carrots simmered together and enveloped in a velvety egg-lemon liaison with chopped fresh dill.",
+    "ingredients": [
+      {
+        "name": "Lean Ground Beef (85/15)",
+        "us_amount_base": 0.6,
+        "us_unit": "lb",
+        "metric_amount_base": 280.0,
+        "metric_unit": "g",
+        "substitute": "Ground chuck"
+      },
+      {
+        "name": "Fine Bulgur or Rice",
+        "us_amount_base": 0.33,
+        "us_unit": "cup",
+        "metric_amount_base": 60.0,
+        "metric_unit": "g",
+        "substitute": "#1 fine bulgur"
+      },
+      {
+        "name": "Potatoes & Carrots (small dice)",
+        "us_amount_base": 1.0,
+        "us_unit": "each",
+        "metric_amount_base": 220.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Flour (for dusting meatballs)",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 60.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Egg Yolk & Lemon Juice (Terbiye)",
+        "us_amount_base": 1.0,
+        "us_unit": "portion",
+        "metric_amount_base": 50.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Fresh Dill (finely chopped)",
+        "us_amount_base": 0.25,
+        "us_unit": "cup",
+        "metric_amount_base": 15.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Knead beef, fine bulgur, grated onion, salt, and pepper. Roll into marble-sized balls and toss in a floured tray.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 2,
+        "instruction": "Bring 5 cups water or broth to a boil; add diced carrots and potatoes.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 3,
+        "instruction": "Drop floured meatballs into the simmering soup; cook until vegetables and meatballs are tender.",
+        "timer_seconds": 720
+      },
+      {
+        "step_number": 4,
+        "instruction": "Whisk egg yolk with lemon juice, temper with soup broth, stir in, and scatter fresh dill over the surface.",
+        "timer_seconds": 120
+      }
+    ]
   }
 ]

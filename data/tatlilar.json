@@ -1422,5 +1422,1162 @@
         "timer_seconds": 0
       }
     ]
+  },
+  {
+    "id": "dessert_16",
+    "titleEn": "Balkan Caramel Three-Milk Sponge Cake (Trileçe)",
+    "titleTr": "Karamelli Trileçe",
+    "category": "Desserts",
+    "prepTimeMinutes": 35,
+    "cookTimeMinutes": 30,
+    "servings": 8,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/karamelli-trilece.webp?v=20261013_v11",
+    "description": "Feather-light airy sponge cake soaked in a chilled trinity of condensed milk, whole milk, and heavy cream, crowned with a glossy amber ribbon of homemade caramelized sugar.",
+    "ingredients": [
+      {
+        "name": "Large Eggs (room temperature, separated)",
+        "us_amount_base": 5.0,
+        "us_unit": "pieces",
+        "metric_amount_base": 5.0,
+        "metric_unit": "adet",
+        "substitute": null
+      },
+      {
+        "name": "Granulated Sugar",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 200.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "All-Purpose Cake Flour",
+        "us_amount_base": 1.5,
+        "us_unit": "cup",
+        "metric_amount_base": 180.0,
+        "metric_unit": "g",
+        "substitute": "Pastry flour"
+      },
+      {
+        "name": "Baking Powder & Vanilla Extract",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 10.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Whole Milk & Heavy Cream Blend (for soaking)",
+        "us_amount_base": 4.0,
+        "us_unit": "cup",
+        "metric_amount_base": 950.0,
+        "metric_unit": "ml",
+        "substitute": "3 cups whole milk and 1 cup heavy whipping cream with 2 tbsp sugar"
+      },
+      {
+        "name": "Amber Caramel Sauce",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 250.0,
+        "metric_unit": "g",
+        "substitute": "Dulce de leche or homemade cooked caramel"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Beat egg whites with half the sugar until stiff peaks form. Beat yolks with remaining sugar until pale; fold gently with flour and baking powder.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 2,
+        "instruction": "Bake sponge in a greased glass baking dish at 340°F (170°C) until golden and a toothpick comes out clean.",
+        "timer_seconds": 1800
+      },
+      {
+        "step_number": 3,
+        "instruction": "Poke holes across warm cake with a skewer. Whisk cold milk, cream, and sugar; pour evenly over the cake until fully absorbed. Chill.",
+        "timer_seconds": 3600
+      },
+      {
+        "step_number": 4,
+        "instruction": "Pour smooth caramel sauce over the chilled cake, score traditional chevron lines with cream, and slice into generous squares.",
+        "timer_seconds": 0
+      }
+    ]
+  },
+  {
+    "id": "dessert_17",
+    "titleEn": "Traditional Ramadan Milk and Pomegranate Dessert (Güllaç)",
+    "titleTr": "Geleneksel Güllaç",
+    "category": "Desserts",
+    "prepTimeMinutes": 25,
+    "cookTimeMinutes": 10,
+    "servings": 8,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/geleneksel-gullac.webp?v=20261013_v11",
+    "description": "Ottoman Ramadan masterwork crafted with crisp cornstarch wafers softened in sweetened warm rosewater milk, layered with toasted walnuts and adorned with ruby pomegranate arils and emerald pistachios.",
+    "ingredients": [
+      {
+        "name": "Dry Güllaç Sheets (Cornstarch wafers)",
+        "us_amount_base": 10.0,
+        "us_unit": "sheets",
+        "metric_amount_base": 300.0,
+        "metric_unit": "g",
+        "substitute": "Rice paper sheets (thin) or delicate wafer sheets"
+      },
+      {
+        "name": "Whole Milk",
+        "us_amount_base": 7.0,
+        "us_unit": "cup",
+        "metric_amount_base": 1700.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Granulated Sugar",
+        "us_amount_base": 1.75,
+        "us_unit": "cup",
+        "metric_amount_base": 350.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Culinary Rosewater",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "ml",
+        "substitute": "Orange blossom water"
+      },
+      {
+        "name": "Chopped Walnuts",
+        "us_amount_base": 1.5,
+        "us_unit": "cup",
+        "metric_amount_base": 180.0,
+        "metric_unit": "g",
+        "substitute": "Blanched slivered almonds"
+      },
+      {
+        "name": "Fresh Pomegranate Seeds & Ground Pistachios",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 80.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Heat milk and sugar in a pot until warm to the touch (110°F / 45°C, not boiling). Stir in rosewater.",
+        "timer_seconds": 360
+      },
+      {
+        "step_number": 2,
+        "instruction": "Lay half the güllaç sheets shiny-side up in a large deep tray, ladling warm milk over each sheet until soaked and pliable.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 3,
+        "instruction": "Scatter chopped walnuts evenly across the center layer. Cover with remaining sheets, ladling milk over each.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 4,
+        "instruction": "Chill in the refrigerator for at least 3 hours. Garnish each square with pomegranate seeds and pistachios before serving.",
+        "timer_seconds": 10800
+      }
+    ]
+  },
+  {
+    "id": "dessert_18",
+    "titleEn": "Ridged Semolina Cookies with Walnuts in Syrup (Kalburabastı)",
+    "titleTr": "Kalburabastı",
+    "category": "Desserts",
+    "prepTimeMinutes": 35,
+    "cookTimeMinutes": 30,
+    "servings": 8,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/kalburabasti.webp?v=20261013_v11",
+    "description": "Rustic Anatolian festive dessert pressed over a sieve grater to create its signature honeycomb ridges, stuffed with toasted walnuts and soaked in fragrant lemon syrup until meltingly tender.",
+    "ingredients": [
+      {
+        "name": "Unsalted Butter (softened)",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 125.0,
+        "metric_unit": "g",
+        "substitute": "Ghee"
+      },
+      {
+        "name": "Fine Semolina (İrmik)",
+        "us_amount_base": 0.75,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "g",
+        "substitute": "Durum semolina"
+      },
+      {
+        "name": "All-Purpose Flour & Olive Oil",
+        "us_amount_base": 2.5,
+        "us_unit": "cup",
+        "metric_amount_base": 300.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Yogurt, Egg & Baking Soda",
+        "us_amount_base": 1.0,
+        "us_unit": "portion",
+        "metric_amount_base": 100.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Coarsely Chopped Walnuts (for filling)",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Lemon Scented Sugar Syrup (cooled)",
+        "us_amount_base": 3.0,
+        "us_unit": "cup",
+        "metric_amount_base": 700.0,
+        "metric_unit": "ml",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Boil 3 cups sugar and 3 cups water with lemon juice for 15 minutes to create syrup; cool completely.",
+        "timer_seconds": 900
+      },
+      {
+        "step_number": 2,
+        "instruction": "Knead butter, olive oil, yogurt, egg, semolina, flour, and baking soda into a soft pliable dough.",
+        "timer_seconds": 420
+      },
+      {
+        "step_number": 3,
+        "instruction": "Flatten walnut-sized balls of dough onto a textured sieve or grater. Place walnuts in center, seal edges, and peel off to preserve textured pattern.",
+        "timer_seconds": 360
+      },
+      {
+        "step_number": 4,
+        "instruction": "Bake seam-side down at 375°F (190°C) until deep golden. Pour cold syrup over hot cookies immediately.",
+        "timer_seconds": 1800
+      }
+    ]
+  },
+  {
+    "id": "dessert_19",
+    "titleEn": "Crispy Golden Fluted Fritters in Syrup (Tulumba)",
+    "titleTr": "Çıtır Tulumba Tatlısı",
+    "category": "Desserts",
+    "prepTimeMinutes": 30,
+    "cookTimeMinutes": 25,
+    "servings": 6,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/citir-tulumba-tatlisi.webp?v=20261013_v11",
+    "description": "Beloved Turkish street dessert of choux-like piped fluted dough fried in oil until audibly crackling and instantly dunked into ice-cold fragrant lemon sugar syrup.",
+    "ingredients": [
+      {
+        "name": "All-Purpose Flour",
+        "us_amount_base": 2.0,
+        "us_unit": "cup",
+        "metric_amount_base": 240.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Butter & Water",
+        "us_amount_base": 2.0,
+        "us_unit": "cup",
+        "metric_amount_base": 480.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Eggs",
+        "us_amount_base": 3.0,
+        "us_unit": "large",
+        "metric_amount_base": 3.0,
+        "metric_unit": "adet",
+        "substitute": null
+      },
+      {
+        "name": "Semolina & Cornstarch",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Cold Thick Lemon Sugar Syrup",
+        "us_amount_base": 3.0,
+        "us_unit": "cup",
+        "metric_amount_base": 700.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Sunflower Oil for Frying",
+        "us_amount_base": 4.0,
+        "us_unit": "cup",
+        "metric_amount_base": 950.0,
+        "metric_unit": "ml",
+        "substitute": "Peanut oil"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Boil water with butter; stir in flour all at once and cook vigorously until a smooth ball pulls away from the sides. Cool.",
+        "timer_seconds": 360
+      },
+      {
+        "step_number": 2,
+        "instruction": "Beat in eggs one by one along with semolina and cornstarch until shiny and smooth.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 3,
+        "instruction": "Pipe 2-inch fluted cylinders with a star nozzle into cool/lukewarm oil using oiled kitchen scissors.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 4,
+        "instruction": "Fry over medium heat, stirring gently until crisp and chestnut brown, then plunge directly into ice-cold syrup.",
+        "timer_seconds": 600
+      }
+    ]
+  },
+  {
+    "id": "dessert_20",
+    "titleEn": "Clotted Cream and Pistachio Filo Triangles (Şöbiyet)",
+    "titleTr": "Fıstıklı Şöbiyet",
+    "category": "Desserts",
+    "prepTimeMinutes": 45,
+    "cookTimeMinutes": 35,
+    "servings": 8,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/fistikli-sobiyet.webp?v=20261013_v11",
+    "description": "Crown jewel of Turkish baklava houses: delicate diamond-folded parcels of 30 gossamer filo sheets stuffed with semolina clotted cream and ground Antep pistachios, baked in clarified butter.",
+    "ingredients": [
+      {
+        "name": "Baklava Filo Sheets",
+        "us_amount_base": 24.0,
+        "us_unit": "sheets",
+        "metric_amount_base": 400.0,
+        "metric_unit": "g",
+        "substitute": "Commercial #4 filo dough"
+      },
+      {
+        "name": "Clarified Butter (Sade Yağ)",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 220.0,
+        "metric_unit": "g",
+        "substitute": "Ghee"
+      },
+      {
+        "name": "Milk and Semolina Pudding (Kaymak filling)",
+        "us_amount_base": 1.5,
+        "us_unit": "cup",
+        "metric_amount_base": 350.0,
+        "metric_unit": "g",
+        "substitute": "Cooked semolina-milk cream"
+      },
+      {
+        "name": "Finely Ground Antep Pistachios",
+        "us_amount_base": 1.5,
+        "us_unit": "cup",
+        "metric_amount_base": 180.0,
+        "metric_unit": "g",
+        "substitute": "Emerald green raw pistachios"
+      },
+      {
+        "name": "Hot Sugar Syrup",
+        "us_amount_base": 3.0,
+        "us_unit": "cup",
+        "metric_amount_base": 700.0,
+        "metric_unit": "ml",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Cook 2 cups milk with 4 tbsp semolina until thick; cool completely into firm pudding kaymak.",
+        "timer_seconds": 480
+      },
+      {
+        "step_number": 2,
+        "instruction": "Layer filo sheets, brushing lightly with clarified butter. Cut the stack into 3-inch squares.",
+        "timer_seconds": 360
+      },
+      {
+        "step_number": 3,
+        "instruction": "Place a dollop of semolina cream and a spoonful of ground pistachios in the center; fold into triangles.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 4,
+        "instruction": "Arrange overlapping in a buttered pan, pour remaining hot clarified butter over, and bake at 380°F (190°C) until puffed and golden. Douse in warm syrup.",
+        "timer_seconds": 2100
+      }
+    ]
+  },
+  {
+    "id": "dessert_21",
+    "titleEn": "Pure Pistachio Marzipan Roll (Fıstık Sarma)",
+    "titleTr": "Fıstık Sarma (Dürüm)",
+    "category": "Desserts",
+    "prepTimeMinutes": 35,
+    "cookTimeMinutes": 15,
+    "servings": 8,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/fistik-sarma-durum.webp?v=20261013_v11",
+    "description": "Vibrant emerald green Gaziantep delicacy crafted from a single paper-thin sheet of filo rolled tightly around an unadulterated center of pure ground Antep pistachios and light syrup.",
+    "ingredients": [
+      {
+        "name": "Paper-Thin Baklava Filo (single layer)",
+        "us_amount_base": 8.0,
+        "us_unit": "sheets",
+        "metric_amount_base": 150.0,
+        "metric_unit": "g",
+        "substitute": "Fresh ultra-thin filo sheets"
+      },
+      {
+        "name": "Antep Emerald Green Pistachio Powder",
+        "us_amount_base": 3.5,
+        "us_unit": "cup",
+        "metric_amount_base": 420.0,
+        "metric_unit": "g",
+        "substitute": "First-harvest early crop Turkish green pistachios"
+      },
+      {
+        "name": "Clarified Butter (Sade Yağ)",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 110.0,
+        "metric_unit": "g",
+        "substitute": "Ghee"
+      },
+      {
+        "name": "Light Lemon Sugar Syrup",
+        "us_amount_base": 2.0,
+        "us_unit": "cup",
+        "metric_amount_base": 480.0,
+        "metric_unit": "ml",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Lay one sheet of fresh baklava filo on marble. Sprinkle a thick, solid carpet of bright green pistachio powder edge-to-edge.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 2,
+        "instruction": "Roll using a thin rolling pin (oklava) into a slender tight cigar rope.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 3,
+        "instruction": "Gently push from both ends to crinkle slightly, slide onto a baking tray, and slice into 2-inch segments.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 4,
+        "instruction": "Brush with clarified butter and bake gently at 320°F (160°C) so it stays vivid green without browning. Soak in light syrup.",
+        "timer_seconds": 900
+      }
+    ]
+  },
+  {
+    "id": "dessert_22",
+    "titleEn": "Real Ottoman Shredded Chicken Breast Pudding (Tavukgöğsü)",
+    "titleTr": "Gerçek Tavukgöğsü",
+    "category": "Desserts",
+    "prepTimeMinutes": 45,
+    "cookTimeMinutes": 40,
+    "servings": 6,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/gercek-tavukgogsu.webp?v=20261013_v11",
+    "description": "Ancient Ottoman court pudding prepared with real chicken breast boiled, pounded, and teased into micro-filaments, cooked with whole milk and rice flour into a silky, stringy elastic dessert dusted with cinnamon.",
+    "ingredients": [
+      {
+        "name": "Skinless Boneless Chicken Breast",
+        "us_amount_base": 0.5,
+        "us_unit": "lb",
+        "metric_amount_base": 220.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Whole Milk",
+        "us_amount_base": 4.5,
+        "us_unit": "cup",
+        "metric_amount_base": 1100.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Granulated Sugar",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 200.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Fine Rice Flour (Pirinç unu)",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 65.0,
+        "metric_unit": "g",
+        "substitute": "Sweet white rice flour"
+      },
+      {
+        "name": "Cornstarch & Ground Ceylon Cinnamon",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 25.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Boil chicken breast until tender. Soak in cold water, changing water frequently to remove any chicken scent, then shred by hand into hair-thin threads.",
+        "timer_seconds": 1800
+      },
+      {
+        "step_number": 2,
+        "instruction": "Pound shredded chicken threads in a mortar with a splash of milk until fibers separate completely.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 3,
+        "instruction": "Simmer milk, sugar, rice flour, and starch until thickened. Add chicken fibers and beat continuously with a wooden spoon until stringy and chewy.",
+        "timer_seconds": 1200
+      },
+      {
+        "step_number": 4,
+        "instruction": "Pour into a shallow dish, chill overnight, roll into cylinders, and dust generously with ground cinnamon.",
+        "timer_seconds": 28800
+      }
+    ]
+  },
+  {
+    "id": "dessert_23",
+    "titleEn": "Fermented Dried Fig and Warm Milk Pudding (İncir Uyutması)",
+    "titleTr": "İncir Uyutması",
+    "category": "Desserts",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 10,
+    "servings": 5,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/incir-uyutmasi.webp?v=20261013_v11",
+    "description": "Magic Aegean natural dessert made without added sugar or gelatin: dried Aegean figs steeped in warm milk and pureed, wrapped in blankets to 'sleep' (ferment naturally) until setting like silk.",
+    "ingredients": [
+      {
+        "name": "Dried Aegean Figs (İzmir inciri)",
+        "us_amount_base": 12.0,
+        "us_unit": "pieces",
+        "metric_amount_base": 250.0,
+        "metric_unit": "g",
+        "substitute": "Turkish dried calimyrna figs"
+      },
+      {
+        "name": "Whole Milk (warm, not boiling - yogurt temperature)",
+        "us_amount_base": 4.0,
+        "us_unit": "cup",
+        "metric_amount_base": 950.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Coarsely Chopped Walnuts (for topping)",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 60.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Ground Ceylon Cinnamon",
+        "us_amount_base": 0.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 2.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Soak dried figs in warm water for 15 minutes, remove stems, and chop finely.",
+        "timer_seconds": 900
+      },
+      {
+        "step_number": 2,
+        "instruction": "Heat milk to 115°F (46°C, just warm enough to hold a finger). Add chopped figs and purée with an immersion blender until smooth.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 3,
+        "instruction": "Pour into individual serving bowls. Cover with a tray and wrap tightly in thick blankets/towels to 'sleep' undisturbed.",
+        "timer_seconds": 10800
+      },
+      {
+        "step_number": 4,
+        "instruction": "Uncover once set like pudding; chill in the fridge and garnish with toasted walnuts.",
+        "timer_seconds": 7200
+      }
+    ]
+  },
+  {
+    "id": "dessert_24",
+    "titleEn": "Lips of the Beauty Folded Pastry in Syrup (Dilber Dudağı)",
+    "titleTr": "Dilber Dudağı",
+    "category": "Desserts",
+    "prepTimeMinutes": 45,
+    "cookTimeMinutes": 30,
+    "servings": 8,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/dilber-dudagi.webp?v=20261013_v11",
+    "description": "Ottoman layered pastry rolled with cornstarch into dozens of flaky layers, cut into round discs, folded like lip petals over a toasted walnut center, and drenched in sweet lemon syrup.",
+    "ingredients": [
+      {
+        "name": "All-Purpose Flour",
+        "us_amount_base": 3.0,
+        "us_unit": "cup",
+        "metric_amount_base": 380.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Cornstarch (for rolling dozens of layers)",
+        "us_amount_base": 1.5,
+        "us_unit": "cup",
+        "metric_amount_base": 180.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Melted Butter & Oil",
+        "us_amount_base": 0.75,
+        "us_unit": "cup",
+        "metric_amount_base": 180.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Yogurt, Egg & Lemon Juice",
+        "us_amount_base": 1.0,
+        "us_unit": "portion",
+        "metric_amount_base": 100.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Walnut Halves",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Cold Lemon Sugar Syrup",
+        "us_amount_base": 3.0,
+        "us_unit": "cup",
+        "metric_amount_base": 700.0,
+        "metric_unit": "ml",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Knead dough, divide into 10 balls. Roll each ball thin with cornstarch, stack, and roll the stack together into one large sheet.",
+        "timer_seconds": 1200
+      },
+      {
+        "step_number": 2,
+        "instruction": "Cut circles with a glass rim. Place walnut pieces in center and fold gently like a half-moon lip without pressing edges.",
+        "timer_seconds": 360
+      },
+      {
+        "step_number": 3,
+        "instruction": "Arrange on a baking sheet, pour hot melted butter over, and bake at 375°F (190°C) until leaves open and turn golden.",
+        "timer_seconds": 1800
+      },
+      {
+        "step_number": 4,
+        "instruction": "Pour cold syrup over hot pastries immediately.",
+        "timer_seconds": 0
+      }
+    ]
+  },
+  {
+    "id": "dessert_25",
+    "titleEn": "Izmir Street-Style Semolina Cake with Peanuts (Şambali)",
+    "titleTr": "İzmir Şambali Tatlısı",
+    "category": "Desserts",
+    "prepTimeMinutes": 25,
+    "cookTimeMinutes": 40,
+    "servings": 8,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/izmir-sambali-tatlisi.webp?v=20261013_v11",
+    "description": "Dense, chewy, flourless semolina street cake from Izmir made with yogurt, molasses, and baking soda, decorated with blanched peanut rows, baked until dark caramelized brown, and soaked in thick syrup.",
+    "ingredients": [
+      {
+        "name": "Coarse Durum Semolina (İri İrmik)",
+        "us_amount_base": 3.0,
+        "us_unit": "cup",
+        "metric_amount_base": 500.0,
+        "metric_unit": "g",
+        "substitute": "Coarse semolina"
+      },
+      {
+        "name": "Granulated Sugar",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 200.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Plain Yogurt",
+        "us_amount_base": 1.5,
+        "us_unit": "cup",
+        "metric_amount_base": 360.0,
+        "metric_unit": "g",
+        "substitute": "Greek yogurt"
+      },
+      {
+        "name": "Baking Soda (Karbonat) & Grape Molasses",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Blanched Raw Peanuts (halved)",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "g",
+        "substitute": "Blanched raw almonds"
+      },
+      {
+        "name": "Thick Hot Sugar Syrup",
+        "us_amount_base": 3.5,
+        "us_unit": "cup",
+        "metric_amount_base": 850.0,
+        "metric_unit": "ml",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Mix coarse semolina, sugar, yogurt, and baking soda into a thick batter; rest for 2 hours so semolina plumps.",
+        "timer_seconds": 7200
+      },
+      {
+        "step_number": 2,
+        "instruction": "Brush a metal baking tray with grape molasses and water. Press batter evenly 1-inch thick; score rectangular bars.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 3,
+        "instruction": "Press a halved peanut into each bar. Bake at 360°F (180°C) until deeply caramelized and brown.",
+        "timer_seconds": 2400
+      },
+      {
+        "step_number": 4,
+        "instruction": "Pour boiling syrup over warm cake; rest overnight for maximum chewy texture.",
+        "timer_seconds": 43200
+      }
+    ]
+  },
+  {
+    "id": "dessert_26",
+    "titleEn": "Lady's Navel Fried Choux Pastry in Syrup (Hanım Göbeği)",
+    "titleTr": "Hanım Göbeği",
+    "category": "Desserts",
+    "prepTimeMinutes": 30,
+    "cookTimeMinutes": 25,
+    "servings": 6,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/hanim-gobegi.webp?v=20261013_v11",
+    "description": "Ottoman palace dessert of golden choux pastry rings indented in the center to resemble a navel, gently fried in warm oil until puffed and crisp, soaked in fragrant lemon syrup.",
+    "ingredients": [
+      {
+        "name": "Flour",
+        "us_amount_base": 2.0,
+        "us_unit": "cup",
+        "metric_amount_base": 240.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Butter & Water",
+        "us_amount_base": 2.0,
+        "us_unit": "cup",
+        "metric_amount_base": 480.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Eggs",
+        "us_amount_base": 3.0,
+        "us_unit": "pieces",
+        "metric_amount_base": 3.0,
+        "metric_unit": "adet",
+        "substitute": null
+      },
+      {
+        "name": "Lemon Sugar Syrup (cooled)",
+        "us_amount_base": 3.0,
+        "us_unit": "cup",
+        "metric_amount_base": 700.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Ground Pistachios (for garnish)",
+        "us_amount_base": 0.25,
+        "us_unit": "cup",
+        "metric_amount_base": 30.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Cook water and butter with flour until a ball forms; cool, then incorporate eggs one by one.",
+        "timer_seconds": 420
+      },
+      {
+        "step_number": 2,
+        "instruction": "Roll walnut-sized balls with oiled hands, flatten slightly, and press a deep dent into the center with an oiled thumb.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 3,
+        "instruction": "Drop into cool oil, slowly raise heat, and fry until puffed double in size and golden brown.",
+        "timer_seconds": 720
+      },
+      {
+        "step_number": 4,
+        "instruction": "Drop directly into cold syrup; soak for 15 minutes and garnish with pistachios.",
+        "timer_seconds": 900
+      }
+    ]
+  },
+  {
+    "id": "dessert_27",
+    "titleEn": "Nightingale's Nest Rolled Pistachio Filo (Bülbül Yuvası)",
+    "titleTr": "Bülbül Yuvası",
+    "category": "Desserts",
+    "prepTimeMinutes": 45,
+    "cookTimeMinutes": 35,
+    "servings": 8,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/bulbul-yuvasi.webp?v=20261013_v11",
+    "description": "Baklava sheets rolled around an oklava rolling pin, crinkled and curled into individual round nest cups, filled to the brim with whole Antep pistachios, and baked to amber crispness in clarified butter.",
+    "ingredients": [
+      {
+        "name": "Baklava Filo Sheets",
+        "us_amount_base": 20.0,
+        "us_unit": "sheets",
+        "metric_amount_base": 350.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Whole Shelled Antep Pistachios",
+        "us_amount_base": 2.0,
+        "us_unit": "cup",
+        "metric_amount_base": 250.0,
+        "metric_unit": "g",
+        "substitute": "Raw shelled green pistachios"
+      },
+      {
+        "name": "Clarified Butter (Sade Yağ)",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 220.0,
+        "metric_unit": "g",
+        "substitute": "Ghee"
+      },
+      {
+        "name": "Lemon Sugar Syrup",
+        "us_amount_base": 3.0,
+        "us_unit": "cup",
+        "metric_amount_base": 700.0,
+        "metric_unit": "ml",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Brush filo sheet with butter, roll loosely onto a thin wooden pin, accordion-wrinkle from both ends, and slide off.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 2,
+        "instruction": "Curl the ruffled rope into a circular nest, bringing ends together and tucking base inside.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 3,
+        "instruction": "Pack the center of each nest with whole pistachios, pour remaining clarified butter over all nests.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 4,
+        "instruction": "Bake at 375°F (190°C) until crispy and golden; pour warm syrup over hot nests.",
+        "timer_seconds": 2100
+      }
+    ]
+  },
+  {
+    "id": "dessert_28",
+    "titleEn": "Erzurum Deep-Fried Shredded Pastry Rolls with Walnuts (Kadayıf Dolması)",
+    "titleTr": "Erzurum Kadayıf Dolması",
+    "category": "Desserts",
+    "prepTimeMinutes": 30,
+    "cookTimeMinutes": 20,
+    "servings": 6,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/erzurum-kadayif-dolmasi.webp?v=20261013_v11",
+    "description": "Erzurum masterpiece of fresh shredded kadayıf threads rolled tightly around toasted walnuts into plump cigars, dipped in whisked eggs, deep-fried until crackling, and dipped into cold lemon syrup.",
+    "ingredients": [
+      {
+        "name": "Fresh Shredded Kadayıf Dough (Tel kadayıf)",
+        "us_amount_base": 1.0,
+        "us_unit": "lb",
+        "metric_amount_base": 450.0,
+        "metric_unit": "g",
+        "substitute": "Kataifi dough (raw shredded phyllo)"
+      },
+      {
+        "name": "Coarsely Chopped Walnuts",
+        "us_amount_base": 1.5,
+        "us_unit": "cup",
+        "metric_amount_base": 180.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Eggs (lightly beaten)",
+        "us_amount_base": 4.0,
+        "us_unit": "large",
+        "metric_amount_base": 4.0,
+        "metric_unit": "adet",
+        "substitute": null
+      },
+      {
+        "name": "Sunflower Oil for Deep Frying",
+        "us_amount_base": 3.0,
+        "us_unit": "cup",
+        "metric_amount_base": 700.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Cold Thick Sugar Syrup",
+        "us_amount_base": 3.0,
+        "us_unit": "cup",
+        "metric_amount_base": 700.0,
+        "metric_unit": "ml",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Spread a palm-sized bundle of fresh kadayıf strands onto a board. Place walnuts at the end and roll tightly into a cylinder.",
+        "timer_seconds": 360
+      },
+      {
+        "step_number": 2,
+        "instruction": "Briefly coat each roll in beaten eggs, shaking off excess with hands.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 3,
+        "instruction": "Deep fry in hot oil (360°F / 180°C) until deep amber brown and crunchy.",
+        "timer_seconds": 480
+      },
+      {
+        "step_number": 4,
+        "instruction": "Plunge directly into cold syrup for 5 minutes; serve warm with clotted cream kaymak.",
+        "timer_seconds": 300
+      }
+    ]
+  },
+  {
+    "id": "dessert_29",
+    "titleEn": "Vizier's Finger Semolina Pastries in Syrup (Vezir Parmağı)",
+    "titleTr": "Vezir Parmağı",
+    "category": "Desserts",
+    "prepTimeMinutes": 25,
+    "cookTimeMinutes": 25,
+    "servings": 6,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/vezir-parmagi.webp?v=20261013_v11",
+    "description": "Ottoman finger-shaped soft semolina pastries rolled in semolina for a crunchy exterior texture, baked golden and soaked in aromatic lemon-scented sugar syrup.",
+    "ingredients": [
+      {
+        "name": "Unsalted Butter (softened)",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 125.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Semolina (for dough & rolling)",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 160.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "All-Purpose Flour & Egg",
+        "us_amount_base": 2.0,
+        "us_unit": "cup",
+        "metric_amount_base": 250.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Yogurt, Oil & Baking Powder",
+        "us_amount_base": 1.0,
+        "us_unit": "portion",
+        "metric_amount_base": 80.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Cold Sugar Syrup",
+        "us_amount_base": 2.5,
+        "us_unit": "cup",
+        "metric_amount_base": 600.0,
+        "metric_unit": "ml",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Knead butter, egg, yogurt, oil, flour, semolina, and baking powder into a tender dough.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 2,
+        "instruction": "Roll dough pieces into finger-length cylinders (about 3 inches long). Roll each in dry semolina to coat.",
+        "timer_seconds": 240
+      },
+      {
+        "step_number": 3,
+        "instruction": "Bake on a greased sheet at 375°F (190°C) until golden brown.",
+        "timer_seconds": 1500
+      },
+      {
+        "step_number": 4,
+        "instruction": "Pour cold syrup over hot pastries and let rest until plump and moist.",
+        "timer_seconds": 1800
+      }
+    ]
+  },
+  {
+    "id": "dessert_30",
+    "titleEn": "Ottoman Palace Saffron and Rice Jelly Pudding (Zerde)",
+    "titleTr": "Safranlı Zerde",
+    "category": "Desserts",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 30,
+    "servings": 6,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/safranli-zerde.webp?v=20261013_v11",
+    "description": "Dazzling golden celebration dessert of the Ottoman palace: broken rice simmered in water with saffron threads and turmeric, sweetened with rosewater and decorated with currants, pine nuts, and pomegranate seeds.",
+    "ingredients": [
+      {
+        "name": "Baldo or Broken Rice",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 90.0,
+        "metric_unit": "g",
+        "substitute": "Jasmine or sushi rice"
+      },
+      {
+        "name": "Pure Saffron Threads (steeped in rosewater)",
+        "us_amount_base": 0.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 1.0,
+        "metric_unit": "g",
+        "substitute": "Persian or Spanish saffron"
+      },
+      {
+        "name": "Turmeric Powder (for vivid golden color)",
+        "us_amount_base": 0.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 1.5,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Granulated Sugar",
+        "us_amount_base": 1.25,
+        "us_unit": "cup",
+        "metric_amount_base": 250.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Cornstarch (dissolved in water)",
+        "us_amount_base": 2.5,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Pine Nuts, Dried Currants & Pomegranate Arils",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 60.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Steep saffron threads in 2 tbsp warm rosewater for 20 minutes to extract vibrant color and aroma.",
+        "timer_seconds": 1200
+      },
+      {
+        "step_number": 2,
+        "instruction": "Boil rice in 5 cups water until grains are completely soft and translucent.",
+        "timer_seconds": 1200
+      },
+      {
+        "step_number": 3,
+        "instruction": "Add sugar, saffron rosewater infusion, and turmeric; stir in dissolved cornstarch and simmer until glossy and thickened.",
+        "timer_seconds": 480
+      },
+      {
+        "step_number": 4,
+        "instruction": "Ladle into glass bowls, chill until set, and decorate with currants, toasted pine nuts, and pomegranate seeds.",
+        "timer_seconds": 7200
+      }
+    ]
   }
 ]

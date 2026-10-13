@@ -1520,5 +1520,1260 @@
         "timer_seconds": 240
       }
     ]
+  },
+  {
+    "id": "main_16",
+    "titleEn": "Traditional Kayseri Dumplings with Garlic Yogurt",
+    "titleTr": "Kayseri Mantısı",
+    "category": "Mains & Grills",
+    "prepTimeMinutes": 60,
+    "cookTimeMinutes": 20,
+    "servings": 6,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/kayseri-mantisi.webp?v=20261013_v11",
+    "description": "Authentic miniature Anatolian hand-pinched dumplings packed with seasoned minced beef and onion. Served drowning in silky cold garlic yogurt and drizzled with foaming paprika-mint butter and tangy sumac.",
+    "ingredients": [
+      {
+        "name": "All-Purpose Flour",
+        "us_amount_base": 3.0,
+        "us_unit": "cup",
+        "metric_amount_base": 360.0,
+        "metric_unit": "g",
+        "substitute": "Unbleached pastry flour or Italian tipo 00"
+      },
+      {
+        "name": "Egg",
+        "us_amount_base": 1.0,
+        "us_unit": "piece",
+        "metric_amount_base": 1.0,
+        "metric_unit": "adet",
+        "substitute": null
+      },
+      {
+        "name": "Warm Water",
+        "us_amount_base": 0.75,
+        "us_unit": "cup",
+        "metric_amount_base": 180.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Ground Beef (lean)",
+        "us_amount_base": 0.5,
+        "us_unit": "lb",
+        "metric_amount_base": 250.0,
+        "metric_unit": "g",
+        "substitute": "Lean ground lamb or mixed beef-lamb"
+      },
+      {
+        "name": "Grated Onion",
+        "us_amount_base": 1.0,
+        "us_unit": "medium",
+        "metric_amount_base": 100.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Strained Turkish Yogurt (Süzme Yoğurt)",
+        "us_amount_base": 2.0,
+        "us_unit": "cup",
+        "metric_amount_base": 480.0,
+        "metric_unit": "g",
+        "substitute": "Whole-milk plain Greek yogurt"
+      },
+      {
+        "name": "Garlic",
+        "us_amount_base": 3.0,
+        "us_unit": "clove",
+        "metric_amount_base": 3.0,
+        "metric_unit": "adet",
+        "substitute": null
+      },
+      {
+        "name": "Unsalted Butter",
+        "us_amount_base": 4.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 60.0,
+        "metric_unit": "g",
+        "substitute": "Clarified butter or ghee"
+      },
+      {
+        "name": "Sweet Paprika & Dried Mint",
+        "us_amount_base": 2.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 6.0,
+        "metric_unit": "tatlı kaşığı",
+        "substitute": "Turkish pul biber (Aleppo pepper) and dried spearmint"
+      },
+      {
+        "name": "Salt and Freshly Cracked Black Pepper",
+        "us_amount_base": 1.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 8.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "In a large bowl, knead flour, egg, warm water, and 1 tsp salt into a firm, elastic dough. Cover and rest.",
+        "timer_seconds": 1800
+      },
+      {
+        "step_number": 2,
+        "instruction": "Mix ground beef with finely grated squeezed onion, black pepper, and salt until tacky and cohesive.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 3,
+        "instruction": "Roll dough out thinly (approx. 1 mm) on a floured surface. Cut into 1-inch (2.5 cm) squares. Place a lentil-sized bead of meat in each center and pinch four corners together.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 4,
+        "instruction": "Boil dumplings in a large pot of salted rolling boiling water until they float and soften.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 5,
+        "instruction": "Melt butter with paprika, red pepper flakes, and dried mint until foaming and fragrant.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 6,
+        "instruction": "Drain mantı, place into shallow bowls, top generously with garlic yogurt, and drizzle with hot sizzling spiced butter.",
+        "timer_seconds": 0
+      }
+    ]
+  },
+  {
+    "id": "main_17",
+    "titleEn": "Crispy Stuffed Bulgur Meatballs (İçli Köfte)",
+    "titleTr": "İçli Köfte",
+    "category": "Mains & Grills",
+    "prepTimeMinutes": 50,
+    "cookTimeMinutes": 25,
+    "servings": 6,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/icli-kofte.webp?v=20261013_v11",
+    "description": "Exquisite torpedo-shaped crispy bulgur shells filled with a spiced minced beef, toasted walnut, and caramelized onion stuffing. A hallmark of Southeastern Anatolian hospitality, fried to deep golden perfection.",
+    "ingredients": [
+      {
+        "name": "Fine Brown Bulgur (Köftelik)",
+        "us_amount_base": 2.0,
+        "us_unit": "cup",
+        "metric_amount_base": 300.0,
+        "metric_unit": "g",
+        "substitute": "Fine #1 bulgur wheat"
+      },
+      {
+        "name": "Fine Semolina (İrmik)",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 80.0,
+        "metric_unit": "g",
+        "substitute": "Fine durum wheat semolina"
+      },
+      {
+        "name": "Ground Beef for Filling (20% fat)",
+        "us_amount_base": 1.0,
+        "us_unit": "lb",
+        "metric_amount_base": 450.0,
+        "metric_unit": "g",
+        "substitute": "Finely minced beef chuck or lamb"
+      },
+      {
+        "name": "Finely Chopped Walnuts",
+        "us_amount_base": 0.75,
+        "us_unit": "cup",
+        "metric_amount_base": 85.0,
+        "metric_unit": "g",
+        "substitute": "Toasted pine nuts"
+      },
+      {
+        "name": "Yellow Onions (finely diced)",
+        "us_amount_base": 3.0,
+        "us_unit": "medium",
+        "metric_amount_base": 350.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Turkish Red Pepper Paste (Biber Salçası)",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 35.0,
+        "metric_unit": "g",
+        "substitute": "Double-concentrated tomato paste mixed with sweet paprika"
+      },
+      {
+        "name": "Ground Allspice, Cumin & Black Pepper",
+        "us_amount_base": 1.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 6.0,
+        "metric_unit": "tatlı kaşığı",
+        "substitute": null
+      },
+      {
+        "name": "Sunflower Oil for Deep Frying",
+        "us_amount_base": 3.0,
+        "us_unit": "cup",
+        "metric_amount_base": 700.0,
+        "metric_unit": "ml",
+        "substitute": "Canola or peanut oil"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Cook ground beef with diced onions until browned and dry. Stir in pepper paste, spices, and chopped walnuts. Chill thoroughly until solidified.",
+        "timer_seconds": 1200
+      },
+      {
+        "step_number": 2,
+        "instruction": "Soak bulgur and semolina in 1.5 cups warm water for 15 minutes, then knead vigorously with flour and 1 egg until a smooth, crack-free paste forms.",
+        "timer_seconds": 900
+      },
+      {
+        "step_number": 3,
+        "instruction": "Shape walnut-sized balls of dough. Hollow the center using a wet index finger into a thin egg-like cylinder shell. Stuff with cold filling and seal into pointed torpedoes.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 4,
+        "instruction": "Deep fry in hot oil (365°F / 185°C) in batches until golden brown and crisp, then drain on paper towels.",
+        "timer_seconds": 360
+      }
+    ]
+  },
+  {
+    "id": "main_18",
+    "titleEn": "Antakya Baked Tray Kebab",
+    "titleTr": "Antakya Tepsi Kebabı",
+    "category": "Mains & Grills",
+    "prepTimeMinutes": 25,
+    "cookTimeMinutes": 35,
+    "servings": 5,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/antakya-tepsi-kebabi.webp?v=20261013_v11",
+    "description": "Signature spice-infused minced lamb pressed flat into a round baking tray, accented with garlic, red capia peppers, and fresh herbs, then baked until caramelized in its natural rich meat juices.",
+    "ingredients": [
+      {
+        "name": "Minced Lamb and Beef Blend (Zırh kıyması style)",
+        "us_amount_base": 1.5,
+        "us_unit": "lb",
+        "metric_amount_base": 700.0,
+        "metric_unit": "g",
+        "substitute": "80/20 ground beef mixed with 20% ground lamb"
+      },
+      {
+        "name": "Red Capia Pepper (finely minced)",
+        "us_amount_base": 2.0,
+        "us_unit": "pieces",
+        "metric_amount_base": 150.0,
+        "metric_unit": "g",
+        "substitute": "Red bell pepper"
+      },
+      {
+        "name": "Garlic (crushed)",
+        "us_amount_base": 4.0,
+        "us_unit": "clove",
+        "metric_amount_base": 4.0,
+        "metric_unit": "adet",
+        "substitute": null
+      },
+      {
+        "name": "Turkish Pepper Paste (Biber Salçası)",
+        "us_amount_base": 1.5,
+        "us_unit": "tbsp",
+        "metric_amount_base": 25.0,
+        "metric_unit": "g",
+        "substitute": "Tomato paste with pinch of smoked paprika"
+      },
+      {
+        "name": "Ground Cumin & Maras Chili Flakes",
+        "us_amount_base": 1.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 6.0,
+        "metric_unit": "g",
+        "substitute": "Ground cumin and crushed red pepper flakes"
+      },
+      {
+        "name": "Tomatoes & Green Long Peppers (for garnish)",
+        "us_amount_base": 2.0,
+        "us_unit": "pieces",
+        "metric_amount_base": 200.0,
+        "metric_unit": "g",
+        "substitute": "Roma tomatoes and Anaheim peppers"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Knead minced meat with finely chopped capia peppers, garlic, salt, cumin, chili flakes, and half the pepper paste for 5 minutes until fully bound.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 2,
+        "instruction": "Spread and press the meat evenly into the bottom of an oiled 11-inch round baking tray about 1.5 cm thick. Slice into triangular wedges with a wet knife.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 3,
+        "instruction": "Top with tomato wedges and green chili strips. Whisk remaining pepper paste with 1/2 cup warm water and pour over the meat.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 4,
+        "instruction": "Bake in a preheated oven at 400°F (200°C) until sizzling, browned, and bubbling with caramelized juices.",
+        "timer_seconds": 2100
+      }
+    ]
+  },
+  {
+    "id": "main_19",
+    "titleEn": "Slow-Roasted Braised Lamb Shanks",
+    "titleTr": "Fırında Kuzu İncik",
+    "category": "Mains & Grills",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 150,
+    "servings": 4,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/firinda-kuzu-incik.webp?v=20261013_v11",
+    "description": "Fall-off-the-bone succulent lamb shanks seared golden and slow-braised with pearl onions, whole garlic heads, carrots, and fragrant fresh thyme in a rich tomato demi-glace.",
+    "ingredients": [
+      {
+        "name": "Lamb Shanks (trimmed)",
+        "us_amount_base": 4.0,
+        "us_unit": "pieces",
+        "metric_amount_base": 1400.0,
+        "metric_unit": "g",
+        "substitute": "Veal shanks or bone-in beef short ribs"
+      },
+      {
+        "name": "Shallots or Pearl Onions",
+        "us_amount_base": 12.0,
+        "us_unit": "pieces",
+        "metric_amount_base": 200.0,
+        "metric_unit": "g",
+        "substitute": "Quartered yellow sweet onions"
+      },
+      {
+        "name": "Carrots (cut into thick batons)",
+        "us_amount_base": 2.0,
+        "us_unit": "medium",
+        "metric_amount_base": 180.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Whole Garlic Head (halved crosswise)",
+        "us_amount_base": 1.0,
+        "us_unit": "piece",
+        "metric_amount_base": 1.0,
+        "metric_unit": "baş",
+        "substitute": null
+      },
+      {
+        "name": "Tomato & Pepper Paste",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 35.0,
+        "metric_unit": "g",
+        "substitute": "Tomato paste"
+      },
+      {
+        "name": "Beef or Lamb Bone Broth",
+        "us_amount_base": 2.0,
+        "us_unit": "cup",
+        "metric_amount_base": 480.0,
+        "metric_unit": "ml",
+        "substitute": "Low-sodium beef broth"
+      },
+      {
+        "name": "Fresh Rosemary & Thyme Sprigs",
+        "us_amount_base": 4.0,
+        "us_unit": "sprigs",
+        "metric_amount_base": 4.0,
+        "metric_unit": "dal",
+        "substitute": "1 tsp dried thyme and oregano"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Season lamb shanks generously with salt and black pepper. Sear in olive oil over high heat in a Dutch oven until deeply browned on all sides.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 2,
+        "instruction": "Remove meat, sauté shallots and carrots for 3 minutes, then stir in tomato-pepper paste and cook for 1 minute.",
+        "timer_seconds": 240
+      },
+      {
+        "step_number": 3,
+        "instruction": "Return lamb shanks, pour in broth, add herbs and garlic halves. Cover tightly with parchment and foil or a heavy lid.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 4,
+        "instruction": "Bake at 325°F (165°C) until meat is extraordinarily tender and pulling away cleanly from the bone.",
+        "timer_seconds": 8400
+      }
+    ]
+  },
+  {
+    "id": "main_20",
+    "titleEn": "Beyti Kebab Wrapped in Lavash Bread",
+    "titleTr": "Beyti Kebap",
+    "category": "Mains & Grills",
+    "prepTimeMinutes": 35,
+    "cookTimeMinutes": 25,
+    "servings": 4,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/beyti-kebap.webp?v=20261013_v11",
+    "description": "Garlic-kissed grilled minced lamb skewers wrapped snugly in crisp lavash flatbread, sliced into bite-sized medallions, and smothered in warm tomato sauce, sizzling foaming butter, and creamy yogurt.",
+    "ingredients": [
+      {
+        "name": "Ground Lamb & Beef (80/20 blend)",
+        "us_amount_base": 1.2,
+        "us_unit": "lb",
+        "metric_amount_base": 550.0,
+        "metric_unit": "g",
+        "substitute": "85/15 ground beef"
+      },
+      {
+        "name": "Fresh Thin Lavash Flatbreads",
+        "us_amount_base": 3.0,
+        "us_unit": "sheets",
+        "metric_amount_base": 3.0,
+        "metric_unit": "adet",
+        "substitute": "Large 12-inch flour tortillas or Lebanese lavash"
+      },
+      {
+        "name": "Garlic (grated)",
+        "us_amount_base": 4.0,
+        "us_unit": "clove",
+        "metric_amount_base": 4.0,
+        "metric_unit": "adet",
+        "substitute": null
+      },
+      {
+        "name": "Crushed Tomatoes & Tomato Paste",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 240.0,
+        "metric_unit": "g",
+        "substitute": "Tomato marinara or passata"
+      },
+      {
+        "name": "Butter",
+        "us_amount_base": 4.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 60.0,
+        "metric_unit": "g",
+        "substitute": "Ghee"
+      },
+      {
+        "name": "Turkish Strained Yogurt",
+        "us_amount_base": 1.5,
+        "us_unit": "cup",
+        "metric_amount_base": 350.0,
+        "metric_unit": "g",
+        "substitute": "Greek yogurt"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Knead ground meat with garlic, finely diced onion, salt, pepper, and chopped parsley until smooth. Form into long, flat sausage-like skewers.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 2,
+        "instruction": "Grill or sear skewers in a ridged skillet until cooked through and lightly charred.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 3,
+        "instruction": "Brush lavash with melted butter, wrap tightly around each kebab skewer, and cut diagonally into 1.5-inch rolls. Arrange cut-side up on a baking sheet and crisp in a 390°F (200°C) oven.",
+        "timer_seconds": 480
+      },
+      {
+        "step_number": 4,
+        "instruction": "Simmer tomato paste with crushed tomatoes and butter into a silky sauce. Plate beyti rolls in a circle around a mound of yogurt, spoon sauce over rolls, and top with foaming browned butter.",
+        "timer_seconds": 300
+      }
+    ]
+  },
+  {
+    "id": "main_21",
+    "titleEn": "Erzurum Rotating Spit-Roasted Lamb (Cağ Kebabı)",
+    "titleTr": "Erzurum Cağ Kebabı",
+    "category": "Mains & Grills",
+    "prepTimeMinutes": 30,
+    "cookTimeMinutes": 20,
+    "servings": 4,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/erzurum-cag-kebabi.webp?v=20261013_v11",
+    "description": "Ancestral horizontal-spit roasted sliced lamb marinated for days in onion juice, black pepper, and yogurt. Skewered on handheld cağ skewers and seared over wood embers for unbeatable smoky depth.",
+    "ingredients": [
+      {
+        "name": "Boneless Lamb Leg or Shoulder (sliced thin)",
+        "us_amount_base": 1.5,
+        "us_unit": "lb",
+        "metric_amount_base": 700.0,
+        "metric_unit": "g",
+        "substitute": "Ribeye beef steaks sliced very thin"
+      },
+      {
+        "name": "Onion Juice (grated and strained)",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Plain Whole-Milk Yogurt",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 45.0,
+        "metric_unit": "g",
+        "substitute": "Greek yogurt"
+      },
+      {
+        "name": "Coarse Black Pepper & Salt",
+        "us_amount_base": 2.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 8.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Turkish Lavash & Charred Green Chilis",
+        "us_amount_base": 4.0,
+        "us_unit": "servings",
+        "metric_amount_base": 4.0,
+        "metric_unit": "porsiyon",
+        "substitute": "Warm flatbread"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Marinate thin lamb slices in onion juice, yogurt, freshly cracked black pepper, and salt in a sealed container in the refrigerator for at least 12 hours.",
+        "timer_seconds": 43200
+      },
+      {
+        "step_number": 2,
+        "instruction": "Thread marinated lamb ribbons tightly onto flat metal skewers accordion-style.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 3,
+        "instruction": "Sear over high charcoal embers or a screaming-hot cast iron grill pan, flipping frequently until edges are crisp and charred while interior stays tender.",
+        "timer_seconds": 480
+      },
+      {
+        "step_number": 4,
+        "instruction": "Serve immediately off the skewer onto hot lavash flatbread alongside roasted tomatoes and sumac onions.",
+        "timer_seconds": 0
+      }
+    ]
+  },
+  {
+    "id": "main_22",
+    "titleEn": "Springy Spiced Inegol Meatballs",
+    "titleTr": "İnegöl Köfte",
+    "category": "Mains & Grills",
+    "prepTimeMinutes": 30,
+    "cookTimeMinutes": 12,
+    "servings": 4,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/inegol-kofte.webp?v=20261013_v11",
+    "description": "Famous cylindrical, extraordinarily springy Turkish meatballs crafted without bread or dominant spices, seasoned purely with onion and baking soda, then rested for 24 hours to develop their iconic juicy bite.",
+    "ingredients": [
+      {
+        "name": "Ground Beef Chuck & Lamb (80/20 mix, finely ground twice)",
+        "us_amount_base": 1.3,
+        "us_unit": "lb",
+        "metric_amount_base": 600.0,
+        "metric_unit": "g",
+        "substitute": "Finely ground 80/20 beef chuck"
+      },
+      {
+        "name": "Yellow Onion (grated finely)",
+        "us_amount_base": 1.0,
+        "us_unit": "medium",
+        "metric_amount_base": 120.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Baking Soda (Karbonat)",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 5.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Fresh Lemon Juice",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 5.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Kosher Salt",
+        "us_amount_base": 1.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 8.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Knead finely ground meat with salt for 10 minutes. Cover and refrigerate for 24 hours.",
+        "timer_seconds": 86400
+      },
+      {
+        "step_number": 2,
+        "instruction": "Dissolve baking soda in lemon juice. Add to meat along with drained grated onion and knead for another 10 minutes until elastic and bouncy.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 3,
+        "instruction": "Shape into 3-inch long fingers (about 1.5 cm diameter). Rest in the fridge for 2 hours.",
+        "timer_seconds": 7200
+      },
+      {
+        "step_number": 4,
+        "instruction": "Grill on high heat on a cast iron grates, turning continuously so all sides brown evenly without drying out.",
+        "timer_seconds": 420
+      }
+    ]
+  },
+  {
+    "id": "main_23",
+    "titleEn": "Eggplant-Wrapped Toothpick Meatball Parcels (İslim Kebabı)",
+    "titleTr": "İslim Kebabı (Kürdan Kebabı)",
+    "category": "Mains & Grills",
+    "prepTimeMinutes": 35,
+    "cookTimeMinutes": 40,
+    "servings": 4,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/islim-kebabi-kurdan-kebabi.webp?v=20261013_v11",
+    "description": "Tender spiced Turkish meatballs wrapped like exquisite parcels in crosswise strips of fried eggplant, secured with a toothpick, crowned with tomato and pepper, and baked in a rich tomato sauce.",
+    "ingredients": [
+      {
+        "name": "Globe or Italian Eggplants (long)",
+        "us_amount_base": 4.0,
+        "us_unit": "pieces",
+        "metric_amount_base": 4.0,
+        "metric_unit": "adet",
+        "substitute": "Large zucchini"
+      },
+      {
+        "name": "Ground Beef (85/15)",
+        "us_amount_base": 1.0,
+        "us_unit": "lb",
+        "metric_amount_base": 450.0,
+        "metric_unit": "g",
+        "substitute": "Ground lamb or beef-lamb mix"
+      },
+      {
+        "name": "Stale Breadcrumbs",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 50.0,
+        "metric_unit": "g",
+        "substitute": "Panko breadcrumbs"
+      },
+      {
+        "name": "Grated Onion & Garlic",
+        "us_amount_base": 1.0,
+        "us_unit": "piece",
+        "metric_amount_base": 100.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Tomato Paste & Warm Broth",
+        "us_amount_base": 1.5,
+        "us_unit": "cup",
+        "metric_amount_base": 360.0,
+        "metric_unit": "ml",
+        "substitute": "Tomato purée and water"
+      },
+      {
+        "name": "Cherry Tomatoes & Green Peppers (for garnish)",
+        "us_amount_base": 8.0,
+        "us_unit": "pieces",
+        "metric_amount_base": 8.0,
+        "metric_unit": "adet",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Slice eggplants lengthwise into 1/4-inch planks. Salt for 15 minutes, pat dry, and fry lightly in oil until pliable.",
+        "timer_seconds": 900
+      },
+      {
+        "step_number": 2,
+        "instruction": "Knead ground beef with breadcrumbs, onion, garlic, egg, cumin, salt, and pepper. Form into plump golf-ball-sized patties and sear briefly on both sides.",
+        "timer_seconds": 360
+      },
+      {
+        "step_number": 3,
+        "instruction": "Lay two eggplant slices in a plus (+) cross. Place a meatball in the center, fold slices over, top with a tomato slice and green chili, and secure with a toothpick.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 4,
+        "instruction": "Arrange in a baking dish, pour diluted tomato paste sauce around the parcels, and bake at 380°F (190°C) until bubbling and golden.",
+        "timer_seconds": 1800
+      }
+    ]
+  },
+  {
+    "id": "main_24",
+    "titleEn": "Slow-Cooked Anatolian Pulled Lamb Tandoor",
+    "titleTr": "Kuzu Tandır",
+    "category": "Mains & Grills",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 180,
+    "servings": 6,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/kuzu-tandir.webp?v=20261013_v11",
+    "description": "Anatolian clay-oven classic featuring whole lamb shoulder slow-roasted until meltingly tender, caramelized on the outside and effortlessly pulling apart with two forks. Served over aromatic buttery Turkish rice pilaf.",
+    "ingredients": [
+      {
+        "name": "Bone-in Lamb Shoulder (or leg)",
+        "us_amount_base": 3.0,
+        "us_unit": "lb",
+        "metric_amount_base": 1400.0,
+        "metric_unit": "g",
+        "substitute": "Beef chuck roast bone-in"
+      },
+      {
+        "name": "Whole Garlic Cloves",
+        "us_amount_base": 8.0,
+        "us_unit": "cloves",
+        "metric_amount_base": 8.0,
+        "metric_unit": "adet",
+        "substitute": null
+      },
+      {
+        "name": "Olive Oil",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 45.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Dried Thyme & Fresh Rosemary",
+        "us_amount_base": 1.5,
+        "us_unit": "tbsp",
+        "metric_amount_base": 6.0,
+        "metric_unit": "g",
+        "substitute": "Mountain oregano"
+      },
+      {
+        "name": "Sea Salt & Black Peppercorns",
+        "us_amount_base": 1.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 8.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Make small slits all over the lamb shoulder and insert peeled garlic cloves. Rub the meat thoroughly with olive oil, crushed thyme, salt, and pepper.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 2,
+        "instruction": "Place the lamb into a heavy Dutch oven, splash in 1/2 cup water, and cover tightly with damp parchment paper then double-layer aluminum foil and the lid.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 3,
+        "instruction": "Slow-roast at 300°F (150°C) undisturbed until tender.",
+        "timer_seconds": 9000
+      },
+      {
+        "step_number": 4,
+        "instruction": "Uncover and roast at 425°F (220°C) for a final burst to crisp and caramelize the outer fat cap.",
+        "timer_seconds": 900
+      }
+    ]
+  },
+  {
+    "id": "main_25",
+    "titleEn": "Mashed Potato-Stuffed Ottoman Meatballs (Hasanpaşa Köftesi)",
+    "titleTr": "Hasanpaşa Köftesi",
+    "category": "Mains & Grills",
+    "prepTimeMinutes": 35,
+    "cookTimeMinutes": 30,
+    "servings": 5,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/hasanpasa-koftesi.webp?v=20261013_v11",
+    "description": "Hearty Ottoman meatball bowls molded like savory nests, filled with velvet-smooth kaşar cheese mashed potatoes, and baked in savory tomato gravy until bubbly and lightly gratinated.",
+    "ingredients": [
+      {
+        "name": "Ground Beef (85/15)",
+        "us_amount_base": 1.2,
+        "us_unit": "lb",
+        "metric_amount_base": 550.0,
+        "metric_unit": "g",
+        "substitute": "Ground chuck"
+      },
+      {
+        "name": "Yukon Gold Potatoes (boiled and mashed)",
+        "us_amount_base": 3.0,
+        "us_unit": "medium",
+        "metric_amount_base": 400.0,
+        "metric_unit": "g",
+        "substitute": "Russet potatoes"
+      },
+      {
+        "name": "Grated Kaşar Cheese",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 110.0,
+        "metric_unit": "g",
+        "substitute": "Shredded mozzarella or mild provolone"
+      },
+      {
+        "name": "Butter & Whole Milk",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 50.0,
+        "metric_unit": "g",
+        "substitute": "Heavy cream"
+      },
+      {
+        "name": "Onion, Breadcrumbs & Egg",
+        "us_amount_base": 1.0,
+        "us_unit": "portion",
+        "metric_amount_base": 150.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Tomato Paste Sauce",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 240.0,
+        "metric_unit": "ml",
+        "substitute": "Tomato passata"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Knead meat with grated onion, egg, breadcrumbs, cumin, salt, and pepper. Shape into 6 large balls, then press centers to create deep edible nest bowls.",
+        "timer_seconds": 400
+      },
+      {
+        "step_number": 2,
+        "instruction": "Mash warm boiled potatoes with butter, warm milk, half the cheese, and a pinch of nutmeg until velvety.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 3,
+        "instruction": "Pipe or spoon the mashed potatoes generously into each meatball nest. Top with remaining grated cheese.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 4,
+        "instruction": "Pour tomato sauce around the nests in the baking tray and bake at 390°F (200°C) until meatballs are cooked through and cheese is bubbling golden.",
+        "timer_seconds": 1500
+      }
+    ]
+  },
+  {
+    "id": "main_26",
+    "titleEn": "Antakya Parchment-Baked Spiced Mince Kebab",
+    "titleTr": "Antakya Kağıt Kebabı",
+    "category": "Mains & Grills",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 25,
+    "servings": 4,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/antakya-kagit-kebabi.webp?v=20261013_v11",
+    "description": "Antakya butcher-shop tradition where seasoned knife-minced lamb and beef is pressed wafer-thin onto greaseproof parchment paper, then wood-fired to lock in natural moisture and peppery aromatics.",
+    "ingredients": [
+      {
+        "name": "Hand-Minced Lamb and Beef (Zırh kıyma)",
+        "us_amount_base": 1.2,
+        "us_unit": "lb",
+        "metric_amount_base": 550.0,
+        "metric_unit": "g",
+        "substitute": "80/20 ground beef with 20% lamb"
+      },
+      {
+        "name": "Garlic (finely crushed)",
+        "us_amount_base": 5.0,
+        "us_unit": "cloves",
+        "metric_amount_base": 5.0,
+        "metric_unit": "adet",
+        "substitute": null
+      },
+      {
+        "name": "Turkish Red Pepper Paste",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 20.0,
+        "metric_unit": "g",
+        "substitute": "Spicy harissa or tomato paste"
+      },
+      {
+        "name": "Black Pepper, Cumin & Sea Salt",
+        "us_amount_base": 1.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 6.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Sliced Tomatoes & Green Chilis",
+        "us_amount_base": 4.0,
+        "us_unit": "slices",
+        "metric_amount_base": 100.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Knead minced meat with crushed garlic, pepper paste, black pepper, and salt until tacky and cohesive.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 2,
+        "instruction": "Cut circles of baking parchment paper. Press meat onto paper into a thin 0.5-inch disc right to the edges.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 3,
+        "instruction": "Top with tomato wedges and sliced long peppers. Place parchment directly on a scorching hot baking sheet or pizza stone at 450°F (230°C).",
+        "timer_seconds": 1200
+      },
+      {
+        "step_number": 4,
+        "instruction": "Serve sizzling hot straight on its parchment paper with fresh tırnak pide bread.",
+        "timer_seconds": 0
+      }
+    ]
+  },
+  {
+    "id": "main_27",
+    "titleEn": "Crispy Pan-Fried Edirne Calves' Liver",
+    "titleTr": "Edirne Tava Ciğer",
+    "category": "Mains & Grills",
+    "prepTimeMinutes": 25,
+    "cookTimeMinutes": 10,
+    "servings": 4,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/edirne-tava-ciger.webp?v=20261013_v11",
+    "description": "Paper-thin ribbons of tender fresh calf's liver dredged in seasoned flour and flash-fried in boiling oil for mere seconds. Served with blistered sun-dried fiery Karaağaç red peppers and sumac onion salad.",
+    "ingredients": [
+      {
+        "name": "Fresh Calf's Liver (veins stripped, sliced paper-thin)",
+        "us_amount_base": 1.2,
+        "us_unit": "lb",
+        "metric_amount_base": 550.0,
+        "metric_unit": "g",
+        "substitute": "Very fresh beef liver sliced leaf-thin"
+      },
+      {
+        "name": "All-Purpose Flour",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Sunflower Oil for Deep Frying",
+        "us_amount_base": 2.5,
+        "us_unit": "cup",
+        "metric_amount_base": 600.0,
+        "metric_unit": "ml",
+        "substitute": "Peanut oil"
+      },
+      {
+        "name": "Dried Turkish Whole Red Peppers (Karaağaç biberi)",
+        "us_amount_base": 8.0,
+        "us_unit": "pieces",
+        "metric_amount_base": 8.0,
+        "metric_unit": "adet",
+        "substitute": "Dried mild New Mexico chili pods"
+      },
+      {
+        "name": "Red Onion with Sumac & Parsley",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Wash sliced liver briefly and drain thoroughly in a colander until dry. Do not let it sit in water.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 2,
+        "instruction": "Heat oil in a wide frying pan until shimmering hot (375°F / 190°C). Flash-fry dried red peppers for 25 seconds until crisp, then set aside.",
+        "timer_seconds": 25
+      },
+      {
+        "step_number": 3,
+        "instruction": "Toss liver strips in flour, shaking off all excess through a sieve. Fry in boiling oil in small batches for only 60 to 90 seconds until edges curl and crisp.",
+        "timer_seconds": 90
+      },
+      {
+        "step_number": 4,
+        "instruction": "Drain immediately, season with salt, and serve piping hot with crispy dried chilies and sumac onions.",
+        "timer_seconds": 0
+      }
+    ]
+  },
+  {
+    "id": "main_28",
+    "titleEn": "Egg-Stuffed Turkish Meatloaf (Dalyan Köfte)",
+    "titleTr": "Dalyan Köfte",
+    "category": "Mains & Grills",
+    "prepTimeMinutes": 35,
+    "cookTimeMinutes": 45,
+    "servings": 6,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/dalyan-kofte.webp?v=20261013_v11",
+    "description": "Elegant rolled Turkish baked meatloaf stuffed with a mosaic center of whole hard-boiled eggs, sweet carrots, and tender green peas, glazed in rich tomato-butter gravy and sliced into stunning rounds.",
+    "ingredients": [
+      {
+        "name": "Ground Beef (85/15)",
+        "us_amount_base": 1.8,
+        "us_unit": "lb",
+        "metric_amount_base": 800.0,
+        "metric_unit": "g",
+        "substitute": "Ground chuck"
+      },
+      {
+        "name": "Hard-Boiled Eggs (peeled)",
+        "us_amount_base": 4.0,
+        "us_unit": "pieces",
+        "metric_amount_base": 4.0,
+        "metric_unit": "adet",
+        "substitute": null
+      },
+      {
+        "name": "Boiled Carrot Batons & Green Peas",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 150.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Grated Onion & Breadcrumbs",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Tomato Paste Glaze with Butter",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "ml",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Knead ground beef with grated onion, breadcrumbs, raw egg, cumin, black pepper, and salt for 10 minutes until dense and pliable.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 2,
+        "instruction": "Spread meat on baking paper into a rectangle (approx. 2 cm thick). Align hard-boiled eggs, carrots, and peas down the center.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 3,
+        "instruction": "Roll the meat tightly over the filling into a seamless log, sealing edges well. Brush with oil and bake at 380°F (190°C).",
+        "timer_seconds": 2100
+      },
+      {
+        "step_number": 4,
+        "instruction": "Brush with tomato paste glaze and bake an additional 10 minutes. Rest 10 minutes before slicing into rounds.",
+        "timer_seconds": 600
+      }
+    ]
+  },
+  {
+    "id": "main_29",
+    "titleEn": "Ankara Baked Lamb and Orzo Casserole",
+    "titleTr": "Ankara Tava",
+    "category": "Mains & Grills",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 60,
+    "servings": 5,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/ankara-tava.webp?v=20261013_v11",
+    "description": "Tender lamb chunks braised with onions, tomatoes, and peppers, baked together with toasted orzo (şehriye) until the pasta absorbs the savory meat broth to plump, glistening perfection.",
+    "ingredients": [
+      {
+        "name": "Boneless Lamb Leg or Shoulder (cut into cubes)",
+        "us_amount_base": 1.5,
+        "us_unit": "lb",
+        "metric_amount_base": 700.0,
+        "metric_unit": "g",
+        "substitute": "Beef chuck cubes"
+      },
+      {
+        "name": "Orzo Pasta (Arpa Şehriye)",
+        "us_amount_base": 2.0,
+        "us_unit": "cup",
+        "metric_amount_base": 360.0,
+        "metric_unit": "g",
+        "substitute": "Italian orzo or risoni"
+      },
+      {
+        "name": "Butter & Olive Oil",
+        "us_amount_base": 4.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 60.0,
+        "metric_unit": "g",
+        "substitute": "Ghee"
+      },
+      {
+        "name": "Tomatoes & Green Long Peppers",
+        "us_amount_base": 2.0,
+        "us_unit": "pieces",
+        "metric_amount_base": 250.0,
+        "metric_unit": "g",
+        "substitute": "Diced tomatoes and Anaheim peppers"
+      },
+      {
+        "name": "Hot Lamb or Beef Broth",
+        "us_amount_base": 3.5,
+        "us_unit": "cup",
+        "metric_amount_base": 840.0,
+        "metric_unit": "ml",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Sear lamb cubes in butter until browned. Add chopped onions, peppers, and tomatoes; simmer covered with 1 cup broth until meat is tender.",
+        "timer_seconds": 2100
+      },
+      {
+        "step_number": 2,
+        "instruction": "In a separate pan, toast orzo in remaining butter until golden and nutty.",
+        "timer_seconds": 360
+      },
+      {
+        "step_number": 3,
+        "instruction": "Combine toasted orzo and stewed lamb in a round baking casserole. Pour remaining hot broth over, season with salt and pepper.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 4,
+        "instruction": "Bake covered at 375°F (190°C) until orzo absorbs all broth, then rest 10 minutes before serving.",
+        "timer_seconds": 1500
+      }
+    ]
+  },
+  {
+    "id": "main_30",
+    "titleEn": "Braised Lamb Neck Stew with Root Vegetables",
+    "titleTr": "Kuzu Gerdan Haşlama",
+    "category": "Mains & Grills",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 90,
+    "servings": 4,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/kuzu-gerdan-haslama.webp?v=20261013_v11",
+    "description": "Hearty, nourishing Anatolian comfort soup-stew of bone-in lamb neck cuts slowly simmered with golden potatoes, carrots, pearl onions, and finished with a bright lemon-egg yolk liaison (terbiye).",
+    "ingredients": [
+      {
+        "name": "Bone-in Lamb Neck Slices (Kuzu Gerdan)",
+        "us_amount_base": 2.0,
+        "us_unit": "lb",
+        "metric_amount_base": 900.0,
+        "metric_unit": "g",
+        "substitute": "Bone-in lamb shank or beef osso buco"
+      },
+      {
+        "name": "Yukon Gold Potatoes (quartered)",
+        "us_amount_base": 3.0,
+        "us_unit": "medium",
+        "metric_amount_base": 350.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Carrots (sliced into thick rounds)",
+        "us_amount_base": 2.0,
+        "us_unit": "medium",
+        "metric_amount_base": 180.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Shallots or Small Onions",
+        "us_amount_base": 8.0,
+        "us_unit": "pieces",
+        "metric_amount_base": 150.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Egg Yolk & Fresh Lemon Juice (for terbiye)",
+        "us_amount_base": 1.0,
+        "us_unit": "portion",
+        "metric_amount_base": 60.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Fresh Parsley & Black Peppercorns",
+        "us_amount_base": 0.25,
+        "us_unit": "cup",
+        "metric_amount_base": 15.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Place lamb neck pieces in a large stockpot, cover with cold water, bring to boil and skim off any surface foam.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 2,
+        "instruction": "Add peppercorns, shallots, carrots, and salt. Simmer covered on low heat until meat is nearly tender.",
+        "timer_seconds": 3600
+      },
+      {
+        "step_number": 3,
+        "instruction": "Add potatoes and continue simmering until vegetables are fork-tender and broth is rich.",
+        "timer_seconds": 1200
+      },
+      {
+        "step_number": 4,
+        "instruction": "Whisk egg yolk with lemon juice and 1 tbsp flour. Temper with a ladle of hot broth, stir back into the pot, and simmer 2 minutes before garnishing with parsley.",
+        "timer_seconds": 120
+      }
+    ]
   }
 ]

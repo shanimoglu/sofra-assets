@@ -1756,5 +1756,1146 @@
         "timer_seconds": 1800
       }
     ]
+  },
+  {
+    "id": "veggie_16",
+    "titleEn": "Sun-Dried Eggplants Stuffed with Spiced Rice and Sumac",
+    "titleTr": "Zeytinyağlı Kuru Patlıcan Dolması",
+    "category": "Olive Oil & Vegetarian",
+    "prepTimeMinutes": 40,
+    "cookTimeMinutes": 50,
+    "servings": 6,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/zeytinyagli-kuru-patlican-dolmasi.webp?v=20261013_v11",
+    "description": "Gaziantep crown jewel of rehydrated sun-dried eggplant skins stuffed with aromatic short-grain rice, sweet onions, sumac, pomegranate molasses, and mint, braised slowly in fragrant olive oil.",
+    "ingredients": [
+      {
+        "name": "Sun-Dried Hollow Eggplants (Kuru Patlıcan)",
+        "us_amount_base": 20.0,
+        "us_unit": "pieces",
+        "metric_amount_base": 20.0,
+        "metric_unit": "adet",
+        "substitute": "Dried baby eggplants or dried bell peppers"
+      },
+      {
+        "name": "Baldo or Calrose Rice (washed)",
+        "us_amount_base": 1.5,
+        "us_unit": "cup",
+        "metric_amount_base": 270.0,
+        "metric_unit": "g",
+        "substitute": "Short-grain sushi or risotto rice"
+      },
+      {
+        "name": "Yellow Onions (finely diced)",
+        "us_amount_base": 3.0,
+        "us_unit": "medium",
+        "metric_amount_base": 350.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Turkish Pepper Paste & Tomato Paste",
+        "us_amount_base": 2.5,
+        "us_unit": "tbsp",
+        "metric_amount_base": 40.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Pomegranate Molasses & Sumac",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 45.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Dried Spearmint & Garlic",
+        "us_amount_base": 1.5,
+        "us_unit": "tbsp",
+        "metric_amount_base": 8.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Boil dried eggplants in salted water for 8-10 minutes until soft and pliable; drain and rinse in cold water.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 2,
+        "instruction": "Mix raw rice with diced onions, garlic, tomato paste, pepper paste, pomegranate molasses, sumac, mint, salt, and half the olive oil.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 3,
+        "instruction": "Stuff eggplants halfway (rice will expand) and pinch mouths closed. Arrange snugly mouth-to-bottom in a heavy pot.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 4,
+        "instruction": "Weight with a heatproof plate, pour 2 cups warm water and remaining olive oil over, and simmer covered on low heat until tender.",
+        "timer_seconds": 2700
+      }
+    ]
+  },
+  {
+    "id": "veggie_17",
+    "titleEn": "Ottoman Braised Zucchini with Ground Meat or Onion Herb Jam (Kabak Kalye)",
+    "titleTr": "Zeytinyağlı Kabak Kalye",
+    "category": "Olive Oil & Vegetarian",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 35,
+    "servings": 5,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/zeytinyagli-kabak-kalye.webp?v=20261013_v11",
+    "description": "Historical Ottoman palace olive oil dish of thick zucchini rounds braised with sweet caramelized onions, sour grapes or lemon juice, fresh mint, and fragrant dill.",
+    "ingredients": [
+      {
+        "name": "Medium Zucchinis (cut into 2 cm rounds)",
+        "us_amount_base": 4.0,
+        "us_unit": "medium",
+        "metric_amount_base": 600.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Yellow Onions (sliced into half-moons)",
+        "us_amount_base": 2.0,
+        "us_unit": "medium",
+        "metric_amount_base": 250.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 0.33,
+        "us_unit": "cup",
+        "metric_amount_base": 80.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Fresh Lemon Juice & Sugar",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "ml",
+        "substitute": "Verjuice (koruk suyu)"
+      },
+      {
+        "name": "Fresh Dill and Mint",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 30.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Caramelize sliced onions in olive oil in a wide shallow pan until sweet and tender.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 2,
+        "instruction": "Layer zucchini rounds over the onions, seasoning each layer with salt, sugar, and black pepper.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 3,
+        "instruction": "Add lemon juice and 1/2 cup water. Cover and simmer gently until zucchinis are tender yet intact.",
+        "timer_seconds": 1200
+      },
+      {
+        "step_number": 4,
+        "instruction": "Sprinkle with copious fresh dill and mint; cool to room temperature before serving.",
+        "timer_seconds": 0
+      }
+    ]
+  },
+  {
+    "id": "veggie_18",
+    "titleEn": "Black Sea Green Bean and Rice Stew (Fasulye Diblesi)",
+    "titleTr": "Zeytinyağlı Fasulye Diblesi",
+    "category": "Olive Oil & Vegetarian",
+    "prepTimeMinutes": 25,
+    "cookTimeMinutes": 35,
+    "servings": 5,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/zeytinyagli-fasulye-diblesi.webp?v=20261013_v11",
+    "description": "Beloved Giresun and Black Sea home recipe: tender flat green beans layered with short-grain rice, sweet onions, and ripe tomatoes, slowly stewed together in virgin olive oil.",
+    "ingredients": [
+      {
+        "name": "Flat Green Romano Beans (cut into 1 cm pieces)",
+        "us_amount_base": 1.5,
+        "us_unit": "lb",
+        "metric_amount_base": 700.0,
+        "metric_unit": "g",
+        "substitute": "Stringless Italian flat beans"
+      },
+      {
+        "name": "Baldo Rice (rinsed)",
+        "us_amount_base": 0.75,
+        "us_unit": "cup",
+        "metric_amount_base": 140.0,
+        "metric_unit": "g",
+        "substitute": "Arborio or Calrose rice"
+      },
+      {
+        "name": "Yellow Onions (chopped)",
+        "us_amount_base": 2.0,
+        "us_unit": "medium",
+        "metric_amount_base": 240.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Ripe Tomatoes (grated)",
+        "us_amount_base": 2.0,
+        "us_unit": "medium",
+        "metric_amount_base": 250.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Extra Virgin Olive Oil & Butter",
+        "us_amount_base": 0.33,
+        "us_unit": "cup",
+        "metric_amount_base": 80.0,
+        "metric_unit": "ml",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Layer half the chopped green beans in the bottom of a pot; top with chopped onions and washed rice.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 2,
+        "instruction": "Cover with remaining green beans and top with grated tomatoes, olive oil, salt, and sugar.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 3,
+        "instruction": "Add 1 cup hot water, cover tightly, and simmer on lowest heat undisturbed until beans and rice are tender.",
+        "timer_seconds": 1800
+      },
+      {
+        "step_number": 4,
+        "instruction": "Gently fold once, rest for 15 minutes, and serve warm or at room temperature.",
+        "timer_seconds": 900
+      }
+    ]
+  },
+  {
+    "id": "veggie_19",
+    "titleEn": "Aegean Black-Eyed Pea Salad with Lemon and Herbs",
+    "titleTr": "Kuru Börülce Salatası",
+    "category": "Olive Oil & Vegetarian",
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 30,
+    "servings": 5,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/kuru-borulce-salatasi.webp?v=20261013_v11",
+    "description": "Vibrant Aegean coastal salad of tender boiled black-eyed peas tossed with sweet red peppers, scallions, fresh parsley, and sumac in an abundant dressing of early-harvest olive oil and lemon juice.",
+    "ingredients": [
+      {
+        "name": "Dried Black-Eyed Peas (Börülce, boiled until tender)",
+        "us_amount_base": 2.0,
+        "us_unit": "cup",
+        "metric_amount_base": 350.0,
+        "metric_unit": "g",
+        "substitute": "Canned black-eyed peas, rinsed and drained"
+      },
+      {
+        "name": "Red Capia Pepper & Green Frying Pepper (diced)",
+        "us_amount_base": 2.0,
+        "us_unit": "pieces",
+        "metric_amount_base": 150.0,
+        "metric_unit": "g",
+        "substitute": "Red and green bell peppers"
+      },
+      {
+        "name": "Scallions, Fresh Parsley & Dill",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 60.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 0.33,
+        "us_unit": "cup",
+        "metric_amount_base": 80.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Fresh Lemon Juice, Pomegranate Molasses & Sumac",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 45.0,
+        "metric_unit": "ml",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Boil black-eyed peas in salted water until tender but holding their shape; drain and cool.",
+        "timer_seconds": 1800
+      },
+      {
+        "step_number": 2,
+        "instruction": "Toss cooled peas with diced peppers, sliced scallions, chopped parsley, and dill.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 3,
+        "instruction": "Whisk olive oil, lemon juice, pomegranate molasses, sumac, and sea salt into a dressing.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 4,
+        "instruction": "Pour dressing over salad, toss well, and let rest 15 minutes before serving.",
+        "timer_seconds": 900
+      }
+    ]
+  },
+  {
+    "id": "veggie_20",
+    "titleEn": "Braised Brussels Sprouts in Olive Oil and Orange Juice",
+    "titleTr": "Zeytinyağlı Brüksel Lahanası",
+    "category": "Olive Oil & Vegetarian",
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 25,
+    "servings": 4,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/zeytinyagli-bruksel-lahanasi.webp?v=20261013_v11",
+    "description": "Modern Turkish Aegean winter classic: fresh Brussels sprouts braised with sweet carrots, shallots, and freshly squeezed orange juice in extra virgin olive oil, served chilled with dill.",
+    "ingredients": [
+      {
+        "name": "Fresh Brussels Sprouts (trimmed & halved)",
+        "us_amount_base": 1.0,
+        "us_unit": "lb",
+        "metric_amount_base": 450.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Carrots (sliced into coins)",
+        "us_amount_base": 2.0,
+        "us_unit": "medium",
+        "metric_amount_base": 160.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Shallots or Pearl Onions",
+        "us_amount_base": 8.0,
+        "us_unit": "pieces",
+        "metric_amount_base": 150.0,
+        "metric_unit": "g",
+        "substitute": "Sliced yellow sweet onion"
+      },
+      {
+        "name": "Fresh Orange Juice",
+        "us_amount_base": 0.75,
+        "us_unit": "cup",
+        "metric_amount_base": 180.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Extra Virgin Olive Oil & Sugar",
+        "us_amount_base": 0.33,
+        "us_unit": "cup",
+        "metric_amount_base": 80.0,
+        "metric_unit": "ml",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Sauté shallots and carrots in olive oil in a wide pan for 3 minutes until glistening.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 2,
+        "instruction": "Add halved Brussels sprouts cut-side down, searing lightly for 2 minutes.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 3,
+        "instruction": "Pour in orange juice, sugar, salt, and 1/4 cup water. Simmer covered on low heat until fork-tender.",
+        "timer_seconds": 1200
+      },
+      {
+        "step_number": 4,
+        "instruction": "Cool in the pan with lid on to absorb olive oil glaze; serve chilled with fresh dill.",
+        "timer_seconds": 0
+      }
+    ]
+  },
+  {
+    "id": "veggie_21",
+    "titleEn": "Aegean Wild Blessed Thistle with Lemon-Egg Liaison (Şevketi Bostan)",
+    "titleTr": "Ege Usulü Şevketi Bostan",
+    "category": "Olive Oil & Vegetarian",
+    "prepTimeMinutes": 25,
+    "cookTimeMinutes": 45,
+    "servings": 4,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/ege-usulu-sevketi-bostan.webp?v=20261013_v11",
+    "description": "Wild Aegean endemic delicacy: earthy, fibrous roots and prickly leaves of blessed thistle (şevketi bostan) braised with scallions in olive oil, bound with an egg-lemon terbiye liaison.",
+    "ingredients": [
+      {
+        "name": "Fresh Blessed Thistle (Şevketi Bostan, roots scrubbed & cut)",
+        "us_amount_base": 1.2,
+        "us_unit": "lb",
+        "metric_amount_base": 550.0,
+        "metric_unit": "g",
+        "substitute": "Cardoons or artichoke stems and hearts"
+      },
+      {
+        "name": "Green Onions (Scallions, cut in batons)",
+        "us_amount_base": 1.0,
+        "us_unit": "bunch",
+        "metric_amount_base": 150.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 0.33,
+        "us_unit": "cup",
+        "metric_amount_base": 80.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Egg Yolk & Fresh Lemon Juice (Terbiye)",
+        "us_amount_base": 1.0,
+        "us_unit": "portion",
+        "metric_amount_base": 45.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Fresh Dill",
+        "us_amount_base": 0.25,
+        "us_unit": "cup",
+        "metric_amount_base": 15.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Clean and soak thistle roots in lemon water to prevent browning.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 2,
+        "instruction": "Sauté scallions in olive oil, add drained thistle roots and leaves with 1.5 cups water, and simmer covered until tender.",
+        "timer_seconds": 2400
+      },
+      {
+        "step_number": 3,
+        "instruction": "Whisk egg yolk, lemon juice, and 1 tsp flour; temper with warm pot liquid and stir gently into the dish.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 4,
+        "instruction": "Simmer 2 minutes, remove from heat, scatter dill, and serve warm or at room temperature.",
+        "timer_seconds": 120
+      }
+    ]
+  },
+  {
+    "id": "veggie_22",
+    "titleEn": "Antalya Summer Tomato, Pepper and Bulgur Stew (Cive)",
+    "titleTr": "Antalya Civesi",
+    "category": "Olive Oil & Vegetarian",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 30,
+    "servings": 5,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/antalya-civesi.webp?v=20261013_v11",
+    "description": "Antalya Mediterranean summer harvest dish: mountain-heaped ripe tomatoes, green and red frying peppers, and lots of garlic stewed in olive oil with coarse bulgur and fresh basil.",
+    "ingredients": [
+      {
+        "name": "Ripe Vine Tomatoes (peeled & chopped)",
+        "us_amount_base": 4.0,
+        "us_unit": "large",
+        "metric_amount_base": 800.0,
+        "metric_unit": "g",
+        "substitute": "Canned Italian plum tomatoes, crushed"
+      },
+      {
+        "name": "Green Frying Peppers & Red Capia Peppers",
+        "us_amount_base": 4.0,
+        "us_unit": "pieces",
+        "metric_amount_base": 200.0,
+        "metric_unit": "g",
+        "substitute": "Sweet Italian peppers"
+      },
+      {
+        "name": "Garlic (sliced)",
+        "us_amount_base": 6.0,
+        "us_unit": "cloves",
+        "metric_amount_base": 6.0,
+        "metric_unit": "adet",
+        "substitute": null
+      },
+      {
+        "name": "Coarse Bulgur (Pilavlık)",
+        "us_amount_base": 0.33,
+        "us_unit": "cup",
+        "metric_amount_base": 60.0,
+        "metric_unit": "g",
+        "substitute": "Coarse bulgur or rice"
+      },
+      {
+        "name": "Extra Virgin Olive Oil & Fresh Basil/Mint",
+        "us_amount_base": 0.33,
+        "us_unit": "cup",
+        "metric_amount_base": 80.0,
+        "metric_unit": "ml",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Sauté sliced peppers and garlic in olive oil until sweet and lightly softened.",
+        "timer_seconds": 360
+      },
+      {
+        "step_number": 2,
+        "instruction": "Add chopped tomatoes, sugar, and salt; simmer until tomatoes release their juices.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 3,
+        "instruction": "Stir in coarse bulgur, cover, and simmer on gentle heat until bulgur softens and stew thickens.",
+        "timer_seconds": 900
+      },
+      {
+        "step_number": 4,
+        "instruction": "Stir in torn fresh basil or mint; rest 20 minutes before serving with rustic crusty bread.",
+        "timer_seconds": 1200
+      }
+    ]
+  },
+  {
+    "id": "veggie_23",
+    "titleEn": "Braised Cauliflower in Olive Oil with Carrots and Tomatoes",
+    "titleTr": "Zeytinyağlı Karnabahar",
+    "category": "Olive Oil & Vegetarian",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 30,
+    "servings": 5,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/zeytinyagli-karnabahar.webp?v=20261013_v11",
+    "description": "Comforting winter olive oil classic of fresh cauliflower florets, sliced sweet carrots, and onions gently braised in tomato paste and olive oil with a squeeze of fresh lemon.",
+    "ingredients": [
+      {
+        "name": "Fresh Cauliflower (cut into bite-sized florets)",
+        "us_amount_base": 1.5,
+        "us_unit": "lb",
+        "metric_amount_base": 700.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Carrots (sliced into rounds)",
+        "us_amount_base": 2.0,
+        "us_unit": "medium",
+        "metric_amount_base": 180.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Yellow Onion & Tomato Paste",
+        "us_amount_base": 1.0,
+        "us_unit": "medium",
+        "metric_amount_base": 150.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Extra Virgin Olive Oil & Lemon Juice",
+        "us_amount_base": 0.33,
+        "us_unit": "cup",
+        "metric_amount_base": 80.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Fresh Parsley (chopped)",
+        "us_amount_base": 0.25,
+        "us_unit": "cup",
+        "metric_amount_base": 15.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Sauté diced onion and sliced carrots in olive oil until golden; stir in tomato paste.",
+        "timer_seconds": 360
+      },
+      {
+        "step_number": 2,
+        "instruction": "Add cauliflower florets, tossing to coat in the aromatic base.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 3,
+        "instruction": "Add 1 cup hot water, lemon juice, sugar, and salt. Simmer covered on medium-low until cauliflower is tender.",
+        "timer_seconds": 1200
+      },
+      {
+        "step_number": 4,
+        "instruction": "Cool in the pot to room temperature, scatter parsley, and serve.",
+        "timer_seconds": 0
+      }
+    ]
+  },
+  {
+    "id": "veggie_24",
+    "titleEn": "Stuffed White Cabbage Rolls with Herbed Rice (Lahana Sarması)",
+    "titleTr": "Zeytinyağlı Lahana Sarması",
+    "category": "Olive Oil & Vegetarian",
+    "prepTimeMinutes": 45,
+    "cookTimeMinutes": 45,
+    "servings": 6,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/zeytinyagli-lahana-sarmasi.webp?v=20261013_v11",
+    "description": "Melt-in-the-mouth winter cabbage rolls filled with spiced rice, currants, pine nuts, onions, and cinnamon, braised slowly in olive oil and lemon juice.",
+    "ingredients": [
+      {
+        "name": "White Cabbage (blanched tender leaves)",
+        "us_amount_base": 1.0,
+        "us_unit": "medium head",
+        "metric_amount_base": 1000.0,
+        "metric_unit": "g",
+        "substitute": "Savoy cabbage leaves"
+      },
+      {
+        "name": "Baldo Rice",
+        "us_amount_base": 1.25,
+        "us_unit": "cup",
+        "metric_amount_base": 240.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Pine Nuts & Dried Currants",
+        "us_amount_base": 0.33,
+        "us_unit": "cup",
+        "metric_amount_base": 50.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Onions & Cinnamon, Allspice, Mint",
+        "us_amount_base": 2.0,
+        "us_unit": "medium",
+        "metric_amount_base": 250.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Extra Virgin Olive Oil & Lemon Juice",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "ml",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Blanch cabbage leaves in boiling water for 3 minutes until pliable; trim thick ribs.",
+        "timer_seconds": 360
+      },
+      {
+        "step_number": 2,
+        "instruction": "Sauté onions, pine nuts, currants, spices, and rice in olive oil for 5 minutes with a splash of water to par-cook.",
+        "timer_seconds": 420
+      },
+      {
+        "step_number": 3,
+        "instruction": "Place a spoonful of filling on each leaf, fold sides, and roll into neat cigars. Pack tightly in a heavy pot.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 4,
+        "instruction": "Weight with a plate, add 1.5 cups water and olive oil, and simmer covered on low heat until tender.",
+        "timer_seconds": 2400
+      }
+    ]
+  },
+  {
+    "id": "veggie_25",
+    "titleEn": "Stuffed Whole Celeriac Bulbs with Herbed Rice (Kereviz Dolması)",
+    "titleTr": "Zeytinyağlı Kereviz Dolması",
+    "category": "Olive Oil & Vegetarian",
+    "prepTimeMinutes": 35,
+    "cookTimeMinutes": 40,
+    "servings": 4,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/zeytinyagli-kereviz-dolmasi.webp?v=20261013_v11",
+    "description": "Ottoman imperial vegetarian showstopper: whole hollowed celeriac root bulbs filled with pine nut, currant, and herbed rice filling, braised in freshly squeezed orange juice and olive oil.",
+    "ingredients": [
+      {
+        "name": "Medium Celeriac Roots (peeled & hollowed)",
+        "us_amount_base": 4.0,
+        "us_unit": "pieces",
+        "metric_amount_base": 800.0,
+        "metric_unit": "g",
+        "substitute": "Celery roots"
+      },
+      {
+        "name": "Baldo Rice",
+        "us_amount_base": 0.75,
+        "us_unit": "cup",
+        "metric_amount_base": 140.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Pine Nuts & Dried Currants",
+        "us_amount_base": 0.25,
+        "us_unit": "cup",
+        "metric_amount_base": 40.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Fresh Orange Juice",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 240.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Extra Virgin Olive Oil & Dill",
+        "us_amount_base": 0.33,
+        "us_unit": "cup",
+        "metric_amount_base": 80.0,
+        "metric_unit": "ml",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Peel celeriac bulbs, level bases so they stand upright, and hollow out centers using a melon baller.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 2,
+        "instruction": "Sauté onions, pine nuts, currants, and rice in olive oil until fragrant.",
+        "timer_seconds": 360
+      },
+      {
+        "step_number": 3,
+        "instruction": "Stuff rice filling into celeriac cavities, place in a braising pan, and pour orange juice and olive oil around.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 4,
+        "instruction": "Cover and simmer gently until celeriac bulbs are knife-tender; cool and garnish with fresh dill.",
+        "timer_seconds": 2100
+      }
+    ]
+  },
+  {
+    "id": "veggie_26",
+    "titleEn": "Braised White Cabbage and Rice Stew (Kapuska)",
+    "titleTr": "Zeytinyağlı Kapuska",
+    "category": "Olive Oil & Vegetarian",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 35,
+    "servings": 5,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/zeytinyagli-kapuska.webp?v=20261013_v11",
+    "description": "Wholesome Anatolian winter braise of shredded sweet white cabbage cooked down with onions, tomato and pepper paste, rice, olive oil, and crushed red chili flakes.",
+    "ingredients": [
+      {
+        "name": "White Cabbage (shredded coarsely)",
+        "us_amount_base": 1.5,
+        "us_unit": "lb",
+        "metric_amount_base": 700.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Yellow Onion & Tomato Paste",
+        "us_amount_base": 1.0,
+        "us_unit": "medium",
+        "metric_amount_base": 150.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Turkish Pepper Paste (Biber salçası)",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 20.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Baldo Rice or Bulgur",
+        "us_amount_base": 0.25,
+        "us_unit": "cup",
+        "metric_amount_base": 50.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Extra Virgin Olive Oil & Lemon Juice",
+        "us_amount_base": 0.33,
+        "us_unit": "cup",
+        "metric_amount_base": 80.0,
+        "metric_unit": "ml",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Sauté diced onion in olive oil until golden; stir in tomato and pepper paste.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 2,
+        "instruction": "Add shredded cabbage in batches, tossing until cabbage wilts down in the pot.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 3,
+        "instruction": "Sprinkle rice over the cabbage, add 1.5 cups hot water, lemon juice, chili flakes, and salt.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 4,
+        "instruction": "Simmer covered on low heat until cabbage is tender and rice is cooked.",
+        "timer_seconds": 1500
+      }
+    ]
+  },
+  {
+    "id": "veggie_27",
+    "titleEn": "Braised Pearl Onion and Wild Mushroom Ragout (Mantar Yahnisi)",
+    "titleTr": "Zeytinyağlı Mantar Yahnisi",
+    "category": "Olive Oil & Vegetarian",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 25,
+    "servings": 4,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/zeytinyagli-mantar-yahnisi.webp?v=20261013_v11",
+    "description": "Earthy forest mushroom stew with golden caramelized pearl onions, garlic cloves, sweet peppers, and fresh thyme slow-braised in rich olive oil and tomato juices.",
+    "ingredients": [
+      {
+        "name": "Button or Cremini Mushrooms (halved)",
+        "us_amount_base": 1.2,
+        "us_unit": "lb",
+        "metric_amount_base": 550.0,
+        "metric_unit": "g",
+        "substitute": "Wild forest chanterelle or porcini mushrooms"
+      },
+      {
+        "name": "Shallots or Pearl Onions (peeled whole)",
+        "us_amount_base": 10.0,
+        "us_unit": "pieces",
+        "metric_amount_base": 180.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Garlic Cloves & Capia Pepper",
+        "us_amount_base": 4.0,
+        "us_unit": "cloves",
+        "metric_amount_base": 4.0,
+        "metric_unit": "adet",
+        "substitute": null
+      },
+      {
+        "name": "Ripe Tomatoes (diced) & Tomato Paste",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 200.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Extra Virgin Olive Oil & Fresh Thyme",
+        "us_amount_base": 0.33,
+        "us_unit": "cup",
+        "metric_amount_base": 80.0,
+        "metric_unit": "ml",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Sauté pearl onions in olive oil until golden; add sliced peppers and whole garlic cloves.",
+        "timer_seconds": 360
+      },
+      {
+        "step_number": 2,
+        "instruction": "Add mushroom halves over high heat so they brown without releasing too much water.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 3,
+        "instruction": "Stir in tomato paste, diced tomatoes, fresh thyme, salt, and black pepper.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 4,
+        "instruction": "Cover and simmer on low heat until sauce is rich and glossy.",
+        "timer_seconds": 720
+      }
+    ]
+  },
+  {
+    "id": "veggie_28",
+    "titleEn": "Braised Fresh Green Black-Eyed Beans in Olive Oil",
+    "titleTr": "Zeytinyağlı Taze Börülce",
+    "category": "Olive Oil & Vegetarian",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 35,
+    "servings": 5,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/zeytinyagli-taze-borulce.webp?v=20261013_v11",
+    "description": "Aegean summer essential: slender fresh green cowpea pods trimmed and braised gently with ripe summer tomatoes, garlic cloves, sweet onions, and cold-pressed olive oil.",
+    "ingredients": [
+      {
+        "name": "Fresh Green Black-Eyed Cowpeas (Taze Börülce, trimmed & snapped in half)",
+        "us_amount_base": 1.2,
+        "us_unit": "lb",
+        "metric_amount_base": 550.0,
+        "metric_unit": "g",
+        "substitute": "Long yard-long beans or fresh Romano green beans"
+      },
+      {
+        "name": "Ripe Summer Tomatoes (grated)",
+        "us_amount_base": 3.0,
+        "us_unit": "medium",
+        "metric_amount_base": 350.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Yellow Onion & Garlic",
+        "us_amount_base": 1.0,
+        "us_unit": "medium",
+        "metric_amount_base": 150.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 0.33,
+        "us_unit": "cup",
+        "metric_amount_base": 80.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Sugar & Fresh Lemon Juice",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 5.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Sauté sliced onions and garlic in olive oil until sweet and translucent.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 2,
+        "instruction": "Add snapped fresh börülce pods and cook for 3 minutes until bright green.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 3,
+        "instruction": "Add grated tomatoes, sugar, salt, and 1/2 cup warm water. Cover and simmer gently until pods are tender.",
+        "timer_seconds": 1800
+      },
+      {
+        "step_number": 4,
+        "instruction": "Rest covered until completely cool; drizzle with lemon juice before serving.",
+        "timer_seconds": 0
+      }
+    ]
+  },
+  {
+    "id": "veggie_29",
+    "titleEn": "Aegean Boiled Wild Dandelion Greens with Garlic Lemon Oil (Radika)",
+    "titleTr": "Ege Usulü Haşlama Radika",
+    "category": "Olive Oil & Vegetarian",
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 10,
+    "servings": 4,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/ege-usulu-haslama-radika.webp?v=20261013_v11",
+    "description": "Purist Aegean wild green meze: freshly foraged wild dandelion greens (radika) flash-boiled in salted water to retain emerald brilliance, bathed in a punchy emulsion of early-harvest olive oil, crushed garlic, and lemon.",
+    "ingredients": [
+      {
+        "name": "Fresh Wild Dandelion Greens (Radika, washed thoroughly)",
+        "us_amount_base": 1.5,
+        "us_unit": "lb",
+        "metric_amount_base": 700.0,
+        "metric_unit": "g",
+        "substitute": "Italian dandelion chicory, wild arugula or escarole"
+      },
+      {
+        "name": "Garlic (crushed with coarse sea salt)",
+        "us_amount_base": 4.0,
+        "us_unit": "cloves",
+        "metric_amount_base": 4.0,
+        "metric_unit": "adet",
+        "substitute": null
+      },
+      {
+        "name": "Fresh Lemon Juice",
+        "us_amount_base": 0.33,
+        "us_unit": "cup",
+        "metric_amount_base": 80.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Early-Harvest Cold-Pressed Olive Oil",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Flaky Sea Salt",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 5.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Bring a large pot of heavily salted water to a rolling boil. Plunge radika greens and boil uncovered for 6-8 minutes until tender.",
+        "timer_seconds": 420
+      },
+      {
+        "step_number": 2,
+        "instruction": "Transfer greens immediately into an ice bath to lock in the vivid green color.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 3,
+        "instruction": "Drain thoroughly and press out excess water; arrange on a serving platter.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 4,
+        "instruction": "Vigorously whisk early-harvest olive oil, fresh lemon juice, and crushed garlic into a cloudy emulsion; pour generously over the warm greens.",
+        "timer_seconds": 0
+      }
+    ]
+  },
+  {
+    "id": "veggie_30",
+    "titleEn": "Stuffed Swiss Chard Rolls with Herbed Rice and Pine Nuts (Pazı Sarması)",
+    "titleTr": "Zeytinyağlı Pazı Sarması",
+    "category": "Olive Oil & Vegetarian",
+    "prepTimeMinutes": 35,
+    "cookTimeMinutes": 35,
+    "servings": 6,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/zeytinyagli-pazi-sarmasi.webp?v=20261013_v11",
+    "description": "Velvety, gossamer Swiss chard rolls filled with rice seasoned with sweet caramelized onions, pine nuts, dried currants, mint, and cinnamon, braised slowly in olive oil and lemon.",
+    "ingredients": [
+      {
+        "name": "Large Swiss Chard Leaves (Pazı, blanched)",
+        "us_amount_base": 24.0,
+        "us_unit": "leaves",
+        "metric_amount_base": 24.0,
+        "metric_unit": "adet",
+        "substitute": "Green Swiss chard or large beet greens"
+      },
+      {
+        "name": "Baldo Rice",
+        "us_amount_base": 1.25,
+        "us_unit": "cup",
+        "metric_amount_base": 240.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Pine Nuts & Dried Currants",
+        "us_amount_base": 0.33,
+        "us_unit": "cup",
+        "metric_amount_base": 50.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Onions, Cinnamon & Mint",
+        "us_amount_base": 2.0,
+        "us_unit": "medium",
+        "metric_amount_base": 250.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Extra Virgin Olive Oil & Lemon Juice",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "ml",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Dip Swiss chard leaves in boiling water for 30 seconds; shock in cold water and slice out the thick central stem.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 2,
+        "instruction": "Sauté onions, pine nuts, currants, spices, and rice in olive oil until translucent.",
+        "timer_seconds": 360
+      },
+      {
+        "step_number": 3,
+        "instruction": "Place a spoonful of filling on each half leaf, tuck sides in, and roll into slender parcels. Arrange snugly in a pot.",
+        "timer_seconds": 480
+      },
+      {
+        "step_number": 4,
+        "instruction": "Weight with a plate, add 1.25 cups water and olive oil, and simmer covered on low heat until tender. Cool in pot.",
+        "timer_seconds": 1800
+      }
+    ]
   }
 ]

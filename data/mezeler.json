@@ -1245,5 +1245,1186 @@
         "timer_seconds": 600
       }
     ]
+  },
+  {
+    "id": "meze_16",
+    "titleEn": "Traditional Fine Bulgur Salad with Pomegranate Molasses (Kısır)",
+    "titleTr": "Geleneksel Kısır",
+    "category": "Meze & Cold Starters",
+    "prepTimeMinutes": 25,
+    "cookTimeMinutes": 0,
+    "servings": 6,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/geleneksel-kisir.webp?v=20261013_v11",
+    "description": "The quintessence of Turkish afternoon tea culture: fine bulgur steeped in hot water, hand-kneaded with spicy pepper paste, pomegranate molasses, extra virgin olive oil, and a garden of fresh herbs and scallions.",
+    "ingredients": [
+      {
+        "name": "Fine Brown Bulgur (Köftelik)",
+        "us_amount_base": 2.0,
+        "us_unit": "cup",
+        "metric_amount_base": 300.0,
+        "metric_unit": "g",
+        "substitute": "#1 fine bulgur wheat"
+      },
+      {
+        "name": "Boiling Water",
+        "us_amount_base": 1.75,
+        "us_unit": "cup",
+        "metric_amount_base": 420.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Turkish Red Pepper Paste & Tomato Paste",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 50.0,
+        "metric_unit": "g",
+        "substitute": "Tomato paste with sweet paprika and cayenne"
+      },
+      {
+        "name": "Pomegranate Molasses (Nar Ekşisi)",
+        "us_amount_base": 4.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 60.0,
+        "metric_unit": "ml",
+        "substitute": "100% pure pomegranate molasses (or reduced balsamic glaze)"
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Fresh Scallions, Parsley & Mint (finely chopped)",
+        "us_amount_base": 1.5,
+        "us_unit": "cup",
+        "metric_amount_base": 80.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Ground Cumin & Isot Urfa Chili",
+        "us_amount_base": 1.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 6.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Place fine bulgur in a wide bowl, pour boiling water over, cover tightly with a plate, and steam undisturbed.",
+        "timer_seconds": 900
+      },
+      {
+        "step_number": 2,
+        "instruction": "Add tomato and pepper paste, cumin, isot pepper, and salt; knead firmly with hands until bulgur absorbs the ruby color and softens.",
+        "timer_seconds": 360
+      },
+      {
+        "step_number": 3,
+        "instruction": "Pour in olive oil, fresh lemon juice, and pomegranate molasses; fluff with fingers.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 4,
+        "instruction": "Fold in chopped scallions, parsley, and fresh mint. Serve chilled with crisp romaine lettuce leaves.",
+        "timer_seconds": 0
+      }
+    ]
+  },
+  {
+    "id": "meze_17",
+    "titleEn": "Hatay Fire-Roasted Eggplant and Pepper Dip (Babagannuş)",
+    "titleTr": "Hatay Babagannuş",
+    "category": "Meze & Cold Starters",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 25,
+    "servings": 5,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/hatay-babagannus.webp?v=20261013_v11",
+    "description": "Authentic Antakya-style smoky dip (without mayonnaise or tahini) featuring wood-charred eggplants, roasted red capia peppers, crushed garlic, and tangy pomegranate molasses drenched in early-harvest olive oil.",
+    "ingredients": [
+      {
+        "name": "Globe Eggplants (charred on open flame)",
+        "us_amount_base": 3.0,
+        "us_unit": "large",
+        "metric_amount_base": 900.0,
+        "metric_unit": "g",
+        "substitute": "Italian eggplants"
+      },
+      {
+        "name": "Red Capia Peppers (charred & peeled)",
+        "us_amount_base": 2.0,
+        "us_unit": "pieces",
+        "metric_amount_base": 200.0,
+        "metric_unit": "g",
+        "substitute": "Jarred roasted red bell peppers"
+      },
+      {
+        "name": "Garlic (mashed with salt)",
+        "us_amount_base": 4.0,
+        "us_unit": "cloves",
+        "metric_amount_base": 4.0,
+        "metric_unit": "adet",
+        "substitute": null
+      },
+      {
+        "name": "Pomegranate Molasses",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 45.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 0.33,
+        "us_unit": "cup",
+        "metric_amount_base": 80.0,
+        "metric_unit": "ml",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Char eggplants and red peppers over an open gas flame or charcoal grill until skins are blackened and collapsed.",
+        "timer_seconds": 1200
+      },
+      {
+        "step_number": 2,
+        "instruction": "Place in a covered bowl to steam for 10 minutes, then peel skins cleanly under gentle care.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 3,
+        "instruction": "Chop charred vegetables finely on a wooden board using a chef's knife (do not food process).",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 4,
+        "instruction": "Transfer to a serving bowl, fold in mashed garlic, pomegranate molasses, salt, and extra virgin olive oil.",
+        "timer_seconds": 0
+      }
+    ]
+  },
+  {
+    "id": "meze_18",
+    "titleEn": "Meatless Spiced Bulgur Finger Patties (Etsiz Çiğ Köfte)",
+    "titleTr": "Etsiz Çiğ Köfte",
+    "category": "Meze & Cold Starters",
+    "prepTimeMinutes": 45,
+    "cookTimeMinutes": 0,
+    "servings": 6,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/etsiz-cig-kofte.webp?v=20261013_v11",
+    "description": "Masterfully hand-kneaded fine bulgur patties worked for nearly an hour on a grooved metal tray with dark Urfa isot chili, walnut meal, garlic, pomegranate molasses, and aromatics into iconic finger-imprinted bite morsels.",
+    "ingredients": [
+      {
+        "name": "Dark Fine Bulgur (Esmer Köftelik Bulgur)",
+        "us_amount_base": 2.0,
+        "us_unit": "cup",
+        "metric_amount_base": 300.0,
+        "metric_unit": "g",
+        "substitute": "Dark fine #1 bulgur"
+      },
+      {
+        "name": "Urfa Isot Pepper (steeped in hot water)",
+        "us_amount_base": 4.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 40.0,
+        "metric_unit": "g",
+        "substitute": "Dark Aleppo pepper or smoked paprika"
+      },
+      {
+        "name": "Walnut Halves (finely ground into paste)",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Tomato Paste & Biber Salçası",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 50.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Pomegranate Molasses & Lemon Juice",
+        "us_amount_base": 0.25,
+        "us_unit": "cup",
+        "metric_amount_base": 60.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "ml",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "On a grooved copper or steel tray (çiğ köfte tepsisi), knead dry bulgur with tomato paste, pepper paste, grated onion, garlic, and soaked isot chili.",
+        "timer_seconds": 1500
+      },
+      {
+        "step_number": 2,
+        "instruction": "Gradually incorporate crushed ice cubes and knead vigorously until bulgur softens and becomes smooth and tacky.",
+        "timer_seconds": 900
+      },
+      {
+        "step_number": 3,
+        "instruction": "Add ground walnuts, spices, pomegranate molasses, lemon juice, and olive oil; knead until fully integrated.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 4,
+        "instruction": "Take walnut-sized pieces and squeeze firmly in the palm to leave distinct four-finger indentations. Serve on crisp lettuce with lemon.",
+        "timer_seconds": 0
+      }
+    ]
+  },
+  {
+    "id": "meze_19",
+    "titleEn": "Armenian Chickpea and Potato Dumpling with Tahini and Onions (Topik)",
+    "titleTr": "Ermeni Topiği",
+    "category": "Meze & Cold Starters",
+    "prepTimeMinutes": 45,
+    "cookTimeMinutes": 40,
+    "servings": 6,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/ermeni-topigi.webp?v=20261013_v11",
+    "description": "Legendary Istanbul Armenian Lenten mezze: an outer paste of boiled chickpeas, potatoes, and tahini rolled around an aromatic spiced stuffing of slow-caramelized onions, currants, pine nuts, and cinnamon.",
+    "ingredients": [
+      {
+        "name": "Dried Chickpeas (soaked & boiled until buttery soft, skinned)",
+        "us_amount_base": 2.0,
+        "us_unit": "cup",
+        "metric_amount_base": 350.0,
+        "metric_unit": "g",
+        "substitute": "Canned chickpeas with skins pinched off"
+      },
+      {
+        "name": "Boiled Yukon Gold Potato",
+        "us_amount_base": 1.0,
+        "us_unit": "large",
+        "metric_amount_base": 200.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Pure Tahini",
+        "us_amount_base": 0.75,
+        "us_unit": "cup",
+        "metric_amount_base": 180.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Yellow Onions (thinly sliced half-moons)",
+        "us_amount_base": 4.0,
+        "us_unit": "large",
+        "metric_amount_base": 500.0,
+        "metric_unit": "g",
+        "substitute": "Sweet Vidalia onions"
+      },
+      {
+        "name": "Pine Nuts & Dried Currants (Kuşüzümü)",
+        "us_amount_base": 0.33,
+        "us_unit": "cup",
+        "metric_amount_base": 50.0,
+        "metric_unit": "g",
+        "substitute": "Zante currants or golden raisins"
+      },
+      {
+        "name": "Ground Cinnamon, Allspice & Sugar",
+        "us_amount_base": 2.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 8.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Slowly caramelize sliced onions in olive oil with sugar, pine nuts, currants, cinnamon, and allspice until sweet, brown, and jammy.",
+        "timer_seconds": 1800
+      },
+      {
+        "step_number": 2,
+        "instruction": "Purée boiled chickpeas and potato while hot until silky; knead with tahini and salt into a smooth dough.",
+        "timer_seconds": 480
+      },
+      {
+        "step_number": 3,
+        "instruction": "Spread chickpea dough flat onto cheesecloth or plastic wrap. Place caramelized onion filling in the center and tie into round pouch spheres.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 4,
+        "instruction": "Refrigerate for at least 4 hours to firm up. Slice in half and dust with cinnamon before serving.",
+        "timer_seconds": 14400
+      }
+    ]
+  },
+  {
+    "id": "meze_20",
+    "titleEn": "Antalya Tahini and Cumin Dip (Hibeş)",
+    "titleTr": "Antalya Hibeşi",
+    "category": "Meze & Cold Starters",
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 0,
+    "servings": 5,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/antalya-hibesi.webp?v=20261013_v11",
+    "description": "Pungent, deeply savory Mediterranean dip from Antalya made by whipping pure sesame tahini with generous freshly ground cumin, sweet paprika, garlic, and fresh lemon juice into a velvety emulsion.",
+    "ingredients": [
+      {
+        "name": "Pure Sesame Tahini",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 240.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Fresh Lemon Juice",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Ground Cumin (freshly roasted)",
+        "us_amount_base": 1.5,
+        "us_unit": "tbsp",
+        "metric_amount_base": 12.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Sweet Paprika & Cayenne",
+        "us_amount_base": 1.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 10.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Garlic (pounded with sea salt)",
+        "us_amount_base": 4.0,
+        "us_unit": "cloves",
+        "metric_amount_base": 4.0,
+        "metric_unit": "adet",
+        "substitute": null
+      },
+      {
+        "name": "Warm Water (to loosen)",
+        "us_amount_base": 0.25,
+        "us_unit": "cup",
+        "metric_amount_base": 60.0,
+        "metric_unit": "ml",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Pound garlic with sea salt in a mortar into a smooth paste.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 2,
+        "instruction": "In a bowl, slowly whisk lemon juice into the tahini. The mixture will seize initially, then loosen.",
+        "timer_seconds": 240
+      },
+      {
+        "step_number": 3,
+        "instruction": "Add pounded garlic, toasted cumin, sweet paprika, and cayenne pepper. Whisk in warm water until it reaches thick hummus-like spread consistency.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 4,
+        "instruction": "Spread into a shallow meze dish, drizzle with olive oil, and serve with warm pita or grilled meats.",
+        "timer_seconds": 0
+      }
+    ]
+  },
+  {
+    "id": "meze_21",
+    "titleEn": "Sautéed Zucchini and Rice Yogurt Salad (Nuraniye)",
+    "titleTr": "Nuraniye",
+    "category": "Meze & Cold Starters",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 15,
+    "servings": 5,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/nuraniye.webp?v=20261013_v11",
+    "description": "Elegant summer meze of grated zucchini sautéed in olive oil with scallions, tossed with tender rice, fresh dill, and thick garlic-strained yogurt, drizzled with warm walnut butter.",
+    "ingredients": [
+      {
+        "name": "Zucchini (coarsely grated & squeezed)",
+        "us_amount_base": 3.0,
+        "us_unit": "medium",
+        "metric_amount_base": 450.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Cooked Long-Grain or Baldo Rice",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 150.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Strained Yogurt (Süzme)",
+        "us_amount_base": 1.5,
+        "us_unit": "cup",
+        "metric_amount_base": 360.0,
+        "metric_unit": "g",
+        "substitute": "Plain Greek yogurt"
+      },
+      {
+        "name": "Fresh Dill & Scallions",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 30.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Garlic & Olive Oil",
+        "us_amount_base": 2.0,
+        "us_unit": "cloves",
+        "metric_amount_base": 2.0,
+        "metric_unit": "adet",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Sauté grated zucchini and sliced scallions in olive oil until moisture evaporates and zucchini is tender.",
+        "timer_seconds": 480
+      },
+      {
+        "step_number": 2,
+        "instruction": "Cool zucchini mixture completely, then fold in cooked rice and chopped fresh dill.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 3,
+        "instruction": "Whisk strained yogurt with crushed garlic and salt. Combine gently with zucchini rice mixture.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 4,
+        "instruction": "Smooth onto a plate and garnish with olive oil, walnuts, and dill sprigs.",
+        "timer_seconds": 0
+      }
+    ]
+  },
+  {
+    "id": "meze_22",
+    "titleEn": "Smoky Eggplant Dip with Tahini and Yogurt (Mutabbel)",
+    "titleTr": "Mutabbel",
+    "category": "Meze & Cold Starters",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 25,
+    "servings": 5,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/mutabbel.webp?v=20261013_v11",
+    "description": "Southeastern Turkish meze of open-flame charred eggplants mashed smoothly with velvety sesame tahini, thick strained garlic yogurt, lemon juice, and pomegranate arils.",
+    "ingredients": [
+      {
+        "name": "Eggplants (charred & peeled)",
+        "us_amount_base": 3.0,
+        "us_unit": "large",
+        "metric_amount_base": 900.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Pure Tahini",
+        "us_amount_base": 0.33,
+        "us_unit": "cup",
+        "metric_amount_base": 80.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Strained Turkish Yogurt",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "g",
+        "substitute": "Plain whole-milk Greek yogurt"
+      },
+      {
+        "name": "Garlic (mashed with salt)",
+        "us_amount_base": 3.0,
+        "us_unit": "cloves",
+        "metric_amount_base": 3.0,
+        "metric_unit": "adet",
+        "substitute": null
+      },
+      {
+        "name": "Fresh Lemon Juice & Pomegranate Seeds",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 45.0,
+        "metric_unit": "ml",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Char eggplants until completely tender and smoky; peel and drain excess liquid in a colander.",
+        "timer_seconds": 1200
+      },
+      {
+        "step_number": 2,
+        "instruction": "Finely mash charred eggplant with a fork in a bowl.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 3,
+        "instruction": "Whisk tahini, strained yogurt, lemon juice, mashed garlic, and salt; fold into the eggplant.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 4,
+        "instruction": "Spread in waves onto a platter, drizzle with extra virgin olive oil, and scatter fresh pomegranate seeds on top.",
+        "timer_seconds": 0
+      }
+    ]
+  },
+  {
+    "id": "meze_23",
+    "titleEn": "Diyarbakır Chard and Chickpea Yogurt Dip (Mastabe)",
+    "titleTr": "Mastabe",
+    "category": "Meze & Cold Starters",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 20,
+    "servings": 5,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/mastabe.webp?v=20261013_v11",
+    "description": "Ancestral southeastern Anatolian cold meze of tender Swiss chard leaves blanched and sautéed with butter, folded with boiled chickpeas into rich garlic yogurt and topped with dried mint butter.",
+    "ingredients": [
+      {
+        "name": "Swiss Chard (Pazı, stems and leaves chopped)",
+        "us_amount_base": 1.0,
+        "us_unit": "lb",
+        "metric_amount_base": 450.0,
+        "metric_unit": "g",
+        "substitute": "Baby spinach or beet greens"
+      },
+      {
+        "name": "Cooked Chickpeas",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 180.0,
+        "metric_unit": "g",
+        "substitute": "Canned chickpeas"
+      },
+      {
+        "name": "Strained Turkish Yogurt",
+        "us_amount_base": 1.5,
+        "us_unit": "cup",
+        "metric_amount_base": 360.0,
+        "metric_unit": "g",
+        "substitute": "Greek yogurt"
+      },
+      {
+        "name": "Garlic (crushed)",
+        "us_amount_base": 3.0,
+        "us_unit": "cloves",
+        "metric_amount_base": 3.0,
+        "metric_unit": "adet",
+        "substitute": null
+      },
+      {
+        "name": "Butter & Dried Spearmint",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Blanch chopped chard in boiling salted water for 4 minutes; drain and squeeze out all excess moisture.",
+        "timer_seconds": 240
+      },
+      {
+        "step_number": 2,
+        "instruction": "Sauté chard in 1 tbsp olive oil with salt and pepper for 3 minutes, then cool.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 3,
+        "instruction": "Mix cooled chard and chickpeas into garlic strained yogurt.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 4,
+        "instruction": "Drizzle with sizzling spearmint butter before serving.",
+        "timer_seconds": 60
+      }
+    ]
+  },
+  {
+    "id": "meze_24",
+    "titleEn": "Warm Spinach Borani with Garlic Yogurt (Ispanaklı Borani)",
+    "titleTr": "Ispanaklı Borani",
+    "category": "Meze & Cold Starters",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 15,
+    "servings": 5,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/ispanakli-borani.webp?v=20261013_v11",
+    "description": "Velvety Ottoman green meze composed of fresh spinach leaves sautéed with sweet onions in olive oil, served over thick garlic yogurt and topped with warm Aleppo pepper butter.",
+    "ingredients": [
+      {
+        "name": "Fresh Spinach (washed & chopped)",
+        "us_amount_base": 1.2,
+        "us_unit": "lb",
+        "metric_amount_base": 550.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Yellow Onion (finely diced)",
+        "us_amount_base": 1.0,
+        "us_unit": "medium",
+        "metric_amount_base": 120.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Strained Turkish Yogurt",
+        "us_amount_base": 1.5,
+        "us_unit": "cup",
+        "metric_amount_base": 360.0,
+        "metric_unit": "g",
+        "substitute": "Greek yogurt"
+      },
+      {
+        "name": "Garlic (mashed)",
+        "us_amount_base": 3.0,
+        "us_unit": "cloves",
+        "metric_amount_base": 3.0,
+        "metric_unit": "adet",
+        "substitute": null
+      },
+      {
+        "name": "Butter & Red Pepper Flakes (Pul Biber)",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 45.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Sauté diced onion in olive oil until golden; add spinach in batches and cook until wilted and dry.",
+        "timer_seconds": 480
+      },
+      {
+        "step_number": 2,
+        "instruction": "Season spinach with salt and black pepper; cool to room temperature.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 3,
+        "instruction": "Spread whipped garlic yogurt onto the base of a serving platter. Mound spinach neatly on top.",
+        "timer_seconds": 0
+      },
+      {
+        "step_number": 4,
+        "instruction": "Melt butter with red pepper flakes until foaming and pour sizzle over the spinach.",
+        "timer_seconds": 90
+      }
+    ]
+  },
+  {
+    "id": "meze_25",
+    "titleEn": "Cretan Shaved Zucchini Ribbons with Garlic Yogurt (Kabak Sıyırma)",
+    "titleTr": "Yoğurtlu Kabak Sıyırma",
+    "category": "Meze & Cold Starters",
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 10,
+    "servings": 4,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/yogurtlu-kabak-siyirma.webp?v=20261013_v11",
+    "description": "Cretan-Aegean delicate meze of baby zucchinis shaved into long ribbons with a peeler, lightly braised in olive oil with garlic until al dente, and nestled on cool strained dill yogurt.",
+    "ingredients": [
+      {
+        "name": "Fresh Small Zucchinis (shaved into ribbons)",
+        "us_amount_base": 4.0,
+        "us_unit": "medium",
+        "metric_amount_base": 500.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 45.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Garlic (thinly sliced)",
+        "us_amount_base": 3.0,
+        "us_unit": "cloves",
+        "metric_amount_base": 3.0,
+        "metric_unit": "adet",
+        "substitute": null
+      },
+      {
+        "name": "Strained Yogurt & Fresh Dill",
+        "us_amount_base": 1.25,
+        "us_unit": "cup",
+        "metric_amount_base": 300.0,
+        "metric_unit": "g",
+        "substitute": "Greek yogurt and dill"
+      },
+      {
+        "name": "Sea Salt & Lemon Zest",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 5.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Shave zucchinis lengthwise with a vegetable peeler into long paper-thin pappardelle ribbons, stopping at the seedy core.",
+        "timer_seconds": 360
+      },
+      {
+        "step_number": 2,
+        "instruction": "Toss ribbons in olive oil and sliced garlic in a wide skillet over medium heat for 4 minutes until barely tender yet vibrant green.",
+        "timer_seconds": 240
+      },
+      {
+        "step_number": 3,
+        "instruction": "Whisk strained yogurt with salt, lemon zest, and dill; spread onto a serving platter.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 4,
+        "instruction": "Arrange the warm zucchini ribbons over the cool yogurt base, drizzling with remaining pan juices.",
+        "timer_seconds": 0
+      }
+    ]
+  },
+  {
+    "id": "meze_26",
+    "titleEn": "Circassian Walnut and Spicy Pepper Paste (Acuka)",
+    "titleTr": "Çerkez Acukası",
+    "category": "Meze & Cold Starters",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 0,
+    "servings": 6,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/cerkez-acukasi.webp?v=20261013_v11",
+    "description": "Rich, spicy North Caucasian-Anatolian paste crafted with coarse toasted walnuts, aged sun-dried pepper and tomato pastes, crushed garlic, fenugreek, coriander seeds, and olive oil.",
+    "ingredients": [
+      {
+        "name": "Raw Walnuts (lightly toasted & ground)",
+        "us_amount_base": 2.0,
+        "us_unit": "cup",
+        "metric_amount_base": 220.0,
+        "metric_unit": "g",
+        "substitute": "Pecans"
+      },
+      {
+        "name": "Sun-Dried Red Pepper Paste (Acı Biber Salçası)",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 50.0,
+        "metric_unit": "g",
+        "substitute": "Tomato paste with cayenne and smoked paprika"
+      },
+      {
+        "name": "Sun-Dried Tomato Paste",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 35.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Garlic (crushed to paste)",
+        "us_amount_base": 4.0,
+        "us_unit": "cloves",
+        "metric_amount_base": 4.0,
+        "metric_unit": "adet",
+        "substitute": null
+      },
+      {
+        "name": "Ground Fenugreek (Çemen) & Coriander Seeds",
+        "us_amount_base": 1.5,
+        "us_unit": "tsp",
+        "metric_amount_base": 6.0,
+        "metric_unit": "g",
+        "substitute": "Ground coriander and cumin"
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "ml",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "In a food processor or mortar, grind toasted walnuts into a coarse sandy meal.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 2,
+        "instruction": "Add pepper paste, tomato paste, garlic paste, ground fenugreek, cumin, coriander, and dried thyme.",
+        "timer_seconds": 60
+      },
+      {
+        "step_number": 3,
+        "instruction": "Slowly stream in olive oil while pulsing until a rich, spreadable ruby-brown paste forms.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 4,
+        "instruction": "Transfer to a jar or dish, top with walnut halves, and rest for 2 hours to let the aromatics bloom.",
+        "timer_seconds": 7200
+      }
+    ]
+  },
+  {
+    "id": "meze_27",
+    "titleEn": "Edirne Roasted Eggplant, Tomato and Pepper Relish (Mamzana)",
+    "titleTr": "Mamzana",
+    "category": "Meze & Cold Starters",
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 20,
+    "servings": 5,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/mamzana.webp?v=20261013_v11",
+    "description": "Thracian summer meze of fire-roasted eggplants chopped with ripe summer tomatoes, blistered green and red peppers, parsley, garlic, vinegar, and olive oil.",
+    "ingredients": [
+      {
+        "name": "Eggplants (charred & peeled)",
+        "us_amount_base": 2.0,
+        "us_unit": "large",
+        "metric_amount_base": 600.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Charred Green Frying Peppers",
+        "us_amount_base": 3.0,
+        "us_unit": "pieces",
+        "metric_amount_base": 120.0,
+        "metric_unit": "g",
+        "substitute": "Anaheim or poblano peppers"
+      },
+      {
+        "name": "Ripe Tomatoes (peeled & diced)",
+        "us_amount_base": 2.0,
+        "us_unit": "medium",
+        "metric_amount_base": 250.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Garlic (minced) & Red Wine Vinegar",
+        "us_amount_base": 2.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 30.0,
+        "metric_unit": "ml",
+        "substitute": "Apple cider vinegar"
+      },
+      {
+        "name": "Extra Virgin Olive Oil & Fresh Parsley",
+        "us_amount_base": 0.33,
+        "us_unit": "cup",
+        "metric_amount_base": 80.0,
+        "metric_unit": "ml",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Char eggplants and peppers over flames, peel, and chop coarsely with a knife.",
+        "timer_seconds": 1200
+      },
+      {
+        "step_number": 2,
+        "instruction": "Combine roasted vegetables with fresh diced tomatoes and chopped parsley in a bowl.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 3,
+        "instruction": "Whisk olive oil, vinegar, minced garlic, and salt; pour over the vegetables and toss gently.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 4,
+        "instruction": "Serve at room temperature or chilled as an accompaniment to grilled meats.",
+        "timer_seconds": 0
+      }
+    ]
+  },
+  {
+    "id": "meze_28",
+    "titleEn": "Bosphorus Walnut and Stale Bread Seafood Dip (Balık Taratoru)",
+    "titleTr": "Klasik Balık Taratoru",
+    "category": "Meze & Cold Starters",
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 0,
+    "servings": 5,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/klasik-balik-taratoru.webp?v=20261013_v11",
+    "description": "Authentic Istanbul seafood tavern tarator sauce (made without yogurt) by pounding stale sourdough bread crumbs, toasted walnuts, garlic, vinegar, and olive oil into a luscious dip for fried mussels and calamari.",
+    "ingredients": [
+      {
+        "name": "Raw Walnuts",
+        "us_amount_base": 1.5,
+        "us_unit": "cup",
+        "metric_amount_base": 180.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Stale White Bread (crusts removed, soaked in water & squeezed)",
+        "us_amount_base": 3.0,
+        "us_unit": "slices",
+        "metric_amount_base": 120.0,
+        "metric_unit": "g",
+        "substitute": "French baguette soaked in water"
+      },
+      {
+        "name": "Garlic (mashed)",
+        "us_amount_base": 4.0,
+        "us_unit": "cloves",
+        "metric_amount_base": 4.0,
+        "metric_unit": "adet",
+        "substitute": null
+      },
+      {
+        "name": "Fresh Lemon Juice & White Vinegar",
+        "us_amount_base": 3.0,
+        "us_unit": "tbsp",
+        "metric_amount_base": 45.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Extra Virgin Olive Oil",
+        "us_amount_base": 0.33,
+        "us_unit": "cup",
+        "metric_amount_base": 80.0,
+        "metric_unit": "ml",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Pound walnuts and garlic in a mortar (or pulse in food processor) until very finely ground.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 2,
+        "instruction": "Add squeezed damp bread crumb paste and pulse until incorporated.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 3,
+        "instruction": "Slowly drizzle in olive oil, lemon juice, vinegar, and salt until a creamy, pale ivory paste develops.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 4,
+        "instruction": "Serve at room temperature alongside crispy fried calamari (kalamar tava) or fried mussels.",
+        "timer_seconds": 0
+      }
+    ]
+  },
+  {
+    "id": "meze_29",
+    "titleEn": "Fried Eggplant and Garlic Yogurt Salad (Köpoğlu Mancası)",
+    "titleTr": "Köpoğlu Mancası",
+    "category": "Meze & Cold Starters",
+    "prepTimeMinutes": 25,
+    "cookTimeMinutes": 20,
+    "servings": 5,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/kopoglu-mancasi.webp?v=20261013_v11",
+    "description": "Essential tavern meze featuring golden cubes of fried eggplant and green peppers folded into thick garlic strained yogurt, topped with a warm spiced tomato-butter reduction.",
+    "ingredients": [
+      {
+        "name": "Globe Eggplants (cubed into 2 cm chunks)",
+        "us_amount_base": 3.0,
+        "us_unit": "medium",
+        "metric_amount_base": 600.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Green Frying Peppers (cut into rounds)",
+        "us_amount_base": 3.0,
+        "us_unit": "pieces",
+        "metric_amount_base": 120.0,
+        "metric_unit": "g",
+        "substitute": "Italian sweet peppers"
+      },
+      {
+        "name": "Strained Turkish Yogurt",
+        "us_amount_base": 1.5,
+        "us_unit": "cup",
+        "metric_amount_base": 360.0,
+        "metric_unit": "g",
+        "substitute": "Greek yogurt"
+      },
+      {
+        "name": "Garlic (crushed)",
+        "us_amount_base": 3.0,
+        "us_unit": "cloves",
+        "metric_amount_base": 3.0,
+        "metric_unit": "adet",
+        "substitute": null
+      },
+      {
+        "name": "Ripe Tomatoes & Butter (for tomato sauce)",
+        "us_amount_base": 1.0,
+        "us_unit": "cup",
+        "metric_amount_base": 240.0,
+        "metric_unit": "g",
+        "substitute": "Tomato passata"
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Salt eggplant cubes for 15 minutes, pat dry, and fry in hot oil until golden brown. Drain on paper towels.",
+        "timer_seconds": 900
+      },
+      {
+        "step_number": 2,
+        "instruction": "Fry peppers briefly until blistered; drain.",
+        "timer_seconds": 180
+      },
+      {
+        "step_number": 3,
+        "instruction": "Simmer grated tomatoes with butter, garlic, salt, and pepper into a concentrated sauce.",
+        "timer_seconds": 600
+      },
+      {
+        "step_number": 4,
+        "instruction": "Fold cooled fried eggplants and peppers into garlic yogurt, place in a bowl, and spoon hot tomato sauce over the center.",
+        "timer_seconds": 0
+      }
+    ]
+  },
+  {
+    "id": "meze_30",
+    "titleEn": "Fresh Wild Thyme and Pomegranate Salad (Zahter Salatası)",
+    "titleTr": "Taze Zahter Salatası",
+    "category": "Meze & Cold Starters",
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 0,
+    "servings": 4,
+    "imageUrl": "https://raw.githubusercontent.com/shanimoglu/sofra-assets/main/recipes/taze-zahter-salatasi.webp?v=20261013_v11",
+    "description": "Antakya springtime crown jewel: tender leaves of fresh wild mountain thyme (zahter) tossed with crushed green olives, scallions, parsley, crushed walnuts, and dark pomegranate molasses in cold-pressed olive oil.",
+    "ingredients": [
+      {
+        "name": "Fresh Wild Mountain Thyme (Taze Zahter leaves stripped)",
+        "us_amount_base": 2.0,
+        "us_unit": "cup",
+        "metric_amount_base": 120.0,
+        "metric_unit": "g",
+        "substitute": "Fresh tender thyme leaves mixed with arugula"
+      },
+      {
+        "name": "Cracked Green Olives (pitted & halved)",
+        "us_amount_base": 0.75,
+        "us_unit": "cup",
+        "metric_amount_base": 100.0,
+        "metric_unit": "g",
+        "substitute": "Castelvetrano green olives"
+      },
+      {
+        "name": "Scallions & Fresh Parsley",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 40.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Walnut Pieces (coarsely chopped)",
+        "us_amount_base": 0.5,
+        "us_unit": "cup",
+        "metric_amount_base": 60.0,
+        "metric_unit": "g",
+        "substitute": null
+      },
+      {
+        "name": "Pomegranate Molasses & Extra Virgin Olive Oil",
+        "us_amount_base": 0.33,
+        "us_unit": "cup",
+        "metric_amount_base": 80.0,
+        "metric_unit": "ml",
+        "substitute": null
+      },
+      {
+        "name": "Red Pepper Flakes (Pul Biber) & Salt",
+        "us_amount_base": 1.0,
+        "us_unit": "tsp",
+        "metric_amount_base": 4.0,
+        "metric_unit": "g",
+        "substitute": null
+      }
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "instruction": "Strip fresh zahter leaves from woody stems; rinse gently and pat completely dry.",
+        "timer_seconds": 300
+      },
+      {
+        "step_number": 2,
+        "instruction": "In a salad bowl, combine fresh zahter, cracked green olives, sliced scallions, and chopped parsley.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 3,
+        "instruction": "Whisk pomegranate molasses, extra virgin olive oil, red pepper flakes, and salt into an emulsion.",
+        "timer_seconds": 120
+      },
+      {
+        "step_number": 4,
+        "instruction": "Pour dressing over the herbs, toss gently, and finish with crunchy chopped walnuts.",
+        "timer_seconds": 0
+      }
+    ]
   }
 ]
